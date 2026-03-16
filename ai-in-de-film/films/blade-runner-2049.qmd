@@ -1,0 +1,20 @@
+---
+title: "Blade Runner 2049"
+image: "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg"
+year: 2017
+shortdesc: > 
+      "Dying for the right cause. It's the most human thing we can do."
+longdesc: >
+      Blade Runner 2049, geregisseerd door Denis Villeneuve, pikt de draad op dertig jaar na het origineel. De jonge blade runner K (Ryan Gosling) ontdekt een lang begraven geheim dat hem op het spoor zet van de verdwenen Rick Deckard (Harrison Ford). De film verdiept de filosofische vragen van het origineel: kan een AI een droombeelden hebben? Kan een herinnering echt zijn als ze geconstrueerd is? Won 2 Oscars voor cinematografie en visuele effecten, en geldt als een van de mooiste sciencefiction-films van het afgelopen decennium.
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/gCcx85zbxz4 >}}

@@ -1,0 +1,27 @@
+Question
+========
+Wat is ChatGPT? Vink alle juiste antwoorden aan.
+
+Answerlist
+----------
+* A. Een chatbot
+* B. Een Generative Pre-trained Transformer
+* C. Een generieke AI
+* D. Een computerprogramma met bewustzijn
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+
+Meta-information
+================
+exname: question-14
+extype: mchoice
+exsolution: 1100

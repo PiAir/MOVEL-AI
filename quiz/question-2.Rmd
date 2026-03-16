@@ -1,0 +1,27 @@
+Question
+========
+Welke van de volgende toepassingen maken gebruik van AI in het onderwijs?
+
+Answerlist
+----------
+* A. Adaptieve leersystemen die zich aanpassen aan het niveau van de student.
+* B. Automatische beoordeling van essays en open vragen.
+* C. Virtuele persoonlijke assistenten voor studentenbegeleiding.
+* D. Handmatige invoer van cijfers door docenten.
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+* Handmatige invoer van cijfers door docenten is geen voorbeeld van AI in het onderwijs.
+
+Meta-information
+================
+exname: question-2
+extype: mchoice
+exsolution: 1110

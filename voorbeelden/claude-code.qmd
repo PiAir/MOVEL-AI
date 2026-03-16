@@ -1,0 +1,35 @@
+---
+title: "Claude Code"
+lang: nl
+sidebar: id-voorbeelden
+---
+
+![claude-code screenshot](media/screenshot-claude-code.png){.img-fluid .rounded}
+
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code) is een AI-assistent van Anthropic die je kunt aanspreken vanuit de **terminal** (de opdrachtregel van je computer). In tegenstelling tot [Claude.ai](claude-ai.qmd) — waar je een gesprek voert in een webbrowser — werkt Claude Code direct met de bestanden op je computer.
+
+Dit maakt het tot een krachtig hulpmiddel voor iedereen die **websites, scripts of programma's** wil bouwen zonder uitgebreide programmeerkennis.
+
+## Wat doet Claude Code?
+
+- Lees en begrijp een heel codeproject in één keer
+- Schrijf nieuwe code op basis van instructies in gewone taal
+- Repareer fouten in bestaande code
+- Maak nieuwe bestanden aan, hernoem ze, verplaats ze
+- Voer commando's uit en verwerkt de uitvoer
+
+Claude Code werkt autonoom: je beschrijft wat je wilt, en het neemt zelf de nodige stappen om dat te realiseren — inclusief het controleren van het resultaat en corrigeren van fouten.
+
+## Voorbeeld: vibecoding
+
+Een veelgehoorde toepassing is **vibecoding**: je als niet-programmeur een functionerende app of website laten bouwen via conversatie met een AI. Claude Code vraagt om verduidelijking, kiest zelf welke bestanden het aanraakt en presenteert het resultaat.
+
+## Voor wie?
+
+Claude Code is primair bedoeld voor ontwikkelaars en technisch onderlegde gebruikers. Voor gebruikers die geen code-achtergrond hebben is het een steilere leercurve dan Claude.ai. Toch is het illustratief voor hoe AI het schrijven van software democratiseert.
+
+Voor een iets laagdrempeligere variant van AI-geholpen programmeren, zie [Google AI Studio](ai-studio.qmd) of de [Antigravity](antigravity.qmd)-assistent.
+
+## Prijs
+
+Claude Code werkt via de Anthropic API en is op verbruik geprijsd (per token) of via een abonnement. Er is geen gratis laag.

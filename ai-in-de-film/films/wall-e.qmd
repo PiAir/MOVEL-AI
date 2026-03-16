@@ -1,0 +1,20 @@
+---
+title: "Wall-E"
+image: "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg"
+year: 2008
+shortdesc: > 
+      “I don’t want to survive. I want to live!”
+longdesc: >
+      WALL‑E, geregisseerd door Andrew Stanton en geproduceerd door Pixar, speelt zich af in een verre toekomst waarin de aarde verlaten is door de mensheid vanwege extreme vervuiling. De enige nog actieve robot is WALL‑E, die al eeuwenlang afval opruimt en nieuwsgierig voorwerpen verzamelt. Wanneer de geavanceerde verkenningsrobot EVE arriveert om te zoeken naar tekenen van leven, raakt WALL-E met haar bevriend en volgt haar uiteindelijk naar een ruimteschip waar de mensheid lui en afhankelijk van technologie leeft. Hun avontuur zet een kettingreactie in gang die de mensen confronteert met hun verleden en hen de kans geeft terug te keren naar de aarde om de planeet te herstellen.
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/CZ1CATNbXg0 >}}

@@ -1,0 +1,31 @@
+---
+title: "Gamma.app"
+lang: nl
+sidebar: id-voorbeelden
+---
+
+![gamma screenshot](media/screenshot-gamma.png){.img-fluid .rounded}
+
+[Gamma](https://gamma.app/) is een webgebaseerde presentatietool waarbij je vanuit een tekstprompt of bestaande tekst in enkele minuten een volledige, visueel aantrekkelijke **presentatie, document of webpagina** genereert. Het resultaat is direct bewerkenbaar en deelbaar via een link.
+
+## Hoe werkt het?
+
+1. Beschrijf je onderwerp (of plak een tekst)
+2. Kies een stijl en kleurenpalet
+3. Gamma genereert een volledige presentatie met titels, bullet points, afbeeldingen en opmaak
+4. Pas individuele slides aan via een eenvoudige editor
+
+Gamma maakt gebruik van AI voor zowel de tekst als de beeldkeuze. Je kunt ook afbeeldingen laten genereren met Nano Banana via Gamma's ingebouwde beeldgenerator.
+
+## Waarom is dit handig voor leraren?
+
+- Een lesoverzicht of samenvatting in minuten omzetten naar een presentatie
+- Studenten laten oefenen met het samenvatten van stof in presentatievorm
+- Alternatieven voor PowerPoint waarvoor geen installatierechten nodig zijn (volledig in de browser)
+- Snel een visuele weergave van een complexe tekst of concept
+
+De gratis versie volstaat voor af en toe een presentatie genereren.
+
+## Vergelijking
+
+Gamma is gebruiksvriendelijker dan PowerPoint maar minder flexibel qua opmaak. [Canva AI](canva-ai.qmd) is een goed alternatief voor wie meer ontwerpvrijheid wil. [Copilot in PowerPoint](copilot.qmd) is interessant voor wie al in het Microsoft-ecosysteem zit.

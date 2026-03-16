@@ -1,0 +1,33 @@
+
+---
+title: "Toets Jezelf!"
+---
+
+Beantwoord de vragen hieronder om je kennis te testen.
+
+::: webex-group
+```{r}
+#| echo: false
+#| results: "asis"
+#| message: false
+#| warning: false
+
+library("exams2forms")
+# List all question files starting with 'question-' in the 'quiz' folder
+question_pool <- list.files(path = "quiz", pattern = "^question-.*\\.Rmd$", full.names = TRUE)
+
+if (length(question_pool) > 0) {
+  # Randomly select up to 10 questions
+  n_select <- min(length(question_pool), 10)
+  set.seed(Sys.Date()) # Optional: same questions for everyone on the same day
+  selected_questions <- sample(question_pool, n_select)
+
+  # Render the selected questions
+  # exams2forms will produce multiple .webex-question divs
+  exams2forms::exams2forms(file = selected_questions, title = 'Randomized Quiz', browse = FALSE)
+} else {
+  cat("No questions found in the quiz/ directory.")
+}
+```
+:::
+

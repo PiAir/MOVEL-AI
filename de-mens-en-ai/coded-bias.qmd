@@ -1,0 +1,37 @@
+---
+title: "Coded Bias"
+lang: nl
+sidebar: id-de-mens-en-ai
+---
+
+*Coded Bias* is een documentaire uit 2020 van Shalini Kantayya waarin MIT-onderzoeker Joy Buolamwini centraal staat. De film toont aan hoe bias (vooroordelen) in algoritmen en AI-modellen ingebakken kan zitten, vaak omdat de trainingsdata niet representatief is.
+
+## Trailer
+
+{{< video https://www.youtube.com/watch?v=jZl55PsfZJQ >}}
+
+De documentaire is [te bekijken via Netflix](https://www.netflix.com/title/81328723).
+
+[![Bekijk op Netflix](media/coded-bias-netflix.png)](https://www.netflix.com/title/81328723)
+
+## Verdieping
+
+### Joy Buolamwini: Algorithmic Justice League
+Joy richtte de [Algorithmic Justice League](https://www.ajl.org/) op. Bekijk hier haar TEDTalk over "The Coded Gaze":
+
+{{< video https://www.youtube.com/watch?v=UG_X_7g63rY >}}
+
+### Cathy O'Neil: Weapons of Math Destruction
+Cathy O'Neil schreef de bestseller *Weapons of Math Destruction*.
+
+![Boekomslag](https://ia800704.us.archive.org/4/items/CathyONeil-WeaponsOfMathDestructionAUDIOBOOK/Weapons%20of%20Math%20Destruction_thumb.jpg)
+
+U kunt het audioboek hier beluisteren:
+<iframe src="https://archive.org/embed/CathyONeil-WeaponsOfMathDestructionAUDIOBOOK" width="500" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+En haar TEDTalk over het gevaar van blinde algoritmen:
+
+{{< video https://www.youtube.com/watch?v=_2u_eHHzRto >}}
+
+### Big Brother Watch
+Een van de organisaties uit de film is [Big Brother Watch](https://bigbrotherwatch.org.uk/), die strijdt tegen het ongecontroleerd gebruik van gezichtsherkenning.

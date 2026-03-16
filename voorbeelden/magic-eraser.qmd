@@ -1,0 +1,34 @@
+---
+title: "Magic Eraser"
+lang: nl
+sidebar: id-voorbeelden
+---
+
+
+![magic-eraser screenshot](media/screenshot-magic-eraser.png){.img-fluid .rounded}
+
+[Magic Eraser](https://magicstudio.com/magiceraser/) is een gratis website waarmee je eenvoudig objecten uit een foto kunt verwijderen met behulp van AI. Je streept globaal het te verwijderen object aan, de AI herkent het object en verwijdert het — de lege plek wordt automatisch ingevuld met een passende achtergrond.
+
+![Magic Eraser demo](media/MagicEraser.gif){fig-alt="Animatie die laat zien hoe Magic Eraser werkt"}
+
+## Hoe werkt het?
+
+1. Upload een foto
+2. Streep (met de muis of vinger) het object dat je wilt verwijderen globaal aan
+3. Magic Eraser analyseert de omgeving en vult de lege plek in
+4. Download het resultaat
+
+De techniek heet **inpainting**: op basis van de omliggende pixels "veronderstelt" het model welke achttergrond er logisch zou zijn als het object er nooit was geweest.
+
+## Vergelijkbare functionaliteit elders
+
+Magic Eraser populariseerde het concept, maar inmiddels is vergelijkbare functionaliteit op veel plekken te vinden:
+
+- **Adobe Firefly / Photoshop** — *Generative Fill* doet hetzelfde maar krachtiger
+- **Google Photos** — *Magic Eraser* in de Foto's-app op Android en iOS
+- **Samsung Galaxy** — *Object Eraser* in de standaard foto-editor
+- **ChatGPT / DALL·E** — via inpainting in de beeldbewerkingsmodule
+
+## Ethische dimensie
+
+Magic Eraser illustreert perfect hoe eenvoudig het is om foto's te manipuleren — zonder enige technische kennis. Dit is een uitstekend startpunt voor discussies over de **betrouwbaarheid van beeldmateriaal** in het nieuws, op sociale media en in de rechtszaal.

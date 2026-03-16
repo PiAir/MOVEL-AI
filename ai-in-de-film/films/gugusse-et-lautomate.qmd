@@ -1,0 +1,24 @@
+---
+title: Gugusse et l'Automate
+image: "../media/Gugusse et lAutomate.png"
+year: 1897
+shortdesc: > 
+      Robot avant la lettre.
+longdesc: >
+      Gugusse et l'Automate is nog een stuk ouder dan [Metropolis](metropolis.qmd) en gaat over een robot, nog voordat het woord robot ooit gebruikt was.
+      
+      Lees [hier bij nos.nl](https://nos.nl/artikel/2605605-eerste-film-met-een-robot-teruggevonden-na-ruim-een-eeuw) het verhaal over hoe, bij toeval in 2025 ontdekt werden, gerestaureerd konden worden en nu online te bekijken is.
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css     
+---
+
+{{< include ../media/template.qmd >}}
+
+## Volledige film
+
+De volledige film:
+
+{{< video https://www.youtube.com/embed/ojqcjzzjN2Q >}}

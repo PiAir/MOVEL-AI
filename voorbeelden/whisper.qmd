@@ -1,0 +1,29 @@
+---
+title: "Whisper – Spraak naar tekst"
+lang: nl
+sidebar: id-voorbeelden
+---
+
+[Whisper](https://openai.com/research/whisper) is een open-source spraakherkenningsmodel van OpenAI. Het kan gesproken audio omzetten naar tekst in tientallen talen — inclusief Nederlands — en doet dat verrassend nauwkeurig, ook bij achtergrondgeluid of accenten.
+
+{{< video https://www.youtube.com/embed/XGvrO8him-4 >}}
+
+## Toepassingen
+
+- **Transcripties** van lessen, vergaderingen of interviews
+- **Automatische ondertiteling** van video's
+- **Vertaling**: Whisper kan tegelijkertijd transcriberen én vertalen naar het Engels
+
+## Hoe gebruiken?
+
+Whisper is beschikbaar als open-source model op [GitHub](https://github.com/openai/whisper). Voor wie niet met Python wil werken zijn er inmiddels uitstekende kant-en-klare toepassingen:
+
+- **[NoScribe](https://github.com/kaixxx/noScribe)** — gratis desktop-app voor Windows en macOS. Transcribeert audio/video lokaal op je eigen computer; geen data gaat naar de cloud. Ondersteunt Nederlands.
+- **[aTrain](https://apps.microsoft.com/detail/9n15q44szns2)** — te installeren via de Microsoft Store. Werkt eveneens volledig lokaal.
+- **[Whisper Web](https://huggingface.co/spaces/Xenova/whisper-web)** — online demo die direct in de browser draait (via WebGPU).
+
+Het grote voordeel van lokaal draaien: **je audio verlaat je computer niet**, wat privacy-gevoelige transcripties (gesprekken met studenten, patiënten, etc.) een stuk veiliger maakt.
+
+## Kwaliteit
+
+Whisper scoort uitstekend op Engelstalige audio en goed op Nederlands. Technisch jargon, namen en dialecten geven soms problemen. Voor de beste resultaten: zorg voor goede audio-kwaliteit en gebruik de `large`-versie van het model als het je computer aankan.

@@ -1,0 +1,15 @@
+# {{< meta title >}} ({{< meta year >}})
+
+::::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+![Poster]({{< meta image >}}){.img-fluid .rounded}
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+{{< meta longdesc >}}
+:::
+
+:::::

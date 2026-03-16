@@ -1,0 +1,55 @@
+---
+title: "Competenties leidinggevenden"
+lang: nl
+sidebar: id-ai-geletterdheid
+---
+
+## De leidinggevende als sleutel tot digitale transformatie
+
+Schoolleiders en leidinggevenden in het onderwijs spelen een **cruciale rol** bij de integratie van AI en digitale technologie in de onderwijsinstelling. Zonder een leidinggevende die een visie heeft, ruimte schept en zelf het goede voorbeeld geeft, blijven innovaties steken bij een kleine groep enthousiaste voorlopers.
+
+iXperium heeft specifieke competentiekaders ontwikkeld voor leidinggevenden. De meest actuele versie is het [Raamwerk leidinggeven aan digitale onderwijstransformatie (2025)](https://www.ixperium.nl/wp-content/uploads/2025/01/iXperium-Raamwerk-leidinggeven-aan-digitale-onderwijstransformatie.pdf), een uitbouw van de eerdere publicatie [Leidinggeven aan onderwijs en ict (2019)](https://www.ixperium.nl/wp-content/uploads/2019/02/iXperium-Leidinggeven-aan-onderwijs-en-ict.pdf).
+
+::: {.callout-note}
+## Waarom moet een leidinggevende ICT/AI-geletterd zijn?
+
+Alleen als je zelf begrijpt wat technologie kan betekenen voor het leren en lesgeven, kun je een visie ontwikkelen en leidinggeven aan het proces van ICT- en AI-integratie. Je creëert als leidinggevende de context waarin leraren de ruimte en middelen hebben om daadwerkelijk met nieuwe technologie te experimenteren.
+
+— *iXperium, Leidinggeven aan onderwijs en ict / Digitale onderwijstransformatie*
+:::
+
+## Vier kernredenen voor AI-geletterdheid van leidinggevenden
+
+Er zijn een aantal redenen te noemen waarom een digitaal en AI-geletterde leidinggevende onmisbaar is:
+
+1. **Richting geven aan innovatie** Alleen als de leidinggevende zelf begrijpt wat technologie kan betekenen, kan hij of zij een visie ontwikkelen en het proces van ICT-integratie aansturen. Zonder die visie blijven innovaties ad hoc.
+
+2. **De juiste context creëren** De leidinggevende schept een **onderwijscontext**  (tijd, ruimte, middelen) waarbinnen leraren daadwerkelijk kunnen experimenteren met AI en digitale tools.
+
+3. **Voorbeeldfunctie en professionalisering onderbouwen** Door zelf digitaal en AI-vaardig te zijn, kan de leidinggevende het belang van geletterdheid uitdragen en **gerichte interventies voor professionalisering** van het team onderbouwen en organiseren.
+
+4. **Strategische besluitvorming** Kennis van digitale geletterdheid stelt leiders in staat om weloverwogen strategische keuzes te maken: welke technologie zetten we in, waarom, en met welk doel? Dat kan gaan over werkdrukverlichting, motivatie van leerlingen, of kwaliteitsverbetering van het onderwijs.
+
+## Competentieprofielen en raamwerken
+
+Het iXperium heeft meerdere raamwerken en publicaties beschikbaar:
+
+| Publicatie | Link |
+|---|---|
+| Raamwerk digitale onderwijstransformatie (2025) | [PDF](https://www.ixperium.nl/wp-content/uploads/2025/01/iXperium-Raamwerk-leidinggeven-aan-digitale-onderwijstransformatie.pdf) |
+| Competenties leidinggeven aan onderwijs en ict | [Link](https://www.ixperium.nl/onderzoeken-en-ontwikkelen/publicaties/competenties-leidinggeven-aan-onderwijs-en-ict/) |
+| Onderbouwing van de competenties leidinggeven aan onderwijs en ict | [Link](https://www.ixperium.nl/publicaties/onderbouwing-van-de-competenties-leidinggeven-aan-onderwijs-en-ict/) |
+| Gedeelde competentieprofielen | [Link](https://www.ixperium.nl/kennisnetwerk/onze-aanpak/gedeelde-competentieprofielen/) |
+| Professionaliseringstraject HAN | [PDF](https://www.han.nl/onderwijsondersteuning/leren-werken-met-ict/open-digital-horizons/Leidinggevenden-HODH.pdf) |
+
+## Professionalisering voor leidinggevenden
+
+Het iXperium biedt professionaliseringstrajecten aan voor leidinggevenden op het gebied van leren met ict en AI. Deze trajecten zijn gebaseerd op onderzoek en afgestemd op de specifieke context en ambities van de instelling.
+
+Meer informatie: [iXperium — Professionaliseren](https://www.ixperium.nl/opleiden-professionaliseren/professionaliseren/)
+
+::: {.callout-tip}
+## Praktische eerste stap
+
+Laat als leidinggevende zelf ook de pagina [experimenteren en professionaliseren](experimenteren.qmd) door. Door zelf te ervaren wat AI-tools kunnen en niet kunnen, kun je docenten gerichter ondersteunen en aanspreken.
+:::

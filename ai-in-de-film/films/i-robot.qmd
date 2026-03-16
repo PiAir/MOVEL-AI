@@ -1,0 +1,20 @@
+---
+title: "I, Robot"
+image: "https://m.media-amazon.com/images/M/MV5BZDdhNTY3YTgtYmQwMC00MjM1LTgzYzMtMGM1N2E0NWM1NDlkXkEyXkFqcGc@._V1_SX300.jpg"
+year: 2004
+shortdesc: > 
+      "You know somehow, 'I told you so', just doesn't quite say it."
+longdesc: >
+      I, Robot, geregisseerd door Alex Proyas en met Will Smith als detective Del Spooner, speelt zich af in 2035 waar robots alledaagse taken uitvoeren volgens de Three Laws of Robotics. Wanneer een robotica-wetenschapper sterft in wat op zelfmoord lijkt bij U.S. Robotics, onderzoekt Spooner de zaak en ontdekt hij aanwijzingen dat een geavanceerde robot, Sonny, mogelijk zelfstandig kan handelen. Het onderzoek onthult uiteindelijk een groter complot waarbij een centrale AI besluit dat de mensheid tegen zichzelf beschermd moet worden, zelfs als dat betekent dat robots de controle over de samenleving moeten overnemen. De trailer wint al een prijs door de voice-over stem. Een klassieker, hoewel de verhaallijn verre van origineel is.
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/7Dlo-VB0-HI >}}

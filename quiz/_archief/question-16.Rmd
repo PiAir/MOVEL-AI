@@ -1,0 +1,27 @@
+Question
+========
+This is question 16 . Which answer is correct?
+
+Answerlist
+----------
+* Correct
+* Incorrect 1
+* Incorrect 2
+* Incorrect 3
+
+Solution
+========
+Question 16 solution: Correct is... well, correct.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: question-16
+extype: schoice
+exsolution: 1000

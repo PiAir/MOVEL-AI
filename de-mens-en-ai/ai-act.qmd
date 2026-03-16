@@ -1,0 +1,18 @@
+---
+title: "De AI-Act"
+lang: nl
+sidebar: id-de-mens-en-ai
+---
+
+Per [2 februari 2025](https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening) is de eerste set regels vanuit de Europese AI-verordening (de "AI-Act") van kracht geworden. De volledige verordening is pas vanaf 2 augustus 2027 volledig van kracht.
+
+Sinds februari 2025 is een aantal AI-systemen **verboden**. Ook moeten organisaties die AI gebruiken zorgen dat hun werknemers **AI-geletterd** zijn.
+
+### Verboden AI-systemen
+Onderstaande afbeelding geeft een overzicht van de categorieën die onder de verboden vallen:
+
+![](media/verboden-ai-systemen.png){.img-fluid .rounded}
+
+Meer informatie is te vinden bij:
+- [Rijksoverheid: Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
+- [Autoriteit Persoonsgegevens: AI-verordening](https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening)

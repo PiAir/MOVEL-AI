@@ -1,0 +1,20 @@
+---
+title: "Blade Runner"
+image: "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_SX300.jpg"
+year: 1982
+shortdesc: > 
+      "More human than human is our motto."
+longdesc: >
+      Blade Runner, geregisseerd door Ridley Scott en met Harrison Ford als de vermoeide detective Rick Deckard, speelt zich af in een duistere, regenachtige toekomst in Los Angeles (2019). Deckard is een 'blade runner': een agent die gecreëerde mensen — replicanten — opspoort en uitschakelt. Wanneer vier geavanceerde replicanten terugkeren naar Aarde op zoek naar hun maker, moet Deckard hen achtervolgen. De film stelt de ultieme vraag: als een AI-gecreëerd wezen herinneringen en emoties heeft, is het dan nog steeds slechts een machine? De bron van het cyberpunk-genre en een perfecte aanvulling op discussies over wat het betekent om mens te zijn.
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/eogpIG53Cis >}}

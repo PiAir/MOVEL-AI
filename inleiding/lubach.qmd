@@ -1,0 +1,9 @@
+---
+title: "Lubach: AI & Fake News"
+lang: nl
+sidebar: id-inleiding
+---
+
+Arjen Lubach besteedt regelmatig aandacht aan de maatschappelijke gevolgen van AI. In dit item gaat hij in op de opkomst van AI-gegenereerde nepnieuws en deepfakes.
+
+{{< video https://www.youtube.com/watch?v=xpedFIZFmhc >}}

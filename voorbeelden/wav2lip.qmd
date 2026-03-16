@@ -1,0 +1,43 @@
+---
+title: "Wav2Lip – Lipsync met AI"
+lang: nl
+sidebar: id-voorbeelden
+---
+
+
+![wav2lip screenshot](media/screenshot-wav2lip.png){.img-fluid .rounded}
+
+[Wav2Lip](http://bhaasha.iiit.ac.in/lipsync/) is een vroeg (2020) maar invloedrijk onderzoeksproject van het IIIT Hyderabad dat aantoonde dat je een foto of video van een persoon kunt laten "spreken" op basis van een audio-opname. De lipsynchronisatie is niet perfect, maar was voor zijn tijd ronduit indrukwekkend.
+
+## Hoe werkt het?
+
+Wav2Lip combineert drie zaken:
+1. Een afbeelding of video van een gezicht
+2. Een audio-opname van de gewenste spraak
+3. Een neuraal netwerk dat de lippen in de video aanpast aan het audiobestand
+
+Het resultaat is een deepfake-video waarbij het lijkt alsof de persoon op de foto spreekt.
+
+## Demonstratie
+
+Hieronder een demonstratie van het principe:
+
+{{< video https://www.youtube.com/embed/Ic0TBhfuOrA >}}
+
+Een voorbeeld van het resultaat: een Hamlet-monoloog gezongen door een historische afbeelding, gemaakt via Google Colab:
+
+{{< video https://www.youtube.com/embed/ovhuNdZVswI >}}
+
+De volledige video:
+
+{{< video https://www.youtube.com/embed/zbldG5CmtVo >}}
+
+## Context en actualiteit
+
+Wav2Lip was toonaangevend in 2020, maar de technologie is sindsdien dramatisch verbeterd. Diensten zoals [HeyGen](heygen.qmd) en [ElevenLabs](elevenlabs.qmd) bieden tegenwoordig vergelijkbare (en veel betere) resultaten met een gebruiksvriendelijke interface.
+
+Wav2Lip is echter historisch interessant als vroeg voorbeeld van hoe **open onderzoek deepfaketechnologie democratiseerde**. De code staat nog steeds op [GitHub](https://github.com/Rudrabha/Wav2Lip).
+
+## Educatieve waarde
+
+Dit voorbeeld is bij uitstek geschikt om te tonen hoe snel AI-technologie zich ontwikkelt. Wat in 2020 geavanceerd en experimenteel was, is in 2025 beschikbaar als no-code dienst. Tegelijk onderstreept het de noodzaak van mediageletterdheid: welke video's kun je nog vertrouwen?

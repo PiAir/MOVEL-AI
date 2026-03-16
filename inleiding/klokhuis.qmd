@@ -1,0 +1,9 @@
+---
+title: "Het Klokhuis over AI"
+lang: nl
+sidebar: id-inleiding
+---
+
+Het Klokhuis legt complexe onderwerpen vaak heel helder uit. In deze aflevering staat Kunstmatige Intelligentie centraal.
+
+{{< video https://www.youtube.com/embed/yQG812_q6tY >}}

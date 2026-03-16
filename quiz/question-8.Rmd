@@ -1,0 +1,27 @@
+Question
+========
+Welke rol speelt data-analyse in AI-gedreven onderwijssystemen?
+
+Answerlist
+----------
+* A. Het helpt bij het identificeren van leerpatronen en -behoeften van studenten.
+* B. Het vervangt de noodzaak voor menselijke docenten volledig.
+* C. Het vermindert de noodzaak voor enige vorm van beoordeling.
+* D. Het maakt handmatige invoer van studentgegevens overbodig.
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Dat is het juiste antwoord.
+* Nee, dat is gelukkig&nbsp;niet juist
+* Geen specifieke feedback beschikbaar.
+* Nee, dat heeft niets met data-analyse te maken
+
+Meta-information
+================
+exname: question-8
+extype: mchoice
+exsolution: 1000

@@ -1,0 +1,26 @@
+---
+title: "Claude.ai"
+lang: nl
+sidebar: id-voorbeelden
+---
+![claude screenshot](media/screenshot-claude-ai.png){.img-fluid .rounded}
+
+[Claude.ai](https://claude.ai/) is de AI-assistent van [Anthropic](https://www.anthropic.com/), een bedrijf dat door voormalige OpenAI-medewerkers is opgericht met een expliciete focus op veilige en betrouwbare AI. Claude wordt als serieuze concurrent van ChatGPT beschouwd en staat bekend om zijn **genuanceerde schrijfstijl**, eerlijkheid over zijn eigen beperkingen en verwerking van lange documenten.
+
+## Wat maakt Claude bijzonder?
+
+- **Groot contextvenster**: Claude kan enorm veel tekst in één gesprek verwerken — handig voor het analyseren van lange artikelen, rapporten of syllabus-documenten
+- **Schrijfkwaliteit**: Claude wordt door velen als de beste tekstassistent beschouwd voor nuancevolle, academische of journalistieke schrijfstijlen
+- **Projects**: sla documenten, instructies en gesprekshistorie op in een project — handig om steeds vanuit dezelfde context te werken
+- **Artifacts**: Claude genereert direct bruikbare documenten, webpagina's en code naast het gesprek
+
+Ethisch redeneren: Anthropic publiceert hun [Constitutional AI-aanpak](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) open — interessant lesmateriaal over hoe je een AI "waarden" geeft.
+
+## Gratis vs. betaald
+
+De gratis versie geeft toegang tot het Claude Sonnet-model. Claude Pro biedt toegang tot het krachtigere Opus-model en hogere gebruikslimieten.
+
+## Verwant
+
+- [Claude Code](claude-code.qmd) — de variant van Claude die code schrijft en bewerkt in de terminal
+- [Antigravity](antigravity.qmd) — een op Claude gebaseerde AI-assistent geoptimaliseerd voor codering

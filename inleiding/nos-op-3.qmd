@@ -1,0 +1,17 @@
+---
+title: "NOS op 3: De race om AI"
+lang: nl
+sidebar: id-inleiding
+---
+
+De wereld van AI verandert razendsnel. NOS op 3 onderzoekt de 'race' tussen de grote technologiereuzen en wat dit betekent voor ons allemaal.
+
+## De race om AI
+
+{{< video https://www.youtube.com/watch?v=-WDdSiVjBhg >}}
+
+## Waar stopt de droom van AI? (2023)
+
+In deze eerdere video legt NOS op 3 de basisprincipes van generatieve AI en de hype uit.
+
+{{< video https://www.youtube.com/embed/Pj1idX0E2pU >}}

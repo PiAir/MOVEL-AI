@@ -1,0 +1,20 @@
+---
+title: "2001: A Space Odyssey"
+image: "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg"
+year: 1968
+shortdesc: > 
+      "Open the Pod bay doors, please, HAL."
+longdesc: >
+      De klassieker uit 1968, geregisseerd door Stanley Kubrick. De film vertelt het verhaal van een groep astronauten die op missie is naar Jupiter en vergezeld worden door de robot HAL 9000 die alle systemen op het ruimteschip bestuurt. *Let op:* het is een film met de snelheid van films in 1968....
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/oR_e9y-bka0 >}}

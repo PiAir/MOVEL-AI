@@ -1,0 +1,27 @@
+Question
+========
+Vink alle risico&#39;s van AI aan
+
+Answerlist
+----------
+* A. Sommige onderwijsdoelen kunnen door AI in het geding raken
+* B. Afhankelijkheid van black-box modellen (unexplainable AI) versus verantwoordelijkheid van de docent.
+* C. Bias in mensen vertaalt door naar data, die vervolgens wordt overgenomen door AI.
+* D. Een machtsverschuiving naar de producenten van lesmateriaal.
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+* Geen specifieke feedback beschikbaar.
+
+Meta-information
+================
+exname: question-17
+extype: mchoice
+exsolution: 1111

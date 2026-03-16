@@ -1,0 +1,20 @@
+---
+title: "The Matrix"
+image: "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg"
+year: 1999
+shortdesc: > 
+      "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."
+longdesc: >
+      The Matrix, geregisseerd door de Wachowski's, volgt de computerhacker Neo (Keanu Reeves) die ontdekt dat de werkelijkheid die hij kent een gesimuleerde realiteit is — de Matrix — gebouwd door machines om de mensheid onder controle te houden. Waar [The Terminator](terminator) focust op een fysieke oorlog, onderzoekt The Matrix de angst voor een AI die de mensheid controleert via een gesimuleerde werkelijkheid. Dit thema is vandaag de dag bijzonder relevant in discussies over deepfakes, de betrouwbaarheid van digitale informatie en de vraag of we onze digitale omgeving echt begrijpen.
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/vKQi3bBA1y8 >}}

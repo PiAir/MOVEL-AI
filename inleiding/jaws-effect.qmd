@@ -1,0 +1,14 @@
+---
+title: "Het Jaws Effect voor AI"
+lang: nl
+sidebar: id-inleiding
+---
+
+Media en beeldvorming spelen een enorme rol in hoe we naar nieuwe technologie kijken. Professor Marcel Bullinga heeft het in dit verband over het "Jaws Effect".
+
+> [!TIP]
+> Net zoals de film *Jaws* ervoor zorgde dat mensen bang werden voor de zee (terwijl de kans op een haaienaanval minimaal is), zorgen sciencefictionfilms en sensationele krantenkoppen voor een vertekend beeld van de risico's en mogelijkheden van AI.
+
+{{< video https://www.youtube.com/embed/Pj1idX0E2pU >}}
+
+*(Noot: Dezelfde NOS op 3 video wordt hier contextueel gebruikt om de hype vs de werkelijkheid te duiden.)*

@@ -1,0 +1,34 @@
+- title: "Two Minute Papers"
+  image: "media/youtube-two-minute-papers.png"
+  description: "Korte video's over recent gepubliceerd AI-onderzoek. Toegankelijk uitgelegd, soms vrij technisch."
+  path: "https://www.youtube.com/@TwoMinutePapers"
+
+- title: "Sam Witteveen"
+  image: "media/youtube-sam-witteveen.png"
+  description: "Praktische tutorials over AI-toepassingen, LLM's en tools als LangChain."
+  path: "https://www.youtube.com/@samwitteveenai/videos"
+
+- title: "Olivio Sarikas"
+  image: "media/youtube-olivio-sarikas.png"
+  description: "AI voor creatieven: beeldgeneratie, Stable Diffusion, Midjourney en vergelijkbare tools."
+  path: "https://www.youtube.com/@OlivioSarikas"
+
+- title: "Bob Doyle Media"
+  image: "media/youtube-bob-doyle.png"
+  description: "AI voor video en media: generatieve video, AI-editing en workflow-automatisering."
+  path: "https://www.youtube.com/@BobDoyleMedia"
+
+- title: "Code4AI"
+  image: "media/youtube-code4ai.png"
+  description: "Programmeren met en voor AI: Python, AI-APIs en bouwen van AI-applicaties."
+  path: "https://www.youtube.com/@code4AI"
+
+- title: "LangChain"
+  image: "media/youtube-langchain.png"
+  description: "Officieel kanaal van LangChain: bouwen met grote taalmodellen (LLM's), agents en RAG."
+  path: "https://www.youtube.com/@LangChain"
+
+- title: "Leon van Zyl"
+  image: "media/youtube-leon-van-zyl.png"
+  description: "Praktische AI-toepassingen en tutorials over nieuwe AI-tools en workflows."
+  path: "https://www.youtube.com/@leonvanzyl"

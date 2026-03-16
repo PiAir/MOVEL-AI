@@ -1,0 +1,11 @@
+---
+title: "Is AI dodelijk voor creativiteit?"
+lang: nl
+sidebar: id-inleiding
+---
+
+Lector dr. Bert-Jan van Beijnum onderzoekt de menskant van AI. Een veelgehoorde angst is dat AI de menselijke creativiteit overbodig maakt of zelfs doodt.
+
+In dit interview wordt dieper ingegaan op de samenwerking tussen mens en machine.
+
+{{< video https://www.youtube.com/embed/N-OiaW-j_P8 >}}

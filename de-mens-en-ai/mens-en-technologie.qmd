@@ -1,0 +1,15 @@
+---
+title: "De mens centraal?"
+lang: nl
+sidebar: id-de-mens-en-ai
+---
+
+De invloed van technologie op de mens en de relatie tussen mens en technologie is niet nieuw en niet beperkt tot alleen AI. 
+
+Een onderzoeker die daar veel over gezegd en geschreven heeft is [Peter Paul Verbeek](https://www.uva.nl/profiel/v/e/p.p.c.c.verbeek/p.p.c.c.verbeek.html?cb#Profiel), hoogleraar Filosofie en Ethiek van Wetenschap en Technologie in een Veranderende Wereld aan de UvA. 
+
+Waar soms technologie vooral als een bedreiging voor de autonomie van de mens gepositioneerd wordt, stelt hij dat beeld ter discussie. 
+
+{{< video https://www.youtube.com/watch?v=YWFBvfer0aI >}}
+
+Dat betekent niet dat we niet kritisch moeten zijn over het gebruik van technologie of AI. Technologie is niet neutraal. De relatie is niet alleen van ethiek naar technologie, waarbij ethiek bepaalt wat we technisch zouden moeten willen. Technologie bepaalt ook onze ethiek.

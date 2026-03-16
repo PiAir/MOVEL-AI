@@ -1,0 +1,22 @@
+---
+title: "Wat is AI nou eigenlijk?"
+lang: nl
+sidebar: id-inleiding
+---
+
+Het is een logische vraag: wat is Kunstmatige Intelligentie? Of Artificiële Intelligentie? En is het dan AI of KI?
+
+![](media/wat-is-ai.png){.img-fluid .rounded}
+
+De omschrijving is vaak afhankelijk van de context of het domein. Een specialist in machine learning zal een veel technischere definitie gebruiken dan relevant is voor een docent. De Rijksinspectie Digitale Infrastructuur gebruikt [onderstaande definitie](https://www.rdi.nl/onderwerpen/kunstmatige-intelligentie/wat-is-kunstmatige-intelligentie):
+
+> [!NOTE]
+> Kort gezegd is AI een verzamelnaam voor algoritmes en methoden die taken uitvoeren waarvan werd gedacht dat daar menselijke intelligentie voor nodig is. Artificiële intelligentie verwijst naar systemen die intelligent gedrag vertonen door hun omgeving te analyseren en - met een zekere mate van zelfstandigheid - actie ondernemen om specifieke doelen te bereiken. Het gaat niet alleen om rekenkracht, maar om de mogelijkheid om (zelfstandig) te leren en beslissingen te nemen. Het lerend vermogen is dus typerend voor kunstmatige intelligentie. Daarbij gebruikt AI regels die door mensen zijn geformuleerd of die door het algoritme zijn samengesteld op basis van de data en traint het zichzelf met data.
+
+Relevant voor deze module is om je te realiseren is dat AI dus niet hetzelfde is als ChatGPT of aan Generatieve AI. Dat zijn toevallig wel twee voorbeelden van AI waar je veel over hoort in de media.
+
+## Microsoft AI Skills
+
+Hoe werken deze systemen aan de achterkant? Microsoft legt in deze video de basisprincipes van AI-modellen uit.
+
+{{< video https://www.youtube.com/watch?v=4bYOO2EzcYk >}}

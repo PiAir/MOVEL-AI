@@ -1,0 +1,13 @@
+---
+title: "Data-ondersteund onderwijs"
+lang: nl
+sidebar: id-inleiding
+---
+
+Het is opvallend hoe weinig er is veranderd in het onderwijs in dertig jaar tijd. Dat is de kernboodschap in de eerste dertig seconden van deze video van [Learning Analytics](https://www.learninganalytics.nl/).
+
+![](media/data-ondersteund-onderwijs.png){.img-fluid .rounded}
+
+In deze video wordt de noodzaak voor data-ondersteund onderwijs toegelicht.
+
+{{< video https://www.youtube.com/embed/nU6bOfu45nU >}}

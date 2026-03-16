@@ -1,0 +1,20 @@
+---
+title: "Ich bin dein Mensch"
+image: "https://m.media-amazon.com/images/M/MV5BN2M5MDViZjQtMTc2NC00OWQyLTg0YzItNmM5YmQxMmRjYmUzXkEyXkFqcGc@._V1_SX300.jpg"
+year: 2021
+shortdesc: > 
+      MOVEL-filmtip.
+longdesc: >
+      Ich bin dein Mensch, geregisseerd door Maria Schrader, volgt wetenschapper Alma Felser, die deelneemt aan een experiment waarbij ze enkele weken samenwoont met een humanoïde robot genaamd Tom. Tom is speciaal ontworpen om haar ideale partner te zijn en zich volledig aan haar persoonlijkheid en behoeften aan te passen. Terwijl Alma de robot moet evalueren voor een ethische commissie, wordt ze geconfronteerd met vragen over liefde, autonomie en of een relatie met kunstmatige intelligentie werkelijk betekenisvol kan zijn. Grappige film maar voldoende voor een inhoudelijk gesprek over wat het betekent om mens te zijn. 
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/eXC4t8EbKTo >}}

@@ -1,0 +1,20 @@
+---
+title: "Bicentennial Man"
+image: "https://m.media-amazon.com/images/M/MV5BMzM1MDVlZDItN2ZiZS00MWY2LTk3YzgtOGY4ZDRhNTEyNzA4XkEyXkFqcGc@._V1_SX300.jpg"
+year: 1999
+shortdesc: > 
+      "I try to make sense of things. Which is why, I guess, I believe in destiny."
+longdesc: >
+      Bicentennial Man, geregisseerd door Chris Columbus en met Robin Williams als de huishoudrobot Andrew, volgt een robot die over een periode van 200 jaar vecht voor erkenning als menselijk wezen. In tegenstelling tot de "angstbeelden" in films als Westworld, biedt deze film een juridisch perspectief op AI: kan een machine burgerrechten verdienen? Sluit goed aan bij de sectie over de AI-Act en ethische richtlijnen. Gebaseerd op het gelijknamige verhaal van Isaac Asimov, de bedenker van de Three Laws of Robotics.
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/yfDlQ-Q12rg >}}

@@ -1,0 +1,40 @@
+---
+title: "Pratende Avatars"
+lang: nl
+sidebar: id-voorbeelden
+---
+
+
+![pratende-avatars screenshot](media/screenshot-heygen.png){.img-fluid .rounded}
+
+Omdat [ChatGPT](chatgpt.qmd) gebruik maakt van tekst, ziet dat er niet zo levendig uit in een video. Met een synthetische avatar gecombineerd met text-to-speech (TTS) kun je een chatbot "tot leven brengen". Hieronder zie je een voorbeeld van een gesprek met ChatGPT dat gepresenteerd wordt via een pratende avatar:
+
+{{< video https://www.youtube.com/embed/7X_0Qe5tW00 >}}
+
+En hier wordt uitgelegd hoe dat tot stand is gekomen:
+
+{{< video https://www.youtube.com/embed/PHMQFMKq1r0 >}}
+
+De avatar in die video's is gemaakt met **Adobe Character Animator**, waarbij de beweging van lippen en gezicht gedreven wordt door audio.
+
+## Hedendaagse opties (2025)
+
+Sindsdien zijn de mogelijkheden sterk verbeterd en zijn er meerdere kant-en-klare diensten beschikbaar:
+
+| Dienst | Beschrijving |
+|---|---|
+| [HeyGen](heygen.qmd) | Volledige AI-avatars voor video, inclusief vertaling |
+| [ElevenLabs](elevenlabs.qmd) | Spraaksynthese en lipsync |
+| [D-ID](https://www.d-id.com/) | Foto's laten praten en interactieve digitale mensen |
+| [Synthesia](https://www.synthesia.io/) | Educatie- en trainingsvideo's met AI-presentatoren |
+| Adobe Character Animator | Animatie via webcam en microfoon (onderdeel Adobe CC) |
+
+## Educatieve toepassingen
+
+- Maak instructievideo's zonder camera of microfoon te gebruiken
+- Laat studenten in gesprek gaan met een "historische figuur" via een interactieve avatar
+- Bespreek mediawijsheid: hoe herken je een nepvideo?
+
+## Aandachtspunten
+
+Pratende avatars zijn een perfecte illustratie van waarom **mediawijsheid** zo belangrijk is. De technologie om nep-video's te maken is inmiddels lowcode of zelfs no-code. Dat maakt het des te belangijker om kritisch te kijken naar beeldmateriaal dat je online tegenkomt.

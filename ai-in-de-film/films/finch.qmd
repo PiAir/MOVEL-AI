@@ -1,0 +1,20 @@
+---
+title: "Finch"
+image: "https://m.media-amazon.com/images/M/MV5BYjhhMGVkN2MtNDA3OC00M2E5LTg3ODYtZGJiNmIwNmQwMWYyXkEyXkFqcGc@._V1_SX300.jpg"
+year: 2021
+shortdesc: > 
+      “The only way to survive is to take care of each other.”
+longdesc: >
+      Finch, geregisseerd door Miguel Sapochnik, speelt zich af in een post-apocalyptische toekomst waar de aarde grotendeels onleefbaar is geworden. Ingenieur Finch Weinberg (Tom Hanks) leeft geïsoleerd met zijn hond en bouwt een robot genaamd Jeff om voor het dier te zorgen wanneer hij er zelf niet meer is. Terwijl ze samen door het verlaten landschap reizen, leert Jeff stap voor stap over menselijk gedrag, verantwoordelijkheid en vriendschap. Is Finch de uitzondering op de regel dat het met AI in de film altijd "fout" gaat?
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/-0bYWnP3jH4 >}}

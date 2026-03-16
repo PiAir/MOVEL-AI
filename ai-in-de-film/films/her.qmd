@@ -1,0 +1,20 @@
+---
+title: "Her"
+image: "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg"
+year: 2013
+shortdesc: > 
+      “The past is just a story we tell ourselves.”
+longdesc: >
+      Her, geregisseerd door Spike Jonze, volgt de eenzame schrijver Theodore Twombly, die in een nabije toekomst een romantische relatie ontwikkelt met een geavanceerd besturingssysteem genaamd Samantha. Terwijl Samantha zich snel ontwikkelt en steeds complexer wordt, ervaart Theodore voor het eerst weer echte emotionele verbondenheid na zijn scheiding. Hun relatie confronteert hem echter met vragen over liefde, bewustzijn en de grenzen tussen menselijke en kunstmatige intelligentie. 
+sidebar: id-default
+page-navigation: false
+navbar: true
+bread-crumbs: true
+css: ../films-style.css
+---
+
+{{< include ../media/template.qmd >}}
+
+## Trailer
+
+{{< video https://www.youtube.com/embed/ne6p6MfLBxc >}}
