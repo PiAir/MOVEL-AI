@@ -4,12 +4,6 @@ lang: nl
 sidebar: id-inleiding
 ---
 
-De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie binnen het mbo in januari 2025.
+De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.
 
 {{< video https://www.youtube.com/embed/OV7_hDo3yWY >}}
-
-## NOS Stories: AI in de klas
-
-NOS Stories zocht uit hoe leerlingen en studenten AI gebruiken voor hun huiswerk en wat docenten daarvan vinden.
-
-{{< video https://www.youtube.com/watch?v=AkxI2vxJlIY >}}

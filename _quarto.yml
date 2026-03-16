@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   render: 
     - "*.qmd"
     - "!quiz/*"
@@ -36,8 +37,7 @@ website:
            text: AI in de film 
          - href: toets-jezelf.qmd
            text: Test Jezelf!
-         - href: literatuur/
-           text: Literatuur
+
 
      - id: id-inleiding
        style: "docked"
@@ -47,6 +47,8 @@ website:
            text: Home
          - href: inleiding/index.qmd
            text: Inleiding
+         - href: inleiding/wat-is-ai.qmd         
+           text: Wat is AI?
          - auto: "inleiding/*.qmd"
 
      - id: id-de-mens-en-ai

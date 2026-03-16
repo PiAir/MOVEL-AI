@@ -733,7 +733,7 @@
     "text": "Het is een logische vraag: wat is Kunstmatige Intelligentie? Of Artificiële Intelligentie? En is het dan AI of KI?\nDe omschrijving is vaak afhankelijk van de context of het domein. Een specialist in machine learning zal een veel technischere definitie gebruiken dan relevant is voor een docent. De Rijksinspectie Digitale Infrastructuur gebruikt onderstaande definitie:\nRelevant voor deze module is om je te realiseren is dat AI dus niet hetzelfde is als ChatGPT of aan Generatieve AI. Dat zijn toevallig wel twee voorbeelden van AI waar je veel over hoort in de media.",
     "crumbs": [
       "Over deze module",
-      "Wat is AI nou eigenlijk?"
+      "Wat is AI?"
     ]
   },
   {
@@ -744,18 +744,18 @@
     "text": "Microsoft AI Skills\nHoe werken deze systemen aan de achterkant? Microsoft legt in deze video de basisprincipes van AI-modellen uit.",
     "crumbs": [
       "Over deze module",
-      "Wat is AI nou eigenlijk?"
+      "Wat is AI?"
     ]
   },
   {
     "objectID": "inleiding/lubach.html",
     "href": "inleiding/lubach.html",
-    "title": "Lubach: AI & Fake News",
+    "title": "Lubach over AI",
     "section": "",
-    "text": "Arjen Lubach besteedt regelmatig aandacht aan de maatschappelijke gevolgen van AI. In dit item gaat hij in op de opkomst van AI-gegenereerde nepnieuws en deepfakes.\n\n\n\n\n Terug naar boven",
+    "text": "Arjen Lubach besteedt regelmatig aandacht aan de maatschappelijke gevolgen van AI. Hieronder een kleine selectie.",
     "crumbs": [
       "Over deze module",
-      "Lubach: AI & Fake News"
+      "Lubach over AI"
     ]
   },
   {
@@ -763,7 +763,7 @@
     "href": "inleiding/jaws-effect.html",
     "title": "Het Jaws Effect voor AI",
     "section": "",
-    "text": "Media en beeldvorming spelen een enorme rol in hoe we naar nieuwe technologie kijken. Professor Marcel Bullinga heeft het in dit verband over het “Jaws Effect”.\n\n[!TIP] Net zoals de film Jaws ervoor zorgde dat mensen bang werden voor de zee (terwijl de kans op een haaienaanval minimaal is), zorgen sciencefictionfilms en sensationele krantenkoppen voor een vertekend beeld van de risico’s en mogelijkheden van AI.\n\n\n(Noot: Dezelfde NOS op 3 video wordt hier contextueel gebruikt om de hype vs de werkelijkheid te duiden.)\n\n\n\n Terug naar boven",
+    "text": "Je zou kunnen stellen dat ook AI last heeft van het Jaws effect. Onderzoek toonde aan dat het, onterecht, negatieve beeld dat mensen hebben van haaien terug te leiden is naar het gegeven dat haaien in de meeste films als slecht, bloeddorstig of gevaarlijk worden neergezet. Finding Dory was daar een positieve uitzondering op.\nTerwijl in werkelijkheid de haaien veel meer van ons te duchten hebben dan andersom. Ter vergelijking: jaarlijks zijn er wereldwijd zo’n 10 doden te betreuren als gevolg van aanvallen door haaien. Omgekeerd worden er per jaar 1 miljoen haaien door de mens gedood. En dat terwijl het een heel belangrijk dier is voor ons ecosysteem!",
     "crumbs": [
       "Over deze module",
       "Het Jaws Effect voor AI"
@@ -774,7 +774,7 @@
     "href": "inleiding/data-ondersteund-onderwijs.html",
     "title": "Data-ondersteund onderwijs",
     "section": "",
-    "text": "Het is opvallend hoe weinig er is veranderd in het onderwijs in dertig jaar tijd. Dat is de kernboodschap in de eerste dertig seconden van deze video van Learning Analytics.\n\nIn deze video wordt de noodzaak voor data-ondersteund onderwijs toegelicht.\n\n\n\n\n Terug naar boven",
+    "text": "Inleidende video over het onderwerp Data ondersteund onderwijs uit 2022 (pre-ChatGPT). Doelgroep was leidinggevenden in het onderwijs en de video geeft een overzicht van de relatie tussen data-ondersteund onderwijs, studiedata, learning analytics en kunstmatige intelligentie (AI).\n\nItems die je kunt bekijken:\n\nItem op nos.nl over het boek Homo Deus van Yuval Noah Harari\nAflevering van VPRO Tegenlicht over het boek Frictie van Miriam Rasch\nWebsite van de NL AI Coalitie\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Data-ondersteund onderwijs"
@@ -1535,7 +1535,7 @@
     "href": "colofon.html",
     "title": "Over deze module",
     "section": "",
-    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\n\n\n\nDeze module verzamelt op dit moment geen gebruiksinformatie ten behoeve van (anonieme) gebruiksanalyse.\nEr wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehorende privacybeleid deze pagina.\n\n\n\nJe kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
+    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\n\n\nDeze module verzamelt op dit moment geen gebruiksinformatie ten behoeve van (anonieme) gebruiksanalyse.\nEr wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehorende privacybeleid deze pagina.\n\n\n\nJe kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving. De download komt er zo spoedig mogelijk aan.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
   },
   {
     "objectID": "colofon.html#privacy",
@@ -1549,7 +1549,7 @@
     "href": "colofon.html#zelf-hosten-in-je-leeromgeving",
     "title": "Over deze module",
     "section": "",
-    "text": "Je kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving."
+    "text": "Je kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving. De download komt er zo spoedig mogelijk aan."
   },
   {
     "objectID": "colofon.html#creative-commons-licentie",
@@ -1636,7 +1636,7 @@
     "href": "inleiding/ai-onderwijs-2025.html",
     "title": "AI in het onderwijs (2025)",
     "section": "",
-    "text": "De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie binnen het mbo in januari 2025.",
+    "text": "De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "AI in het onderwijs (2025)"
@@ -1656,12 +1656,12 @@
   {
     "objectID": "inleiding/creativiteit.html",
     "href": "inleiding/creativiteit.html",
-    "title": "Is AI dodelijk voor creativiteit?",
+    "title": "Is AI slecht voor je creativiteit?",
     "section": "",
-    "text": "Lector dr. Bert-Jan van Beijnum onderzoekt de menskant van AI. Een veelgehoorde angst is dat AI de menselijke creativiteit overbodig maakt of zelfs doodt.\nIn dit interview wordt dieper ingegaan op de samenwerking tussen mens en machine.\n\n\n\n\n Terug naar boven",
+    "text": "Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.",
     "crumbs": [
       "Over deze module",
-      "Is AI dodelijk voor creativiteit?"
+      "Is AI slecht voor je creativiteit?"
     ]
   },
   {
@@ -1680,7 +1680,7 @@
     "href": "inleiding/klokhuis.html",
     "title": "Het Klokhuis over AI",
     "section": "",
-    "text": "Het Klokhuis legt complexe onderwerpen vaak heel helder uit. In deze aflevering staat Kunstmatige Intelligentie centraal.\n\n\n\n\n Terug naar boven",
+    "text": "Klokhuis is zeker niet alleen voor kinderen. Kijk maar eens naar de afleveringen over AI die ze in 2024 maakten. De inleidende aflevering:\n\n\nDeel 2: AI boodschappenservice\nDeel 3: AI en taal\nDeel 4: AI en beeld\nDeel 5: AI volgt jou\n\nEn nog veel meer is te vinden op hun Klokhuis over AI pagina.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Het Klokhuis over AI"
@@ -1689,23 +1689,23 @@
   {
     "objectID": "inleiding/nos-op-3.html",
     "href": "inleiding/nos-op-3.html",
-    "title": "NOS op 3: De race om AI",
+    "title": "NOS op 3 over AI",
     "section": "",
-    "text": "De wereld van AI verandert razendsnel. NOS op 3 onderzoekt de ‘race’ tussen de grote technologiereuzen en wat dit betekent voor ons allemaal.",
+    "text": "De wereld van AI verandert razendsnel. NOS op 3 maakte de afgelopen jaren meerdere interessante filmpjes over de verschillende ontwikkelingen. Hieronder een selectie.",
     "crumbs": [
       "Over deze module",
-      "NOS op 3: De race om AI"
+      "NOS op 3 over AI"
     ]
   },
   {
     "objectID": "inleiding/nos-op-3.html#de-race-om-ai",
     "href": "inleiding/nos-op-3.html#de-race-om-ai",
-    "title": "NOS op 3: De race om AI",
+    "title": "NOS op 3 over AI",
     "section": "De race om AI",
-    "text": "De race om AI",
+    "text": "De race om AI\nMoeten we bang zijn voor AI? En wat betekent de race om AI voor ons allemaal?",
     "crumbs": [
       "Over deze module",
-      "NOS op 3: De race om AI"
+      "NOS op 3 over AI"
     ]
   },
   {
@@ -2581,6 +2581,116 @@
     "crumbs": [
       "Over deze module",
       "Wav2Lip – Lipsync met AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/nos-op-3.html#nos-stories-ai-in-de-klas",
+    "href": "inleiding/nos-op-3.html#nos-stories-ai-in-de-klas",
+    "title": "NOS op 3 over AI",
+    "section": "NOS Stories: AI in de klas",
+    "text": "NOS Stories: AI in de klas\nNOS Stories zocht uit hoe leerlingen en studenten AI gebruiken voor hun huiswerk en wat docenten daarvan vinden.",
+    "crumbs": [
+      "Over deze module",
+      "NOS op 3 over AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/nos-op-3.html#nos-op-3-hoe-jij-gratis-ai-traint",
+    "href": "inleiding/nos-op-3.html#nos-op-3-hoe-jij-gratis-ai-traint",
+    "title": "NOS op 3 over AI",
+    "section": "NOS op 3: Hoe jij (gratis) AI traint",
+    "text": "NOS op 3: Hoe jij (gratis) AI traint\nTrainen van AI kost veel werk. En dat werk wordt gedaan door mensen. In deze video wordt uitgelegd hoe dat zit.",
+    "crumbs": [
+      "Over deze module",
+      "NOS op 3 over AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/nos-op-3.html#nos-op-3-ben-jij-straks-werkloos-door-ai",
+    "href": "inleiding/nos-op-3.html#nos-op-3-ben-jij-straks-werkloos-door-ai",
+    "title": "NOS op 3 over AI",
+    "section": "NOS op 3: Ben jij straks werkloos door AI?",
+    "text": "NOS op 3: Ben jij straks werkloos door AI?\nIn deze video van begin 2023 gaat NOS in op generatieve AI op een moment dat we nog weinig wisten over wat er zou gaan kunnen.",
+    "crumbs": [
+      "Over deze module",
+      "NOS op 3 over AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/lubach.html#is-het-onderwijs-nog-te-redden",
+    "href": "inleiding/lubach.html#is-het-onderwijs-nog-te-redden",
+    "title": "Lubach over AI",
+    "section": "Is het onderwijs nog te redden?",
+    "text": "Is het onderwijs nog te redden?",
+    "crumbs": [
+      "Over deze module",
+      "Lubach over AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/lubach.html#is-ai-een-bubbel",
+    "href": "inleiding/lubach.html#is-ai-een-bubbel",
+    "title": "Lubach over AI",
+    "section": "Is AI een bubbel?",
+    "text": "Is AI een bubbel?",
+    "crumbs": [
+      "Over deze module",
+      "Lubach over AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/lubach.html#kaen-hao-over-ai",
+    "href": "inleiding/lubach.html#kaen-hao-over-ai",
+    "title": "Lubach over AI",
+    "section": "Kaen Hao over AI",
+    "text": "Kaen Hao over AI",
+    "crumbs": [
+      "Over deze module",
+      "Lubach over AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/lubach.html#karen-hao-over-ai",
+    "href": "inleiding/lubach.html#karen-hao-over-ai",
+    "title": "Lubach over AI",
+    "section": "Karen Hao over AI",
+    "text": "Karen Hao over AI",
+    "crumbs": [
+      "Over deze module",
+      "Lubach over AI"
+    ]
+  },
+  {
+    "objectID": "inleiding/creativiteit.html#hoedan-npo3-verlies-ik-mijn-creativiteit-door-ai",
+    "href": "inleiding/creativiteit.html#hoedan-npo3-verlies-ik-mijn-creativiteit-door-ai",
+    "title": "Is AI slecht voor je creativiteit?",
+    "section": "",
+    "text": "Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.",
+    "crumbs": [
+      "Over deze module",
+      "Is AI slecht voor je creativiteit?"
+    ]
+  },
+  {
+    "objectID": "inleiding/creativiteit.html#creativity-in-the-age-of-ai",
+    "href": "inleiding/creativiteit.html#creativity-in-the-age-of-ai",
+    "title": "Is AI slecht voor je creativiteit?",
+    "section": "Creativity in the Age of AI",
+    "text": "Creativity in the Age of AI\nBetekent AI het einde van creativiteit? Zorgt het gemak waarmee iedereen (ogenschijnlijk) een afbeelding, video, tekst kan (na-)maken er voor dat we straks verzuipen in een slap aftreksel van echte menselijke creativiteit? Het innovatielab van IKEA (SPACE10) maakte in samenwerking met Joss Fong en Aron Filkey, 3 jaar geleden alweer, een korte animatiefilm waarin ze stil staan bij die vraag.",
+    "crumbs": [
+      "Over deze module",
+      "Is AI slecht voor je creativiteit?"
+    ]
+  },
+  {
+    "objectID": "inleiding/jaws-effect.html#beeldvorming",
+    "href": "inleiding/jaws-effect.html#beeldvorming",
+    "title": "Het Jaws Effect voor AI",
+    "section": "Beeldvorming",
+    "text": "Beeldvorming\nNet als bij die haaien hebben veel mensen een negatief beeld van AI of van robots door wat ze erover in films gezien hebben. Logisch, want zoals de meeste mensen nog nooit een haai in het echt of in het water gezien hebben, en geloof me: het zijn prachtige beesten om te zien, zo hebben ze vaak ook nog geen robots of bewust AI meegemaakt in het echt. Kijk maar eens naar onderstaande video die ik maakte tijdens een duik met een blauwe haai op de Azoren.\n\nEn inmiddels kan ik ook video’s laten zien van haaien op de Malediven.\n\nEn hamerhaaien bij Moquera bij de Galagapos Eilanden.\n\nEn okay, áls je dan toch ergens bang van moet zijn. Dan in ieder geval niet van de haaien!",
+    "crumbs": [
+      "Over deze module",
+      "Het Jaws Effect voor AI"
     ]
   }
 ]

@@ -1,11 +1,20 @@
 ---
-title: "Is AI dodelijk voor creativiteit?"
+title: "Is AI slecht voor je creativiteit?"
 lang: nl
 sidebar: id-inleiding
 ---
 
-Lector dr. Bert-Jan van Beijnum onderzoekt de menskant van AI. Een veelgehoorde angst is dat AI de menselijke creativiteit overbodig maakt of zelfs doodt.
 
-In dit interview wordt dieper ingegaan op de samenwerking tussen mens en machine.
+## Hoedan NPO3: Verlies ik mijn creativiteit door AI? 
 
-{{< video https://www.youtube.com/embed/N-OiaW-j_P8 >}}
+Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.
+
+{{< video https://youtu.be/KA_tOaZLHL8?si=8TaJutLxDk_WGt_q >}}
+
+
+## Creativity in the Age of AI
+
+Betekent AI het einde van creativiteit? Zorgt het gemak waarmee iedereen (ogenschijnlijk) een afbeelding, video, tekst kan (na-)maken er voor dat we straks verzuipen in een slap aftreksel van echte menselijke creativiteit?
+Het innovatielab van IKEA (SPACE10) maakte in samenwerking met Joss Fong en Aron Filkey, 3 jaar geleden alweer, een korte animatiefilm waarin ze stil staan bij die vraag. 
+
+{{< video https://youtu.be/y7g-nRooZr8?si=JbDbfXc9Inf0oCt1 >}}

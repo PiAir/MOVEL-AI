@@ -1,6 +1,7 @@
 ---
 title: "Over deze module"
 lang: nl
+sidebar: id-default
 ---
 
 # Realisatie en licentie
@@ -8,7 +9,7 @@ lang: nl
 Deze module is initieel in 2023 ontwikkeld door [Pierre Gorissen](https://www.ixperium.nl/over-ons/medewerkers/pierre-gorissen/) en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content.
 De eerste versie van de module zijn gemaakt in de open source leeromgeving [Xerte](https://xerte.org.uk/index.php/en/). De inhoud van de module is in 2026 geconverteerd naar [Quarto](https://quarto.org/), een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.
 
-{{< video https://youtu.be/wZ9pZOFSCko?si=eynbx3O_F-4nTg8y >}}
+
 
 ## Privacy
 
@@ -18,7 +19,7 @@ Er wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehore
 
 ## Zelf hosten in je leeromgeving
 
-Je kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving.
+Je kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving. De download komt er zo spoedig mogelijk aan.
 
 ## Creative Commons Licentie
 

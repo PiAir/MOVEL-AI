@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="webex.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-sidebar docked nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -104,10 +104,89 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Schakel zijbalknavigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Over deze module</li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Schakel zijbalknavigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Zoeken" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Zoeken"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./start-hier/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">♥ Start hier</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./inleiding/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inleiding</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ai-geletterdheid/" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AI-geletterdheid</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./voorbeelden/" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Voorbeelden van AI</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ai-in-het-onderwijs/" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AI in het onderwijs</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./de-mens-en-ai/" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">De mens en AI</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ai-in-de-film/" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AI in de film</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./toets-jezelf.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Test Jezelf!</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -149,7 +228,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="realisatie-en-licentie" class="level1">
 <h1>Realisatie en licentie</h1>
 <p>Deze module is initieel in 2023 ontwikkeld door <a href="https://www.ixperium.nl/over-ons/medewerkers/pierre-gorissen/">Pierre Gorissen</a> en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving <a href="https://xerte.org.uk/index.php/en/">Xerte</a>. De inhoud van de module is in 2026 geconverteerd naar <a href="https://quarto.org/">Quarto</a>, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/wZ9pZOFSCko?si=eynbx3O_F-4nTg8y" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <section id="privacy" class="level2">
 <h2 class="anchored" data-anchor-id="privacy">Privacy</h2>
 <p>Deze module verzamelt op dit moment geen gebruiksinformatie ten behoeve van (anonieme) gebruiksanalyse.</p>
@@ -157,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="zelf-hosten-in-je-leeromgeving" class="level2">
 <h2 class="anchored" data-anchor-id="zelf-hosten-in-je-leeromgeving">Zelf hosten in je leeromgeving</h2>
-<p>Je kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving.</p>
+<p>Je kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving. De download komt er zo spoedig mogelijk aan.</p>
 </section>
 <section id="creative-commons-licentie" class="level2">
 <h2 class="anchored" data-anchor-id="creative-commons-licentie">Creative Commons Licentie</h2>

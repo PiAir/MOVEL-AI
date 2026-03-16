@@ -4,10 +4,16 @@ lang: nl
 sidebar: id-inleiding
 ---
 
-Het is opvallend hoe weinig er is veranderd in het onderwijs in dertig jaar tijd. Dat is de kernboodschap in de eerste dertig seconden van deze video van [Learning Analytics](https://www.learninganalytics.nl/).
+Inleidende video over het onderwerp Data ondersteund onderwijs uit 2022 (pre-ChatGPT). Doelgroep was leidinggevenden in het onderwijs en de video geeft een overzicht van de relatie tussen data-ondersteund onderwijs, studiedata, learning analytics en kunstmatige intelligentie (AI).
+
+{{< video https://youtu.be/ZFHQnVZ6T1o?si=miS1KF6DuwIP8wSY>}}
+
+Items die je kunt bekijken:
+
+- [Item op nos.nl over het boek Homo Deus van Yuval Noah Harari](https://nos.nl/nieuwsuur/artikel/2170543-homo-deus-na-god-en-de-mens-bepalen-algoritmen-straks-alles)
+- [Aflevering van VPRO Tegenlicht over het boek Frictie van Miriam Rasch](https://www.npostart.nl/vpro-tegenlicht/24-01-2021/VPWON_1322203)
+- [Website van de NL AI Coalitie](https://nlaic.com/)
+
 
 ![](media/data-ondersteund-onderwijs.png){.img-fluid .rounded}
 
-In deze video wordt de noodzaak voor data-ondersteund onderwijs toegelicht.
-
-{{< video https://www.youtube.com/embed/nU6bOfu45nU >}}

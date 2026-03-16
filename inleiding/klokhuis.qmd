@@ -4,6 +4,14 @@ lang: nl
 sidebar: id-inleiding
 ---
 
-Het Klokhuis legt complexe onderwerpen vaak heel helder uit. In deze aflevering staat Kunstmatige Intelligentie centraal.
+Klokhuis is zeker niet alleen voor kinderen. Kijk maar eens naar de afleveringen over AI die ze in 2024 maakten. De inleidende aflevering:
 
-{{< video https://www.youtube.com/embed/yQG812_q6tY >}}
+{{< video https://www.youtube.com/watch?v=xHcv99wuUwA >}}
+
+
+- Deel 2: [AI boodschappenservice](https://www.youtube.com/watch?v=pmtilGJ5VrA)
+- Deel 3: [AI en taal](https://www.youtube.com/watch?v=tiuWzQcOWRU)
+- Deel 4: [AI en beeld](https://www.youtube.com/watch?v=duywykgKyD0)
+- Deel 5: [AI volgt jou](https://www.youtube.com/watch?v=k3dGKNskf0k)
+
+En nog veel meer is te vinden op hun [Klokhuis over AI](https://www.klokhuis.nl/programma/ai/) pagina.
