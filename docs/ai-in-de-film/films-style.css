@@ -1,0 +1,4 @@
+/* Verberg de originele automatische titel van quarto bovenaan de pagina */
+header.quarto-title-block {
+    display: none;
+}

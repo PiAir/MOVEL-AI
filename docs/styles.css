@@ -1,0 +1,190 @@
+/* Verberg lege label kolommen in listing grids zodat waarden netjes links uitlijnen */
+.quarto-grid-item .card-other-values td:first-child {
+    display: none !important;
+}
+
+/* Quiz Styling */
+.webex-group {
+    background: #fdfdfd;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    margin: 2rem 0;
+    border: 1px solid #edf2f7;
+}
+
+.webex-question {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.webex-question:hover {
+    border-color: #3b82f6;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.1);
+}
+
+.webex-question p {
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+    color: #1a202c;
+    font-size: 1.1rem;
+}
+
+/* Feedback / Solution Box */
+.webex-solution {
+    display: none;
+    background: #f0f7ff;
+    padding: 1.5rem;
+    border: 1px solid #bfdbfe;
+    border-left: 5px solid #3b82f6;
+    border-radius: 8px;
+    margin-top: 1.5rem;
+    font-size: 0.95rem;
+    animation: slideDown 0.3s ease-out;
+}
+
+.webex-solution.visible {
+    display: block !important;
+}
+
+.webex-solution::before {
+    content: "Feedback & Uitleg";
+    display: block;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    color: #3b82f6;
+    margin-bottom: 0.75rem;
+}
+
+/* Label feedback bullets as A, B, C... */
+.webex-solution ul {
+    list-style-type: upper-alpha !important;
+    padding-left: 1.5rem !important;
+}
+
+.webex-solution ul li {
+    margin-bottom: 0.75rem;
+    padding-left: 0.5rem;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.webex-solution p {
+    font-weight: 400;
+    color: #2d3748;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Ensure checkboxes and text are on the same line */
+.webex-question label {
+    display: flex !important;
+    align-items: flex-start !important;
+    gap: 12px;
+    cursor: pointer;
+    margin: 0.5rem 0 !important;
+    padding: 0.5rem;
+    border-radius: 6px;
+    transition: background 0.2s;
+}
+
+.webex-question label:hover {
+    background: #f8fafc;
+}
+
+.webex-question input[type="radio"],
+.webex-question input[type="checkbox"] {
+    margin-top: 4px !important;
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
+}
+
+/* Button list styling */
+.webex-button-list {
+    margin-top: 1.5rem;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.webex-button {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 8px !important;
+    padding: 0.5rem 1rem !important;
+    font-weight: 500 !important;
+    transition: all 0.2s !important;
+    line-height: 1 !important;
+    min-height: 40px;
+}
+
+.webex-button b {
+    display: inline-block;
+    line-height: 1;
+}
+
+.webex-button-check {
+    background-color: #3b82f6 !important;
+    color: white !important;
+}
+
+.webex-button-check:hover {
+    background-color: #2563eb !important;
+}
+
+.content img {
+    max-height: 300px;
+    width: auto;
+    margin-left: 0;
+    margin-right: auto;
+    display: block;
+    cursor: zoom-in;
+}
+
+/* Toon handje bij afbeeldingen met een link (behalve bij lightboxes) */
+.content a:not(.lightbox) img,
+.content a:not(.lightbox):has(img) {
+    cursor: pointer !important;
+}
+
+/* Voorkom dat afbeeldingen in listings (zoals de YT-grid) uit hun kader breken */
+.quarto-grid-item img,
+.quarto-listing-grid img,
+.card-img-top {
+    max-width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+}
+
+/* Forceer links-uitlijning bij Quarto figuren die standaard vaak gecentreerd worden */
+.quarto-figure-center,
+.quarto-figure {
+    text-align: left !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+.custom-listing .list-item {
+    padding: 20px;
+}
