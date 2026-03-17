@@ -1,29 +1,11 @@
 [
   {
-    "listing": "/ai-in-het-onderwijs/index.html",
-    "items": [
-      "/ai-in-het-onderwijs/china-voorbeeld.html",
-      "/ai-in-het-onderwijs/feedbackfruits.html",
-      "/ai-in-het-onderwijs/gradescope.html",
-      "/ai-in-het-onderwijs/lessonup.html",
-      "/ai-in-het-onderwijs/magicschool-ai.html",
-      "/ai-in-het-onderwijs/nolai.html",
-      "/ai-in-het-onderwijs/npuls.html",
-      "/ai-in-het-onderwijs/onzichtbare-ai.html",
-      "/ai-in-het-onderwijs/snappet-copilot.html"
-    ]
-  },
-  {
-    "listing": "/ai-geletterdheid/experimenteren.html",
-    "items": []
-  },
-  {
     "listing": "/ai-in-de-film/index.html",
     "items": [
       "/ai-in-de-film/films/m3gan.html",
       "/ai-in-de-film/films/after-yang.html",
       "/ai-in-de-film/films/finch.html",
-      "/ai-in-de-film/films/ich-bon-dein-mensch.html",
+      "/ai-in-de-film/films/ich-bin-dein-mensch.html",
       "/ai-in-de-film/films/blade-runner-2049.html",
       "/ai-in-de-film/films/ex-machina.html",
       "/ai-in-de-film/films/her.html",
@@ -39,6 +21,24 @@
       "/ai-in-de-film/films/2001-a-space-odyssey.html",
       "/ai-in-de-film/films/metropolis.html",
       "/ai-in-de-film/films/gugusse-et-lautomate.html"
+    ]
+  },
+  {
+    "listing": "/ai-geletterdheid/experimenteren.html",
+    "items": []
+  },
+  {
+    "listing": "/ai-in-het-onderwijs/index.html",
+    "items": [
+      "/ai-in-het-onderwijs/china-voorbeeld.html",
+      "/ai-in-het-onderwijs/feedbackfruits.html",
+      "/ai-in-het-onderwijs/gradescope.html",
+      "/ai-in-het-onderwijs/lessonup.html",
+      "/ai-in-het-onderwijs/magicschool-ai.html",
+      "/ai-in-het-onderwijs/nolai.html",
+      "/ai-in-het-onderwijs/npuls.html",
+      "/ai-in-het-onderwijs/onzichtbare-ai.html",
+      "/ai-in-het-onderwijs/snappet-copilot.html"
     ]
   }
 ]

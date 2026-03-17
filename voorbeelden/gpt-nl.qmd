@@ -1,0 +1,21 @@
+---
+title: "GPT-NL"
+lang: nl
+sidebar: id-voorbeelden
+---
+
+![gpt-nl website](media/screenshot-gpt-nl.png){.img-fluid .rounded}
+
+GPT-NL is een publiek gefinancierd initiatief (13,5 miljoen euro via RVO/EZK) om een eigen, transparant ecosysteem voor Nederland te creëren.
+
+GPT-NL onderscheidt zich van commerciële modellen door een focus op de Nederlandse taal en cultuur:
+
+- Soevereiniteit: Vermindert de afhankelijkheid van buitenlandse partijen en versterkt de digitale positie van Europa.
+- Transparantie: Openheid over keuzes in datacuratie, het trainingsproces en ethische kaders (voorkomen van bias).
+- Betrouwbaarheid: Gebruik van kwalitatieve, rechtmatig verkregen data.
+- Wederkerigheid: Een deel van de opbrengsten vloeit terug naar de auteursrechthebbenden van de gebruikte trainingsdata.
+
+
+In tegenstelling tot veel 'black box' modellen, maakt GPT-NL de onderliggende techniek inzichtelijk. Dit stelt organisaties in staat om te innoveren binnen veilige, juridische en ethische kaders die passen bij de Nederlandse waarden. De broncode en data komen open source publiek toegankelijke, de modelgewichten kom en op aanvraag en tegen een vergoeding (bij commercieel gebruik) beschikbaar.
+
+Op dit moment (voorjaar 2026) kun je GPT-NL nog niet zelf testen. [Meer informatie vind je op de website van GPT-NL](https://gpt-nl.org/).
