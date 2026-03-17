@@ -4,23 +4,23 @@ lang: nl
 sidebar: id-ai-geletterdheid
 ---
 
-## Kerndoelen digitale geletterdheid (PO en VO)
+## Kerndoelen digitale geletterdheid
+
+De nieuwe [kerndoelen digitale geletterdheid](https://www.slo.nl/onderwerpen/onderwijsinhoud/kerndoelen/kerndoelen-digitale-geletterdheid) voor het primair onderwijs en (de onderbouw van) het voortgezet onderwijs zijn vastgesteld en worden vanaf 2027 verplicht. 
 
 ![](media/kerndoelen-dg.png){.img-fluid .rounded}
 
-De nieuwe [kerndoelen digitale geletterdheid voor het primair- en voortgezet onderwijs](https://www.slo.nl/onderwerpen/onderwijsinhoud/kerndoelen/kerndoelen-digitale-geletterdheid) zijn vastgesteld en worden vanaf 2027 verplicht. 
-
 In deze kerndoelen komt kunstmatige intelligentie nu expliciet voor. Dat is een belangrijke ontwikkeling, want het betekent dat aandacht voor de AI-geletterdheid van leerlingen op termijn, via de kerndoelen, een plek in het primair- en voortgezet onderwijs krijgt.
 
-## DigComp 3.0 (mbo en hoger onderwijs)
+## DigComp 3.0 
 
-Voor het Nederlands mbo en hoger onderwijs is er geen sprake van een verplicht competentieprofiel met eindtermen. Een bruikbaar raamwerk is het **Digital Competence for European Citizens 3.0 (DigComp)**. Hierin is veel aandacht voor de rol van kunstmatige intelligentie binnen de verschillende competenties.
+Voor het mbo en het hoger onderwijs is er geen sprake van een verplicht competentieprofiel met eindtermen. Een bruikbaar raamwerk is het **Digital Competence for European Citizens 3.0 (DigComp)**. Hierin is veel aandacht voor de rol van kunstmatige intelligentie binnen de verschillende competenties.
 
 Het iXperium heeft een Nederlandse vertaling gemaakt van [versie 2.2](https://www.ixperium.nl/onderzoeken-en-ontwikkelen/publicaties/digcomp-2-2/). De vertaling van versie 3.0 volgt in 2026. Je kunt het raamwerk in het Engels nu al [downloaden](https://publications.jrc.ec.europa.eu/repository/handle/JRC135050) en de voortgang van de vertaling van 3.0 [online volgen](https://github.com/PiAir/digcomp3-l10n).
 
 ![DigComp 2.2 — Nederlandse vertaling door iXperium](media/digcomp22-nl.png)
 
-In dit raamwerk komt in beide versies geen apart competentiegebied "AI" voor, maar zit de AI-geletterdheid in de vorm van gedragsindicatoren in **bijna alle competenties** geïntegreerd. Dat is bewust: AI is geen losstaand thema, maar verweven met informatievaardigheden, communicatie, veiligheid en probleemoplossing. Versie 3.0 heeft hier nog meer aandacht voor dan versie 2.2.
+In dit raamwerk komt in beide versies geen apart competentiegebied AI voor, maar zit de AI-geletterdheid in de vorm van gedragsindicatoren in bijna alle competenties geïntegreerd. Dat is bewust: AI is geen losstaand thema, maar verweven met informatievaardigheden, communicatie, veiligheid en probleemoplossing. Versie 3.0 heeft hier nog meer aandacht voor dan versie 2.2.
 
 ::: {.callout-note}
 ## Vijf competentiegebieden in DigComp 2.2 en 3.0
@@ -31,3 +31,6 @@ In dit raamwerk komt in beide versies geen apart competentiegebied "AI" voor, ma
 4. **Veiligheid** — apparaten, privacy, gezondheid, milieu en AI-risico's
 5. **Problemen oplossen** — technische problemen, creatief gebruik en bijblijven in een veranderende digitale wereld
 :::
+
+DigComp is een raamwerk, het is geen leerplan, geen kookboek maar een startpunt voor het vormgeven van je eigen curriculum. Welke onderdelen waar, voor welke studenten, als verplicht onderdeel of optioneel opgenomen worden, dat bepalen opleidingen zelf. Wat **moet** is dan niet afhankelijk van wat de wetgever voorschrijft, maar van wat de opleiding nodig vindt om studenten voldoende AI-geletterd te maken *voor leven, leren en werken*!
+ 

@@ -22,6 +22,15 @@ En je hoeft het niet alleen te doen. Er is best al veel professionalisering besc
 
 Hieronder vind je een aantal verwijzingen naar online cursussen en materialen — van introductieniveau tot heel erg technisch. Het is **niet** zo dat je van al die dingen kennis moet hebben of met al die zaken aan de slag moet. Als docent hoef je niet zelf chatbots of adaptieve leersystemen te kunnen bouwen. Als student ook niet. De links zijn er om je een idee te geven van de omvang van het domein. Welk stukje daarvan jij het eerst gaat ontdekken is aan jou.
 
+::: {.callout-caution}
+
+Let op! Experimenteren met AI kan risico's met zich meebrengen. Wees voorzichtig met het installeren van zaken. Dus niet zomaar met OpenClaw aan de slag op je werklaptop!
+Meer praktisch: geen persoonsgegevens, geen werkstukken van studenten uploaden naar systemen waar je niet van weet of je organisatie een overeenkomst heeft met de provider over het gebruik van die data. 
+
+:::
+
+Op [de pagina met voorbeelden](../voorbeelden/) vind je nog een aantal voorbeelden van applicaties en omgevingen waar je mee kunt experimenteren.
+
 ## AI-cursus voor het onderwijs
 
 De gratis [online AI voor onderwijs cursus](https://onderwijs.ai-cursus.nl/home) richt zich op leraren en docenten uit het funderend onderwijs, maar bevat ook onderwerpen die als inleiding voor anderen relevant zijn.
@@ -44,7 +53,7 @@ Het gratis online leerprogramma "AI-Certified" is een initiatief dat erop gerich
 
 ## MIT Responsible AI for Social Empowerment and Education (RAISE)
 
-Een enorme hoeveelheid lesmaterialen rond AI.
+Een enorme hoeveelheid lesmaterialen rond AI als je het niet erg vindt om in het Engels te lezen.
 
 ![Everyday AI](media/screenshot-mit-everyday-ai.png)
 
@@ -70,7 +79,7 @@ Wil je liever lezen? Dat kan ook [op de website van 3Blue1Brown](https://www.3bl
 
 ![](media/screenshot-wilfred_rubens.png)
 
-Dé bron van informatie over wat er sinds november 2022 over ChatGPT en aanverwante technologieën gepubliceerd is, is ongetwijfeld [het blog van Wilfred Rubens](https://te-learning.nl/tag/artificiele-intelligentie/).
+Dé bron van informatie over wat er sinds november 2022 over ChatGPT en aanverwante technologieën gepubliceerd is, is ongetwijfeld [het blog van Wilfred Rubens](https://te-learning.nl/tag/artificiele-intelligentie/). De info is laagdrempelig en overzichtelijk en alleen al vanwege de hoeveelheid tijd die hij er dagelijks insteekt verdiend hij hier een shoutout voor.
 
 ## Deep Dive: YouTube-kanalen
 

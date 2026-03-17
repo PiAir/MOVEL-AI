@@ -49,7 +49,21 @@ website:
            text: Inleiding
          - href: inleiding/wat-is-ai.qmd         
            text: Wat is AI?
-         - auto: "inleiding/*.qmd"
+         - href: inleiding/ai-onderwijs-2025.qmd
+           text: AI in het onderwijs
+         - href: inleiding/ai-overheid.qmd
+           text: AI bij de overheid
+         - href: inleiding/jaws-effect.qmd
+           text: Het Jaws-effect van AI
+         - href: inleiding/klokhuis.qmd
+           text: Het Klokhuis over AI
+         - href: inleiding/lubach.qmd
+           text: Lubach over AI
+         - href: inleiding/nos-op-3.qmd
+           text: NOS op 3 over AI  
+         - href: inleiding/creativiteit.qmd
+           text: Is AI slecht voor je creativiteit?
+
 
      - id: id-de-mens-en-ai
        style: "docked"

@@ -6,6 +6,8 @@ sidebar: id-default
 
 Welkom bij deze online module over AI en Onderwijs. Deze module is onderdeel van de [HAN Master Ontwerpen Van Eigentijds Leren](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/) (MOVEL).
 
-Gebruik het menu aan de linkerkant om door de verschillende onderwerpen te navigeren. Veel plezier met het ontdekken van AI en Onderwijs!
+Gebruik het menu aan de linkerkant om door de verschillende onderwerpen te navigeren. De **[♥ Start hier](start-hier/)** link leidt je door de module.
 
 ![](media/MOVEL-AI-2025-2026_banner.png)
+
+Veel plezier met het ontdekken van AI en Onderwijs!

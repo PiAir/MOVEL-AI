@@ -6,26 +6,34 @@ sidebar: id-ai-geletterdheid
 
 ![](media/ai-geletterdheid-nano-banana.jpg){.lightbox height="200px"}
 
-Sinds de [AI Act](https://artificialintelligenceact.eu/nl/) in werking begint te treden, kom je het begrip **AI-geletterdheid** een stuk vaker in het nieuws en online tegen. Het is het vermogen om AI te begrijpen, kritisch te evalueren en effectief in te zetten in verschillende contexten.
-De vraag "Wat moeten docenten en studenten weten over AI?" is ook zonder wetgeving relevant.
+Sinds de [AI Act](https://artificialintelligenceact.eu/nl/) in werking begint te treden, kom je het begrip **AI-geletterdheid** een stuk vaker in het nieuws en online tegen. Maar de vraag "Wat moeten docenten en studenten weten over AI?" is ook zonder wetgeving relevant.
 
-We maken daarbij onderscheid tussen de [docentcompetenties](docentcompetenties.qmd), de [studentcompetenties](studentcompetenties.qmd) en de [competenties van leidinggevenden](leidinggevendencompetenties.qmd).
+We maken binnen deze module onderscheid tussen de [docentcompetenties](docentcompetenties.qmd), de [studentcompetenties](studentcompetenties.qmd) en de [competenties van leidinggevenden](leidinggevendencompetenties.qmd).
 
 ## Wat is AI-geletterdheid?
 
-Wat AI-geletterdheid precies is wordt beschreven in verschillende raamwerken. De exacte invulling kan verschillen van wie het raamwerk heeft opgesteld en de doelgroep (docenten, studente, leidinggevenden, ondersteuners, etc.). AI-geletterdheid kan gezien worden als een onderdeel van **digitale geletterdheid**, maar dan specifiek gericht op kunstmatige intelligentie. En net als bij digitale geletterdheid gaat het bij AI-geletterdheid niet alleen om het kunnen bedienen of gebruiken van AI. We hebben het over competenties: de combinatie van kennis, vaardigheden en houding. En het gaat om AI-geletterdheid **voor leven, leren en werken**, dus in de schoolse context, maar ook daarbuiten.
+Wat AI-geletterdheid precies is wordt beschreven in verschillende raamwerken. De exacte invulling kan verschillen van wie het raamwerk heeft opgesteld en de doelgroep (docenten, studente, leidinggevenden, ondersteuners, etc.). AI-geletterdheid is de competentie om AI te begrijpen, kritisch te evalueren en effectief in te zetten in verschillende contexten. Binnen iXperium zien we AI-geletterdheid als een 
+een onderdeel van **digitale geletterdheid**, specifiek gericht op kunstmatige intelligentie. En net als bij digitale geletterdheid gaat het bij AI-geletterdheid niet alleen om het kunnen bedienen of gebruiken van AI. Daarom hebben we het over competenties: de combinatie van kennis, vaardigheden en houding. En het gaat om AI-geletterdheid **voor leven, leren en werken**, dus in de schoolse context, maar ook daarbuiten.
 
 Op de pagina over [experimenteren en professionaliseren](experimenteren.qmd) in deze module wordt ingegaan op het belang van ervaring met AI. Het helpt als je een bepaalde hoeveelheid ervaring hebt met wat AI kan en niet kan. Anders wordt het heel moeilijk om in te schatten wat realistisch is en wat mooie verhalen van leveranciers of juist horrorverhalen uit fictionele films en toekomstbeelden zijn. Het helpt je ook om te bepalen of je AI in wilt zetten in je lessen (of bij het leren) en hoe je dat dan zou willen doen.
 
-Maar nadenken over ethische aspecten van AI, de vraag waar je wel of geen AI in wilt zetten, hoe we willen dat onze toekomst er uit gaat zien als de ontwikkelingen rond AI zo door blijven gaan — en daar dan een mening over hebben en formuleren — valt ook onder AI-geletterdheid. Neem daarvoor zeker ook een kijkje bij de sectie [AI in de film](../ai-in-de-film/index.qmd). Films zijn weliswaar fictie, ze kunnen ons helpen bij het dromen over mogelijke toekomsten en ons woorden geven om te beschrijven wat we belangrijk vinden om te behouden.
+Maar nadenken over ethische aspecten van AI, de vraag waar je wel of geen AI in wilt zetten, hoe we willen dat onze toekomst er uit gaat zien als de ontwikkelingen rond AI zo door blijven gaan, en daar dan een mening over hebben en formuleren, valt ook onder AI-geletterdheid.
+Neem daarvoor zeker ook een kijkje bij de sectie [AI in de film](../ai-in-de-film/index.qmd). Films zijn weliswaar fictie, ze kunnen ons helpen bij het dromen over mogelijke toekomsten en ons woorden geven om te beschrijven wat we belangrijk vinden om te behouden.
+
+## Grenzen aan de definitie
+
+Het is ook relevant om te bedenken wat de grenzen van de definitie van AI-geletterdheid zijn. Als we het hebben over *voor leven, leren en werken* dan betekent dat we de competentie niet alleen zien in de context van het leren, maar ook in de context van het leven ('in het wild', voor privézaken) en het werken (ter voorbereiding op dat werk na een studie of opleiding). Voor docenten maken we daarbij dan een extra onderscheid als het gaat om het inzet van ict of AI bij het ontwerpen, uitvoeren en evalueren van onderwijs. Je zou kunnen zeggen dat dat het "werk" van een docent is. Maar omdat dat een dusdanig omvangrijk en op zichzelfstaand deel is, benoemen we dat apart. 
+
+Zie ook de pagina over [docentcompetenties](docentcompetenties.qmd) hiervoor.
 
 ## Achtergrondmateriaal
 
-Dit onderdeel over AI-geletterdheid bevat ook veel achtergrondmateriaal. Soms laagdrempelig, zoals de Crash Course AI of het weblog van Wilfred Rubens, soms heel technisch. Net als andere domeinen is de vraag wat "kennis van" betekent minder eenduidig te beantwoorden dan je denkt. Het hangt er namelijk sterk vanaf wat je met die kennis wilt doen. En zoals in het [colofon](../colofon.qmd) al aangegeven, tips, input en suggesties zijn van harte welkom.
+Deze module bevat veel achtergrondmateriaal. Soms laagdrempelig, zoals de Crash Course AI of het weblog van Wilfred Rubens, soms heel technisch. Dat geldt ook voor de toepassingen die bij [voorbeelden](../voorbeelden/index.qmd) genoemd worden. Natuurlijk is het niet zo dat iedereen die deze module leest, **alles** wat hier genoemd wordt, zou moeten kennen. Net als andere domeinen is de vraag wat *kennis hebben van* betekent minder eenduidig te beantwoorden dan je denkt. Het hangt er namelijk sterk vanaf wat je met die kennis wilt doen.
+En zoals in het [colofon](../colofon.qmd) al aangegeven, tips, input en suggesties op dat vlak om er voor te zorgen dat je niet in paniek raakt van de omvang van dit alles, zijn van harte welkom.
 
-## In dit onderdeel
+## Verder lezen over AI-geletterdheid
 
-- [Docentcompetenties](docentcompetenties.qmd) — wat vraagt AI van leraren en docenten? 
-- [Studentcompetenties](studentcompetenties.qmd) — Kerndoelen en de DigComp
-- [Competenties leidinggevenden](leidinggevendencompetenties.qmd) — de rol van de schoolleider
-- [Experimenteren en professionaliseren](experimenteren.qmd) — verdiepende bronnen
+- [Docentcompetenties](docentcompetenties.qmd) — wat vraagt AI van docenten en leraren? 
+- [Studentcompetenties](studentcompetenties.qmd) — studenten en leerlingen zijn geen digital natives!
+- [Competenties leidinggevenden](leidinggevendencompetenties.qmd) — de rol van de leidinggevende
+- [Experimenteren en professionaliseren](experimenteren.qmd) — aan de slag!
