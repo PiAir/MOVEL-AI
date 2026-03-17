@@ -6,18 +6,16 @@ sidebar: id-voorbeelden
 
 Antigravity is de AI-assistent van het Google DeepMind-team, geoptimaliseerd voor geavanceerde coderingstaken. Het is de assistent waarmee de auteur van deze module heeft samengewerkt bij het bouwen van deze website — inclusief het schrijven van deze pagina.
 
-Antigravity illustreert een nieuwe manier van werken: AI niet alleen als hulp bij het *schrijven*, maar als **actieve bouwpartner** bij het produceren van digitale producten. De auteur beschreef wat hij wilde, Antigravity maakte de bestanden aan, paste de structuur aan, zocht informatie op en stelde verbeteringen voor. De auteur corrigeerde, stuurde bij en nam de eindverantwoordelijkheid.
+Antigravity illustreert een nieuwe manier van werken: AI niet alleen als hulp bij het *schrijven*, maar als actieve bouwpartner bij het produceren van digitale producten. De auteur beschreef wat hij wilde, Antigravity maakte de bestanden aan, paste de structuur aan, zocht informatie op en stelde verbeteringen voor. De auteur corrigeerde, stuurde bij en nam de eindverantwoordelijkheid.
 
 ## Wat maakt dit interessant?
 
-Dit is geen ChatGPT die een tekst schrijft die je daarna kopieert. Dit is een AI die:
+Dit is geen ChatGPT die een tekst schrijft die je daarna kopieert. Dit is een tool (applicatie) die:
 
 -   Bestanden aanmaakt en bewerkt op je computer
 -   Zelfstandig keuzes maakt en die uitlegt
 -   Fouten opspoort en corrigeert
 -   Vragen stelt als iets onduidelijk is
-
-Het raakt aan de vraag die in [De mens en AI](/de-mens-en-ai/) centraal staat: **wat is nog de bijdrage van de mens?** In dit geval: de inhoudelijke keuzes, de pedagogische visie, het eindoordeel en de verantwoordelijkheid voor wat er gepubliceerd wordt — die lagen volledig bij de auteur. De uitvoering werd steeds meer gedeeld.
 
 Het concept van een **agentische AI-codeerassistent** is beschikbaar in meerdere vormen:
 

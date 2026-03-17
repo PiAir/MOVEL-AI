@@ -11,19 +11,19 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 ## Chatten, schrijven en zoeken
 
 - [ChatGPT](chatgpt.qmd) — de bekendste AI-chatbot, van OpenAI
-- [Claude.ai](claude-ai.qmd) — serieuze concurrent, sterk in nuancevolle teksten (Anthropic)
-- [Google Gemini](gemini.qmd) — Google's AI-assistent, geïntegreerd in het Google-ecosysteem
+- [Claude.ai](claude-ai.qmd) — serieuze concurrent van Anthropic
+- [Google Gemini](gemini.qmd) — Google's AI-assistent.
 - [Microsoft Copilot](copilot.qmd) — AI-assistent in Word, PowerPoint, Outlook en Teams
-- [Perplexity AI](perplexity.qmd) — AI-zoekmachine die bronnen citeert
+
 
 ## Vertalen en schrijven verbeteren
 
-- [DeepL](deepl.qmd) — de meest nauwkeurige vertaalmachine voor Europese talen
-- [Grammarly](grammarly.qmd) — AI-schrijfassistent voor correct en stijlvol Engels
+- [DeepL](deepl.qmd) — Vertalen met AI
+- [Grammarly](grammarly.qmd) — AI-schrijfassistent voor correct Engels
 
 ## Presentaties en visuele communicatie
 
-- [Gamma.app](gamma.qmd) — genereer in minuten een complete presentatie vanuit een prompt
+- [Gamma.app](gamma.qmd) — genereer een complete presentatie vanuit een prompt
 - [Canva AI](canva-ai.qmd) — AI-functies in de populairste ontwerpapp voor leraren
 - [Napkin AI](napkin-ai.qmd) — zet tekst automatisch om in schema's en infographics
 
@@ -56,11 +56,14 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 
 ## Onderzoek en kennisbeheer
 
-- [Google AI Studio](ai-studio.qmd) — ontwikkelplatform van Google met gratis toegang tot Gemini
+
 - [Google NotebookLM](notebooklm.qmd) — bronnen uploaden en er een podcast, samenvatting of quiz van laten maken
+- [Perplexity AI](perplexity.qmd) — AI-zoekmachine
 
-## Voor de technisch geïnteresseerde leraar
+## Voor de technisch geïnteresseerde lezer
 
+- [Google AI Studio](ai-studio.qmd) — ontwikkelplatform van Google
+- [Teachable Machine](teachable-machine.qmd) — train zelf een eenvoudig ML-model, zonder code
 - [Claude Code](claude-code.qmd) — AI-assistent die zelfstandig code schrijft en bewerkt
 - [Antigravity](antigravity.qmd) — de AI waarmee deze module is gebouwd
-- [Teachable Machine](teachable-machine.qmd) — train zelf een eenvoudig ML-model, zonder code
+- [GPT-NL](gpt-nl.qmd) — een Nederlands taalmodel

@@ -10,27 +10,18 @@ sidebar: id-voorbeelden
 
 ## Welke AI-functies heeft Canva?
 
-**Magic Write** — tekst genereren of herschrijven binnen je ontwerp (bijschriften, titels, structuur)
+- **Tekst schrijven** — tekst genereren of herschrijven binnen je ontwerp (bijschriften, titels, structuur)
+- **Vertaaltool** — vertaal je ontwerp naar een andere taal terwijl de opmaak intact blijft
+- **Magic Animation** — animeer een statisch ontwerp automatisch
+- **Magic Resize** — pas de grootte van je ontwerp automatisch aan
+- **Code Generator** — genereer code voor websites en apps
+- **Canva AI Assistant** — AI-assistent die je helpt bij het ontwerpen van afbeeldingen
 
-**Tekst naar afbeelding** — genereer een eigen afbeelding op basis van een tekstomschrijving, direct in je ontwerp
+De gratis Canva-versie bevat al AI-functies. Canva Pro geeft toegang tot alle AI-tools, meer sjablonen en premium afbeeldingen. 
 
-**Magic Edit / Magic Eraser** — bewerk of verwijder objecten in geüploade foto's met generatieve AI
+## Ideeën voor educatieve inzet
 
-**Background Remover** — verwijder de achtergrond van een foto met één klik
-
-**Magic Design** — beschrijf wat je nodig hebt en Canva genereert automatisch een volledig ontwerp
-
-**Translate** — vertaal je ontwerp naar een andere taal terwijl de opmaak intact blijft
-
-**Magic Animate** — animeer een statisch ontwerp automatisch
-
-## Gratis vs. betaald
-
-De gratis Canva-versie bevat al veel AI-functies. Canva Pro geeft toegang tot alle AI-tools, meer sjablonen en premium afbeeldingen. Canva biedt ook **Canva for Education**, gratis beschikbaar voor geverifieerde docenten en hun klassen.
-
-## Educatieve toepassingen
-
-- Studenten laten werken aan een gezamenlijk ontwerp (Canva ondersteunt samenwerking)
+- Studenten laten samenwerken aan een gezamenlijk ontwerp (Canva ondersteunt samenwerking)
 - Lesmateriaal, infographics of posters ontwerpen
 - Zoekopdracht als leesopdracht: ontwerp een infographic over… (begrip verwerken door te visualiseren)
 - Discussie: welke rol speelt AI bij het ontwerpen? Wat is nog jouw eigen ontwerp als AI het genereert?

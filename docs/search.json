@@ -686,7 +686,7 @@
     "href": "voorbeelden/antigravity.html#wat-maakt-dit-interessant",
     "title": "Antigravity",
     "section": "Wat maakt dit interessant?",
-    "text": "Wat maakt dit interessant?\nDit is geen ChatGPT die een tekst schrijft die je daarna kopieert. Dit is een AI die:\n\nBestanden aanmaakt en bewerkt op je computer\nZelfstandig keuzes maakt en die uitlegt\nFouten opspoort en corrigeert\nVragen stelt als iets onduidelijk is\n\nHet raakt aan de vraag die in De mens en AI centraal staat: wat is nog de bijdrage van de mens? In dit geval: de inhoudelijke keuzes, de pedagogische visie, het eindoordeel en de verantwoordelijkheid voor wat er gepubliceerd wordt — die lagen volledig bij de auteur. De uitvoering werd steeds meer gedeeld.\nHet concept van een agentische AI-codeerassistent is beschikbaar in meerdere vormen:\n\n\n\nAlternatief\nBeschrijving\n\n\n\n\nClaude Code\nDe commandoregel-assistent van Anthropic\n\n\nClaude.ai\nDe webgebaseerde versie van Claude\n\n\nGitHub Copilot\nAI-assistent binnen Visual Studio Code\n\n\nCursor\nAI-first code-editor",
+    "text": "Wat maakt dit interessant?\nDit is geen ChatGPT die een tekst schrijft die je daarna kopieert. Dit is een tool (applicatie) die:\n\nBestanden aanmaakt en bewerkt op je computer\nZelfstandig keuzes maakt en die uitlegt\nFouten opspoort en corrigeert\nVragen stelt als iets onduidelijk is\n\nHet concept van een agentische AI-codeerassistent is beschikbaar in meerdere vormen:\n\n\n\nAlternatief\nBeschrijving\n\n\n\n\nClaude Code\nDe commandoregel-assistent van Anthropic\n\n\nClaude.ai\nDe webgebaseerde versie van Claude\n\n\nGitHub Copilot\nAI-assistent binnen Visual Studio Code\n\n\nCursor\nAI-first code-editor",
     "crumbs": [
       "Over deze module",
       "Antigravity"
@@ -1832,7 +1832,7 @@
     "href": "voorbeelden/ai-studio.html",
     "title": "Google AI-studio",
     "section": "",
-    "text": "ai-studio screenshot\n\n\nGoogle AI Studio is een ontwikkelplatform van Google. Een tijd lang was het de enige gratis optie als je aan vibecoding wilde doen. Tegenwoordig kan elke chatbot wel via de canvas optie ook websites en compacte apps bouwen. Desondanks blijft het een mooie playground.\n\nDaarnaast heeft Google AI Studio nog steeds als voordeel ten opzichte van andere omgevingen dat de ‘contextomvang’ (de hoeveel tokens die beschikbaar zijn in een gesprek), zeker voor een gratis omgeving erg groot is (1 miljoen tokens). Ook ben je bij AI-studio in staat om bv een YouTube-video te linken waarbij het taalmodel dan de inhoud van die video in de context opneemt. Dat maakt het bv mogelijk om ook inhoudelijke vragen te stellen over de video. Dat kun je ook in NotebookLM, maar als je bv een webspagina wilt laten genereren met daarin automatisch gegenereerde navigatie binnen de video, dan is dit heel handig.\n\n\n\n\n\n\nBelangrijk\n\n\n\nAls Google dit soort omgevingen in de lucht brengt, dan komt het heel vaak voor dat ze deze ook weer offline halen. Dus ga er geen meerjarige lesprogramma’s op bouwen, of je bedrijf op starten. Maar om mee te experimenteren zolang het beschikbaar is, is het heel mooi.\n\n\nGoogle AI Studio heeft ook een optie waarbij je de AI mee kunt laten kijken naar alles wat je doet op je computer. Dat lijkt eng, maar je kunt het aan of uitzetten. Heel handig als je bijvoorbeeld iets in Excel moet doen en niet precies weet hoe dat moet.\n\n\n\n Terug naar boven",
+    "text": "ai-studio screenshot\n\n\nGoogle AI Studio is een ontwikkelplatform van Google. Een tijd lang was het de enige gratis optie als je aan vibecoding wilde doen. Tegenwoordig kan elke chatbot wel via de canvas optie ook websites en compacte apps bouwen. Desondanks blijft het een mooie playground.\nDaarnaast heeft Google AI Studio nog steeds als voordeel ten opzichte van andere omgevingen dat de ‘contextomvang’ (de hoeveel tokens die beschikbaar zijn in een gesprek), zeker voor een gratis omgeving erg groot is (1 miljoen tokens). Ook ben je bij AI-studio in staat om bv een YouTube-video te linken waarbij het taalmodel dan de inhoud van die video in de context opneemt. Dat maakt het bv mogelijk om ook inhoudelijke vragen te stellen over de video. Dat kun je ook in NotebookLM, maar als je bv een webspagina wilt laten genereren met daarin automatisch gegenereerde navigatie binnen de video, dan is dit heel handig.\n\n\n\n\n\n\nBelangrijk\n\n\n\nAls Google dit soort omgevingen in de lucht brengt, dan komt het heel vaak voor dat ze deze ook weer offline halen. Dus ga er geen meerjarige lesprogramma’s op bouwen, of je bedrijf op starten. Maar om mee te experimenteren zolang het beschikbaar is, is het heel mooi.\n\n\nGoogle AI Studio heeft ook een optie waarbij je de AI mee kunt laten kijken naar alles wat je doet op je computer. Dat lijkt eng, maar je kunt het aan of uitzetten. Heel handig als je bijvoorbeeld iets in Excel moet doen en niet precies weet hoe dat moet.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Google AI-studio"
@@ -1854,29 +1854,18 @@
     "href": "voorbeelden/canva-ai.html#welke-ai-functies-heeft-canva",
     "title": "Canva AI",
     "section": "Welke AI-functies heeft Canva?",
-    "text": "Welke AI-functies heeft Canva?\nMagic Write — tekst genereren of herschrijven binnen je ontwerp (bijschriften, titels, structuur)\nTekst naar afbeelding — genereer een eigen afbeelding op basis van een tekstomschrijving, direct in je ontwerp\nMagic Edit / Magic Eraser — bewerk of verwijder objecten in geüploade foto’s met generatieve AI\nBackground Remover — verwijder de achtergrond van een foto met één klik\nMagic Design — beschrijf wat je nodig hebt en Canva genereert automatisch een volledig ontwerp\nTranslate — vertaal je ontwerp naar een andere taal terwijl de opmaak intact blijft\nMagic Animate — animeer een statisch ontwerp automatisch",
+    "text": "Welke AI-functies heeft Canva?\n\nTekst schrijven — tekst genereren of herschrijven binnen je ontwerp (bijschriften, titels, structuur)\nVertaaltool — vertaal je ontwerp naar een andere taal terwijl de opmaak intact blijft\nMagic Animation — animeer een statisch ontwerp automatisch\nMagic Resize — pas de grootte van je ontwerp automatisch aan\nCode Generator — genereer code voor websites en apps\nCanva AI Assistant — AI-assistent die je helpt bij het ontwerpen van afbeeldingen\n\nDe gratis Canva-versie bevat al AI-functies. Canva Pro geeft toegang tot alle AI-tools, meer sjablonen en premium afbeeldingen.",
     "crumbs": [
       "Over deze module",
       "Canva AI"
     ]
   },
   {
-    "objectID": "voorbeelden/canva-ai.html#gratis-vs.-betaald",
-    "href": "voorbeelden/canva-ai.html#gratis-vs.-betaald",
+    "objectID": "voorbeelden/canva-ai.html#ideeën-voor-educatieve-inzet",
+    "href": "voorbeelden/canva-ai.html#ideeën-voor-educatieve-inzet",
     "title": "Canva AI",
-    "section": "Gratis vs. betaald",
-    "text": "Gratis vs. betaald\nDe gratis Canva-versie bevat al veel AI-functies. Canva Pro geeft toegang tot alle AI-tools, meer sjablonen en premium afbeeldingen. Canva biedt ook Canva for Education, gratis beschikbaar voor geverifieerde docenten en hun klassen.",
-    "crumbs": [
-      "Over deze module",
-      "Canva AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/canva-ai.html#educatieve-toepassingen",
-    "href": "voorbeelden/canva-ai.html#educatieve-toepassingen",
-    "title": "Canva AI",
-    "section": "Educatieve toepassingen",
-    "text": "Educatieve toepassingen\n\nStudenten laten werken aan een gezamenlijk ontwerp (Canva ondersteunt samenwerking)\nLesmateriaal, infographics of posters ontwerpen\nZoekopdracht als leesopdracht: ontwerp een infographic over… (begrip verwerken door te visualiseren)\nDiscussie: welke rol speelt AI bij het ontwerpen? Wat is nog jouw eigen ontwerp als AI het genereert?",
+    "section": "Ideeën voor educatieve inzet",
+    "text": "Ideeën voor educatieve inzet\n\nStudenten laten samenwerken aan een gezamenlijk ontwerp (Canva ondersteunt samenwerking)\nLesmateriaal, infographics of posters ontwerpen\nZoekopdracht als leesopdracht: ontwerp een infographic over… (begrip verwerken door te visualiseren)\nDiscussie: welke rol speelt AI bij het ontwerpen? Wat is nog jouw eigen ontwerp als AI het genereert?",
     "crumbs": [
       "Over deze module",
       "Canva AI"
@@ -2129,7 +2118,7 @@
     "href": "voorbeelden/index.html#chatten-schrijven-en-zoeken",
     "title": "Voorbeelden van AI",
     "section": "Chatten, schrijven en zoeken",
-    "text": "Chatten, schrijven en zoeken\n\nChatGPT — de bekendste AI-chatbot, van OpenAI\nClaude.ai — serieuze concurrent, sterk in nuancevolle teksten (Anthropic)\nGoogle Gemini — Google’s AI-assistent, geïntegreerd in het Google-ecosysteem\nMicrosoft Copilot — AI-assistent in Word, PowerPoint, Outlook en Teams\nPerplexity AI — AI-zoekmachine die bronnen citeert",
+    "text": "Chatten, schrijven en zoeken\n\nChatGPT — de bekendste AI-chatbot, van OpenAI\nClaude.ai — serieuze concurrent van Anthropic\nGoogle Gemini — Google’s AI-assistent.\nMicrosoft Copilot — AI-assistent in Word, PowerPoint, Outlook en Teams",
     "crumbs": [
       "Over deze module",
       "Voorbeelden van AI"
@@ -2140,7 +2129,7 @@
     "href": "voorbeelden/index.html#vertalen-en-schrijven-verbeteren",
     "title": "Voorbeelden van AI",
     "section": "Vertalen en schrijven verbeteren",
-    "text": "Vertalen en schrijven verbeteren\n\nDeepL — de meest nauwkeurige vertaalmachine voor Europese talen\nGrammarly — AI-schrijfassistent voor correct en stijlvol Engels",
+    "text": "Vertalen en schrijven verbeteren\n\nDeepL — Vertalen met AI\nGrammarly — AI-schrijfassistent voor correct Engels",
     "crumbs": [
       "Over deze module",
       "Voorbeelden van AI"
@@ -2151,7 +2140,7 @@
     "href": "voorbeelden/index.html#presentaties-en-visuele-communicatie",
     "title": "Voorbeelden van AI",
     "section": "Presentaties en visuele communicatie",
-    "text": "Presentaties en visuele communicatie\n\nGamma.app — genereer in minuten een complete presentatie vanuit een prompt\nCanva AI — AI-functies in de populairste ontwerpapp voor leraren\nNapkin AI — zet tekst automatisch om in schema’s en infographics",
+    "text": "Presentaties en visuele communicatie\n\nGamma.app — genereer een complete presentatie vanuit een prompt\nCanva AI — AI-functies in de populairste ontwerpapp voor leraren\nNapkin AI — zet tekst automatisch om in schema’s en infographics",
     "crumbs": [
       "Over deze module",
       "Voorbeelden van AI"
@@ -2206,18 +2195,18 @@
     "href": "voorbeelden/index.html#onderzoek-en-kennisbeheer",
     "title": "Voorbeelden van AI",
     "section": "Onderzoek en kennisbeheer",
-    "text": "Onderzoek en kennisbeheer\n\nGoogle AI Studio — ontwikkelplatform van Google met gratis toegang tot Gemini\nGoogle NotebookLM — bronnen uploaden en er een podcast, samenvatting of quiz van laten maken",
+    "text": "Onderzoek en kennisbeheer\n\nGoogle NotebookLM — bronnen uploaden en er een podcast, samenvatting of quiz van laten maken\nPerplexity AI — AI-zoekmachine",
     "crumbs": [
       "Over deze module",
       "Voorbeelden van AI"
     ]
   },
   {
-    "objectID": "voorbeelden/index.html#voor-de-technisch-geïnteresseerde-leraar",
-    "href": "voorbeelden/index.html#voor-de-technisch-geïnteresseerde-leraar",
+    "objectID": "voorbeelden/index.html#voor-de-technisch-geïnteresseerde-lezer",
+    "href": "voorbeelden/index.html#voor-de-technisch-geïnteresseerde-lezer",
     "title": "Voorbeelden van AI",
-    "section": "Voor de technisch geïnteresseerde leraar",
-    "text": "Voor de technisch geïnteresseerde leraar\n\nClaude Code — AI-assistent die zelfstandig code schrijft en bewerkt\nAntigravity — de AI waarmee deze module is gebouwd\nTeachable Machine — train zelf een eenvoudig ML-model, zonder code",
+    "section": "Voor de technisch geïnteresseerde lezer",
+    "text": "Voor de technisch geïnteresseerde lezer\n\nGoogle AI Studio — ontwikkelplatform van Google\nTeachable Machine — train zelf een eenvoudig ML-model, zonder code\nClaude Code — AI-assistent die zelfstandig code schrijft en bewerkt\nAntigravity — de AI waarmee deze module is gebouwd\nGPT-NL — een Nederlands taalmodel",
     "crumbs": [
       "Over deze module",
       "Voorbeelden van AI"
