@@ -4,21 +4,21 @@ lang: nl
 sidebar: id-voorbeelden
 ---
 
-[ElevenLabs](https://elevenlabs.io/) is een van de meest geavanceerde platforms voor AI-spraaksynthese. Waar [HeyGen](heygen.qmd) primair video vertaalt, richt ElevenLabs zich op de kwalitatief hoogwaardige generatie en kloning van stemmen.
+[ElevenLabs](https://elevenlabs.io/) is een van de meest geavanceerde platforms voor AI-spraaksynthese. Waar [HeyGen](heygen.qmd) primair video vertaalt, richt ElevenLabs zich op de kwalitatief hoogwaardige generatie en kloning van stemmen. Maar zoals je hieronder kunt zien, kan het ook video's vertalen en nasynchroniseren.
 
 {{< video https://www.youtube.com/embed/32d4tOzS2sM >}}
+
+De video laat een test zien die ik 2 jaar geleden gemaakt heb met de software. De kwaliteit is sindsdien alleen maar beter geworden. Bij spraakgeneratie is het inmiddels bijna niet meer van echt te onderscheiden. Ook in het Nederlands, terwijl die stemmen bij anderen nog vaak wat mechanisch klinken.
 
 ## Wat kun je doen?
 
 - **Text to Speech**: zet tekst om naar gesproken audio in tientallen talen en honderden stemmen
 - **Voice Cloning**: kloon een stem op basis van een korte audio-opname (let op: dit vereist toestemming van de persoon)
 - **Speech to Speech**: verander de klank van een opgenomen stem naar een andere stem
-- **Dubbing**: vertaal en nasynchroniseer volledige video's (vergelijkbaar met HeyGen)
+- **Dubbing**: vertaal en nasynchroniseer volledige video's (vergelijkbaar met [HeyGen](heygen.qmd))
 - **Audioboeken en podcasts**: genereer lange luisterinhoud vanuit tekst
 
-## Gratis laag
-
-ElevenLabs biedt een gratis tier met maandelijks een beperkt aantal tekens. Dat is ruim genoeg om de mogelijkheden zelf te ervaren.
+ElevenLabs biedt een gratis optie met maandelijks een beperkt aantal tekens. Dat is genoeg om de mogelijkheden zelf te kunnen testen.
 
 ## Educatieve toepassingen
 
@@ -27,6 +27,8 @@ ElevenLabs biedt een gratis tier met maandelijks een beperkt aantal tekens. Dat 
 - Laat studenten zelf nadenken over de ethische grenzen van stemkloning
 - Demonstreer hoe eenvoudig spraak te manipuleren is — als mediawijsheidsoefening
 
+::: {.callout-note}
 ## Aandachtspunten
 
 De technologie is krachtig genoeg om geloofwaardige nepaudio te genereren van bestaande personen. ElevenLabs heeft maatregelen genomen tegen misbruik, maar de discussie over regulering van stemkloning is actueel — ook in de context van de [EU AI Act](/de-mens-en-ai/).
+:::

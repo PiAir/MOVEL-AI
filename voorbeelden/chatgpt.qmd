@@ -9,37 +9,20 @@ sidebar: id-voorbeelden
 
 [ChatGPT](https://chat.openai.com/) van OpenAI is de tool die het grote publiek kennis liet maken met generatieve AI. Eind 2022 verscheen het als gratis dienst en binnen twee maanden had het 100 miljoen gebruikers — sneller dan welke andere consumentendienst in de geschiedenis.
 
-{{< video https://www.youtube.com/embed/bFfkecMk1ZQ >}}
-
 ## Van tekst naar alles
 
-ChatGPT begon als een tekstchatbot, maar is inmiddels een compleet platform geworden:
+ChatGPT begon als een tekstchatbot, maar is inmiddels een compleet platform geworden waarmee je teksten kunt schrijven, samenvatten, editten, vertalen, code kunt schrijven en debuggen in vrijwel elke programmeertaal, beelden kunt (laten) analyseren, beelden kunt (laten) genereren, spraak kunt genereren en beluisteren. Je kunt projecten aanmaken, zelf geconfigureerde versies van ChatGPT met specifieke instructies maken, externe tools en kennis koppelen. Uiteraard is er een API om met programma's tegenaan te praten. En je kunt een versie gebruiken via de commandline. 
 
-- **Tekstgeneratie**: schrijven, samenvatten, editten, vertalen, redeneren
-- **Code schrijven en debuggen** in vrijwel elke programmeertaal
-- **Beeldanalyse** (GPT-4o): upload een afbeelding en stel er vragen over
-- **Afbeeldingen genereren** via DALL·E / GPT-4o met native beeldgeneratie
-- **Spraak**: spreek met ChatGPT via de mobiele app, inclusief realtime gesprekken met Advanced Voice Mode
-- **Canvas / Projects**: werk aan documenten en code in een duurzame werkomgeving
-- **Memory**: ChatGPT onthoudt voorkeuren en context over sessies heen (instelling aan/uitzetten)
-- **Custom GPTs**: zelf geconfigureerde versies van ChatGPT met specifieke instructies, tools en kennis
-- **Operator / Computer Use**: ChatGPT kan zelfstandig taken uitvoeren in de browser (experimenteel)
+OpenAI brengt regelmatig nieuwe modellen uit, elk model is uiteraard nóg beter dan het vorige. Raadpleeg [de OpenAI-modellenpagina](https://platform.openai.com/docs/models) voor de actuele stand van zaken.
 
-## Modellen (stand maart 2026)
+## Gratis versus betaald
 
-| Model | Beschrijving |
-|---|---|
-| GPT-4o | Standaardmodel; tekst, beeld en spraak, snel |
-| o3 | Krachtig redeneermodel; uitmuntend in wiskunde, code en complexe taken |
-| o4-mini | Lichtgewicht redeneermodel; sneller en zuiniger dan o3 |
-| GPT-4.5 | Verbeterde schrijfkwaliteit en conversatievaardigheid |
+De gratis versie levert je een deel van de mogelijkheden. De betaalde ChatGPT Plus geeft toegang tot alle modellen en heeft hogere limieten.
 
-OpenAI brengt regelmatig nieuwe modellen uit; raadpleeg [de OpenAI-modellenpagina](https://platform.openai.com/docs/models) voor de actuele stand.
+Een volledige lijst maken van toepassingen basis van ChatGPT is ondoenlijk — de wereld van ChatGPT-toepassingen verandert wekelijks. Een goede startplek: zoek op Google naar [top ChatGPT examples](https://www.google.com/search?q=top+chatgpt+examples+2026).
 
-## Gratis vs betaald
+## Grenzen aan ChatGPT
 
-De gratis versie (GPT-4o met beperkingen) is voor de meeste educatieve toepassingen ruim voldoende. ChatGPT Plus geeft toegang tot alle modellen, hogere limieten en Operator-functies.
+{{< video https://www.youtube.com/shorts/CJrOMs4L-lc >}}
 
-## Verder lezen
-
-Een volledige lijst van toepassingen bij te houden is ondoenlijk — de wereld van ChatGPT-toepassingen verandert wekelijks. Een goede startplek: zoek op Google naar [top ChatGPT examples](https://www.google.com/search?q=top+chatgpt+examples+2026).
+[FatherPhi](https://www.youtube.com/@FatherPhi) is een YouTube-kanaal dat ChatGPT en andere chatbots "test" aan de hand van vaak grappige voorbeelden en scenario's. 

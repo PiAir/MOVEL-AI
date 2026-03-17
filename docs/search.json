@@ -477,7 +477,7 @@
     "href": "voorbeelden/gamma.html",
     "title": "Gamma.app",
     "section": "",
-    "text": "gamma screenshot\nGamma is een webgebaseerde presentatietool waarbij je vanuit een tekstprompt of bestaande tekst in enkele minuten een volledige, visueel aantrekkelijke presentatie, document of webpagina genereert. Het resultaat is direct bewerkenbaar en deelbaar via een link.",
+    "text": "gamma screenshot\nGamma is een webgebaseerde presentatietool waarbij je vanuit een tekstprompt of bestaande tekst in enkele minuten een volledige, visueel aantrekkelijke presentatie, document of webpagina genereert. Het resultaat is direct bewerkenbaar en deelbaar via een link. Eigenlijk dus wat je met NotebookLM ook kunt, maar dan met een wat ander startpunt.",
     "crumbs": [
       "Over deze module",
       "Gamma.app"
@@ -488,7 +488,7 @@
     "href": "voorbeelden/gamma.html#hoe-werkt-het",
     "title": "Gamma.app",
     "section": "Hoe werkt het?",
-    "text": "Hoe werkt het?\n\nBeschrijf je onderwerp (of plak een tekst)\nKies een stijl en kleurenpalet\nGamma genereert een volledige presentatie met titels, bullet points, afbeeldingen en opmaak\nPas individuele slides aan via een eenvoudige editor\n\nGamma maakt gebruik van AI voor zowel de tekst als de beeldkeuze. Je kunt ook afbeeldingen laten genereren met Nano Banana via Gamma’s ingebouwde beeldgenerator.",
+    "text": "Hoe werkt het?\n\nBeschrijf je onderwerp (of plak een tekst)\nKies een stijl en kleurenpalet\nGamma genereert een volledige presentatie met titels, bullet points, afbeeldingen en opmaak\nPas individuele slides aan via een eenvoudige editor\n\nGamma maakt gebruik van AI voor zowel de tekst als de beeldkeuze. Je kunt ook afbeeldingen laten genereren met Nano Banana via Gamma’s ingebouwde beeldgenerator. Belangrijk verschil met NotebookLM is dat je bij Gamma eerst een tekstueel overzicht krijgt en dan pas de presentatie. Bij NotebookLM krijg je direct een presentatie met de mogelijkheid om daarna dia’s aan te passen.",
     "crumbs": [
       "Over deze module",
       "Gamma.app"
@@ -499,7 +499,7 @@
     "href": "voorbeelden/gamma.html#waarom-is-dit-handig-voor-leraren",
     "title": "Gamma.app",
     "section": "Waarom is dit handig voor leraren?",
-    "text": "Waarom is dit handig voor leraren?\n\nEen lesoverzicht of samenvatting in minuten omzetten naar een presentatie\nStudenten laten oefenen met het samenvatten van stof in presentatievorm\nAlternatieven voor PowerPoint waarvoor geen installatierechten nodig zijn (volledig in de browser)\nSnel een visuele weergave van een complexe tekst of concept\n\nDe gratis versie volstaat voor af en toe een presentatie genereren.",
+    "text": "Waarom is dit handig voor leraren?\n\nEen lesoverzicht of samenvatting in minuten omzetten naar een presentatie\nStudenten laten oefenen met het samenvatten van stof in presentatievorm\nAlternatieven voor PowerPoint waarvoor geen installatierechten nodig zijn (volledig in de browser)\nSnel een visuele weergave van een complexe tekst of concept\n\n\nDe gratis versie volstaat voor af en toe een presentatie genereren. Je presentaties krijgen dan wel een “Made with Gamma” badge (die eenvoudig te verwijderen is bij export naar PowerPoint). Een belangrijk ander verschil met NotebookLM is dat de dia’s die je dan krijgt in PowerPoint écht tekst en objecten bevatten die je kunt bewerken. Bij NotebookLM is de export naar PowerPoint nog heel nieuw en beperkter omdat elke dia uit één complete afbeelding bestaat.",
     "crumbs": [
       "Over deze module",
       "Gamma.app"
@@ -521,7 +521,7 @@
     "href": "voorbeelden/deepl.html",
     "title": "DeepL",
     "section": "",
-    "text": "deepl screenshot\nDeepL is een AI-vertaaldienst die door taalwetenschappers en vertalers consequent als de beste automatische vertaler wordt beoordeeld — boven Google Translate voor Europese taalcombinaties. DeepL is ontwikkeld in Keulen en gebruikt een neuraal netwerk dat is getraind op professionele vertalingen.",
+    "text": "deepl screenshot\nDeepL is een AI-vertaaldienst die door taalwetenschappers en vertalers hoog gewaardeerd wordt. Een betere variant op Google Translate. DeepL is ontwikkeld in Keulen en gebruikt een neuraal netwerk dat is getraind op professionele vertalingen.",
     "crumbs": [
       "Over deze module",
       "DeepL"
@@ -532,7 +532,7 @@
     "href": "voorbeelden/deepl.html#wat-kun-je-ermee",
     "title": "DeepL",
     "section": "Wat kun je ermee?",
-    "text": "Wat kun je ermee?\n\nTekst vertalen in de browser of via de desktop-app\nDocumenten vertalen (Word, PDF, PowerPoint) waarbij de opmaak behouden blijft\nDeepL Write: AI-suggesties voor stijl, woordkeuze en grammatica in het Engels of Duits",
+    "text": "Wat kun je ermee?\nJe kunt er teksten mee vertalen in de browser, documenten (Word, PDF, PowerPoint) mee vertalen (met behoud van de opmaak) en je kunt er teksten mee laten herschrijven waarbij de AI suggesties doet voor stijl, woordkeuze en grmmatica in het Engels of het Duits.\nDe gratis versie is voor incidenteel gebruik vaak ruim voldoende.\n\n\n\n\n\n\nOpmerkingKanttekening\n\n\n\nDeepL is betrouwbaar voor standaard Europese talen, maar minder sterk in minder courante talen. Voor Arabisch, Chinees of Swahili zijn andere tools beter. Controleer altijd vertalingen van gevoelige of formele documenten.",
     "crumbs": [
       "Over deze module",
       "DeepL"
@@ -565,7 +565,7 @@
     "href": "voorbeelden/claude-code.html",
     "title": "Claude Code",
     "section": "",
-    "text": "claude-code screenshot\nClaude Code is een AI-assistent van Anthropic die je kunt aanspreken vanuit de terminal (de opdrachtregel van je computer). In tegenstelling tot Claude.ai — waar je een gesprek voert in een webbrowser — werkt Claude Code direct met de bestanden op je computer.\nDit maakt het tot een krachtig hulpmiddel voor iedereen die websites, scripts of programma’s wil bouwen zonder uitgebreide programmeerkennis.",
+    "text": "claude-code screenshot\nClaude Code is de AI-assistent van Anthropic die je kunt aanspreken vanuit de terminal (de opdrachtregel van je computer). In tegenstelling tot Claude.ai, waar je een gesprek voert in een webbrowser, werkt Claude Code direct met de bestanden op je computer. Dit maakt het tot een krachtig hulpmiddel voor iedereen die websites, scripts of programma’s willen bouwen zonder uitgebreide programmeerkennis, maar ook voor mensen die AI willen gebruiken om handelingen uit te voeren zoals het maken van video’s (en dan echte bestanden, niet in de browser), het beantwoorden van e-mails, het maken van documenten, etc.",
     "crumbs": [
       "Over deze module",
       "Claude Code"
@@ -598,7 +598,7 @@
     "href": "voorbeelden/claude-code.html#voor-wie",
     "title": "Claude Code",
     "section": "Voor wie?",
-    "text": "Voor wie?\nClaude Code is primair bedoeld voor ontwikkelaars en technisch onderlegde gebruikers. Voor gebruikers die geen code-achtergrond hebben is het een steilere leercurve dan Claude.ai. Toch is het illustratief voor hoe AI het schrijven van software democratiseert.\nVoor een iets laagdrempeligere variant van AI-geholpen programmeren, zie Google AI Studio of de Antigravity-assistent.",
+    "text": "Voor wie?\nClaude Code is primair bedoeld voor ontwikkelaars en meer technisch onderlegde gebruikers. Op Youtube kun je een constante stroom aan video’s vinden van mensen die uitleggen waar zij Claude Code voor inzetten. De leercurve is wat steiler dan andere toepassingen, maar het is op dit moment dé applicatie voor wie hip wil zijn. Voor een iets laagdrempeligere variant van vibecoding, zie ook Google AI Studio of Antigravity.\nEn anders, hier is een 10 uur durende tutorial die je op weg helpt om expert te worden:\n\n\n\n\n\n\n\nOpmerkingMoeten docenten dit leren?\n\n\n\nDat is een interessante vraag. Enerzijds is het goed om te weten wat er mogelijk is, anderzijds is het niet direct relevant voor iedereen. Het hangt sowieso af van je rol en interesses. Er zijn voorbeelden van bedrijven waar tools als Claude Code officieel beschikbaar zijn gesteld voor medewerkers. Die medewerkers zullen in staat zijn om veel van de taken die zij anders handmatig uitvoeren te automatiseren. In een onderwijsomgeving zou je kunnen denken aan het automatiseren van het maken van toetsen, het nakijken van werk, het genereren van lesmateriaal, etc. Maar dat kan alleen als de onderwijsorganisatie ook de benodigde gebruiksafspraken maakt met Anthropic.",
     "crumbs": [
       "Over deze module",
       "Claude Code"
@@ -609,7 +609,7 @@
     "href": "voorbeelden/claude-code.html#prijs",
     "title": "Claude Code",
     "section": "Prijs",
-    "text": "Prijs\nClaude Code werkt via de Anthropic API en is op verbruik geprijsd (per token) of via een abonnement. Er is geen gratis laag.",
+    "text": "Prijs\nClaude Code werkt via de Anthropic API en is op verbruik geprijsd (per token) of via een abonnement. Er is geen gratis versie beschikbaar.",
     "crumbs": [
       "Over deze module",
       "Claude Code"
@@ -631,7 +631,7 @@
     "href": "voorbeelden/chatgpt.html#van-tekst-naar-alles",
     "title": "ChatGPT",
     "section": "Van tekst naar alles",
-    "text": "Van tekst naar alles\nChatGPT begon als een tekstchatbot, maar is inmiddels een compleet platform geworden:\n\nTekstgeneratie: schrijven, samenvatten, editten, vertalen, redeneren\nCode schrijven en debuggen in vrijwel elke programmeertaal\nBeeldanalyse (GPT-4o): upload een afbeelding en stel er vragen over\nAfbeeldingen genereren via DALL·E / GPT-4o met native beeldgeneratie\nSpraak: spreek met ChatGPT via de mobiele app, inclusief realtime gesprekken met Advanced Voice Mode\nCanvas / Projects: werk aan documenten en code in een duurzame werkomgeving\nMemory: ChatGPT onthoudt voorkeuren en context over sessies heen (instelling aan/uitzetten)\nCustom GPTs: zelf geconfigureerde versies van ChatGPT met specifieke instructies, tools en kennis\nOperator / Computer Use: ChatGPT kan zelfstandig taken uitvoeren in de browser (experimenteel)",
+    "text": "Van tekst naar alles\nChatGPT begon als een tekstchatbot, maar is inmiddels een compleet platform geworden waarmee je teksten kunt schrijven, samenvatten, editten, vertalen, code kunt schrijven en debuggen in vrijwel elke programmeertaal, beelden kunt (laten) analyseren, beelden kunt (laten) genereren, spraak kunt genereren en beluisteren. Je kunt projecten aanmaken, zelf geconfigureerde versies van ChatGPT met specifieke instructies maken, externe tools en kennis koppelen. Uiteraard is er een API om met programma’s tegenaan te praten. En je kunt een versie gebruiken via de commandline.\nOpenAI brengt regelmatig nieuwe modellen uit, elk model is uiteraard nóg beter dan het vorige. Raadpleeg de OpenAI-modellenpagina voor de actuele stand van zaken.",
     "crumbs": [
       "Over deze module",
       "ChatGPT"
@@ -1876,7 +1876,7 @@
     "href": "voorbeelden/claude-ai.html",
     "title": "Claude.ai",
     "section": "",
-    "text": "claude screenshot\nClaude.ai is de AI-assistent van Anthropic, een bedrijf dat door voormalige OpenAI-medewerkers is opgericht met een expliciete focus op veilige en betrouwbare AI. Claude wordt als serieuze concurrent van ChatGPT beschouwd en staat bekend om zijn genuanceerde schrijfstijl, eerlijkheid over zijn eigen beperkingen en verwerking van lange documenten.",
+    "text": "claude screenshot\nClaude.ai is de AI-assistent van Anthropic, een bedrijf dat door voormalige OpenAI-medewerkers is opgericht met een expliciete focus op veilige en betrouwbare AI. Claude wordt als serieuze concurrent van ChatGPT beschouwd en staat bekend om zijn genuanceerde schrijfstijl, eerlijkheid over zijn eigen beperkingen en verwerking van lange documenten (groot contextvenster).\nEthisch redeneren: Anthropic publiceert hun Constitutional AI-aanpak open, interessant lesmateriaal over hoe je een AI “waarden” geeft. Het bedrijf heeft onlangs nog een stevige aanvaring gehad met de Amerikaanse overheid over de beperkingen die zij hanteren bij het gebruik van hun modellen door het Ministerie van Oorlog.",
     "crumbs": [
       "Over deze module",
       "Claude.ai"
@@ -1909,7 +1909,7 @@
     "href": "voorbeelden/claude-ai.html#verwant",
     "title": "Claude.ai",
     "section": "Verwant",
-    "text": "Verwant\n\nClaude Code — de variant van Claude die code schrijft en bewerkt in de terminal\nAntigravity — een op Claude gebaseerde AI-assistent geoptimaliseerd voor codering",
+    "text": "Verwant\n\nClaude Code — de variant van Claude die code schrijft en bewerkt in de terminal\nChatGPT — de AI-assistent van OpenAI\nAntigravity — de programmeeromgeving van Google die o.a. (gratis) toegang biedt tot op Claude gebaseerde modellen.",
     "crumbs": [
       "Over deze module",
       "Claude.ai"
@@ -1920,7 +1920,7 @@
     "href": "voorbeelden/copilot.html",
     "title": "Microsoft Copilot",
     "section": "",
-    "text": "copilot screenshot\nMicrosoft Copilot is de AI-assistent van Microsoft, gratis beschikbaar via de browser. Wie Microsoft 365 gebruikt (Word, PowerPoint, Outlook, Teams) zal Copilot steeds vaker tegenkomen als een geïntegreerde assistent binnen die toepassingen.",
+    "text": "copilot screenshot\nMicrosoft Copilot is de AI-assistent van Microsoft, gebaseerd op de modellen van OpenAI waar Microsoft een grote investeerder is. Copilot is gratis beschikbaar via de browser. Wie Microsoft 365 gebruikt (Word, PowerPoint, Outlook, Teams) zal Copilot steeds vaker tegenkomen als een geïntegreerde assistent binnen die toepassingen. Al moet daar nu in ieder geval nog apart voor betaald worden.",
     "crumbs": [
       "Over deze module",
       "Microsoft Copilot"
@@ -1953,7 +1953,7 @@
     "href": "voorbeelden/copilot.html#aandachtspunt-privacy",
     "title": "Microsoft Copilot",
     "section": "Aandachtspunt: privacy",
-    "text": "Aandachtspunt: privacy\nBij het gebruik van Copilot in Microsoft 365 verwerkt Microsoft je documenten en e-mails. Microsoft biedt voor scholen een Microsoft 365 Education-omgeving met extra privacygaranties. Controleer of je instelling hier gebruik van maakt voordat je leerlingendata via Copilot verwerkt.",
+    "text": "Aandachtspunt: privacy\nBij het gebruik van Copilot in Microsoft 365 verwerkt Microsoft je documenten en e-mails. Microsoft biedt voor scholen een *Microsoft 365 Education-omgeving met extra privacygaranties. Controleer of je instelling hier gebruik van maakt voordat je leerlingendata via Copilot verwerkt. SURF adviseert onderwijsinstellingen (september 2025) om hier voorlopig voorzichtig mee om te gaan. Zie ook deze pagina.",
     "crumbs": [
       "Over deze module",
       "Microsoft Copilot"
@@ -1964,7 +1964,7 @@
     "href": "voorbeelden/elevenlabs.html",
     "title": "ElevenLabs",
     "section": "",
-    "text": "ElevenLabs is een van de meest geavanceerde platforms voor AI-spraaksynthese. Waar HeyGen primair video vertaalt, richt ElevenLabs zich op de kwalitatief hoogwaardige generatie en kloning van stemmen.",
+    "text": "ElevenLabs is een van de meest geavanceerde platforms voor AI-spraaksynthese. Waar HeyGen primair video vertaalt, richt ElevenLabs zich op de kwalitatief hoogwaardige generatie en kloning van stemmen. Maar zoals je hieronder kunt zien, kan het ook video’s vertalen en nasynchroniseren.\nDe video laat een test zien die ik 2 jaar geleden gemaakt heb met de software. De kwaliteit is sindsdien alleen maar beter geworden. Bij spraakgeneratie is het inmiddels bijna niet meer van echt te onderscheiden. Ook in het Nederlands, terwijl die stemmen bij anderen nog vaak wat mechanisch klinken.",
     "crumbs": [
       "Over deze module",
       "ElevenLabs"
@@ -1975,7 +1975,7 @@
     "href": "voorbeelden/elevenlabs.html#wat-kun-je-doen",
     "title": "ElevenLabs",
     "section": "Wat kun je doen?",
-    "text": "Wat kun je doen?\n\nText to Speech: zet tekst om naar gesproken audio in tientallen talen en honderden stemmen\nVoice Cloning: kloon een stem op basis van een korte audio-opname (let op: dit vereist toestemming van de persoon)\nSpeech to Speech: verander de klank van een opgenomen stem naar een andere stem\nDubbing: vertaal en nasynchroniseer volledige video’s (vergelijkbaar met HeyGen)\nAudioboeken en podcasts: genereer lange luisterinhoud vanuit tekst",
+    "text": "Wat kun je doen?\n\nText to Speech: zet tekst om naar gesproken audio in tientallen talen en honderden stemmen\nVoice Cloning: kloon een stem op basis van een korte audio-opname (let op: dit vereist toestemming van de persoon)\nSpeech to Speech: verander de klank van een opgenomen stem naar een andere stem\nDubbing: vertaal en nasynchroniseer volledige video’s (vergelijkbaar met HeyGen)\nAudioboeken en podcasts: genereer lange luisterinhoud vanuit tekst\n\nElevenLabs biedt een gratis optie met maandelijks een beperkt aantal tekens. Dat is genoeg om de mogelijkheden zelf te kunnen testen.",
     "crumbs": [
       "Over deze module",
       "ElevenLabs"
@@ -1997,7 +1997,7 @@
     "href": "voorbeelden/elevenlabs.html#educatieve-toepassingen",
     "title": "ElevenLabs",
     "section": "Educatieve toepassingen",
-    "text": "Educatieve toepassingen\n\nMaak audiofragmenten voor studenten met leesproblemen of visuele beperkingen\nGenereer meertalige versies van uitlegvideo’s\nLaat studenten zelf nadenken over de ethische grenzen van stemkloning\nDemonstreer hoe eenvoudig spraak te manipuleren is — als mediawijsheidsoefening",
+    "text": "Educatieve toepassingen\n\nMaak audiofragmenten voor studenten met leesproblemen of visuele beperkingen\nGenereer meertalige versies van uitlegvideo’s\nLaat studenten zelf nadenken over de ethische grenzen van stemkloning\nDemonstreer hoe eenvoudig spraak te manipuleren is — als mediawijsheidsoefening\n\n\n\n\n\n\n\nOpmerkingAandachtspunten\n\n\n\nDe technologie is krachtig genoeg om geloofwaardige nepaudio te genereren van bestaande personen. ElevenLabs heeft maatregelen genomen tegen misbruik, maar de discussie over regulering van stemkloning is actueel — ook in de context van de EU AI Act.",
     "crumbs": [
       "Over deze module",
       "ElevenLabs"
@@ -2661,6 +2661,50 @@
     "crumbs": [
       "Over deze module",
       "Wav2Lip – Lipsync met AI"
+    ]
+  },
+  {
+    "objectID": "voorbeelden/chatgpt.html#gratis-versus-betaald",
+    "href": "voorbeelden/chatgpt.html#gratis-versus-betaald",
+    "title": "ChatGPT",
+    "section": "Gratis versus betaald",
+    "text": "Gratis versus betaald\nDe gratis versie levert je een deel van de mogelijkheden. De betaalde ChatGPT Plus geeft toegang tot alle modellen en heeft hogere limieten.\nEen volledige lijst maken van toepassingen basis van ChatGPT is ondoenlijk — de wereld van ChatGPT-toepassingen verandert wekelijks. Een goede startplek: zoek op Google naar top ChatGPT examples.",
+    "crumbs": [
+      "Over deze module",
+      "ChatGPT"
+    ]
+  },
+  {
+    "objectID": "voorbeelden/chatgpt.html#grenzen-aan-chatgpt",
+    "href": "voorbeelden/chatgpt.html#grenzen-aan-chatgpt",
+    "title": "ChatGPT",
+    "section": "Grenzen aan ChatGPT",
+    "text": "Grenzen aan ChatGPT\n\nFatherPhi is een YouTube-kanaal dat ChatGPT en andere chatbots “test” aan de hand van vaak grappige voorbeelden en scenario’s.",
+    "crumbs": [
+      "Over deze module",
+      "ChatGPT"
+    ]
+  },
+  {
+    "objectID": "voorbeelden/copilot.html#copilot-gratis-of-betaald",
+    "href": "voorbeelden/copilot.html#copilot-gratis-of-betaald",
+    "title": "Microsoft Copilot",
+    "section": "Copilot (gratis of betaald)",
+    "text": "Copilot (gratis of betaald)\nDe gratis versie van Copilot is vergelijkbaar met ChatGPT: chatten, teksten schrijven, afbeeldingen genereren, webzoekopdrachten uitvoeren. Gratis beschikbaar op copilot.microsoft.com. Die gratis versie is ook beschikbaar via de Edge-browser en Windows 11. Een toepassing die daar heel handig is, is dat je een PDF kunt openen in Edge en Copilot kunt vragen om de PDF samen te vatten, te parafraseren, etc.\n\n\n\nstel copilot vragen over een pdf\n\n\nDe betaalde variant is geïntegreerd in Word, Excel, PowerPoint, Outlook en Teams. Hiermee kun je bv in Word een document laten samenvatten, herschrijven of uitbreiden, in PowerPoint een volledige presentatie laten genereren vanuit een tekstprompt of een bestaand Word-document, in Excel data laten analyseren, grafieken genereren, formules uitleggen, in Outlook e-mails samenvatten, reacties opstellen, en in Teams vergaderingen samenvatten, actiepunten extraheren.\n\n\n\n\n\n\nBelangrijkAandachtspunt: privacy\n\n\n\nBij het gebruik van Copilot in Microsoft 365 verwerkt Microsoft je documenten en e-mails. Microsoft biedt voor scholen een Microsoft 365 Education-omgeving met extra privacygaranties. Controleer of je instelling hier gebruik van maakt voordat je leerlingendata via Copilot verwerkt. SURF adviseert onderwijsinstellingen (september 2025) om hier voorlopig voorzichtig mee om te gaan. Zie ook deze pagina.",
+    "crumbs": [
+      "Over deze module",
+      "Microsoft Copilot"
+    ]
+  },
+  {
+    "objectID": "voorbeelden/gamma.html#gratis-of-betaald",
+    "href": "voorbeelden/gamma.html#gratis-of-betaald",
+    "title": "Gamma.app",
+    "section": "Gratis of betaald",
+    "text": "Gratis of betaald\nDe gratis versie volstaat voor af en toe een presentatie genereren. Je presentaties krijgen dan wel een “Made with Gamma” badge (die eenvoudig te verwijderen is bij export naar PowerPoint). Een belangrijk ander verschil met NotebookLM is dat de dia’s die je dan krijgt in PowerPoint écht tekst en objecten bevatten die je kunt bewerken. Bij NotebookLM is de export naar PowerPoint nog heel nieuw en beperkter omdat elke dia uit één complete afbeelding bestaat.",
+    "crumbs": [
+      "Over deze module",
+      "Gamma.app"
     ]
   }
 ]
