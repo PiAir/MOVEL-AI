@@ -3,6 +3,7 @@ title: "Competenties leidinggevenden"
 lang: nl
 sidebar: id-ai-geletterdheid
 ---
+![](media/ai-geletterdheid-leidinggevenden.png){.lightbox height="200px"}
 
 ## De leidinggevende als sleutel tot digitale transformatie
 
@@ -33,6 +34,14 @@ Er zijn een aantal redenen te noemen waarom een AI-geletterde leidinggevende onm
 
 Ook voor leidinggevenden heeft iXperium verschillende raamwerken en publicaties beschikbaar. Het [Raamwerk digitale onderwijstransformatie](https://www.ixperium.nl/wp-content/uploads/2025/01/iXperium-Raamwerk-leidinggeven-aan-digitale-onderwijstransformatie.pdf) beschrijft hoe leidinggevenden de digitale transformatie in hun onderwijsinstelling kunnen aansturen. Het [Competentieprofiel voor het ondersteunen van onderwijsinnovatie met ict](https://www.ixperium.nl/wp-content/uploads/Competentieprofiel-ondersteunen-van-onderwijsinnovatie-met-ict_2025.pdf) beschrijft de competenties die leidinggevenden nodig hebben om de onderwijsinnnovatie met ict in hun onderwijsinstelling te kunnen aansturen.
 
+## AI visie en beleid
+
+Elke onderwijsinstelling in Nederland (en daarbuiten) schreeuwt op dit moment om AI visie en beleid. Maar hoe kom je tot een visie en beleid dat past bij jouw onderwijsinstelling? En hoe zorg je ervoor dat het ook daadwerkelijk geïmplementeerd wordt? Dat is waar de leidinggevende bij moet helpen, meedenken, sturen en faciliteren. Dit kun je niet uitbesteden aan de ict-beheerders of de onderwijskundigen binnen je instelling. Het is ook geen reglement met verkeersregels die beschrijven wat niet mag, wel mag en wat de straffen zijn als je je niet aan de regels houdt. Het is een levend document, dat past bij de onderwijsvisie van de onderwijsinstelling en dat op verschillende niveaus beschrijft hoe AI daar impact op heeft.
+
+## Waar starten?
+
+Lees als leidinggevende zelf ook de pagina [experimenteren en professionaliseren](experimenteren.qmd) door. Door zelf te ervaren wat AI en digitale tools kunnen en niet kunnen, kun je docenten gerichter ondersteunen en aanspreken.
+
 ::: {.callout-tip}
 ## Professionalisering voor leidinggevenden
 
@@ -40,8 +49,4 @@ iXperium biedt professionaliseringstrajecten aan voor leidinggevenden op het geb
 
 :::
 
-
-## Waar starten?
-
-Lees als leidinggevende zelf ook de pagina [experimenteren en professionaliseren](experimenteren.qmd) door. Door zelf te ervaren wat AI en digitale tools kunnen en niet kunnen, kun je docenten gerichter ondersteunen en aanspreken.
 

@@ -4,7 +4,7 @@ lang: nl
 sidebar: id-ai-geletterdheid
 ---
 
-![](media/ai-geletterdheid-nano-banana.jpg){.lightbox height="200px"}
+![](media/ai-geletterdheid.png){.lightbox height="200px"}
 
 Sinds de [AI Act](https://artificialintelligenceact.eu/nl/) in werking begint te treden, kom je het begrip **AI-geletterdheid** een stuk vaker in het nieuws en online tegen. Maar de vraag "Wat moeten docenten en studenten weten over AI?" is ook zonder wetgeving relevant.
 

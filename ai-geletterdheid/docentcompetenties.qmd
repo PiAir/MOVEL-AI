@@ -3,6 +3,7 @@ title: "Docentcompetenties"
 lang: nl
 sidebar: id-ai-geletterdheid
 ---
+![](media/ai-geletterdheid-docenten.jpg){.lightbox height="200px"}
 
 ## Raamwerk docentcompetenties
 
@@ -34,4 +35,4 @@ Er zijn verschillende raamwerken voor AI-geletterdheid van docenten ontwikkeld. 
 - [AI Literacy Framework](https://ailiteracyframework.org/)
 - [AI Competency Framework for Teachers](https://www.unesco.org/en/articles/ai-competency-framework-teachers)
 
-Welke het beste is? Dat is deels een keuze op basis van welke uitgangspunten je belangrijk vindt. Voor een Masterdocent is het iets om binnen de eigen onderwijsorganisatie aan te kaarten en samen met de [leidinggevenden](../leidinggevendencompetenties.qmd) te bespreken.
+Welke het beste is? Dat is deels een keuze op basis van welke uitgangspunten je belangrijk vindt. Voor een Masterdocent is het iets om binnen de eigen onderwijsorganisatie aan te kaarten en samen met de [leidinggevenden](leidinggevendencompetenties.qmd) te bespreken.

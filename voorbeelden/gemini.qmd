@@ -6,22 +6,22 @@ sidebar: id-voorbeelden
 
 ![gemini screenshot](media/screenshot-gemini.png){.img-fluid .rounded}
 
-[Google Gemini](https://gemini.google.com/) is de AI-assistent van Google — vergelijkbaar met ChatGPT, maar geïntegreerd in het Google-ecosysteem. Wie al gebruikmaakt van Google Docs, Google Drive, Gmail of Google Classroom, zal merken dat Gemini steeds meer in die tools verschijnt.
+[Google Gemini](https://gemini.google.com/) is de AI-assistent van Google, vergelijkbaar met ChatGPT. Gemini is via de browser toegankelijk als losse applicatie, maar ook steeds meer geïntegreerd in het Google-ecosysteem. In Sheets is het ook in de gratis versie beschikbaar, in andere tools alleen in de betaalde versie.
+
+Gemini is zowel de tool als een platform als de naam voor de eigen taalmodellen van Google.
 
 ## Wat kan Gemini?
 
-- **Chatten** over vrijwel elk onderwerp
-- **Documenten samenvatten** die in je Google Drive staan
-- **E-mails opstellen** in Gmail
-- **Onderzoeken** via [Deep Research](https://gemini.google/overview/deep-research/) — een grondige, meerstaps-zoekfunctie die bronnen samenvoegt
-- **Afbeeldingen genereren** via [Nano Banana](nano-banana.qmd)
-- **Video's genereren** via [Veo 3.1](veo.qmd)
-- **Muziek genereren** via de muziekgenerator
-- **Live gesprekken** voeren via Gemini Live
-- **Presentaties en documenten** ontwerpen via Canvas
+Net als ChatGPT kan Gemini van alles, denk aan: Chatten over vrijwel elk onderwerp (al dan niet met opzoeken van info op internet), documenten samenvatten die in je Google Drive staan, mails opgstellen in Gmail of analyses uitvoeren op je data in Google Sheets (eigen ervaring is dat het nog niet heel indrukwekkend is). Je kunt via [Deep Research](https://gemini.google/overview/deep-research/) uitgebreidere zoekopdrachten laten uitvoeren, nieuw is dat Gemini een [NotebookLM](notebooklm.qmd) notebook als basis neemt bij de zoekopdracht. Je kunt afbeeldingen genereren via [Nano Banana](nano-banana.qmd), video's genereren via [Veo 3.1](veo.qmd), live gesprekken voeren via Gemini Live en [AI Studio](ai-studio.qmd) gebruiken om met de Gemini-modellen te experimenteren.
 
-Gemini is daarmee niet één tool, maar een **platform** met een groeiend aantal functies.
-Scholen die Google Workspace for Education gebruiken, krijgen Gemini in een aparte, veilige schoolomgeving aangeboden. Leerlingendata worden dan niet gebruikt voor het trainen van Google's modellen. 
+
+::: {.callout-important}
+## Aandachtspunt: DPIA Status?
+
+Zoals bij alle AI-tools geldt ook hier dat voor gebruik in een onderwijssetting, het relevant is om bij je instelling te checken wat de DPIA-status is en of er een verwerkersovereenkomst is indien er persoonsgegevens in het systeem opgenomen is. Voor Google Workspace for Education (Plus) is er een [DPIA uit 2021](https://www.surf.nl/akkoord-onderwijs-met-google-over-privacy-risicos). In hoeverre dit ook geldt voor de losse Gemini-toepassingen was niet zo online te achterhalen. 
+
+:::
+
 
 ## Verwant
 

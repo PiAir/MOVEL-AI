@@ -3,6 +3,7 @@ title: "Studentcompetenties"
 lang: nl
 sidebar: id-ai-geletterdheid
 ---
+![](media/ai-geletterdheid-studenten.jpg){.lightbox height="200px"}
 
 ## Kerndoelen digitale geletterdheid
 

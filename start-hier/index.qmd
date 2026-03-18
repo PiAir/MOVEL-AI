@@ -3,6 +3,7 @@ title: "MOVEL AI 2025-2026"
 lang: nl
 sidebar: id-default
 ---
+![](media/start-hier.png)
 
 # ♥ Start hier!
 

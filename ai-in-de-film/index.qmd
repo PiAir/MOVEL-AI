@@ -20,6 +20,7 @@ listing:
       shortdesc: " "
       year: " "
 ---
+![](media/ai-in-de-film.png){.lightbox height="200px"}
 
 ## De kracht van films
 

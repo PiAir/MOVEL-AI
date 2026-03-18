@@ -13,11 +13,9 @@ listing:
     grid-item-align: left
     max-description-length: 200
 ---
+![](media/ai-in-het-onderwijs.png){.lightbox height="200px"}
 
 ## De lijst wordt langer...
-
-![Algemene AI en Onderwijs AI](./media/onderwijsAI-algemeneAI.jpg)
-
 Voor de eerste versie van deze  online module voor lesjaar 2022-2023, ontwikkeld net nadat [ChatGPT](../voorbeelden/chatgpt.qmd) op de markt kwam, was het heel moeilijk om voorbeelden te vinden van toepassingen van AI die speciaal voor het onderwijs ontwikkeld waren. De lijst met voorbeelden is nog steeds korter dan de lijst [voorbeelden van algemene AI](../voorbeelden/index.qmd) die je in deze module kunt vinden.
 
 En natuurlijk: AI toepassingen die niet specifiek voor het onderwijs ontwikkeld zijn, zijn vaak ook heel goed ten behoeve van het onderwijs in te zetten. Bij het [Nationaal Onderwijslab AI](nolai.qmd) lopen inmiddels vele co-creatieprojecten waarbij scholen, wetenschappers en bedrijven samen onderwijs-AI ontwikkelen.

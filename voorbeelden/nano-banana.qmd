@@ -1,5 +1,5 @@
 ---
-title: "Nano Banana 2"
+title: "Nano Banana"
 lang: nl
 sidebar: id-voorbeelden
 ---
@@ -7,32 +7,29 @@ sidebar: id-voorbeelden
 
 ![nano-banana screenshot](media/screenshot-nano-banana.png){.img-fluid .rounded}
 
-[Nano Banana 2](https://gemini.google/overview/image-generation/) is Google's AI-beeldgenerator, beschikbaar via [Gemini](gemini.qmd). De naam klinkt misschien speels, maar de mogelijkheden zijn serieus: Nano Banana 2 laat je **afbeeldingen genereren, bewerken en stylen** direct in Gemini, via een tekstprompt.
-
-## Wat kan Nano Banana 2?
-
-- **Genereren**: maak een nieuwe afbeelding vanuit een tekstomschrijving
-- **Sfeer aanpassen**: transformeer een zonnige dag in een mysterieuze nacht, verander de belichting of het camerastandpunt
-- **Stijl overnemen**: neem de textuur, kleur of stijl van een andere foto over en pas die toe op jouw afbeelding
-- **Formaten aanpassen**: pas het formaat aan voor verschillende platforms (vierkant, liggend, staand) zonder details te verliezen
-- **Tekst in afbeeldingen**: maak logo's, posters, uitnodigingen of strips met kristalheldere tekst in meerdere talen
-
-## Hoe gebruik je het?
-
-Nano Banana 2 is geïntegreerd in Gemini. Ga naar [gemini.google.com](https://gemini.google.com/), start een gesprek en vraag om een afbeelding te genereren of te bewerken.
-
-## Gratis vs. betaald
-
+[Nano Banana](https://gemini.google/overview/image-generation/) is Google's AI-beeldgenerator, beschikbaar als onderdeel van [Gemini](gemini.qmd) en ook in gebruik binnen [NotebookLM](notebooklm.qmd). De naam klinkt misschien speels, maar de mogelijkheden zijn serieus. Bij OpenAI schrokken ze er in ieder geval van toen het voor het eerst beschikbaar kwam. Nano Banana was in staat om goed tekst in afbeeldingen te genereren, heel belangrijk voor het kunnen maken van infographics binnen NotebookLM. En het was ook goed in het op basis van een prompt aanpassen van bestaande afbeeldingen zonder de rest van de afbeelding aan te passen.
 Nano Banana 2 is beschikbaar in de gratis versie van Gemini, maar met beperkte aantallen generaties per dag. Google AI Pro geeft toegang tot meer en hogere kwaliteit gegenereerde afbeeldingen.
-
-## Vergelijking met andere beeldgeneratoren
-
-| Tool | Sterk in | Toegang |
-|---|---|---|
-| Nano Banana 2 | Fotorealisme, tekst in afbeelding | Via Gemini (gratis) |
-| [Midjourney](midjourney.qmd) | Artistieke kwaliteit | Betaald abonnement |
-| Canva AI | Afbeeldingen in ontwerpen | Via Canva (gratis) |
-
-## Ethische noot
-
 Alle door Nano Banana 2 gegenereerde afbeeldingen bevatten een onzichtbaar digitaal watermerk (SynthID van Google DeepMind), zodat de AI-oorsprong later te traceren is.
+
+
+::: {.callout-note}
+## Bescherming voor bekende mensen?
+
+Nano Banana in Gemini is soms heel streng. Foto's bewerken van bekende personen wordt niet toegestaan. Een eigen foto aanpassen wordt meestal wel toegestaan.
+:::
+
+::: {layout-ncol=2}
+![Pierre als astronaut](media/nano-banana-pierre-astronaut.png)
+
+![Geen Scarlet als astronaut](media/nano-banana-geen-scarlet-als-astronaut.png)
+:::
+
+::: {.callout-warning}
+## Let op!
+**Voor de duidelijkheid:** dat ik een afbeelding van mezelf gebruik als voorbeeld betekent niet dat het okay is om zomaar foto's van mij of andere mensen te bewerken.
+De [AVG vindt iets van deepfakes](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/privacy-en-de-avg/deepfakes).
+Afhankelijk van de soort deepfake [kan het strafbaar zijn](https://www.slachtofferhulp.nl/gebeurtenissen/deepfake/) omdat het smaad of laster kan zijn.
+Het is een issue dat [binnen scholen zeker besproken moet worden](https://www.l1nieuws.nl/nieuws/3124413/nepfilmpjes-van-docenten-circuleren-op-sociale-media-school-neemt-maatregelen).
+:::
+
+

@@ -2,6 +2,7 @@
 ---
 title: "Toets Jezelf!"
 ---
+![](media/toets-jezelf.png){.lightbox height="200px"}
 
 Beantwoord de vragen hieronder om je kennis te testen.
 

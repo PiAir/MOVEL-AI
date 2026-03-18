@@ -3,6 +3,7 @@ title: "Voorbeelden van AI"
 lang: nl
 sidebar: id-voorbeelden
 ---
+![](media/voorbeelden-van-ai.png){.lightbox height="200px"}
 
 De ontwikkelingen op het gebied van AI gaan zo snel dat elk overzicht achterhaald is zodra het online verschijnt. Desondanks geven de onderstaande voorbeelden een goede indruk van wat er mogelijk is — en hoe breed het landschap van AI-toepassingen inmiddels is.
 
@@ -12,8 +13,9 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 
 - [ChatGPT](chatgpt.qmd) — de bekendste AI-chatbot, van OpenAI
 - [Claude.ai](claude-ai.qmd) — serieuze concurrent van Anthropic
-- [Google Gemini](gemini.qmd) — Google's AI-assistent.
-- [Microsoft Copilot](copilot.qmd) — AI-assistent in Word, PowerPoint, Outlook en Teams
+- [Google Gemini](gemini.qmd) — Google's AI-assistent
+- [Microsoft Copilot](copilot.qmd) — de AI-assistent van Microsoft
+- [GPT-NL](gpt-nl.qmd) — een Nederlands taalmodel
 
 
 ## Vertalen en schrijven verbeteren
@@ -24,7 +26,7 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 ## Presentaties en visuele communicatie
 
 - [Gamma.app](gamma.qmd) — genereer een complete presentatie vanuit een prompt
-- [Canva AI](canva-ai.qmd) — AI-functies in de populairste ontwerpapp voor leraren
+- [Canva AI](canva-ai.qmd) — AI-functies in de populaire ontwerpapp voor leraren
 - [Napkin AI](napkin-ai.qmd) — zet tekst automatisch om in schema's en infographics
 
 ## Genereren van afbeeldingen
@@ -32,6 +34,7 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 - [Nano Banana 2](nano-banana.qmd) — Google's beeldgenerator, via Gemini
 - [Midjourney](midjourney.qmd) — artistieke kwaliteit, via Discord en web
 - [This [...] Does Not Exist](this-does-not-exist.qmd) — GAN-modellen die niet-bestaande gezichten genereren
+- [Magic Eraser](magic-eraser.qmd) — objecten verwijderen uit foto's
 
 ## Genereren van audio en spraak
 
@@ -47,15 +50,12 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 - [Invideo AI](invideo-ai.qmd) — complete video met voice-over uit een prompt
 - [HeyGen](heygen.qmd) — video vertalen en nasynchroniseren in andere talen
 - [Synthesia](synthesia.qmd) — instructievideo's met AI-avatars, zonder camera
-- [Pratende Avatars](pratende-avatars.qmd) — foto's of avatars die spreken
 - [Wav2Lip](wav2lip.qmd) — vroeg (2020) lipsync-model dat foto's laat praten
+- [Wavespeed](https://wavespeed.ai/) - geen abonnement maar credits kopen
+- [Imagine.art](https://www.imagine.art/) - uitgebreide opties, geen gratis versie
 
-## Beeldbewerking
-
-- [Magic Eraser](magic-eraser.qmd) — objecten verwijderen uit foto's
 
 ## Onderzoek en kennisbeheer
-
 
 - [Google NotebookLM](notebooklm.qmd) — bronnen uploaden en er een podcast, samenvatting of quiz van laten maken
 - [Perplexity AI](perplexity.qmd) — AI-zoekmachine
@@ -66,4 +66,3 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 - [Teachable Machine](teachable-machine.qmd) — train zelf een eenvoudig ML-model, zonder code
 - [Claude Code](claude-code.qmd) — AI-assistent die zelfstandig code schrijft en bewerkt
 - [Antigravity](antigravity.qmd) — de AI waarmee deze module is gebouwd
-- [GPT-NL](gpt-nl.qmd) — een Nederlands taalmodel

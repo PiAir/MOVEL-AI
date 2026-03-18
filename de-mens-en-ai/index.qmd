@@ -3,6 +3,7 @@ title: "De mens en AI"
 lang: nl
 sidebar: id-de-mens-en-ai
 ---
+![](media/mens-en-ai.png){.lightbox height="200px"}
 
 In dit onderdeel van de module onderzoeken we de relatie tussen de mens en Kunstmatige Intelligentie. We kijken naar de filosofische kant van technologie, de kosten van 'gratis' diensten, ethiek, wetgeving en de risico's van bias in algoritmen.
 

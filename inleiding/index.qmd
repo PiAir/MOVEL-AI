@@ -3,14 +3,14 @@ title: "Inleiding"
 lang: nl
 sidebar: id-inleiding
 ---
-![](media/inleiding-banner.png){.img-fluid .rounded}
+![](media/inleiding.png){.img-fluid .rounded}
 
 Welkom bij de inleiding van de module MOVEL AI. In dit gedeelte leggen we de basis voor je begrip van Kunstmatige Intelligentie en de impact ervan op het onderwijs en de samenleving.
 
 Klik in de zijbalk op een van de onderwerpen om meer te lezen:
 
 - **[Wat is AI?](./wat-is-ai.qmd)** — De basisdefinities en uitleg.
-- **[AI in het Onderwijs](./ai-onderwijs-2025.qmd)** — Overzichtsvideo (editie 2025).
+- **[AI in het Onderwijs](./ai-onderwijs.qmd)** — Overzichtsvideo (editie 2025).
 - **[AI bij de Overheid](./ai-overheid.qmd)** — Hoe de publieke sector AI inzet.
 - **[NOS op 3](./nos-op-3.qmd)** — Actuele uitlegvideo's.
 - **[Het Klokhuis](./klokhuis.qmd)** — Niet alleen voor kinderen.

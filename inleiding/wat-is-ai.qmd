@@ -3,6 +3,7 @@ title: "Wat is AI nou eigenlijk?"
 lang: nl
 sidebar: id-inleiding
 ---
+![](media/wat-is-ai-icon.png){.img-fluid .rounded}
 
 Het is een logische vraag: wat is Kunstmatige Intelligentie? Of Artificiële Intelligentie? En is het dan AI of KI?
 De omschrijving is vaak afhankelijk van de context of het domein. Een specialist in machine learning zal een veel technischere definitie gebruiken dan relevant is voor een docent. 
