@@ -13,6 +13,8 @@ listing:
     grid-item-align: left
     max-description-length: 200
 ---
+![](media/ai-geletterdheid-experimenteren.png)
+
 Het is één ding om in deze module te lezen over AI. Uiteindelijk zul je er toch echt mee aan de slag moeten om te ontdekken wat in jouw context en situatie het beste werkt. Natuurlijk, niet alle experimenten zijn verstandig. Maak gebruik van wat we weten, lees literatuur, praat met anderen. Begin klein — niet meteen je hele curriculum of werkwijze omgooien.
 
 En je hoeft het niet alleen te doen. Er is best al veel professionalisering beschikbaar, en die slimme collega (docent of student) kan natuurlijk ook meekijken. Wees niet onder de indruk van wat er allemaal kan of van wat anderen al kunnen.

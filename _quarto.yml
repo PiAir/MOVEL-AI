@@ -38,7 +38,6 @@ website:
          - href: toets-jezelf.qmd
            text: Test Jezelf!
 
-
      - id: id-inleiding
        style: "docked"
        search: true
