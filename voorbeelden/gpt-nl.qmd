@@ -6,7 +6,7 @@ sidebar: id-voorbeelden
 
 ![gpt-nl website](media/screenshot-gpt-nl.png){.img-fluid .rounded}
 
-GPT-NL is een publiek gefinancierd initiatief (13,5 miljoen euro via RVO/EZK) om een eigen, transparant ecosysteem voor Nederland te creëren.
+[GPT-NL](https://gpt-nl.nl/) is een publiek gefinancierd initiatief (13,5 miljoen euro via RVO/EZK) om een eigen, transparant ecosysteem voor Nederland te creëren.
 
 GPT-NL onderscheidt zich van commerciële modellen door een focus op de Nederlandse taal en cultuur:
 
@@ -21,7 +21,7 @@ In tegenstelling tot veel 'black box' modellen, maakt GPT-NL de onderliggende te
 
 Uitdaging hierbij is dat Nederland eigenlijk al heel erg laat is begonnen met het ontwikkelen van eigen AI-modellen. De VS en China zijn al veel verder, steken er veel meer geld in en hebben modellen die nu vandaag al meteen commercieel bruikbaar zijn. Het is dus de vraag of dit model kan concurreren met die andere modellen. 
 
-Op dit moment (voorjaar 2026) kun je GPT-NL nog niet zelf testen. [Meer informatie vind je op de website van GPT-NL](https://gpt-nl.org/).
+Op dit moment (voorjaar 2026) kun je GPT-NL nog niet zelf testen. [Meer informatie vind je op de website van GPT-NL](https://gpt-nl.nl/).
 
 ::: {.callout-note}
 ## Hoe open wil je het hebben?

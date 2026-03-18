@@ -30,7 +30,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../voorbeelden/grammarly.html" rel="next">
+<link href="../voorbeelden/gemini.html" rel="prev">
 <link href="../media/MOVEL-icon.png" rel="icon" type="image/png">
+<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -72,6 +76,24 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Zoeken"
   }
 }</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"nl"
+  });
+});
+</script> 
+  
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -370,7 +392,7 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>gpt-nl website</figcaption>
 </figure>
 </div>
-<p>GPT-NL is een publiek gefinancierd initiatief (13,5 miljoen euro via RVO/EZK) om een eigen, transparant ecosysteem voor Nederland te creëren.</p>
+<p><a href="https://gpt-nl.nl/">GPT-NL</a> is een publiek gefinancierd initiatief (13,5 miljoen euro via RVO/EZK) om een eigen, transparant ecosysteem voor Nederland te creëren.</p>
 <p>GPT-NL onderscheidt zich van commerciële modellen door een focus op de Nederlandse taal en cultuur:</p>
 <ul>
 <li>Soevereiniteit: Vermindert de afhankelijkheid van buitenlandse partijen en versterkt de digitale positie van Europa.</li>
@@ -382,7 +404,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="verschil-met-andere-tools">Verschil met andere tools</h2>
 <p>In tegenstelling tot veel ‘black box’ modellen, maakt GPT-NL de onderliggende techniek inzichtelijk (dat is het doel tenminste). Het is eenvoudig om te denken “waarom doen we zo veel moeite als ik toch ook gewoon de bestaande commerciële modellen kan gebruiken?”. Recente ontwikkelingen hebben duidelijk gemaakt dat het voor Europa en Nederland belangrijk is om een eigen AI-ecosysteem te hebben. Anders zijn we afhankelijk van buitenlandse partijen die op hun beurt weer onderdeel zijn van het politieke systeem van hun land. AI valt dan in dezelfde categorie als bijvoorbeeld energie en defensie. Daarnaast zit er een meer ideologische kant achter: wat vind je een eerlijk systeem als het gaat om het gebruik van data van anderen voor het trainen van AI-modellen?</p>
 <p>Uitdaging hierbij is dat Nederland eigenlijk al heel erg laat is begonnen met het ontwikkelen van eigen AI-modellen. De VS en China zijn al veel verder, steken er veel meer geld in en hebben modellen die nu vandaag al meteen commercieel bruikbaar zijn. Het is dus de vraag of dit model kan concurreren met die andere modellen.</p>
-<p>Op dit moment (voorjaar 2026) kun je GPT-NL nog niet zelf testen. <a href="https://gpt-nl.org/">Meer informatie vind je op de website van GPT-NL</a>.</p>
+<p>Op dit moment (voorjaar 2026) kun je GPT-NL nog niet zelf testen. <a href="https://gpt-nl.nl/">Meer informatie vind je op de website van GPT-NL</a>.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1134,6 +1156,13 @@ window.onload = function() {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -1447,7 +1476,32 @@ window.onload = function() {
     }
   });
   </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../voorbeelden/gemini.html" class="pagination-link" aria-label="Google Gemini">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Google Gemini</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../voorbeelden/grammarly.html" class="pagination-link" aria-label="Grammarly">
+        <span class="nav-page-text">Grammarly</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
 (function() {
   let previousOnload = window.onload;

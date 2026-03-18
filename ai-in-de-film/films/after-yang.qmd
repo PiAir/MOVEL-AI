@@ -5,7 +5,7 @@ year: 2021
 shortdesc: > 
       "Maybe there's a version of us where Yang never broke."
 longdesc: >
-      After Yang, geregisseerd door Kogonada en met Colin Farrell, is een prachtig, ingetogen sciencefiction-drama over een familie die hun "techno-sapien" Yang verliest. Wanneer hun AI-familielid plotseling uitvalt, proberen ze hem te laten repareren en ontdekken ze daarbij zijn verborgen leven en herinneringen. De film focust niet op rebellie of gevaar, maar op rouw en de vraag of een AI een culturele identiteit of zelfs een ziel kan hebben. Een modern broertje van [Her](her), maar gelardeerd met thema's van erfgoed en identiteit.
+      After Yang, geregisseerd door Kogonada en met Colin Farrell, is een prachtig, ingetogen sciencefiction-drama over een familie die hun "techno-sapien" Yang verliest. Wanneer hun AI-familielid plotseling uitvalt, proberen ze hem te laten repareren en ontdekken ze daarbij zijn verborgen leven en herinneringen. De film focust niet op rebellie of gevaar, maar op rouw en de vraag of een AI een culturele identiteit of zelfs een ziel kan hebben. Een modern broertje van [Her](./her.qmd), maar gelardeerd met thema's van erfgoed en identiteit.
 sidebar: id-default
 page-navigation: false
 navbar: true

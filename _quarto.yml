@@ -5,15 +5,30 @@ project:
     - "*.qmd"
     - "!quiz/*"
 
+format:
+  html:
+    link-external-newwindow: true
+    link-external-icon: true  
+    lightbox: auto
+    toc: true
+    theme:
+      - cosmo
+      - brand
+    css: 
+      - styles.css
+      - webex.css
+    include-after-body: webex.js     
+
 website:
   title: "MOVEL AI 2025-2026"
 
   favicon: "media/MOVEL-icon.png"
   bread-crumbs: true
   back-to-top-navigation: true
+  page-navigation: true
+  cookie-consent: true
 
   navbar:
-
     right:
       - href: colofon.qmd
         text: Over deze module
@@ -128,14 +143,4 @@ website:
 
 lang: nl
 
-format:
-  html:
-    lightbox: auto
-    toc: true
-    theme:
-      - cosmo
-      - brand
-    css: 
-      - styles.css
-      - webex.css
-    include-after-body: webex.js
+
