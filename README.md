@@ -42,4 +42,4 @@ De website wordt standaard gerenderd naar de `docs` map, die geconfigureerd is v
 - **Licentie**: Deze inhoud wordt beschikbaar gesteld onder een [Creative Commons Naamsvermelding-GelijkDelen (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/deed.nl) licentie.
 
 ## Contact
-Voor vragen of suggesties over de inhoud van deze module kun je contact opnemen met [iXperium](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20Onderwijs).
+Voor vragen of suggesties over de inhoud van deze module kun [je contact opnemen](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20Onderwijs).
