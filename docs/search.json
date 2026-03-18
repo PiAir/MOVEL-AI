@@ -1755,22 +1755,11 @@
     ]
   },
   {
-    "objectID": "voorbeelden/antigravity.html#wat-maakt-dit-interessant",
-    "href": "voorbeelden/antigravity.html#wat-maakt-dit-interessant",
+    "objectID": "voorbeelden/antigravity.html#zelf-proberen",
+    "href": "voorbeelden/antigravity.html#zelf-proberen",
     "title": "Antigravity",
-    "section": "Wat maakt dit interessant?",
-    "text": "Wat maakt dit interessant?\nDit is geen ChatGPT die een tekst schrijft die je daarna kopieert. Dit is een tool (applicatie) die:\n\nBestanden aanmaakt en bewerkt op je computer\nZelfstandig keuzes maakt en die uitlegt\nFouten opspoort en corrigeert\nVragen stelt als iets onduidelijk is\n\nHet concept van een agentische AI-codeerassistent is beschikbaar in meerdere vormen, zo is er Claude Code](claude-code.qmd), GitHub Copilot, Gemini CLI. Wil je zelf experimenteren maar het technisch eenvoudiger houden? Probeer dan Google AI Studio voor een eerste kennismaking met vibecoding (een website bouwen met instructies in gewone taal, zonder een regel code te schrijven).",
-    "crumbs": [
-      "Over deze module",
-      "Antigravity"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/antigravity.html#voor-de-nieuwsgierige-lezer",
-    "href": "voorbeelden/antigravity.html#voor-de-nieuwsgierige-lezer",
-    "title": "Antigravity",
-    "section": "Voor de nieuwsgierige lezer",
-    "text": "Voor de nieuwsgierige lezer\nWil je zelf ervaren hoe een AI-codeerassistent werkt? Probeer Google AI Studio voor een eerste kennismaking met vibecoding — een website bouwen met instructies in gewone taal, zonder een regel code te schrijven. Of Antigravity als je met deze omgeving aan de slag wilt.",
+    "section": "Zelf proberen?",
+    "text": "Zelf proberen?\nHet concept van een zo’n agentische AI-codeerassistent is beschikbaar in meerdere vormen, zo is er Claude Code](claude-code.qmd), GitHub Copilot, Gemini CLI (sorry, niet van alle tools een subpagina beschikbaar in de module). Wil je zelf experimenteren met vibecoden maar het technisch eenvoudiger houden? Probeer dan Google AI Studio voor een eerste kennismaking met vibecoding (een website bouwen met instructies in gewone taal, zonder een regel code te schrijven).",
     "crumbs": [
       "Over deze module",
       "Antigravity"
@@ -2214,17 +2203,6 @@
     "crumbs": [
       "Over deze module",
       "Wav2Lip – Lipsync met AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/antigravity.html#zelf-proberen",
-    "href": "voorbeelden/antigravity.html#zelf-proberen",
-    "title": "Antigravity",
-    "section": "Zelf proberen?",
-    "text": "Zelf proberen?\nHet concept van een zo’n agentische AI-codeerassistent is beschikbaar in meerdere vormen, zo is er Claude Code](claude-code.qmd), GitHub Copilot, Gemini CLI (sorry, niet van alle tools een subpagina beschikbaar in de module). Wil je zelf experimenteren met vibecoden maar het technisch eenvoudiger houden? Probeer dan Google AI Studio voor een eerste kennismaking met vibecoding (een website bouwen met instructies in gewone taal, zonder een regel code te schrijven).",
-    "crumbs": [
-      "Over deze module",
-      "Antigravity"
     ]
   }
 ]

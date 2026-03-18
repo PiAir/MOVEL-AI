@@ -1,1 +1,1 @@
-git add . && git commit -m "Updated files" && git push
+quarto render && git add . && git commit -m "Updated files" && git push
