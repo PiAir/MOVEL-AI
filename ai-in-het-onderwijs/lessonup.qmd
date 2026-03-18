@@ -3,9 +3,6 @@ title: "LessonUp AI"
 lang: nl
 sidebar: id-ai-in-het-onderwijs
 ---
-
-![](./media/screenshot-lessonup-main.png)
-
 [LessonUp](https://www.lessonup.com) is een populair platform voor interactieve lessen in Nederland. Ze hebben onlangs AI-functies toegevoegd die docenten enorm veel tijd kunnen besparen.
 
 Met LessonUp AI kun je:
@@ -26,5 +23,5 @@ Bekijk hieronder hoe LessonUp AI docenten ondersteunt:
 
 Ook voor LessonUp geldt dat deze tekst geschreven is op basis van heel beperkte handson ervaring.
 
-![](./media/screenshot-lessonup-ai.png)
+![](./media/screenshot-lesson-up.png)
 
