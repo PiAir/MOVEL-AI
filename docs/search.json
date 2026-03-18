@@ -1748,7 +1748,7 @@
     "href": "voorbeelden/antigravity.html",
     "title": "Antigravity",
     "section": "",
-    "text": "Antigravity is de AI-assistent van het Google DeepMind-team, geoptimaliseerd voor geavanceerde coderingstaken. Het is de assistent waarmee de auteur van deze module heeft samengewerkt bij het bouwen van deze website — inclusief het schrijven van deze pagina.\nAntigravity illustreert een nieuwe manier van werken: AI niet alleen als hulp bij het schrijven, maar als actieve bouwpartner bij het produceren van digitale producten. De auteur beschreef wat hij wilde, Antigravity maakte de bestanden aan, paste de structuur aan, zocht informatie op en stelde verbeteringen voor. De auteur corrigeerde, stuurde bij en nam de eindverantwoordelijkheid.",
+    "text": "Antigravity is de AI-assistent van het Google DeepMind-team, geoptimaliseerd voor geavanceerde coderingstaken. Het is de assistent waarmee ook delen van deze module zijn gemaakt, inclusief het schrijven van deze pagina.\nNou klinkt dat wellicht spannender dan dat het is. Het komt voor een groot deel omdat Quarto ook vanuit Anitgravity te gebruiken is en Antigravity zelf een ‘fork’ (kopie) is van VS Code. Dat maakt het een practische omgeving om met de bestanden van de module te werken in combinatie met een AI-assistent. Die ook weet wat hij moet doen als je gewoon zegt “verzamel alle nieuwe en gewijzigde bestanden en update de git-repository” of als je vraagt om een screenshot te maken van de huidige pagina, die op te slaan in de mediamap en in de pagina in te voegen.",
     "crumbs": [
       "Over deze module",
       "Antigravity"
@@ -1759,7 +1759,7 @@
     "href": "voorbeelden/antigravity.html#wat-maakt-dit-interessant",
     "title": "Antigravity",
     "section": "Wat maakt dit interessant?",
-    "text": "Wat maakt dit interessant?\nDit is geen ChatGPT die een tekst schrijft die je daarna kopieert. Dit is een tool (applicatie) die:\n\nBestanden aanmaakt en bewerkt op je computer\nZelfstandig keuzes maakt en die uitlegt\nFouten opspoort en corrigeert\nVragen stelt als iets onduidelijk is\n\nHet concept van een agentische AI-codeerassistent is beschikbaar in meerdere vormen:\n\n\n\nAlternatief\nBeschrijving\n\n\n\n\nClaude Code\nDe commandoregel-assistent van Anthropic\n\n\nClaude.ai\nDe webgebaseerde versie van Claude\n\n\nGitHub Copilot\nAI-assistent binnen Visual Studio Code\n\n\nCursor\nAI-first code-editor",
+    "text": "Wat maakt dit interessant?\nDit is geen ChatGPT die een tekst schrijft die je daarna kopieert. Dit is een tool (applicatie) die:\n\nBestanden aanmaakt en bewerkt op je computer\nZelfstandig keuzes maakt en die uitlegt\nFouten opspoort en corrigeert\nVragen stelt als iets onduidelijk is\n\nHet concept van een agentische AI-codeerassistent is beschikbaar in meerdere vormen, zo is er Claude Code](claude-code.qmd), GitHub Copilot, Gemini CLI. Wil je zelf experimenteren maar het technisch eenvoudiger houden? Probeer dan Google AI Studio voor een eerste kennismaking met vibecoding (een website bouwen met instructies in gewone taal, zonder een regel code te schrijven).",
     "crumbs": [
       "Over deze module",
       "Antigravity"
@@ -2214,6 +2214,17 @@
     "crumbs": [
       "Over deze module",
       "Wav2Lip – Lipsync met AI"
+    ]
+  },
+  {
+    "objectID": "voorbeelden/antigravity.html#zelf-proberen",
+    "href": "voorbeelden/antigravity.html#zelf-proberen",
+    "title": "Antigravity",
+    "section": "Zelf proberen?",
+    "text": "Zelf proberen?\nHet concept van een zo’n agentische AI-codeerassistent is beschikbaar in meerdere vormen, zo is er Claude Code](claude-code.qmd), GitHub Copilot, Gemini CLI (sorry, niet van alle tools een subpagina beschikbaar in de module). Wil je zelf experimenteren met vibecoden maar het technisch eenvoudiger houden? Probeer dan Google AI Studio voor een eerste kennismaking met vibecoding (een website bouwen met instructies in gewone taal, zonder een regel code te schrijven).",
+    "crumbs": [
+      "Over deze module",
+      "Antigravity"
     ]
   }
 ]
