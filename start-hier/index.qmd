@@ -17,7 +17,7 @@ Doelgroep voor dit materiaal zijn docenten ([leraren](/colofon.qmd#sec-taalgebru
 
 ### Inhoud
 
--   Een goed startpunt is de [Inleiding](inleiding/), met een samenvattende video van 20 minuten over het onderwerp en verwijzingen naar andere plekken waar je nog meer over AI op een inleidend niveau kunt leren. 
+-   Een goed startpunt is de [Inleiding](/inleiding/), met een samenvattende video van 20 minuten over het onderwerp en verwijzingen naar andere plekken waar je nog meer over AI op een inleidend niveau kunt leren. 
 -   Via de optie [AI Geletterdheid](/ai-geletterdheid/) kun je meer te weten komen over wat AI van docenten, studenten en leidinggevenden vraagt én verwijzingen vinden naar plekken waar je je eigen AI-geletterdheid kunt verhogen.
 -   Het onderdeel [Voorbeelden](/voorbeelden/) bevat een kansloze poging om een voorbeelden te geven van AI die je nu al kunt gebruiken. Kansloos omdat de ontwikkelingen op dit moment zo snel gaan dat elk lijstje alweer achterhaald is zodra het online verschijnt en ook de tools die hier nu genoemd worden zijn sinds het maken van hun beschrijving alweer een paar versies doorontwikkeld. Zie het als een startpunt om zelf op onderzoek uit te gaan.
 -   Het onderwerp [AI in het onderwijs](/ai-in-het-onderwijs/) was bij de eerste iteratie van deze module nog een moeizame. Natuurlijk kunnen ook de bij Voorbeelden genoemde tools in het onderwijs ingezet worden, maar het aantal voorbeelden van specifiek voor het onderwijs ontwikkelde systemen was nagenoeg nietbestaand. Daar komt stilaan verandering in.
