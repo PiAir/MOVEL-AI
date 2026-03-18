@@ -4,7 +4,7 @@ lang: nl
 sidebar: id-de-mens-en-ai
 ---
 
-De Europese Commissie heeft de [Ethische richtsnoeren voor het gebruik van Artificiële Intelligentie bij onderwijzen en leren voor onderwijsactoren](https://op.europa.eu/s/xoGF) opgesteld.
+De Europese Commissie heeft de [Ethische richtsnoeren voor het gebruik van Artificiële Intelligentie bij onderwijzen en leren voor onderwijsactoren](https://op.europa.eu/en/publication-detail/-/publication/f692aa0b-17a7-11f1-8870-01aa75ed71a1) opgesteld.
 
 Dit document beschrijft voorbeelden, misvattingen en ethische overwegingen voor AI in het onderwijs. De zeven kernvereisten zijn:
 
@@ -18,4 +18,4 @@ Dit document beschrijft voorbeelden, misvattingen en ethische overwegingen voor 
 
 ![](media/eu-richtlijnen.png){.img-fluid .rounded}
 
-[Download hier het volledige document](https://op.europa.eu/s/xoGF).
+[Download hier het volledige document](https://op.europa.eu/en/publication-detail/-/publication/f692aa0b-17a7-11f1-8870-01aa75ed71a1).

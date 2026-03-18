@@ -4,8 +4,6 @@ lang: nl
 sidebar: id-ai-in-het-onderwijs
 ---
 
-![](./media/screenshot-china-voorbeeld-main.png)
-
 Het experiment is inmiddels al lang en breed beëindigd, maar de video dient nog steeds als goed voorbeeld als je gaat nadenken over de vraag "wat willen we eigenlijk wel of niet?".
 
 {{< video https://www.youtube.com/embed/JMLsHI8aV0g >}}

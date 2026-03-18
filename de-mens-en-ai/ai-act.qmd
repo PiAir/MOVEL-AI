@@ -14,5 +14,6 @@ Onderstaande afbeelding geeft een overzicht van de categorieën die onder de ver
 ![](media/verboden-ai-systemen.png){.img-fluid .rounded}
 
 Meer informatie is te vinden bij:
+
 - [Rijksoverheid: Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 - [Autoriteit Persoonsgegevens: AI-verordening](https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening)

@@ -11,33 +11,11 @@
     ]
   },
   {
-    "objectID": "voorbeelden/whisper.html#toepassingen",
-    "href": "voorbeelden/whisper.html#toepassingen",
-    "title": "Whisper – Spraak naar tekst",
-    "section": "Toepassingen",
-    "text": "Toepassingen\n\nTranscripties van lessen, vergaderingen of interviews\nAutomatische ondertiteling van video’s\nVertaling: Whisper kan tegelijkertijd transcriberen én vertalen naar het Engels",
-    "crumbs": [
-      "Over deze module",
-      "Whisper – Spraak naar tekst"
-    ]
-  },
-  {
     "objectID": "voorbeelden/whisper.html#hoe-gebruiken",
     "href": "voorbeelden/whisper.html#hoe-gebruiken",
     "title": "Whisper – Spraak naar tekst",
     "section": "Hoe gebruiken?",
-    "text": "Hoe gebruiken?\nWhisper is beschikbaar als open-source model op GitHub. Voor wie niet met Python wil werken zijn er inmiddels uitstekende kant-en-klare toepassingen:\n\nNoScribe — gratis desktop-app voor Windows en macOS. Transcribeert audio/video lokaal op je eigen computer; geen data gaat naar de cloud. Ondersteunt Nederlands.\naTrain — te installeren via de Microsoft Store. Werkt eveneens volledig lokaal.\nWhisper Web — online demo die direct in de browser draait (via WebGPU).\n\nHet grote voordeel van lokaal draaien: je audio verlaat je computer niet, wat privacy-gevoelige transcripties (gesprekken met studenten, patiënten, etc.) een stuk veiliger maakt.",
-    "crumbs": [
-      "Over deze module",
-      "Whisper – Spraak naar tekst"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/whisper.html#kwaliteit",
-    "href": "voorbeelden/whisper.html#kwaliteit",
-    "title": "Whisper – Spraak naar tekst",
-    "section": "Kwaliteit",
-    "text": "Kwaliteit\nWhisper scoort uitstekend op Engelstalige audio en goed op Nederlands. Technisch jargon, namen en dialecten geven soms problemen. Voor de beste resultaten: zorg voor goede audio-kwaliteit en gebruik de large-versie van het model als het je computer aankan.",
+    "text": "Hoe gebruiken?\nWhisper is beschikbaar als open-source model op GitHub. Voor wie niet met Python wil werken zijn er inmiddels uitstekende kant-en-klare toepassingen:\n\nNoScribe — gratis desktop-app voor Windows en macOS. Transcribeert audio/video lokaal op je eigen computer; geen data gaat naar de cloud. Ondersteunt Nederlands.\naTrain — te installeren via de Microsoft Store. Werkt eveneens volledig lokaal.\nWhisper Web — online demo die direct in de browser draait (via WebGPU).\n\nHet grote voordeel van lokaal draaien: je audio verlaat je computer niet, wat privacy-gevoelige transcripties (gesprekken met studenten, patiënten, etc.) een stuk veiliger maakt. Whisper scoort uitstekend op Engelstalige audio en goed op Nederlands. Technisch jargon, namen en dialecten geven soms problemen. Voor de beste resultaten: zorg voor goede audio-kwaliteit en gebruik de large-versie van het model als het je computer aankan.",
     "crumbs": [
       "Over deze module",
       "Whisper – Spraak naar tekst"
@@ -48,62 +26,7 @@
     "href": "voorbeelden/veo.html",
     "title": "Gemini Veo 3.1",
     "section": "",
-    "text": "veo screenshot\nVeo 3.1 is Google’s AI-videogeneratiemodel, beschikbaar via de Gemini-app. Het model genereert korte video’s met geluid op basis van een tekstprompt — inclusief omgevingsgeluiden, muziek en stemmen.\nDe slogan luidt treffend: “Doorbreek de stilte” — een verwijzing naar het feit dat eerdere AI-videogeneratoren geen audio produceerden.",
-    "crumbs": [
-      "Over deze module",
-      "Gemini Veo 3.1"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/veo.html#wat-kan-veo-3.1",
-    "href": "voorbeelden/veo.html#wat-kan-veo-3.1",
-    "title": "Gemini Veo 3.1",
-    "section": "Wat kan Veo 3.1?",
-    "text": "Wat kan Veo 3.1?\n\nTekst naar video: beschrijf een scène en Veo genereert een video van enkele seconden\nMet geluid: niet alleen beelden, maar ook realistische geluiden, muziek en spraak\nStijlen: realistisch, animatie, cinematografisch\nToepassingen: verkennen van creatieve ideeën, memes, concept-visualisaties, prototypering\n\nEnkele toepassingsgebieden die Google noemt: - Om te verkennen: speel met verschillende stijlen en breng geanimeerde personages tot leven - Om te delen: maak grappige memes of persoonlijke video’s voor speciale momenten - Om te brainstormen: doorbreek creatieve blokkades en visualiseer ideeën snel",
-    "crumbs": [
-      "Over deze module",
-      "Gemini Veo 3.1"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/veo.html#veiligheidsmaatregelen",
-    "href": "voorbeelden/veo.html#veiligheidsmaatregelen",
-    "title": "Gemini Veo 3.1",
-    "section": "Veiligheidsmaatregelen",
-    "text": "Veiligheidsmaatregelen\nAlle video’s gemaakt met Veo bevatten een zichtbaar watermerk én een onzichtbaar digitaal watermerk via SynthID — een door Google DeepMind ontwikkelde techniek die aangeeft dat de video AI-gegenereerd is.",
-    "crumbs": [
-      "Over deze module",
-      "Gemini Veo 3.1"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/veo.html#gratis-vs.-betaald",
-    "href": "voorbeelden/veo.html#gratis-vs.-betaald",
-    "title": "Gemini Veo 3.1",
-    "section": "Gratis vs. betaald",
-    "text": "Gratis vs. betaald\nVeo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement:\n\n\n\nAbonnement\nToegang\n\n\n\n\nGratis Gemini\nGeen Veo\n\n\nGoogle AI Pro (~€22/mnd)\nVeo 3.1 Fast\n\n\nGoogle AI Ultra (~€250/mnd)\nVeo 3.1 (volledige kwaliteit)",
-    "crumbs": [
-      "Over deze module",
-      "Gemini Veo 3.1"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/veo.html#vergelijking-met-andere-videogeneratoren",
-    "href": "voorbeelden/veo.html#vergelijking-met-andere-videogeneratoren",
-    "title": "Gemini Veo 3.1",
-    "section": "Vergelijking met andere videogeneratoren",
-    "text": "Vergelijking met andere videogeneratoren\n\n\n\nTool\nSterk in\nGeluid?\n\n\n\n\nVeo 3.1\nRealistische video + geluid\n✅\n\n\nRunway ML\nCreatieve stijlen, bewerkingen\n❌/beperkt\n\n\nKling AI\nLange video’s, lipsynced characters\n✅\n\n\nSynthesia\nPresentatie-avatars\n✅",
-    "crumbs": [
-      "Over deze module",
-      "Gemini Veo 3.1"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/veo.html#educatieve-relevantie",
-    "href": "voorbeelden/veo.html#educatieve-relevantie",
-    "title": "Gemini Veo 3.1",
-    "section": "Educatieve relevantie",
-    "text": "Educatieve relevantie\nVeo illustreert hoe snel AI-videogeneratie zich ontwikkelt. Een paar jaar geleden vereiste het maken van een korte filmscène een volledig productieteam. Nu kost het een tekstzin. Dat vraagt om een gesprek over authenticiteit van beeldmateriaal en de toekomst van filmproductie.",
+    "text": "veo screenshot\n\n\nVeo 3.1 is Google’s AI-videogeneratiemodel, beschikbaar via de Gemini-app. Het model genereert korte video’s met geluid op basis van een tekstprompt — inclusief omgevingsgeluiden, muziek en stemmen. De slogan luidt treffend: “Doorbreek de stilte” — een verwijzing naar het feit dat eerdere AI-videogeneratoren geen audio produceerden.\nAlle video’s gemaakt met Veo bevatten een zichtbaar watermerk en een onzichtbaar digitaal watermerk via SynthID — een door Google DeepMind ontwikkelde techniek die aangeeft dat de video AI-gegenereerd is. Veo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement.\n\nHet resultaat van mijn poging:  Het werkt net zo vaak niet als wel. Met een Pro-account kan ik 3 video’s per dag genereren.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Gemini Veo 3.1"
@@ -114,7 +37,7 @@
     "href": "voorbeelden/teachable-machine.html",
     "title": "Teachable Machine",
     "section": "",
-    "text": "teachable-machine screenshot\nTeachable Machine van Google is een laagdrempelige, gratis experimenteeromgeving waarmee je in een paar minuten je eigen machine-learningmodel kunt trainen — geheel in de browser, zonder een regel code te schrijven.",
+    "text": "teachable-machine screenshot\nTeachable Machine van Google is een laagdrempelige, gratis experimenteeromgeving waarmee je in een paar minuten je eigen machine-learningmodel kunt trainen — geheel in de browser, zonder een regel code te schrijven. En bedenk wel: de eerste versie van Teachable Machine kwam al in 2017 uit!",
     "crumbs": [
       "Over deze module",
       "Teachable Machine"
@@ -125,7 +48,7 @@
     "href": "voorbeelden/teachable-machine.html#wat-kun-je-ermee",
     "title": "Teachable Machine",
     "section": "Wat kun je ermee?",
-    "text": "Wat kun je ermee?\nJe kunt drie typen modellen trainen:\n\n\n\n\n\n\n\nType\nWat je ermee doet\n\n\n\n\nAfbeelding\nLaat de webcam beelden herkennen en indelen in door jou gekozen categorieën\n\n\nAudio\nLaat de microfoon geluiden of woorden herkennen\n\n\nPose\nHerken lichaamshoudingen via de webcam",
+    "text": "Wat kun je ermee?\nJe kunt drie typen modellen trainen:\n\nAfbeelding: Laat de webcam beelden herkennen en indelen in door jou gekozen categorieën\nAudio: Laat de microfoon geluiden of woorden herkennen\nPose: Herken lichaamshoudingen via de webcam",
     "crumbs": [
       "Over deze module",
       "Teachable Machine"
@@ -136,29 +59,7 @@
     "href": "voorbeelden/teachable-machine.html#hoe-werkt-het-in-3-stappen",
     "title": "Teachable Machine",
     "section": "Hoe werkt het? — in 3 stappen",
-    "text": "Hoe werkt het? — in 3 stappen\n\nVerzamel voorbeelden: neem via je webcam (of upload afbeeldingen) voorbeelden op voor elke klasse. Bijv. klasse 1 = “duim omhoog”, klasse 2 = “duim omlaag”\nTrain het model: klik op “Train” — Teachable Machine traint het model direct in je browser\nTest en exporteer: test het model live via je webcam of microfoon; exporteer het vervolgens voor gebruik in apps via TensorFlow.js",
-    "crumbs": [
-      "Over deze module",
-      "Teachable Machine"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/teachable-machine.html#educatieve-waarde",
-    "href": "voorbeelden/teachable-machine.html#educatieve-waarde",
-    "title": "Teachable Machine",
-    "section": "Educatieve waarde",
-    "text": "Educatieve waarde\nTeachable Machine is bij uitstek geschikt om studenten en leerlingen te laten ervaren hoe machine learning werkt:\n\nHoe training met voorbeeldata werkt\nWat het effect is van meer of minder trainingsdata\nWat “overfitting” is (het model herkent alleen de exacte trainingsopnames)\nHoe bias in trainingsdata leidt tot fouten in het model\n\nHet is een ideaal hulpmiddel voor docenten die de concepten achter AI op een hands-on manier willen uitleggen, ook zonder technische achtergrond.",
-    "crumbs": [
-      "Over deze module",
-      "Teachable Machine"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/teachable-machine.html#verder",
-    "href": "voorbeelden/teachable-machine.html#verder",
-    "title": "Teachable Machine",
-    "section": "Verder",
-    "text": "Verder\nGemaakte modellen kunnen worden geëxporteerd en ingebed in websites of apps via TensorFlow.js. Er zijn uitstekende tutorials beschikbaar op de Google-website.",
+    "text": "Hoe werkt het? — in 3 stappen\n\nVerzamel voorbeelden: neem via je webcam (of upload afbeeldingen) voorbeelden op voor elke klasse. Bijv. klasse 1 = “duim omhoog”, klasse 2 = “duim omlaag”\nTrain het model: klik op “Train” — Teachable Machine traint het model direct in je browser\nTest en exporteer: test het model live via je webcam of microfoon; exporteer het vervolgens voor gebruik in apps via TensorFlow.js\n\n\n\n\n\n\n\nOpmerkingOok offline\n\n\n\nGemaakte modellen kunnen worden geëxporteerd en ingebed in websites of apps via TensorFlow.js. Er zijn uitstekende tutorials beschikbaar op de Google-website.",
     "crumbs": [
       "Over deze module",
       "Teachable Machine"
@@ -169,62 +70,7 @@
     "href": "voorbeelden/suno.html",
     "title": "Suno",
     "section": "",
-    "text": "suno screenshot\nSuno is een AI-muziekgenerator: beschrijf in een paar woorden welk nummer je wilt — genre, sfeer, instrumentatie, thema — en Suno genereert binnen seconden een volledig nummer met zang, instrumentale begeleiding en teksten.",
-    "crumbs": [
-      "Over deze module",
-      "Suno"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/suno.html#hoe-werkt-het",
-    "href": "voorbeelden/suno.html#hoe-werkt-het",
-    "title": "Suno",
-    "section": "Hoe werkt het?",
-    "text": "Hoe werkt het?\n\nGa naar suno.com en maak een gratis account\nTyp een korte beschrijving: “upbeat Dutch children’s song about frogs, ukulele, playful”\nKlik op Create en ontvang twee versies van het nummer\nLuister, download en deel\n\nJe kunt ook zelf de tekst schrijven en Suno vragen die op muziek te zetten — dan heb je meer controle over de inhoud.",
-    "crumbs": [
-      "Over deze module",
-      "Suno"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/suno.html#gratis-vs.-betaald",
-    "href": "voorbeelden/suno.html#gratis-vs.-betaald",
-    "title": "Suno",
-    "section": "Gratis vs. betaald",
-    "text": "Gratis vs. betaald\n\n\n\nLaag\nGeneraties\nPrijs\n\n\n\n\nGratis\n~50 credits/dag (~10 nummers)\n€0\n\n\nPro\n2.500 credits/mnd\n$10/mnd\n\n\nPremier\n10.000 credits/mnd\n$30/mnd\n\n\n\nDe gratis laag is voor educatief gebruik ruim voldoende.",
-    "crumbs": [
-      "Over deze module",
-      "Suno"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/suno.html#educatieve-toepassingen",
-    "href": "voorbeelden/suno.html#educatieve-toepassingen",
-    "title": "Suno",
-    "section": "Educatieve toepassingen",
-    "text": "Educatieve toepassingen\n\nStudenten een nummer laten schrijven over een lesstof-begrip (verwerking via creativiteit)\nEen jingle of deuntje bij een les of schoolevenement genereren\nVergelijken: “klinkt dit als bestaande muziek?” — auteursrechten en originaliteit bespreken\nMuziekles: AI als compositie-assistent",
-    "crumbs": [
-      "Over deze module",
-      "Suno"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/suno.html#ethische-kwesties",
-    "href": "voorbeelden/suno.html#ethische-kwesties",
-    "title": "Suno",
-    "section": "Ethische kwesties",
-    "text": "Ethische kwesties\nSuno is getraind op grote hoeveelheden muziek van het internet, inclusief nummers van artiesten die hier nooit toestemming voor hebben gegeven. Er lopen rechtszaken van platenlabels. Dit maakt Suno tot een goed gespreksonderwerp over auteursrecht, creativiteit en de rechten van artiesten in het AI-tijdperk.",
-    "crumbs": [
-      "Over deze module",
-      "Suno"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/suno.html#verwant",
-    "href": "voorbeelden/suno.html#verwant",
-    "title": "Suno",
-    "section": "Verwant",
-    "text": "Verwant\n\nElevenLabs — tekst-naar-spraak en stemkloning\nGemini Muziekgeneratie — Google’s muziekmodule",
+    "text": "suno screenshot\n\n\nSuno is een AI-muziekgenerator: beschrijf in een paar woorden welk nummer je wilt — genre, sfeer, instrumentatie, thema — en Suno genereert binnen seconden een volledig nummer met zang, instrumentale begeleiding en teksten.\nJe kunt ook zelf de tekst schrijven en Suno vragen die op muziek te zetten, dan heb je meer controle over de inhoud. Met de gratis optie krijg je 50 credits per dag, genoeg voor ongeveer 10 nummers.\n\nEn het resultaat? Je kunt het hieronder beluisteren.\n\nTja…\n\n\n\n\n\n\nWaarschuwingEthische kwesties\n\n\n\nSuno is getraind op grote hoeveelheden muziek van het internet, inclusief nummers van artiesten die hier nooit toestemming voor hebben gegeven. Er lopen rechtszaken van platenlabels. Dit maakt Suno tot een goed gespreksonderwerp over auteursrecht, creativiteit en de rechten van artiesten in het AI-tijdperk. Maar minder geschikt om serieus zelf muziek mee te maken.\nBijkomend probleem is dat diensten als Spotify op dit moment overspoeld worden met AI-muziek, waardoor echte artiesten nóg meer moeite hebben om op te vallen tussen het enorme aanbod (en wat te verdienen met hun muziek). Zie ook dit artikel.\n\n\n\n\nYour browser does not support the audio element. \n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Suno"
@@ -235,51 +81,7 @@
     "href": "voorbeelden/perplexity.html",
     "title": "Perplexity AI",
     "section": "",
-    "text": "perplexity screenshot\nPerplexity AI is een AI-zoekmachine: je stelt een vraag en krijgt een antwoord dat direct bronnen vermeldt. Het combineert de vlotte interface van een chatbot met de bronvermelding van een zoekmachine.",
-    "crumbs": [
-      "Over deze module",
-      "Perplexity AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/perplexity.html#waarom-interessant-voor-leraren",
-    "href": "voorbeelden/perplexity.html#waarom-interessant-voor-leraren",
-    "title": "Perplexity AI",
-    "section": "Waarom interessant voor leraren?",
-    "text": "Waarom interessant voor leraren?\nPerplexity illustreert — beter dan welke andere tool ook — de spanning tussen AI en bronkritiek. Het geeft antwoorden die er betrouwbaar uitzien, met klikbare bronnen. En toch: zijn die bronnen altijd relevant? Klopt de samenvatting met wat de bronnen zeggen? Dat controleren is precies de vaardigheid die studenten moeten oefenen.\nPerplexity is daarmee zowel een werktuig als een didactisch instrument.",
-    "crumbs": [
-      "Over deze module",
-      "Perplexity AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/perplexity.html#functionaliteiten",
-    "href": "voorbeelden/perplexity.html#functionaliteiten",
-    "title": "Perplexity AI",
-    "section": "Functionaliteiten",
-    "text": "Functionaliteiten\n\nZoeken met bronnen: elke claim heeft een voetnoot; klik erop om de bron te openen\nSpaces: maak een eigen zoekruimte met eigen bronnen (vergelijkbaar met NotebookLM)\nDeep Research: net als Google’s Deep Research, een meerstaps-onderzoeksfunctie die meerdere zoekopdrachten combineert in één rapport\nFocus-modi: zoek alleen in wetenschappelijke literatuur, YouTube, Reddit, of nieuws",
-    "crumbs": [
-      "Over deze module",
-      "Perplexity AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/perplexity.html#gratis-vs.-betaald",
-    "href": "voorbeelden/perplexity.html#gratis-vs.-betaald",
-    "title": "Perplexity AI",
-    "section": "Gratis vs. betaald",
-    "text": "Gratis vs. betaald\nDe gratis versie is voor de meeste zoekopdrachten meer dan voldoende. Perplexity Pro ($20/mnd) geeft toegang tot geavanceerdere modellen (GPT-4o, Claude) en meer Deep Research-sessies.",
-    "crumbs": [
-      "Over deze module",
-      "Perplexity AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/perplexity.html#vergelijking-met-andere-tools",
-    "href": "voorbeelden/perplexity.html#vergelijking-met-andere-tools",
-    "title": "Perplexity AI",
-    "section": "Vergelijking met andere tools",
-    "text": "Vergelijking met andere tools\n\n\n\nVraag\nGebruik\n\n\n\n\nSnel een feitelijk antwoord met bronnen\nPerplexity\n\n\nLangdurig gesprek en redenering\nChatGPT / Claude\n\n\nBronnen uploaden en doorzoeken\nNotebookLM\n\n\nDiepgaand webonderzoek\nDeep Research (Gemini of Perplexity)",
+    "text": "perplexity screenshot\n\n\nPerplexity AI is een AI-zoekmachine: je stelt een vraag en krijgt een antwoord dat direct bronnen vermeldt. Het combineert de vlotte interface van een chatbot met de bronvermelding van een zoekmachine.\n\nDe gratis versie stelt je in staat om een gevoel te krijgen voor de functionaliteit, voor de meer geavanceerde zaken heb je een betaald abononement nodig. En dat maakt het toch wat ingewikkelder als je toch al ChatGPT of Gemini gebruikt die ook een deepresearch-functionaliteit hebben.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Perplexity AI"
@@ -301,51 +103,7 @@
     "href": "voorbeelden/napkin-ai.html#hoe-werkt-het",
     "title": "Napkin AI",
     "section": "Hoe werkt het?",
-    "text": "Hoe werkt het?\n\nPlak je tekst (een uitleg, een stappenplan, een vergelijking)\nNapkin genereert automatisch meerdere visuele opties: flowcharts, lijsten met iconen, vergelijkingstabellen, tijdlijnen\nKlik op de variant die het beste past\nPas kleuren, iconen en tekst aan\nExporteer als PNG, SVG of PDF",
-    "crumbs": [
-      "Over deze module",
-      "Napkin AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/napkin-ai.html#waarom-interessant-voor-leraren",
-    "href": "voorbeelden/napkin-ai.html#waarom-interessant-voor-leraren",
-    "title": "Napkin AI",
-    "section": "Waarom interessant voor leraren?",
-    "text": "Waarom interessant voor leraren?\n\nComplexe concepten visueel maken zonder design-vaardigheden\nSamenvattingen of stappenplannen omzetten naar infographics voor in een presentatie\nStudenten hun eigen uitleg laten visualiseren als verwerkingsopdracht",
-    "crumbs": [
-      "Over deze module",
-      "Napkin AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/napkin-ai.html#voorbeeld-use-case",
-    "href": "voorbeelden/napkin-ai.html#voorbeeld-use-case",
-    "title": "Napkin AI",
-    "section": "Voorbeeld-use case",
-    "text": "Voorbeeld-use case\nJe hebt een paragraaf geschreven over de stappen van het wetenschappelijk onderzoeksproces. Plak dit in Napkin, en je krijgt direct een stroomdiagram of stappenschema dat je kunt exporteren naar je presentatie.",
-    "crumbs": [
-      "Over deze module",
-      "Napkin AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/napkin-ai.html#gratis-vs.-betaald",
-    "href": "voorbeelden/napkin-ai.html#gratis-vs.-betaald",
-    "title": "Napkin AI",
-    "section": "Gratis vs. betaald",
-    "text": "Gratis vs. betaald\nNapkin heeft een gratis plan waarmee je al de kernfuncties kunt gebruiken. Het betaalde plan geeft meer exports, hogere resolutie en merkuitstraling.",
-    "crumbs": [
-      "Over deze module",
-      "Napkin AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/napkin-ai.html#vergelijking",
-    "href": "voorbeelden/napkin-ai.html#vergelijking",
-    "title": "Napkin AI",
-    "section": "Vergelijking",
-    "text": "Vergelijking\n\n\n\nTool\nSterk in\n\n\n\n\nNapkin AI\nTekst → visueel schema, supersnel\n\n\nGamma\nVolledige presentaties genereren\n\n\nCanva AI\nVrijere grafische vormgeving\n\n\nMermaid (in AI Studio)\nTechnische diagrammen via code",
+    "text": "Hoe werkt het?\n\nPlak je tekst (een uitleg, een stappenplan, een vergelijking)\nNapkin genereert automatisch meerdere visuele opties: flowcharts, lijsten met iconen, vergelijkingstabellen, tijdlijnen\nKlik op de variant die het beste past\nPas kleuren, iconen en tekst aan\nExporteer als PNG, SVG of PDF\n\nNapkin heeft een gratis versie waarmee je al de kernfuncties kunt gebruiken. De betaalde versie geeft meer exports, hogere resolutie en merkuitstraling.",
     "crumbs": [
       "Over deze module",
       "Napkin AI"
@@ -817,7 +575,7 @@
     "text": "De Europese Commissie heeft de Ethische richtsnoeren voor het gebruik van Artificiële Intelligentie bij onderwijzen en leren voor onderwijsactoren opgesteld.\nDit document beschrijft voorbeelden, misvattingen en ethische overwegingen voor AI in het onderwijs. De zeven kernvereisten zijn:\n\nMenselijke agency en menselijk toezicht\nTransparantie\nDiversiteit, non-discriminatie en rechtvaardigheid\nMaatschappelijk en ecologisch welzijn\nPrivacy en datagovernance\nTechnische robuustheid en veiligheid\nVerantwoording\n\n\nDownload hier het volledige document.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "Ethische richtlijnen van de EU"
+      "Ethiek en Richtlijnen"
     ]
   },
   {
@@ -836,7 +594,7 @@
     "href": "de-mens-en-ai/bias-praktijkvoorbeelden.html#problemen-bij-antispieksoftware",
     "title": "Bias in de praktijk",
     "section": "Problemen bij antispieksoftware",
-    "text": "Problemen bij antispieksoftware\nEen student van de VU diende een klacht in omdat antispieksoftware haar niet herkende als persoon, mogelijk door haar donkere huidskleur.\nHet College voor de Rechten van de Mens constateerde in een tussenoordeel (2022) dat er voldoende feiten waren voor een vermoeden van discriminatie. Uiteindelijk oordeelde het College dat de klacht niet gegrond was, omdat de VU kon aantonen dat de problemen niet vaker voorkwamen dan bij andere studenten.\n\n\n\nLees het artikel in de Volkskrant",
+    "text": "Problemen bij antispieksoftware\nEen student van de VU diende een klacht in omdat antispieksoftware haar niet herkende als persoon, mogelijk door haar donkere huidskleur.\nHet College voor de Rechten van de Mens constateerde in een tussenoordeel (2022) dat er voldoende feiten waren voor een vermoeden van discriminatie. Uiteindelijk oordeelde het College dat de klacht niet gegrond was, omdat de VU kon aantonen dat de problemen niet vaker voorkwamen dan bij andere studenten. Lees het artikel in de Volkskrant",
     "crumbs": [
       "Over deze module",
       "Bias in de praktijk"
@@ -847,7 +605,7 @@
     "href": "de-mens-en-ai/bias-praktijkvoorbeelden.html#bias-dramas-in-machine-learning",
     "title": "Bias in de praktijk",
     "section": "Bias drama’s in Machine Learning",
-    "text": "Bias drama’s in Machine Learning\nIn deze blogpost uit 2021 vind je een overzicht van verschillende voorbeelden waar AI de fout in ging door bias:\nBlog: Bias drama’s binnen Machine Learning / Kunstmatige Intelligentie\nOnderstaande afbeelding toont de verschillende types bias die een rol kunnen spelen:\n\n\n\nBias types",
+    "text": "Bias drama’s in Machine Learning\nIn deze blogpost uit 2021 vind je een overzicht van verschillende voorbeelden waar AI de fout in ging door bias:\nOnderstaande afbeelding toont de verschillende types bias die een rol kunnen spelen:\n\n\n\nBias types",
     "crumbs": [
       "Over deze module",
       "Bias in de praktijk"
@@ -858,7 +616,7 @@
     "href": "de-mens-en-ai/ai-act.html",
     "title": "De AI-Act",
     "section": "",
-    "text": "Per 2 februari 2025 is de eerste set regels vanuit de Europese AI-verordening (de “AI-Act”) van kracht geworden. De volledige verordening is pas vanaf 2 augustus 2027 volledig van kracht.\nSinds februari 2025 is een aantal AI-systemen verboden. Ook moeten organisaties die AI gebruiken zorgen dat hun werknemers AI-geletterd zijn.\n\nVerboden AI-systemen\nOnderstaande afbeelding geeft een overzicht van de categorieën die onder de verboden vallen:\n\nMeer informatie is te vinden bij: - Rijksoverheid: Gids AI-verordening - Autoriteit Persoonsgegevens: AI-verordening\n\n\n\n\n Terug naar boven",
+    "text": "Per 2 februari 2025 is de eerste set regels vanuit de Europese AI-verordening (de “AI-Act”) van kracht geworden. De volledige verordening is pas vanaf 2 augustus 2027 volledig van kracht.\nSinds februari 2025 is een aantal AI-systemen verboden. Ook moeten organisaties die AI gebruiken zorgen dat hun werknemers AI-geletterd zijn.\n\nVerboden AI-systemen\nOnderstaande afbeelding geeft een overzicht van de categorieën die onder de verboden vallen:\n\nMeer informatie is te vinden bij:\n\nRijksoverheid: Gids AI-verordening\nAutoriteit Persoonsgegevens: AI-verordening\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "De AI-Act"
@@ -880,7 +638,7 @@
     "href": "ai-in-het-onderwijs/npuls.html",
     "title": "Npuls Community AI en Data",
     "section": "",
-    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere: - Een vraagbaak AI voor al je brandende vragen. - Een agenda met relevante events. - Blogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs. - Informatie over de verschillende deelprojecten.\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n\n\n\n\n\n Terug naar boven",
+    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Npuls Community AI en Data"
@@ -1544,7 +1302,7 @@
     "href": "de-mens-en-ai/betalen-voor-ai.html",
     "title": "Betalen voor AI",
     "section": "",
-    "text": "Er zijn weinig dingen in het leven die echt gratis zijn. “If you are not paying for it, you’re not the customer; you’re the product being sold” is een redelijk deprimerende uitspraak.\nHet doet niet helemaal recht aan bijvoorbeeld open source software, open leermaterialen of open science, maar ook in die gevallen is er altijd iemand die betaald heeft voor de ontwikkeling. Het gebruik van AI is eigenlijk nooit gratis.\n\nBetalen met je data\nHet is een veel bekritiseerde strategie van grote bedrijven zoals Google of Facebook om een dienst gratis aan te bieden, maar dan jouw data te gebruiken om advertenties te verkopen. Voor gratis online AI-diensten geldt: betaal je niet met geld, dan heb je in de regel weinig zeggenschap over wat de aanbieder doet met jouw chatgeschiedenis en bestanden. In een onderwijssetting is dit vaak niet wenselijk.\n\n\nBetalen voor premium diensten\nAanbieders zoals OpenAI hebben na de gratis start inmiddels de nodige betaalde diensten toegevoegd. Hoewel dit vaak gepaard gaat met betere privacybescherming, ontstaat er een risico op toename van kansenongelijkheid: de beste tools zijn niet meer voor iedereen toegankelijk.\n\n\nBetalen voor de hardware\nOpen source modellen zoals Whisper kun je zelf draaien, maar dat vereist krachtige hardware (GPU’s). De kosten voor dergelijke hardware lopen stevig in de papieren. Ook hier is kansenongelijkheid een risico tussen studenten die deze hardware thuis hebben en studenten die dat niet hebben.\n\n\nDuurzaam gebruik van AI\nHet trainen en gebruiken van AI heeft ook een effect op onze omgeving (energieverbruik, waterkoeling van datacenters). Hoewel partijen zoals OpenAI en ABN AMRO spreken over “Groene AI voor duurzaamheid”, is AI geen eenvoudige oplossing voor klimaatuitdagingen zonder zelf impact te hebben.\n\n\n\n\n Terug naar boven",
+    "text": "Er zijn weinig dingen in het leven die echt gratis zijn. “If you are not paying for it, you’re not the customer; you’re the product being sold” is een redelijk deprimerende uitspraak.\nHet doet niet helemaal recht aan bijvoorbeeld open source software, open leermaterialen of open science, maar ook in die gevallen is er altijd iemand die betaald heeft voor de ontwikkeling. Het gebruik van AI is eigenlijk nooit gratis.\n\n\nBetalen met je data\nHet is een veel bekritiseerde strategie van grote bedrijven zoals Google of Facebook om een dienst gratis aan te bieden, maar dan jouw data te gebruiken om advertenties te verkopen. Voor gratis online AI-diensten geldt: betaal je niet met geld, dan heb je in de regel weinig zeggenschap over wat de aanbieder doet met jouw chatgeschiedenis en bestanden. In een onderwijssetting is dit vaak niet wenselijk.\n\n\nBetalen voor premium diensten\nAanbieders zoals OpenAI hebben na de gratis start inmiddels de nodige betaalde diensten toegevoegd. Hoewel dit vaak gepaard gaat met betere privacybescherming, ontstaat er een risico op toename van kansenongelijkheid: de beste tools zijn niet meer voor iedereen toegankelijk.\n\n\nBetalen voor de hardware\nOpen source modellen zoals Whisper kun je zelf draaien, maar dat vereist krachtige hardware (GPU’s). De kosten voor dergelijke hardware lopen stevig in de papieren. Ook hier is kansenongelijkheid een risico tussen studenten die deze hardware thuis hebben en studenten die dat niet hebben.\n\n\nDuurzaam gebruik van AI\nHet trainen en gebruiken van AI heeft ook een effect op onze omgeving (energieverbruik, waterkoeling van datacenters). Hoewel partijen zoals OpenAI en ABN AMRO spreken over “Groene AI voor duurzaamheid”, is AI geen eenvoudige oplossing voor klimaatuitdagingen zonder zelf impact te hebben.\n In de video hierboven hoor je Bernhard van Gastel, assistant professor bij de Radboud Universiteit, vertellen over de (ecologische) kosten van AI.\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Betalen voor AI"
@@ -1566,18 +1324,7 @@
     "href": "de-mens-en-ai/coded-bias.html#trailer",
     "title": "Coded Bias",
     "section": "Trailer",
-    "text": "Trailer\n\nDe documentaire is te bekijken via Netflix.\n\n\n\nBekijk op Netflix",
-    "crumbs": [
-      "Over deze module",
-      "Coded Bias"
-    ]
-  },
-  {
-    "objectID": "de-mens-en-ai/coded-bias.html#verdieping",
-    "href": "de-mens-en-ai/coded-bias.html#verdieping",
-    "title": "Coded Bias",
-    "section": "Verdieping",
-    "text": "Verdieping\n\nJoy Buolamwini: Algorithmic Justice League\nJoy richtte de Algorithmic Justice League op. Bekijk hier haar TEDTalk over “The Coded Gaze”:\n\n\n\nCathy O’Neil: Weapons of Math Destruction\nCathy O’Neil schreef de bestseller Weapons of Math Destruction.\n\n\n\nBoekomslag\n\n\nU kunt het audioboek hier beluisteren: \nEn haar TEDTalk over het gevaar van blinde algoritmen:\n\n\n\nBig Brother Watch\nEen van de organisaties uit de film is Big Brother Watch, die strijdt tegen het ongecontroleerd gebruik van gezichtsherkenning.",
+    "text": "Trailer\n\n\nJoy Buolamwini: Algorithmic Justice League\nJoy richtte de Algorithmic Justice League op. Bekijk hier haar TEDTalk over “The Coded Gaze”:\n\n\n\nCathy O’Neil: Weapons of Math Destruction\nCathy O’Neil schreef de bestseller Weapons of Math Destruction.\n\n\n\nBoekomslag\n\n\nU kunt het audioboek hier beluisteren: \nEn haar TEDTalk over het gevaar van blinde algoritmen:\n\n\n\n\n\n\n\nOpmerkingBig Brother Watch\n\n\n\n\n\nEen van de organisaties uit de film is Big Brother Watch, die strijdt tegen het ongecontroleerd gebruik van gezichtsherkenning.",
     "crumbs": [
       "Over deze module",
       "Coded Bias"
@@ -1602,7 +1349,7 @@
     "text": "De Machine Learning University heeft een uitgebreide videoserie over Responsible AI. Deze playlist gaat zeer diep in op de technische en ethische aspecten.\nTotale duur: 5 uur, 16 minuten.\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "Responsible AI Videoserie"
+      "Responsible AI"
     ]
   },
   {
@@ -1990,7 +1737,7 @@
     "href": "voorbeelden/notebooklm.html",
     "title": "Google NotebookLM",
     "section": "",
-    "text": "notebooklm screenshot\n\n\nGoogle NotebookLM is zo’n pareltje van Google dat ze zelf waarschijnlijk ook niet voorzien hadden. Het concept is simpel: je upload een aantal bronnen (pdf’s bijvoorbeeld) vult dat aan met online bronnen (video’s, websites etc) die het taalmodel voor je kan zoeken op basis van een prompt. Dat geheel van bronnen vormt dan de kennisbasis waar je vragen over kunt stellen, een podcast kunt laten genereren, een video-overzicht, infographics, mindemap, flashcards, rapporten, quizzes, gegevenstabellen, diapresentaties. De lijst is bijna te lang om op te noemen en wekelijks lijken er per onderdeel wel functionaliteiten bij te komen.\n\n\n\n Terug naar boven",
+    "text": "notebooklm screenshot\n\n\nGoogle NotebookLM is zo’n pareltje van Google dat ze zelf waarschijnlijk ook niet voorzien hadden. Het concept is simpel: je upload een aantal bronnen (pdf’s bijvoorbeeld) vult dat aan met online bronnen (video’s, websites etc) die het taalmodel voor je kan zoeken op basis van een prompt. Dat geheel van bronnen vormt dan de kennisbasis waar je vragen over kunt stellen, een podcast kunt laten genereren, een video-overzicht, infographics, mindemap, flashcards, rapporten, quizzes, gegevenstabellen, diapresentaties. De lijst is bijna te lang om op te noemen en wekelijks lijken er per onderdeel wel functionaliteiten bij te komen.\n\nHet mooie is dat je een hele verzameling bronnen bij elkaar kunt bewaren en daar dan vragen over kunt stellen. Je kunt het notebook tegenwoordig ook als bron gebruiken in Gemini.\n\nIn dit specifieke geval ben ik het overigens niet helemaal met de analyse eens, maar dat is een ander verhaal. Het gaat om het idee.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Google NotebookLM"
@@ -2001,51 +1748,7 @@
     "href": "voorbeelden/runway-ml.html",
     "title": "Runway ML",
     "section": "",
-    "text": "runway-ml screenshot\nRunway is een van de meest gebruikte AI-platforms voor creatieve videoproductie. Waar veel AI-videogeneratoren puur tekst naar video omzetten, onderscheidt Runway zich door een breed scala aan bewerkingstools waarmee je bestaand beeld kunt transformeren, uitbreiden en verfijnen.",
-    "crumbs": [
-      "Over deze module",
-      "Runway ML"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/runway-ml.html#wat-kan-runway",
-    "href": "voorbeelden/runway-ml.html#wat-kan-runway",
-    "title": "Runway ML",
-    "section": "Wat kan Runway?",
-    "text": "Wat kan Runway?\n\nGen-3 Alpha Turbo — tekst naar video: beschrijf een scène, krijg een video van 5–10 seconden\nImage to Video — animeer een stilstaande afbeelding\nVideo to Video — pas de stijl van een bestaand videoclip aan (bijv. omzetten naar tekenfilm-stijl)\nInpainting — verwijder objecten uit video of vervang achtergronden\nFrame Interpolation — maak schokkerige video vloeiender\nRemove Background — haal de achtergrond uit video, zoals een groen scherm maar zonder groen scherm\nLip Sync — synchroniseer lippen van een personage met een audio-opname",
-    "crumbs": [
-      "Over deze module",
-      "Runway ML"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/runway-ml.html#gratis-vs.-betaald",
-    "href": "voorbeelden/runway-ml.html#gratis-vs.-betaald",
-    "title": "Runway ML",
-    "section": "Gratis vs. betaald",
-    "text": "Gratis vs. betaald\n\n\n\nLaag\nCredits/mnd\nPrijs\n\n\n\n\nGratis\n125 credits\n€0\n\n\nStandard\n625 credits\n$15/mnd\n\n\nPro\n2.250 credits\n$35/mnd\n\n\n\nEén seconde video kost gemiddeld 5 credits. De gratis laag is dus beperkt, maar voldoende om de tool uit te proberen.",
-    "crumbs": [
-      "Over deze module",
-      "Runway ML"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/runway-ml.html#educatieve-toepassingen",
-    "href": "voorbeelden/runway-ml.html#educatieve-toepassingen",
-    "title": "Runway ML",
-    "section": "Educatieve toepassingen",
-    "text": "Educatieve toepassingen\n\nStudenten laten ervaren hoe makkelijk beeldmateriaal te manipuleren is (mediawijsheid)\nKleine filmpjes maken voor schoolprojecten zonder camera of montage-software\nAchtergronden verwijderen voor presentatievideo’s",
-    "crumbs": [
-      "Over deze module",
-      "Runway ML"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/runway-ml.html#vergelijking",
-    "href": "voorbeelden/runway-ml.html#vergelijking",
-    "title": "Runway ML",
-    "section": "Vergelijking",
-    "text": "Vergelijking\n\n\n\nTool\nSterk in\n\n\n\n\nRunway\nCreatieve bewerkingen, breed toolset\n\n\nVeo 3.1\nRealistische video met geluid\n\n\nKling AI\nLange video’s, lipsynced\n\n\nHeyGen\nPresentatie-avatars, vertaling",
+    "text": "runway-ml screenshot\n\n\nRunway is een AI-platform voor creatieve videoproductie. Ook hier weer het setje functionaliteiten die je ook bij andere tools tegenkomt, maar dan net weer anders: tekst naar video, foto naar video, video naar video, verwijderen van objecten uit video, achtergronden verwijderen, lip sync, etc.\nEr is een betaalde versie, maar je kunt de tool ook gratis uitproberen. Alternatieven die hier in de cursus ook voorbij komen zijn Veo 3.1, Kling AI en HeyGen.\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Runway ML"
@@ -2056,51 +1759,18 @@
     "href": "voorbeelden/synthesia.html",
     "title": "Synthesia",
     "section": "",
-    "text": "synthesia screenshot\nSynthesia is een platform voor het maken van professionele video’s met AI-avatars — zonder camera, microfoon of videoprogramma. Je typt een script, kiest een avatar, en Synthesia genereert een video van een realistisch uitziende presentator die jouw tekst voordraagt.\nSynthesia richt zich primair op bedrijfs- en onderwijsvideo’s: trainingsvideo’s, instructiemateriaal, onboarding, communicatie-updates.",
+    "text": "synthesia screenshot\nSynthesia is een platform voor het maken van professionele video’s met AI-avatars, zonder camera, microfoon of videoprogramma. Je typt een script, kiest een avatar, en Synthesia genereert een video van een realistisch uitziende presentator die jouw tekst voordraagt.\nSynthesia richt zich primair op bedrijfs- en onderwijsvideo’s: trainingsvideo’s, instructiemateriaal, onboarding, communicatie-updates. Dat komt ook terug in de prijsstelling. Synthesia biedt een gratis plan met 3 minuten video per maand, beperkte avatarselectie, watermerk op de video. Zowel Synthesia als HeyGen genereren avatar-video’.",
     "crumbs": [
       "Over deze module",
       "Synthesia"
     ]
   },
   {
-    "objectID": "voorbeelden/synthesia.html#hoe-werkt-het",
-    "href": "voorbeelden/synthesia.html#hoe-werkt-het",
+    "objectID": "voorbeelden/synthesia.html#pionieren",
+    "href": "voorbeelden/synthesia.html#pionieren",
     "title": "Synthesia",
-    "section": "Hoe werkt het?",
-    "text": "Hoe werkt het?\n\nKies een van de 230+ ingebouwde avatars (of maak een eigen avatar van jezelf)\nTyp of plak een script\nKies een taal en stem (130+ talen beschikbaar)\nPas de lay-out, achtergrond en eventuele slides aan\nGenereer de video — klaar in minuten",
-    "crumbs": [
-      "Over deze module",
-      "Synthesia"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/synthesia.html#wat-maakt-synthesia-anders-dan-heygen",
-    "href": "voorbeelden/synthesia.html#wat-maakt-synthesia-anders-dan-heygen",
-    "title": "Synthesia",
-    "section": "Wat maakt Synthesia anders dan HeyGen?",
-    "text": "Wat maakt Synthesia anders dan HeyGen?\nZowel Synthesia als HeyGen genereren avatar-video’s, maar er zijn accentverschillen:\n\n\n\n\n\n\n\n\nAspect\nSynthesia\nHeyGen\n\n\n\n\nDoelgroep\nBedrijf & onderwijs\nBreed, ook marketing\n\n\nTemplate-bibliotheek\nUitgebreid\nBeperkt\n\n\nEigen avatar\nOptioneel\nCentraal feature\n\n\nVideovocaties\nTrainings- en instructievideo’s\nVertaling, marketing",
-    "crumbs": [
-      "Over deze module",
-      "Synthesia"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/synthesia.html#gratis-vs.-betaald",
-    "href": "voorbeelden/synthesia.html#gratis-vs.-betaald",
-    "title": "Synthesia",
-    "section": "Gratis vs. betaald",
-    "text": "Gratis vs. betaald\nSynthesia biedt een gratis plan met: - 3 minuten video per maand - Beperkte avatarselectie - Zonder watermerk\nBetaalde plannen starten vanaf $29/mnd voor meer video en avatars.",
-    "crumbs": [
-      "Over deze module",
-      "Synthesia"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/synthesia.html#educatieve-toepassingen",
-    "href": "voorbeelden/synthesia.html#educatieve-toepassingen",
-    "title": "Synthesia",
-    "section": "Educatieve toepassingen",
-    "text": "Educatieve toepassingen\n\nInstructievideo’s maken zonder voor een camera te verschijnen\nLesinhoud toegankelijk maken in meerdere talen\nStudenten laten nadenken over de (on)herkenbaarheid van nep-presentatoren\nIn combinatie met Whisper: transcribeer een bestaande les en genereer er een Synthesia-video van",
+    "section": "Pionieren",
+    "text": "Pionieren\nDe twee onderstaande video’s zijn van december 2022. In de tijd dus dat ChatGPT net beschikbaar was en niet meer kon dan alleen tekst. Toen kon je dit dus al met Synthesia (en een beetje creativiteit) voor elkaar krijgen. \nDeze video is overigens niet met Synthesia gemaakt, maar met Adobe Character Animator.",
     "crumbs": [
       "Over deze module",
       "Synthesia"
@@ -2111,18 +1781,7 @@
     "href": "voorbeelden/this-does-not-exist.html",
     "title": "This […] Does Not Exist",
     "section": "",
-    "text": "Een verzameling websites met elk één doel: het genereren van een niet-bestaande afbeelding van een persoon, kunstwerk, kat, paard of chemische verbinding. Ze illustreren op een toegankelijke manier hoe GAN-modellen (Generative Adversarial Networks) werken.\nHierboven zie je een gezicht gegenereerd door thispersondoesnotexist.com. De persoon op deze foto bestaat niet. Elke keer dat je de pagina herlaadt, zie je een nieuw, volledig gefabriceerd portret.",
-    "crumbs": [
-      "Over deze module",
-      "This [...] Does Not Exist"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/this-does-not-exist.html#beschikbare-sites",
-    "href": "voorbeelden/this-does-not-exist.html#beschikbare-sites",
-    "title": "This […] Does Not Exist",
-    "section": "Beschikbare sites",
-    "text": "Beschikbare sites\nOverzicht via thisxdoesnotexist.com:\n\n\n\nSite\nOnderwerp\n\n\n\n\nthispersondoesnotexist.com\nMensengezichten\n\n\nthisartworkdoesnotexist.com\nKunstwerken\n\n\nthiscatdoesnotexist.com\nKatten\n\n\nthishorsedoesnotexist.com\nPaarden\n\n\nthischemicaldoesnotexist.com\nMoleculaire structuren\n\n\n\n\nOpmerking (2024): Niet alle sites werken nog even goed. thisxdoesnotexist.com biedt een actueel overzicht.",
+    "text": "Een verzameling websites met elk één doel: het genereren van een niet-bestaande afbeelding van een persoon, kunstwerk, kat, paard of chemische verbinding. Ze illustreren op een toegankelijke manier hoe GAN-modellen (Generative Adversarial Networks) werken.\nHierboven zie je een gezicht gegenereerd door thispersondoesnotexist.com. De persoon op deze foto bestaat niet. Elke keer dat je de pagina herlaadt (niet de pagina die je nu aan het lezen bent, maar de website waar de foto vandaan komt), zie je een nieuw, volledig gefabriceerd portret.",
     "crumbs": [
       "Over deze module",
       "This [...] Does Not Exist"
@@ -2133,18 +1792,7 @@
     "href": "voorbeelden/this-does-not-exist.html#hoe-werkt-het-gan-uitgelegd",
     "title": "This […] Does Not Exist",
     "section": "Hoe werkt het? — GAN uitgelegd",
-    "text": "Hoe werkt het? — GAN uitgelegd\nDeze sites maken gebruik van een GAN (Generative Adversarial Network, in het Nederlands: generatief antagonistennetwerk). Een GAN bestaat uit twee neurale netwerken die elkaar beconcurreren:\n\nDe generator maakt nep-afbeeldingen\nDe discriminator probeert echte van neppe afbeeldingen te onderscheiden\n\nDoor dit spel van bedriegen en ontmaskeren worden beide netwerken steeds beter — tot de generator afbeeldingen maakt die niet meer van echt te onderscheiden zijn.\nUitleg over hoe het werkt: - Uitleg 1 - Uitleg 2 - Uitleg 3",
-    "crumbs": [
-      "Over deze module",
-      "This [...] Does Not Exist"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/this-does-not-exist.html#educatieve-waarde",
-    "href": "voorbeelden/this-does-not-exist.html#educatieve-waarde",
-    "title": "This […] Does Not Exist",
-    "section": "Educatieve waarde",
-    "text": "Educatieve waarde\nDeze sites zijn uitstekende gespreksopeners over: - Hoe AI afbeeldingen genereert - Wat dit betekent voor de geloofwaardigheid van beeldmateriaal - Hoe deepfakes gemaakt worden en hoe je ze kunt herkennen",
+    "text": "Hoe werkt het? — GAN uitgelegd\nDeze sites maken gebruik van een GAN (Generative Adversarial Network, in het Nederlands: generatief antagonistennetwerk). Een GAN bestaat uit twee neurale netwerken die elkaar beconcurreren:\n\nDe generator maakt nep-afbeeldingen\nDe discriminator probeert echte van neppe afbeeldingen te onderscheiden\n\nDoor dit spel van bedriegen en ontmaskeren worden beide netwerken steeds beter — tot de generator afbeeldingen maakt die niet meer van echt te onderscheiden zijn.\nUitleg over hoe het werkt:",
     "crumbs": [
       "Over deze module",
       "This [...] Does Not Exist"
@@ -2184,22 +1832,11 @@
     ]
   },
   {
-    "objectID": "voorbeelden/wav2lip.html#context-en-actualiteit",
-    "href": "voorbeelden/wav2lip.html#context-en-actualiteit",
+    "objectID": "voorbeelden/wav2lip.html#context",
+    "href": "voorbeelden/wav2lip.html#context",
     "title": "Wav2Lip – Lipsync met AI",
-    "section": "Context en actualiteit",
-    "text": "Context en actualiteit\nWav2Lip was toonaangevend in 2020, maar de technologie is sindsdien dramatisch verbeterd. Diensten zoals HeyGen en ElevenLabs bieden tegenwoordig vergelijkbare (en veel betere) resultaten met een gebruiksvriendelijke interface.\nWav2Lip is echter historisch interessant als vroeg voorbeeld van hoe open onderzoek deepfaketechnologie democratiseerde. De code staat nog steeds op GitHub.",
-    "crumbs": [
-      "Over deze module",
-      "Wav2Lip – Lipsync met AI"
-    ]
-  },
-  {
-    "objectID": "voorbeelden/wav2lip.html#educatieve-waarde",
-    "href": "voorbeelden/wav2lip.html#educatieve-waarde",
-    "title": "Wav2Lip – Lipsync met AI",
-    "section": "Educatieve waarde",
-    "text": "Educatieve waarde\nDit voorbeeld is bij uitstek geschikt om te tonen hoe snel AI-technologie zich ontwikkelt. Wat in 2020 geavanceerd en experimenteel was, is in 2025 beschikbaar als no-code dienst. Tegelijk onderstreept het de noodzaak van mediageletterdheid: welke video’s kun je nog vertrouwen?",
+    "section": "Context",
+    "text": "Context\nWav2Lip was toonaangevend in 2020, maar de technologie is sindsdien dramatisch verbeterd. Diensten zoals HeyGen en ElevenLabs bieden tegenwoordig vergelijkbare (en veel betere) resultaten met een gebruiksvriendelijke interface.\nWav2Lip is echter historisch interessant als vroeg voorbeeld van hoe open onderzoek deepfaketechnologie democratiseerde. De code staat nog steeds op GitHub.",
     "crumbs": [
       "Over deze module",
       "Wav2Lip – Lipsync met AI"

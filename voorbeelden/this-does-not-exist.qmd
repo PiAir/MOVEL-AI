@@ -8,24 +8,18 @@ Een verzameling websites met elk één doel: het genereren van een niet-bestaand
 
 ![Voorbeeld van een niet-bestaand gezicht](media/download.jpeg){fig-alt="Foto van een door AI gegenereerd, niet-bestaand persoon"}
 
-Hierboven zie je een gezicht gegenereerd door [thispersondoesnotexist.com](https://thispersondoesnotexist.com/). De persoon op deze foto bestaat **niet**. Elke keer dat je de pagina herlaadt, zie je een nieuw, volledig gefabriceerd portret.
+Hierboven zie je een gezicht gegenereerd door [thispersondoesnotexist.com](https://thispersondoesnotexist.com/). De persoon op deze foto bestaat **niet**. Elke keer dat je de pagina herlaadt (niet de pagina die je nu aan het lezen bent, maar de website waar de foto vandaan komt), zie je een nieuw, volledig gefabriceerd portret.
 
-## Beschikbare sites
+![](media/screenshot-this-x-does-not-exist.png){.img-fluid .rounded}
 
-Overzicht via [thisxdoesnotexist.com](https://thisxdoesnotexist.com/):
+::: {.callout-warning}
+## Veel sites werken niet meer
 
-| Site | Onderwerp |
-|---|---|
-| [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) | Mensengezichten |
-| [thisartworkdoesnotexist.com](https://thisartworkdoesnotexist.com/) | Kunstwerken |
-| [thiscatdoesnotexist.com](https://thiscatdoesnotexist.com/) | Katten |
-| [thishorsedoesnotexist.com](https://thishorsedoesnotexist.com/) | Paarden |
-| [thischemicaldoesnotexist.com](https://thischemicaldoesnotexist.com/) | Moleculaire structuren |
+Veel van de sites die hier bij vorige edities van de module werden genoemd werken niet meer. Dat is niet erg. Het laat zien hoe snel de ontwikkelingen gaan. Maar ik heb ze daarom niet meer individueel gelinkt hier. 
 
-> **Opmerking (2024):** Niet alle sites werken nog even goed. [thisxdoesnotexist.com](https://thisxdoesnotexist.com/) biedt een actueel overzicht.
+:::
 
 ## Hoe werkt het? — GAN uitgelegd
-
 Deze sites maken gebruik van een **GAN** (Generative Adversarial Network, in het Nederlands: generatief antagonistennetwerk). Een GAN bestaat uit twee neurale netwerken die elkaar beconcurreren:
 
 - De **generator** maakt nep-afbeeldingen
@@ -34,13 +28,7 @@ Deze sites maken gebruik van een **GAN** (Generative Adversarial Network, in het
 Door dit spel van bedriegen en ontmaskeren worden beide netwerken steeds beter — tot de generator afbeeldingen maakt die niet meer van echt te onderscheiden zijn.
 
 Uitleg over hoe het werkt:
-- [Uitleg 1](https://www.youtube.com/watch?v=u8qPvzk0AfY)
-- [Uitleg 2](https://www.youtube.com/watch?v=dCKbRCUyop8)
-- [Uitleg 3](https://www.youtube.com/watch?v=SWoravHhsUU)
+{{< video https://www.youtube.com/watch?v=u8qPvzk0AfY >}}
+{{< video https://www.youtube.com/watch?v=dCKbRCUyop8 >}}
+{{< video https://www.youtube.com/watch?v=SWoravHhsUU >}}
 
-## Educatieve waarde
-
-Deze sites zijn uitstekende gespreksopeners over:
-- Hoe AI afbeeldingen genereert
-- Wat dit betekent voor de geloofwaardigheid van beeldmateriaal
-- Hoe deepfakes gemaakt worden en hoe je ze kunt herkennen

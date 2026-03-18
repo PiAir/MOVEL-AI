@@ -38,5 +38,5 @@ Niets van de inhoud van deze module komt terug in de voortgangstoets. Het is fac
 
 ### Voor anderen
 
-Zoals je op de [Colofonpagina](../colofon.qmd) kunt lezen, wordt deze module gedeeld onder een Creative Commons licentie. Op de colofonpagina kun je een compleet exemplaar van de module downloaden en dan zelf bijvoorbeeld in een eigen leeromgeving uploaden. Dat kan dus betekenen dat je deze module ziet in een heel andere context dan MOVEL of de HAN. Leuk! [Laat het ons vooral weten](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20onderwijs) en vertel ons in welke context je de materialen gebruikt en of ze je helpen.
+Zoals je op de [Colofonpagina](/colofon.qmd) kunt lezen, wordt deze module gedeeld onder een Creative Commons licentie. Op de colofonpagina kun je een compleet exemplaar van de module downloaden en dan zelf bijvoorbeeld in een eigen leeromgeving uploaden. Dat kan dus betekenen dat je deze module ziet in een heel andere context dan MOVEL of de HAN. Leuk! [Laat het ons vooral weten](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20onderwijs) en vertel ons in welke context je de materialen gebruikt en of ze je helpen.
 

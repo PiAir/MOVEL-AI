@@ -8,11 +8,6 @@ sidebar: id-voorbeelden
 
 {{< video https://www.youtube.com/embed/XGvrO8him-4 >}}
 
-## Toepassingen
-
-- **Transcripties** van lessen, vergaderingen of interviews
-- **Automatische ondertiteling** van video's
-- **Vertaling**: Whisper kan tegelijkertijd transcriberen én vertalen naar het Engels
 
 ## Hoe gebruiken?
 
@@ -23,7 +18,4 @@ Whisper is beschikbaar als open-source model op [GitHub](https://github.com/open
 - **[Whisper Web](https://huggingface.co/spaces/Xenova/whisper-web)** — online demo die direct in de browser draait (via WebGPU).
 
 Het grote voordeel van lokaal draaien: **je audio verlaat je computer niet**, wat privacy-gevoelige transcripties (gesprekken met studenten, patiënten, etc.) een stuk veiliger maakt.
-
-## Kwaliteit
-
 Whisper scoort uitstekend op Engelstalige audio en goed op Nederlands. Technisch jargon, namen en dialecten geven soms problemen. Voor de beste resultaten: zorg voor goede audio-kwaliteit en gebruik de `large`-versie van het model als het je computer aankan.

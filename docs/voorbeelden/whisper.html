@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../media/MOVEL-icon.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -119,6 +120,12 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../media/MOVEL-icon.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../media/MOVEL-icon.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
+      </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Zoeken"></div>
@@ -328,9 +335,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Op deze pagina</h2>
    
   <ul>
-  <li><a href="#toepassingen" id="toc-toepassingen" class="nav-link active" data-scroll-target="#toepassingen">Toepassingen</a></li>
-  <li><a href="#hoe-gebruiken" id="toc-hoe-gebruiken" class="nav-link" data-scroll-target="#hoe-gebruiken">Hoe gebruiken?</a></li>
-  <li><a href="#kwaliteit" id="toc-kwaliteit" class="nav-link" data-scroll-target="#kwaliteit">Kwaliteit</a></li>
+  <li><a href="#hoe-gebruiken" id="toc-hoe-gebruiken" class="nav-link active" data-scroll-target="#hoe-gebruiken">Hoe gebruiken?</a></li>
   </ul>
 </nav>
     </div>
@@ -358,14 +363,6 @@ ul.task-list li input[type="checkbox"] {
 
 <p><a href="https://openai.com/research/whisper">Whisper</a> is een open-source spraakherkenningsmodel van OpenAI. Het kan gesproken audio omzetten naar tekst in tientallen talen — inclusief Nederlands — en doet dat verrassend nauwkeurig, ook bij achtergrondgeluid of accenten.</p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XGvrO8him-4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<section id="toepassingen" class="level2">
-<h2 class="anchored" data-anchor-id="toepassingen">Toepassingen</h2>
-<ul>
-<li><strong>Transcripties</strong> van lessen, vergaderingen of interviews</li>
-<li><strong>Automatische ondertiteling</strong> van video’s</li>
-<li><strong>Vertaling</strong>: Whisper kan tegelijkertijd transcriberen én vertalen naar het Engels</li>
-</ul>
-</section>
 <section id="hoe-gebruiken" class="level2">
 <h2 class="anchored" data-anchor-id="hoe-gebruiken">Hoe gebruiken?</h2>
 <p>Whisper is beschikbaar als open-source model op <a href="https://github.com/openai/whisper">GitHub</a>. Voor wie niet met Python wil werken zijn er inmiddels uitstekende kant-en-klare toepassingen:</p>
@@ -374,11 +371,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong><a href="https://apps.microsoft.com/detail/9n15q44szns2">aTrain</a></strong> — te installeren via de Microsoft Store. Werkt eveneens volledig lokaal.</li>
 <li><strong><a href="https://huggingface.co/spaces/Xenova/whisper-web">Whisper Web</a></strong> — online demo die direct in de browser draait (via WebGPU).</li>
 </ul>
-<p>Het grote voordeel van lokaal draaien: <strong>je audio verlaat je computer niet</strong>, wat privacy-gevoelige transcripties (gesprekken met studenten, patiënten, etc.) een stuk veiliger maakt.</p>
-</section>
-<section id="kwaliteit" class="level2">
-<h2 class="anchored" data-anchor-id="kwaliteit">Kwaliteit</h2>
-<p>Whisper scoort uitstekend op Engelstalige audio en goed op Nederlands. Technisch jargon, namen en dialecten geven soms problemen. Voor de beste resultaten: zorg voor goede audio-kwaliteit en gebruik de <code>large</code>-versie van het model als het je computer aankan.</p>
+<p>Het grote voordeel van lokaal draaien: <strong>je audio verlaat je computer niet</strong>, wat privacy-gevoelige transcripties (gesprekken met studenten, patiënten, etc.) een stuk veiliger maakt. Whisper scoort uitstekend op Engelstalige audio en goed op Nederlands. Technisch jargon, namen en dialecten geven soms problemen. Voor de beste resultaten: zorg voor goede audio-kwaliteit en gebruik de <code>large</code>-versie van het model als het je computer aankan.</p>
 
 
 </section>

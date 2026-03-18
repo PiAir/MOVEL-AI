@@ -14,4 +14,4 @@ De focus van Snappet Copilot ligt op:
 - **Differentiatie**: Automatische aanpassingen in het niveau van de opdrachten.
 - **Tijdswinst**: Automatisering van administratieve taken zodat er meer tijd is voor pedagogisch contact.
 
-[Lees hier meer over de pilot en de implementatie](https://www.ru.nl/over-ons/news/van-co-creatie-naar-co-implementatie-een-pilot).
+[Lees hier meer over de pilot en de implementatie](https://www.ru.nl/onderzoek/onderzoeksprojecten/co-implementatiepilot).

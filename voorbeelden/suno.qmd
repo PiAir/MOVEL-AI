@@ -7,39 +7,28 @@ sidebar: id-voorbeelden
 
 ![suno screenshot](media/screenshot-suno.png){.img-fluid .rounded}
 
-[Suno](https://suno.com/) is een AI-muziekgenerator: beschrijf in een paar woorden welk nummer je wilt — genre, sfeer, instrumentatie, thema — en Suno genereert binnen seconden een **volledig nummer** met zang, instrumentale begeleiding en teksten.
+[Suno](https://suno.com/) is een AI-muziekgenerator: beschrijf in een paar woorden welk nummer je wilt — genre, sfeer, instrumentatie, thema — en Suno genereert binnen seconden een volledig nummer met zang, instrumentale begeleiding en teksten.
 
-## Hoe werkt het?
+Je kunt ook zelf de tekst schrijven en Suno vragen die op muziek te zetten, dan heb je meer controle over de inhoud. Met de gratis optie krijg je 50 credits per dag, genoeg voor ongeveer 10 nummers.
 
-1. Ga naar [suno.com](https://suno.com/) en maak een gratis account
-2. Typ een korte beschrijving: *"upbeat Dutch children's song about frogs, ukulele, playful"*
-3. Klik op *Create* en ontvang twee versies van het nummer
-4. Luister, download en deel
+![](media/screenshot-suno-liedje.png)
 
-Je kunt ook zelf de tekst schrijven en Suno vragen die op muziek te zetten — dan heb je meer controle over de inhoud.
+En het resultaat? Je kunt het hieronder beluisteren. 
 
-## Gratis vs. betaald
+[![](media/screenshot-suno-liedje-resultaat.png)](https://suno.com/s/CQQoyMJ6Gw31CzHw)
 
-| Laag | Generaties | Prijs |
-|---|---|---|
-| Gratis | ~50 credits/dag (~10 nummers) | €0 |
-| Pro | 2.500 credits/mnd | $10/mnd |
-| Premier | 10.000 credits/mnd | $30/mnd |
+Tja...
 
-De gratis laag is voor educatief gebruik ruim voldoende.
-
-## Educatieve toepassingen
-
-- Studenten een nummer laten schrijven over een lesstof-begrip (verwerking via creativiteit)
-- Een jingle of deuntje bij een les of schoolevenement genereren
-- Vergelijken: "klinkt dit als bestaande muziek?" — auteursrechten en originaliteit bespreken
-- Muziekles: AI als compositie-assistent
-
+::: {.callout-warning}
 ## Ethische kwesties
+Suno is getraind op grote hoeveelheden muziek van het internet, inclusief nummers van artiesten die hier nooit toestemming voor hebben gegeven. Er lopen rechtszaken van platenlabels. Dit maakt Suno tot een goed gespreksonderwerp over auteursrecht, creativiteit en de rechten van artiesten in het AI-tijdperk. Maar minder geschikt om serieus zelf muziek mee te maken.
 
-Suno is getraind op grote hoeveelheden muziek van het internet, inclusief nummers van artiesten die hier nooit toestemming voor hebben gegeven. Er lopen rechtszaken van platenlabels. Dit maakt Suno tot een goed gespreksonderwerp over **auteursrecht, creativiteit en de rechten van artiesten** in het AI-tijdperk.
+Bijkomend probleem is dat diensten als Spotify op dit moment overspoeld worden met AI-muziek, waardoor echte artiesten nóg meer moeite hebben om op te vallen tussen het enorme aanbod (en wat te verdienen met hun muziek). Zie ook [dit artikel](https://nos.nl/artikel/2584050-spotify-pakt-ai-aan-om-artiesten-te-beschermen-75-miljoen-liedjes-verwijderd).
 
-## Verwant
+:::
 
-- [ElevenLabs](elevenlabs.qmd) — tekst-naar-spraak en stemkloning
-- [Gemini Muziekgeneratie](https://gemini.google/overview/music-generation/) — Google's muziekmodule
+
+<audio controls>
+  <source src="media/Liedje voor de Meester van Morgen.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>

@@ -7,15 +7,19 @@ project:
 
 website:
   title: "MOVEL AI 2025-2026"
+
+  favicon: "media/MOVEL-icon.png"
   bread-crumbs: true
   back-to-top-navigation: true
 
   navbar:
+
     right:
       - href: colofon.qmd
         text: Over deze module
   sidebar:
      - id: id-default
+       logo: "media/MOVEL-icon.png"  
        style: "docked"
        search: true
        contents:        
@@ -72,7 +76,20 @@ website:
            text: Home
          - href: de-mens-en-ai/index.qmd
            text: De mens en AI
-         - auto: "de-mens-en-ai/*.qmd"
+         - href: de-mens-en-ai/mens-en-technologie.qmd
+           text: De mens centraal? 
+         - href: de-mens-en-ai/betalen-voor-ai.qmd
+           text: Betalen voor AI 
+         - href: de-mens-en-ai/ethiek-en-richtlijnen.qmd
+           text: Ethiek en Richtlijnen
+         - href: de-mens-en-ai/ai-act.qmd
+           text: De AI-Act
+         - href: de-mens-en-ai/coded-bias.qmd
+           text: Coded Bias
+         - href: de-mens-en-ai/bias-praktijkvoorbeelden.qmd
+           text: Bias in de praktijk
+         - href: de-mens-en-ai/responsible-ai.qmd
+           text: Responsible AI
 
      - id: id-voorbeelden
        style: "docked"

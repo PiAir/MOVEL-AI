@@ -16,25 +16,11 @@ sidebar: id-voorbeelden
 4. Pas kleuren, iconen en tekst aan
 5. Exporteer als PNG, SVG of PDF
 
-## Waarom interessant voor leraren?
+Napkin heeft een gratis versie waarmee je al de kernfuncties kunt gebruiken. De betaalde versie geeft meer exports, hogere resolutie en merkuitstraling.
 
-- Complexe concepten visueel maken zonder design-vaardigheden
-- Samenvattingen of stappenplannen omzetten naar infographics voor in een presentatie
-- Studenten hun eigen uitleg laten visualiseren als verwerkingsopdracht
+![](media/screenshot-napkin-ai-gebruik.png)
 
-## Voorbeeld-use case
+![](media/screenshot-napkin-ai-gebruik-2.png)
 
-Je hebt een paragraaf geschreven over de stappen van het wetenschappelijk onderzoeksproces. Plak dit in Napkin, en je krijgt direct een stroomdiagram of stappenschema dat je kunt exporteren naar je presentatie.
+![](media/screenshot-napkin-ai-gebruik-3.png)
 
-## Gratis vs. betaald
-
-Napkin heeft een **gratis plan** waarmee je al de kernfuncties kunt gebruiken. Het betaalde plan geeft meer exports, hogere resolutie en merkuitstraling.
-
-## Vergelijking
-
-| Tool | Sterk in |
-|---|---|
-| Napkin AI | Tekst → visueel schema, supersnel |
-| [Gamma](gamma.qmd) | Volledige presentaties genereren |
-| [Canva AI](canva-ai.qmd) | Vrijere grafische vormgeving |
-| Mermaid (in AI Studio) | Technische diagrammen via code |

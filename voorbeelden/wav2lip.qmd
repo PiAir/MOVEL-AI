@@ -32,12 +32,8 @@ De volledige video:
 
 {{< video https://www.youtube.com/embed/zbldG5CmtVo >}}
 
-## Context en actualiteit
+## Context 
 
 Wav2Lip was toonaangevend in 2020, maar de technologie is sindsdien dramatisch verbeterd. Diensten zoals [HeyGen](heygen.qmd) en [ElevenLabs](elevenlabs.qmd) bieden tegenwoordig vergelijkbare (en veel betere) resultaten met een gebruiksvriendelijke interface.
 
 Wav2Lip is echter historisch interessant als vroeg voorbeeld van hoe **open onderzoek deepfaketechnologie democratiseerde**. De code staat nog steeds op [GitHub](https://github.com/Rudrabha/Wav2Lip).
-
-## Educatieve waarde
-
-Dit voorbeeld is bij uitstek geschikt om te tonen hoe snel AI-technologie zich ontwikkelt. Wat in 2020 geavanceerd en experimenteel was, is in 2025 beschikbaar als no-code dienst. Tegelijk onderstreept het de noodzaak van mediageletterdheid: welke video's kun je nog vertrouwen?

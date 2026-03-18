@@ -8,6 +8,8 @@ Er zijn weinig dingen in het leven die echt gratis zijn. *"If you are not paying
 
 Het doet niet helemaal recht aan bijvoorbeeld open source software, open leermaterialen of open science, maar ook in die gevallen is er altijd iemand die betaald heeft voor de ontwikkeling. Het gebruik van AI is eigenlijk nooit gratis.
 
+![](media/betalen-voor-ai.png)
+
 ### Betalen met je data
 Het is een veel bekritiseerde strategie van grote bedrijven zoals Google of Facebook om een dienst gratis aan te bieden, maar dan jouw data te gebruiken om advertenties te verkopen. Voor gratis online AI-diensten geldt: betaal je niet met geld, dan heb je in de regel weinig zeggenschap over wat de aanbieder doet met jouw chatgeschiedenis en bestanden. In een onderwijssetting is dit vaak niet wenselijk.
 
@@ -19,3 +21,7 @@ Open source modellen zoals [Whisper](https://github.com/openai/whisper) kun je z
 
 ### Duurzaam gebruik van AI
 Het trainen en gebruiken van AI heeft ook een effect op onze omgeving (energieverbruik, waterkoeling van datacenters). Hoewel partijen zoals OpenAI en ABN AMRO spreken over "Groene AI voor duurzaamheid", is AI geen eenvoudige oplossing voor klimaatuitdagingen zonder zelf impact te hebben.
+
+
+{{< video https://youtu.be/VqQ6hJwFCRM start="204" end="384" >}}
+In de video hierboven hoor je Bernhard van Gastel, assistant professor bij de Radboud Universiteit, vertellen over de (ecologische) kosten van AI. 

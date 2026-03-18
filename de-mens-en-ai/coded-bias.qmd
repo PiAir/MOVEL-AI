@@ -10,11 +10,7 @@ sidebar: id-de-mens-en-ai
 
 {{< video https://www.youtube.com/watch?v=jZl55PsfZJQ >}}
 
-De documentaire is [te bekijken via Netflix](https://www.netflix.com/title/81328723).
 
-[![Bekijk op Netflix](media/coded-bias-netflix.png)](https://www.netflix.com/title/81328723)
-
-## Verdieping
 
 ### Joy Buolamwini: Algorithmic Justice League
 Joy richtte de [Algorithmic Justice League](https://www.ajl.org/) op. Bekijk hier haar TEDTalk over "The Coded Gaze":
@@ -33,5 +29,7 @@ En haar TEDTalk over het gevaar van blinde algoritmen:
 
 {{< video https://www.youtube.com/watch?v=_2u_eHHzRto >}}
 
-### Big Brother Watch
+:::{.callout-note collapse="true"}
+## Big Brother Watch
 Een van de organisaties uit de film is [Big Brother Watch](https://bigbrotherwatch.org.uk/), die strijdt tegen het ongecontroleerd gebruik van gezichtsherkenning.
+:::
