@@ -13,7 +13,7 @@ Deze module bevat ondersteunende materialen bij het onderwerp AI en Onderwijs vo
 
 ### Doelgroep
 
-Doelgroep voor dit materiaal zijn docenten ([leraren](colofon.qmd#sec-taalgebruik)), studenten van de lerarenopleidingen en lerarenopleiders. Het materiaal wordt ingezet bij een masteropleiding, maar is zeker niet complex dat je die masteropleiding nodig hebt om het te kunnen begrijpen. De opzet is thematisch waarbij je redelijk vrij door de menu-onderdelen kunt springen.
+Doelgroep voor dit materiaal zijn docenten ([leraren](/colofon.qmd#sec-taalgebruik)), studenten van de lerarenopleidingen en lerarenopleiders. Het materiaal wordt ingezet bij een masteropleiding, maar is zeker niet complex dat je die masteropleiding nodig hebt om het te kunnen begrijpen. De opzet is thematisch waarbij je redelijk vrij door de menu-onderdelen kunt springen.
 
 ### Inhoud
 
