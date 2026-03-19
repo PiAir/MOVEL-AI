@@ -50,6 +50,8 @@ website:
            text: Voorbeelden van AI
          - href: ai-in-het-onderwijs/
            text: AI in het onderwijs
+         - href: vibecoding/
+           text: Vibecoding
          - href: de-mens-en-ai/
            text: De mens en AI 
          - href: ai-in-de-film/
