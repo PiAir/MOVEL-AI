@@ -5,3 +5,7 @@ Thumbs.db
 
 /.quarto/
 **/*.quarto_ipynb
+
+# SCORM output en hulpscripts
+scripts/
+releases/

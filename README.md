@@ -11,6 +11,8 @@ Deze module biedt een gestructureerd overzicht van de ontwikkelingen rondom AI i
 - **AI-geletterdheid**: Wat moeten docenten, studenten en leidinggevenden weten en kunnen?
 - **Voorbeelden van AI**: Een verzameling actuele tools en hun toepassingen.
 - **AI in het onderwijs**: Specifieke use-cases en ontwikkelingen binnen de sector.
+- **Vibecoding**: Essentiële vaardigheden voor de toekomst?
+- **Literatuur**: Waar vind je meer informatie over AI en onderwijs?
 - **De mens en AI**: Ethische vraagstukken, wetgeving (AI Act) en bias.
 - **AI in de film**: Reflectie op AI via popcultuur.
 
@@ -37,7 +39,7 @@ De website wordt standaard gerenderd naar de `docs` map, die geconfigureerd is v
 
 ## Realisatie en Licentie
 
-- **Auteur**: [Pierre Gorissen](https://www.ixperium.nl/over-ons/medewerkers/pierre-gorissen/) (iXperium/HAN).
+- **Auteur**: [Pierre Gorissen](https://www.ixperium.nl/over-ons/medewerkers/pierre-gorissen/).
 - **Ontwikkeling**: Initieel in 2023 (Xerte), geconverteerd naar Quarto in 2026.
 - **Licentie**: Deze inhoud wordt beschikbaar gesteld onder een [Creative Commons Naamsvermelding-GelijkDelen (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/deed.nl) licentie.
 
