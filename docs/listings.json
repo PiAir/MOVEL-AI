@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/ai-geletterdheid/experimenteren.html",
+    "items": []
+  },
+  {
     "listing": "/ai-in-de-film/index.html",
     "items": [
       "/ai-in-de-film/films/m3gan.html",
@@ -22,10 +26,6 @@
       "/ai-in-de-film/films/metropolis.html",
       "/ai-in-de-film/films/gugusse-et-lautomate.html"
     ]
-  },
-  {
-    "listing": "/ai-geletterdheid/experimenteren.html",
-    "items": []
   },
   {
     "listing": "/ai-in-het-onderwijs/index.html",

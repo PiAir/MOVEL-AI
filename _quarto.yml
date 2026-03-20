@@ -52,6 +52,8 @@ website:
            text: AI in het onderwijs
          - href: vibecoding/
            text: Vibecoding
+         - href: literatuur/
+           text: Literatuur
          - href: de-mens-en-ai/
            text: De mens en AI 
          - href: ai-in-de-film/
