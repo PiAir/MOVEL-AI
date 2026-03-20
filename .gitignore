@@ -2,7 +2,7 @@ _site/
 .quarto/
 .DS_Store
 Thumbs.db
-
+*.code-workspace
 /.quarto/
 **/*.quarto_ipynb
 
