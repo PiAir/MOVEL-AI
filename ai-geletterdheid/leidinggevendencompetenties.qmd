@@ -36,7 +36,12 @@ Ook voor leidinggevenden heeft iXperium verschillende raamwerken en publicaties 
 
 ## AI visie en beleid
 
-Elke onderwijsinstelling in Nederland (en daarbuiten) schreeuwt op dit moment om AI visie en beleid. Maar hoe kom je tot een visie en beleid dat past bij jouw onderwijsinstelling? En hoe zorg je ervoor dat het ook daadwerkelijk geïmplementeerd wordt? Dat is waar de leidinggevende bij moet helpen, meedenken, sturen en faciliteren. Dit kun je niet uitbesteden aan de ict-beheerders of de onderwijskundigen binnen je instelling. Het is ook geen reglement met verkeersregels die beschrijven wat niet mag, wel mag en wat de straffen zijn als je je niet aan de regels houdt. Het is een levend document, dat past bij de onderwijsvisie van de onderwijsinstelling en dat op verschillende niveaus beschrijft hoe AI daar impact op heeft.
+Elke onderwijsinstelling in Nederland (en daarbuiten) schreeuwt op dit moment om AI visie en beleid. Maar hoe kom je tot een visie en beleid dat past bij jouw onderwijsinstelling? En hoe zorg je ervoor dat het ook daadwerkelijk geïmplementeerd wordt? Dat is waar de leidinggevende bij moet helpen, meedenken, sturen en faciliteren. Dit kun je niet uitbesteden aan de ict-beheerders of de onderwijskundigen binnen je instelling. Het is ook geen reglement met verkeersregels die beschrijven wat niet mag, wel mag en wat de straffen zijn als je je niet aan de regels houdt. Het is een levend document, dat past bij de onderwijsvisie van de onderwijsinstelling en dat op verschillende niveaus beschrijft hoe AI daar impact op heeft.`
+
+::: {.callout-tip collapse="true"}
+## Gebruik een jaartal!
+Zet een jaartal in de titel van je visie of beleid. Bijvoorbeeld: AI visie en beleid 2025-2026. Dan is het meteen duidelijk dat het een levend document is dat regelmatig herzien wordt.
+:::
 
 ## Waar starten?
 

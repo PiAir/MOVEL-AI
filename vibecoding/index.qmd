@@ -37,6 +37,14 @@ En bij vibcodende docenten heb ik het niet over docenten die op die manier een h
 Voor de sessie bij NOLAI in november heb ik een pagina met [23 single prompt voorbeelden](https://ictoblog.com/html/Vibecoding/) gemaakt. In het Nederlands en het Engels, met een beschrijving, een screenshot, een live (werkende) demo en de prompt die ik gebruikte. Met selectiemogelijkheid om te kiezen tussen Engels en Nederlands. En filters voor onderwijsniveau (NOLAI richt zich op funderend onderwijs, dus geen mbo/hbo voorbeelden op die pagina).
 Dat had ik nooit voor elkaar gekregen zónder dat ik ook vibecoding gebruikt had bij het samenstellen van die pagina en die voorbeelden. En dat is nu precies het punt dat ik wil maken. 
 
+:::{.callout-tip}
+## Vibecoding en ontwikkelen van onderwijsmateriaal
+
+Het voorbeeld laat zien dat vibecoding een uitstekende manier kan zijn om onderwijsmateriaal te ontwikkelen. Het is een snelle en efficiënte manier om materiaal dat je nu bijvoorbeeld alleen als statische PDF of PowerPoint ter becshikking hebt, om te zetten naar digitaal lesmateriaal dat je aan studenten aan kuntn bieden. 
+
+:::
+
+
 ## Allemaal betalen voor Claude Code?
 Als je [op YouTube zoekt naar vibecoding](https://www.youtube.com/results?search_query=vibe+coding) dan zie je dat het vooral gaat over het gebruik van AI-tools om code te genereren. En dan kom je al snel uit bij betaalde tools zoals [Claude Code](/voorbeelden/claude-code.qmd).
 
@@ -57,3 +65,10 @@ Als je je aan deze regels houdt én er voor zorgt dat je geen apps aan het ontwi
 ![](media/wegwerpapplicaties.png)
 Het is een mooi bezwaar tegen wegwerpapplicaties. Maar het is niet het hele verhaal. Een wegwerpapplicatie wordt zo genoemd omdat je er geen onderhoud aan pleegt. Traditioneel zijn applicaties zaken die veel ontwikkeltijd gekost hebben en waar dus ook veel monetaire waarden aan hangen. Dat is niet het geval voor een wegwerpapplicatie. Dat betekent dus dat die in de productie wint van de traditionele applicatie. Natuurlijk, als je géén applicatie nodig hebt en niet bouwt, dan is dat het meest duurzaam. Maar een app bouwen, hosten en dan jarenlang onderhouden, kost uiteindelijk veel meer energie en grondstoffen dan een wegwerpapplicatie. En dat is de vergelijking die je moet maken. 
 Dus als je dan toch een jaarlijkse digitale schoonmaak organiseert binnen je school, kun je ook meteen de wegwerpapplicaties die je het laatste halfjaar niet meer gebruikt hebt, opruimen.
+
+:::{.callout-tip}
+## Vibecoding en computational thinking
+
+Vibecoden vraagt de nodige computational thinking vaardigheden. Je moet immers wel weten wat je wilt bouwen en hoe je het wilt bouwen. Het is daarmee zowel voor docenten als studenten een uitstekende manier om computational thinking te oefenen. 
+
+:::
