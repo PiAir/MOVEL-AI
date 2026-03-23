@@ -1,7 +1,0 @@
-_site/
-.quarto/
-.DS_Store
-Thumbs.db
-
-/.quarto/
-**/*.quarto_ipynb

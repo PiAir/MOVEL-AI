@@ -1,5 +1,0 @@
-#| echo: false
-#| results: "asis"
-library("exams2forms")
-questions <- c("quiz/question-1.Rmd", "quiz/question-2.Rmd", "quiz/question-3.Rmd", "quiz/question-4.Rmd", "quiz/question-5.Rmd", "quiz/question-6.Rmd", "quiz/question-7.Rmd", "quiz/question-8.Rmd", "quiz/question-9.Rmd", "quiz/question-10.Rmd", "quiz/question-11.Rmd", "quiz/question-12.Rmd", "quiz/question-13.Rmd", "quiz/question-14.Rmd", "quiz/question-15.Rmd", "quiz/question-16.Rmd", "quiz/question-17.Rmd", "quiz/question-18.Rmd")
-exams2forms::exams2forms(file = questions, title = 'Zelftest AI', browse = FALSE)
