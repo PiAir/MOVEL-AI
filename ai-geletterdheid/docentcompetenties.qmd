@@ -39,4 +39,4 @@ Welke het beste is? Dat is deels een keuze op basis van welke uitgangspunten je 
 
 ## Vibecoding
 
-Vibecoding heeft een [eigen pagina binnen deze module](vibecoding.qmd). Je kunt daar lezen dat het gezien wordt als iets wat onderderdeel is van de AI-geletterdheid van docenten (kwadrant linksonder) maar dan vooral in relatie tot het kwadrant linksboven als het gaat om het ontwerpen, uitvoeren en evalueren van onderwijs met AI.
+Vibecoding heeft een [eigen pagina binnen deze module](/vibecoding/). Je kunt daar lezen dat het gezien wordt als iets wat onderderdeel is van de AI-geletterdheid van docenten (kwadrant linksonder) maar dan vooral in relatie tot het kwadrant linksboven als het gaat om het ontwerpen, uitvoeren en evalueren van onderwijs met AI.
