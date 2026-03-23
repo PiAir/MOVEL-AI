@@ -633,11 +633,7 @@
     "href": "ai-in-het-onderwijs/npuls.html",
     "title": "Npuls Community AI en Data",
     "section": "",
-    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n\n\n\n\n\n Terug naar boven",
-    "crumbs": [
-      "Over deze module",
-      "Npuls Community AI en Data"
-    ]
+    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n\n\n\n\n\n Terug naar boven"
   },
   {
     "objectID": "ai-in-het-onderwijs/magicschool-ai.html",
@@ -677,7 +673,11 @@
     "href": "ai-in-het-onderwijs/kennisnet.html",
     "title": "Kennisnet",
     "section": "",
-    "text": "Kennisnet richt zich specifiek op het funderend onderwijs. Maar zoals Npuls niet alleen interessant is als je in het mbo of hoger onderwijs werkt, is ook Kennisnet een bezoek voor docenten uit andere onderwijssectoren de moeite waard.\nKennisnet heeft een aantal interessante pagina’s over AI en onderwijs. Hieronder een selectie:\n\nAI in het onderwijs\nAandachtspunten bij de ontwikkeling van je curriculum en de invloed van AI\nWerken aan AI-geletterdheid op school\nAI Impact Game\nEthiekkompas - niet specifiek over AI, maar net zo relevant voor AI-toepassingen\nAI-companions\n\n\n\n\n\n Terug naar boven"
+    "text": "Kennisnet richt zich specifiek op het funderend onderwijs. Maar zoals Npuls niet alleen interessant is als je in het mbo of hoger onderwijs werkt, is ook Kennisnet een bezoek voor docenten uit andere onderwijssectoren de moeite waard.\nKennisnet heeft een aantal interessante pagina’s over AI en onderwijs. Hieronder een selectie:\n\nAI in het onderwijs\nAandachtspunten bij de ontwikkeling van je curriculum en de invloed van AI\nWerken aan AI-geletterdheid op school\nAI Impact Game\nEthiekkompas - niet specifiek over AI, maar net zo relevant voor AI-toepassingen\nAI-companions\n\n\n\n\n\n Terug naar boven",
+    "crumbs": [
+      "Over deze module",
+      "Kennisnet"
+    ]
   },
   {
     "objectID": "ai-in-het-onderwijs/gradescope.html",
@@ -698,7 +698,7 @@
     "text": "Het experiment is inmiddels al lang en breed beëindigd, maar de video dient nog steeds als goed voorbeeld als je gaat nadenken over de vraag “wat willen we eigenlijk wel of niet?”.\n\nRecentelijk (2026) is een logischere link bij “AI voorbeeld uit China” een verwijzing naar DeepSeek. Die concurrent van ChatGPT deed heel wat stof opwaaien omdat mensen tot dat moment er vanuit gingen dat de echt goede taalmodellen allemaal in de VS ontwikkeld werden. Waar China al lang te maken heeft met importrestricties van chips uit de VS, lijkt het erop dat ook hier de ontwikkelingen niet stil staan. Deepseek spreekt inmiddels ook Nederlands.\n\n\n\nDeepseek over de oorlog in Iran\n\n\nBelangrijk kritiekpunt bij Deepseek is dat het systeem soms keihard censureert. Dat is in het bovenstaande voorbeeld niet zo, en toen ik vroeg “Wat waren de belangrijkste besluiten tijdens het volkscongres in China onlangs?” kreeg ik een net antwoord. En ook op mijn vervolgvraag “Er zijn mensen die zeggen dat de wetgeving rond het bevorderen van harmonie tussen bevolkingsgroepen zal leiden tot onderdrukking van minderheden in China. Is dat een risico fo zelfs doel van de wetgeving?” kreeg ik in eerste instantie wél een antwoord. En een heel goed antwoord in zoverre dat daarbij zowel het officiële standpunt van de Chinese overheid aan bod kwam als de kritiek daarop. Maar nog voordat ik een screenshot kon nemen van dat antwoord, greep het systeem in en kwam met de volgende melding:\n\n\n\nDeepseek censuur\n\n\nIk realiseerde me dat ik met mijn gewone gmail-account ingelogd was, dus het was ook wat ingewikkelder om te gaan proberen het te reproduceren voor een schermfilmpje. Maar het illustreert wel een verschil in aanpak. Vraag je dit aan ChatGPT, dan krijg je overigens ook gewoon beide kanten van het verhaal te horen.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "AI voorbeeld uit China"
+      "China - een voorbeeld?"
     ]
   },
   {
@@ -1163,21 +1163,33 @@
     "href": "ai-in-het-onderwijs/ai-teach.html",
     "title": "AI-Teach",
     "section": "",
-    "text": "AI-teach is een Erasmus+ Teacher Academy-project dat docenten ondersteunt bij het gebruik van kunstmatige intelligentie in het onderwijs. Het biedt een internationaal programma voor capaciteitsopbouw om de AI-geletterdheid te vergroten onder zowel aankomende als reeds werkende docenten in het voortgezet onderwijs.\nDoor middel van training, onderzoek en internationale samenwerking helpt AI-teach docenten om AI op een ethische, kritische en creatieve manier in te zetten in hun lespraktijk. De HAN lerarenopleiding is een van de partners in dit project."
+    "text": "AI-teach is een Erasmus+ Teacher Academy-project dat docenten ondersteunt bij het gebruik van kunstmatige intelligentie in het onderwijs. Het biedt een internationaal programma voor capaciteitsopbouw om de AI-geletterdheid te vergroten onder zowel aankomende als reeds werkende docenten in het voortgezet onderwijs.\nDoor middel van training, onderzoek en internationale samenwerking helpt AI-teach docenten om AI op een ethische, kritische en creatieve manier in te zetten in hun lespraktijk. De HAN lerarenopleiding is een van de partners in dit project.",
+    "crumbs": [
+      "Over deze module",
+      "AI-Teach"
+    ]
   },
   {
     "objectID": "ai-in-het-onderwijs/ai-teach.html#professionalisering",
     "href": "ai-in-het-onderwijs/ai-teach.html#professionalisering",
     "title": "AI-Teach",
     "section": "Professionalisering",
-    "text": "Professionalisering\nHet project is op dit moment (maart 2026) nog volop bezig met het ontwikkelen van de professionaliseringsactiviteiten. Je kunt wel al de rapportage van de mappingstudie downloaden en lezen."
+    "text": "Professionalisering\nHet project is op dit moment (maart 2026) nog volop bezig met het ontwikkelen van de professionaliseringsactiviteiten. Je kunt wel al de rapportage van de mappingstudie downloaden en lezen.",
+    "crumbs": [
+      "Over deze module",
+      "AI-Teach"
+    ]
   },
   {
     "objectID": "ai-in-het-onderwijs/ai-teach.html#pioneering-videos",
     "href": "ai-in-het-onderwijs/ai-teach.html#pioneering-videos",
     "title": "AI-Teach",
     "section": "Pioneering videos",
-    "text": "Pioneering videos\nOok zijn er een aantal ‘pioneering videos’ gemaakt waarin docenten uit verschillende landen vertellen over hun ervaringen met AI in het onderwijs. Je kunt ze hier bekijken.\n In deze video hoor je Jochem Hiddink van de HAN over zijn ervaringen met AI in het onderwijs. Hieronder een voorbeeld uit België:\n (n.b. YouTube leek deze video als gesproken in het Turks te herkennen en liet de Engelstalige audiotrack horen, dit is toch echt gewoon Vlaams…)\nRechtstreeks toegang tot alle video’s vind je hier."
+    "text": "Pioneering videos\nOok zijn er een aantal ‘pioneering videos’ gemaakt waarin docenten uit verschillende landen vertellen over hun ervaringen met AI in het onderwijs. Je kunt ze hier bekijken.\n In deze video hoor je Jochem Hiddink van de HAN over zijn ervaringen met AI in het onderwijs. Hieronder een voorbeeld uit België:\n (n.b. YouTube leek deze video als gesproken in het Turks te herkennen en liet de Engelstalige audiotrack horen, dit is toch echt gewoon Vlaams…)\nRechtstreeks toegang tot alle video’s vind je hier.",
+    "crumbs": [
+      "Over deze module",
+      "AI-Teach"
+    ]
   },
   {
     "objectID": "ai-in-het-onderwijs/feedbackfruits.html",
@@ -1187,7 +1199,7 @@
     "text": "FeedbackFruits levert een tool voor studenten waarbij ze automatische feedback krijgen op werkstukken, rapporten en andere schrijfproducten. De AI analyseert de tekst op basis van vooraf ingestelde criteria.\n\nFeedbackfruits komt al jaren voor in mijn overzicht van mooie tools, ze richten zich inmiddels in Nederland ook op het mbo, maar ik heb nog steeds geen demo’s gezien waarbij de tool en taalondersteuning ook voor het Nederlands beschikbaar waren.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "FeedbackFruits"
+      "Feedbackfruits"
     ]
   },
   {
@@ -1231,7 +1243,7 @@
     "text": "LessonUp is een populair platform voor interactieve lessen in Nederland. Ze hebben onlangs AI-functies toegevoegd die docenten enorm veel tijd kunnen besparen.\nMet LessonUp AI kun je: - Automatisch quizes genereren op basis van een onderwerp of tekst. - Interactieve slides maken met hulp van AI. - Lesdoelen formuleren die aansluiten bij het curriculum.",
     "crumbs": [
       "Over deze module",
-      "LessonUp AI"
+      "LessonUp"
     ]
   },
   {
@@ -1242,7 +1254,7 @@
     "text": "Disclaimer\nOok voor LessonUp geldt dat deze tekst geschreven is op basis van heel beperkte handson ervaring.",
     "crumbs": [
       "Over deze module",
-      "LessonUp AI"
+      "LessonUp"
     ]
   },
   {
@@ -1253,7 +1265,7 @@
     "text": "NOLAI is het nationale onderwijslab voor AI in het basis-, voortgezet en speciaal onderwijs, gefinancierd door het Nationaal Groeifonds. Op scholen leven veel vragen over AI. NOLAI brengt onderwijs, wetenschap en bedrijfsleven samen in kortlopende projecten om AI-toepassingen te ontwikkelen en te onderzoeken. Het doel is een bewuste en verantwoorde inzet van AI in de klas.",
     "crumbs": [
       "Over deze module",
-      "Nationaal Onderwijslab AI (NOLAI)"
+      "NOLAI"
     ]
   },
   {
@@ -1264,7 +1276,7 @@
     "text": "NOLAI magazine\n\nIn een jaarlijks magazine deelt NOLAI haar wetenschappelijk verantwoorde meetlat waarlangs we nieuwe en bestaande educatieve AI leggen, en haar laatste inzichten en ontwikkelingen. De versies van 2024 en 2025 zijn nu online verkrijgbaar als pdf.\nHet leren van de leerling en het lesgeven van de leraar vormen de uitgangspunten voor NOLAI en haar partners. Samen beantwoorden we de volgende vragen:\n\nWat weten we? Welke wetenschappelijke kennis is beschikbaar?\nWat kunnen we? Welke educatieve AI is beschikbaar?\nWat willen we? Welke vragen stelt het onderwijs ons nu?\n\nMet educatieve AI wordt AI bedoeld die specifiek voor onderwijs is ontwikkeld, bijvoorbeeld door educatieve uitgeverijen of Nederlandse EdTech-bedrijven.",
     "crumbs": [
       "Over deze module",
-      "Nationaal Onderwijslab AI (NOLAI)"
+      "NOLAI"
     ]
   },
   {
@@ -1275,7 +1287,7 @@
     "text": "Samen ontwikkelen\nHet samen, in een multidisciplinair team, ontwikkelen of herontwerpen van onderwijs is een bewezen effectieve werkwijze. Binnen iXperium vindt dit plaats binnen iXperiumdesignteams. Binnen NOLAI wordt ingezet op co-creatieprojecten waarbij wetenschap, onderwijs en bedrijfsleven samen werken aan oplossingen voor problemen en uitdagingen in het onderwijs.\n\nEen overzicht van de projecten van NOLAI is hier te vinden.",
     "crumbs": [
       "Over deze module",
-      "Nationaal Onderwijslab AI (NOLAI)"
+      "NOLAI"
     ]
   },
   {
@@ -1305,7 +1317,7 @@
     "href": "colofon.html",
     "title": "Over deze module",
     "section": "",
-    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\n\n\nDeze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI.\nEr wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehorende privacybeleid deze pagina.\n\n\n\nJe kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen.\n\n\n\nEr is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van Google Antigravity. Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud zijn afkomstig van een mens.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
+    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\n\n\nDeze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI.\nEr wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehorende privacybeleid deze pagina.\n\n\n\nJe kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen.\n\n\n\nEr is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van Google Antigravity. Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud zijn afkomstig van een mens.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
   },
   {
     "objectID": "colofon.html#privacy",
@@ -1319,7 +1331,7 @@
     "href": "colofon.html#zelf-hosten-in-je-leeromgeving",
     "title": "Over deze module",
     "section": "",
-    "text": "Je kunt een kopie van deze module module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen."
+    "text": "Je kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen."
   },
   {
     "objectID": "colofon.html#gebruik-van-ai",

@@ -62,7 +62,7 @@ Je kunt beginnen met een paar publicaties die je al kent en Research Rabbit zoek
 Mocht je je afvragen waarom de tool deze naam heeft: het is een verwijzing naar het idee dat je met een paar publicaties een heel netwerk van publicaties kunt ontdekken, in het Engels wordt dat "going down the rabbit hole" genoemd.
 
 ## YouTube
-Aan de volledig andere kant van het spectrum vind je YouTube. Hier vind je heel veel video's over AI en toepassingen ervan. Over AI in het onderwijs is het aanbod wat magerder. Je vindt een aantal suggesties van kanalen die zich richten op AI en onderwijs op de pagina over [AI in het onderwijs](./ai-in-het-onderwijs/index.qmd).
+Aan de volledig andere kant van het spectrum vind je YouTube. Hier vind je heel veel video's over AI en toepassingen ervan. Over AI in het onderwijs is het aanbod wat magerder. Je vindt een aantal suggesties van kanalen die zich richten op AI en onderwijs op de pagina over [AI in het onderwijs](/ai-in-het-onderwijs/index.qmd).
 
 ## Films en documentaires
 Films zijn een prima middel om je te verdiepen in een onderwerp. Daarom is daar [een hele pagina over opgenomen](/ai-in-de-film/) in deze module. Maar dan vooral voor meningsvorming en discussie. Een documentaire moet je weer net zo behandelen als alle andere informatie: wie heeft dit gemaakt? Wat is het doel van deze publicatie? Is het betrouwbaar? Enzovoort.

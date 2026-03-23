@@ -1,7 +1,7 @@
 ---
 title: "AI-Teach"
 lang: nl
-sidebar: id-default
+sidebar: id-ai-in-het-onderwijs
 ---
 ![](media/ai-teach-banner.png)
 
