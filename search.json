@@ -633,44 +633,28 @@
     "href": "ai-in-het-onderwijs/npuls.html",
     "title": "Npuls Community AI en Data",
     "section": "",
-    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n\n\n\n\n\n Terug naar boven",
-    "crumbs": [
-      "Over deze module",
-      "Npuls Community AI en Data"
-    ]
+    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n\n\n\n\n\n Terug naar boven"
   },
   {
     "objectID": "ai-in-het-onderwijs/magicschool-ai.html",
     "href": "ai-in-het-onderwijs/magicschool-ai.html",
     "title": "MagicSchool AI",
     "section": "",
-    "text": "MagicSchool AI is een platform dat speciaal is ontwikkeld door en voor leraren. In tegenstelling tot generieke AI-tools als ChatGPT of Claude, is MagicSchool gebouwd rondom concrete lerarentaken: de interface bestaat uit een bibliotheek van meer dan 60 vooraf gedefinieerde tools, elk gericht op een specifieke taak die leraren dagelijks uitvoeren.",
-    "crumbs": [
-      "Over deze module",
-      "MagicSchool AI"
-    ]
+    "text": "MagicSchool AI is een platform dat speciaal is ontwikkeld door en voor leraren. In tegenstelling tot generieke AI-tools als ChatGPT of Claude, is MagicSchool gebouwd rondom concrete lerarentaken: de interface bestaat uit een bibliotheek van meer dan 60 vooraf gedefinieerde tools, elk gericht op een specifieke taak die leraren dagelijks uitvoeren."
   },
   {
     "objectID": "ai-in-het-onderwijs/magicschool-ai.html#welke-tools-biedt-magicschool",
     "href": "ai-in-het-onderwijs/magicschool-ai.html#welke-tools-biedt-magicschool",
     "title": "MagicSchool AI",
     "section": "Welke tools biedt MagicSchool?",
-    "text": "Welke tools biedt MagicSchool?\n\nLesvoorbereiding\n\nLesplannen genereren op basis van leerjaar, vak, doelen en beschikbare tijd\nToetsvragen opstellen: meerkeuzevragen, open vragen, situatietests\nRubrics ontwerpen: beoordelingscriteria uitschrijven met descriptoren per niveau\nDifferentiatiesuggesties: hoe dezelfde les aan te passen voor verschillende niveaus of leerbehoeften\n\n\n\nCommunicatie\n\nOuderbrieven schrijven: zet raapachtige aantekeningen om in professionele brieven\nIEP-doelen formuleren: ondersteuning bij het opstellen van handelingsplannen\nE-mails opstellen voor ouders, leerlingen of collega’s\n\n\n\nLesmateriaal\n\nTeksten aanpassen aan leesniveau: maak een artikel toegankelijk voor jouw specifieke klas\nLeessuggesties genereren op basis van thema en niveau\nDiscussievragen en socratische vragen formuleren\n\nMagicSchool bevat ook Raina, een AI-assistent voor leerlingen die vragen stelt in plaats van antwoorden te geven — vergelijkbaar met de Socratische methode.",
-    "crumbs": [
-      "Over deze module",
-      "MagicSchool AI"
-    ]
+    "text": "Welke tools biedt MagicSchool?\n\nLesvoorbereiding\n\nLesplannen genereren op basis van leerjaar, vak, doelen en beschikbare tijd\nToetsvragen opstellen: meerkeuzevragen, open vragen, situatietests\nRubrics ontwerpen: beoordelingscriteria uitschrijven met descriptoren per niveau\nDifferentiatiesuggesties: hoe dezelfde les aan te passen voor verschillende niveaus of leerbehoeften\n\n\n\nCommunicatie\n\nOuderbrieven schrijven: zet raapachtige aantekeningen om in professionele brieven\nIEP-doelen formuleren: ondersteuning bij het opstellen van handelingsplannen\nE-mails opstellen voor ouders, leerlingen of collega’s\n\n\n\nLesmateriaal\n\nTeksten aanpassen aan leesniveau: maak een artikel toegankelijk voor jouw specifieke klas\nLeessuggesties genereren op basis van thema en niveau\nDiscussievragen en socratische vragen formuleren\n\nMagicSchool bevat ook Raina, een AI-assistent voor leerlingen die vragen stelt in plaats van antwoorden te geven — vergelijkbaar met de Socratische methode."
   },
   {
     "objectID": "ai-in-het-onderwijs/magicschool-ai.html#disclaimer",
     "href": "ai-in-het-onderwijs/magicschool-ai.html#disclaimer",
     "title": "MagicSchool AI",
     "section": "Disclaimer",
-    "text": "Disclaimer\nIk heb MagicSchool zelf nog niet echt gebruikt, wat ik snel kan zien na inloggen is niet persé indrukwekkend en daar zijn vast ook Nederlandse (betaalde) alternatieven voor. De tekst hierboven is dus een algemene, door AI gegenereerde beschrijving. Tips over dit soort platforms in het Nederlands én gebruikservaringen zijn welkom!",
-    "crumbs": [
-      "Over deze module",
-      "MagicSchool AI"
-    ]
+    "text": "Disclaimer\nIk heb MagicSchool zelf nog niet echt gebruikt, wat ik snel kan zien na inloggen is niet persé indrukwekkend en daar zijn vast ook Nederlandse (betaalde) alternatieven voor. De tekst hierboven is dus een algemene, door AI gegenereerde beschrijving. Tips over dit soort platforms in het Nederlands én gebruikservaringen zijn welkom!"
   },
   {
     "objectID": "ai-in-het-onderwijs/kennisnet.html",
@@ -1184,11 +1168,7 @@
     "href": "ai-in-het-onderwijs/feedbackfruits.html",
     "title": "FeedbackFruits",
     "section": "",
-    "text": "FeedbackFruits levert een tool voor studenten waarbij ze automatische feedback krijgen op werkstukken, rapporten en andere schrijfproducten. De AI analyseert de tekst op basis van vooraf ingestelde criteria.\n\nFeedbackfruits komt al jaren voor in mijn overzicht van mooie tools, ze richten zich inmiddels in Nederland ook op het mbo, maar ik heb nog steeds geen demo’s gezien waarbij de tool en taalondersteuning ook voor het Nederlands beschikbaar waren.\n\n\n\n Terug naar boven",
-    "crumbs": [
-      "Over deze module",
-      "FeedbackFruits"
-    ]
+    "text": "FeedbackFruits levert een tool voor studenten waarbij ze automatische feedback krijgen op werkstukken, rapporten en andere schrijfproducten. De AI analyseert de tekst op basis van vooraf ingestelde criteria.\n\nFeedbackfruits komt al jaren voor in mijn overzicht van mooie tools, ze richten zich inmiddels in Nederland ook op het mbo, maar ik heb nog steeds geen demo’s gezien waarbij de tool en taalondersteuning ook voor het Nederlands beschikbaar waren.\n\n\n\n Terug naar boven"
   },
   {
     "objectID": "ai-in-het-onderwijs/index.html#de-lijst-wordt-langer",
