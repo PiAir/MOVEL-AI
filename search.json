@@ -620,7 +620,18 @@
     "href": "de-mens-en-ai/betalen-voor-ai.html",
     "title": "Betalen voor AI",
     "section": "",
-    "text": "Er zijn weinig dingen in het leven die echt gratis zijn. “If you are not paying for it, you’re not the customer; you’re the product being sold” is een redelijk deprimerende uitspraak.\nHet doet niet helemaal recht aan bijvoorbeeld open source software, open leermaterialen of open science, maar ook in die gevallen is er altijd iemand die betaald heeft voor de ontwikkeling. Het gebruik van AI is eigenlijk nooit gratis.\n\n\nBetalen met je data\nHet is een veel bekritiseerde strategie van grote bedrijven zoals Google of Facebook om een dienst gratis aan te bieden, maar dan jouw data te gebruiken om advertenties te verkopen. Voor gratis online AI-diensten geldt: betaal je niet met geld, dan heb je in de regel weinig zeggenschap over wat de aanbieder doet met jouw chatgeschiedenis en bestanden. In een onderwijssetting is dit vaak niet wenselijk.\n\n\nBetalen voor premium diensten\nAanbieders zoals OpenAI hebben na de gratis start inmiddels de nodige betaalde diensten toegevoegd. Hoewel dit vaak gepaard gaat met betere privacybescherming, ontstaat er een risico op toename van kansenongelijkheid: de beste tools zijn niet meer voor iedereen toegankelijk.\n\n\nBetalen voor de hardware\nOpen source modellen zoals Whisper kun je zelf draaien, maar dat vereist krachtige hardware (GPU’s). De kosten voor dergelijke hardware lopen stevig in de papieren. Ook hier is kansenongelijkheid een risico tussen studenten die deze hardware thuis hebben en studenten die dat niet hebben.\n\n\nDuurzaam gebruik van AI\nHet trainen en gebruiken van AI heeft ook een effect op onze omgeving (energieverbruik, waterkoeling van datacenters). Hoewel partijen zoals OpenAI en ABN AMRO spreken over “Groene AI voor duurzaamheid”, is AI geen eenvoudige oplossing voor klimaatuitdagingen zonder zelf impact te hebben.\n In de video hierboven hoor je Bernhard van Gastel, assistant professor bij de Radboud Universiteit, vertellen over de (ecologische) kosten van AI.\n\n\n\n\n Terug naar boven",
+    "text": "Er zijn weinig dingen in het leven die echt gratis zijn. “If you are not paying for it, you’re not the customer; you’re the product being sold” is een redelijk deprimerende uitspraak.\nHet doet niet helemaal recht aan bijvoorbeeld open source software, open leermaterialen of open science, maar ook in die gevallen is er altijd iemand die betaald heeft voor de ontwikkeling. Het gebruik van AI is eigenlijk nooit gratis.",
+    "crumbs": [
+      "Over deze module",
+      "Betalen voor AI"
+    ]
+  },
+  {
+    "objectID": "de-mens-en-ai/betalen-voor-ai.html#en-als-het-geen-geld-oplevert",
+    "href": "de-mens-en-ai/betalen-voor-ai.html#en-als-het-geen-geld-oplevert",
+    "title": "Betalen voor AI",
+    "section": "En als het geen geld oplevert?",
+    "text": "En als het geen geld oplevert?\n\nEn als het geen oplevert, dan kan het zijn dat een app of een toepassing heel snel ook weer verdwijnt. Zoals bijvoorbeeld met de Sora app van OpenAI voor het maken van filmpjes met AI. Daar had het bedrijf in 2025 nog grote plannen mee, er werd o.a. een samenwerking met Disney aangekondigd. Maar in maart 2026 was het alweer voorbij. De technologie was nog niet zo ver dat het de kosten waard was. En OpenAI maakt weliswaar hoe dan ook nog geen winst, geld verdienen is ook voor hen belangrijk.",
     "crumbs": [
       "Over deze module",
       "Betalen voor AI"
