@@ -24,6 +24,12 @@ jobs:
         run: |
           Rscript -e "install.packages(c('rmarkdown', 'knitr'))"         
 
+      - name: Installeer R-pakketten
+        run: |
+          install.packages('remotes', repos='https://cloud.r-project.org')
+          remotes::install_github('zeileis/exams2forms')
+        shell: Rscript {0}
+
       - name: Installeer Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
