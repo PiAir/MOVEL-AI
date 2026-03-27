@@ -385,7 +385,7 @@ cookieconsent.run({
 
 
 <p><a href="https://elevenlabs.io/">ElevenLabs</a> is een van de meest geavanceerde platforms voor AI-spraaksynthese. Waar <a href="../voorbeelden/heygen.html">HeyGen</a> primair video vertaalt, richt ElevenLabs zich op de kwalitatief hoogwaardige generatie en kloning van stemmen. Maar zoals je hieronder kunt zien, kan het ook video’s vertalen en nasynchroniseren.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/32d4tOzS2sM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/32d4tOzS2sM?autoplay=1" style="background-image:url('https://img.youtube.com/vi/32d4tOzS2sM/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><script>(function(){var el=document.currentScript.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script>
 <p>De video laat een test zien die ik 2 jaar geleden gemaakt heb met de software. De kwaliteit is sindsdien alleen maar beter geworden. Bij spraakgeneratie is het inmiddels bijna niet meer van echt te onderscheiden. Ook in het Nederlands, terwijl die stemmen bij anderen nog vaak wat mechanisch klinken.</p>
 <section id="wat-kun-je-doen" class="level2">
 <h2 class="anchored" data-anchor-id="wat-kun-je-doen">Wat kun je doen?</h2>
@@ -1143,7 +1143,7 @@ window.onload = function() {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/PiAir\.github\.io\/MOVEL-AI\/");
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/cdn\.lrn4life\.org\/AI-2025-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

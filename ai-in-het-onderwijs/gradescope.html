@@ -262,7 +262,7 @@ cookieconsent.run({
 
 <p><a href="./media/screenshot-gradescope-main.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="./media/screenshot-gradescope-main.png" class="img-fluid"></a></p>
 <p><a href="https://www.gradescope.com/get_started">Gradescope</a> is een systeem dat de docent helpt bij het beoordelen van werkstukken en proefwerken van leerlingen. Duidelijk is dat de docent hier steeds “in control” blijft; de AI groepeert antwoorden, maar de mens bepaalt de punten.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/I7o0hyhp4WY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/I7o0hyhp4WY?autoplay=1" style="background-image:url('https://img.youtube.com/vi/I7o0hyhp4WY/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><script>(function(){var el=document.currentScript.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script>
 <p>Gradescope is voor zover bekend niet voor de Nederlandse markt beschikbaar, maar het blijft een mooi voorbeeld van ondersteuning door AI zonder risico van “the computer says no” of het uit handen nemen van de controle van de docent.</p>
 
 
@@ -987,7 +987,7 @@ window.onload = function() {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/PiAir\.github\.io\/MOVEL-AI\/");
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/cdn\.lrn4life\.org\/AI-2025-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

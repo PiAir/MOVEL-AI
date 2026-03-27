@@ -271,7 +271,7 @@ cookieconsent.run({
 <li><a href="https://www.kennisnet.nl/tools/ethiekkompas/">Ethiekkompas</a> - niet specifiek over AI, maar net zo relevant voor AI-toepassingen</li>
 <li><a href="https://www.kennisnet.nl/trends/ai-companions-kunstmatige-intelligentie-als-vriend-en-therapeut/">AI-companions</a></li>
 </ul>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://player.vimeo.com/video/1086751578?fl=pl&amp;fe=vl" frameborder="0" title="" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/1086751578?autoplay=1" style="background-image:url('https://img.youtube.com/vi/1086751578/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><script>(function(){var el=document.currentScript.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script>
 
 
 
@@ -995,7 +995,7 @@ window.onload = function() {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/PiAir\.github\.io\/MOVEL-AI\/");
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/cdn\.lrn4life\.org\/AI-2025-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

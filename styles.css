@@ -188,3 +188,39 @@
 .custom-listing .list-item {
     padding: 20px;
 }
+
+/* Container voor de video placeholder */
+.video-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+
+/* De donkere laag over de afbeelding */
+.play-overlay {
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  transition: background 0.3s;
+  pointer-events: none; /* zorgt dat de klik op de container valt */
+}
+
+.video-placeholder:hover .play-overlay {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.play-button {
+  font-size: 3em;
+  margin-bottom: 5px;
+}

@@ -26,7 +26,7 @@
     "href": "voorbeelden/veo.html",
     "title": "Gemini Veo 3.1",
     "section": "",
-    "text": "veo screenshot\n\n\nVeo 3.1 is Google’s AI-videogeneratiemodel, beschikbaar via de Gemini-app. Het model genereert korte video’s met geluid op basis van een tekstprompt — inclusief omgevingsgeluiden, muziek en stemmen. De slogan luidt treffend: “Doorbreek de stilte” — een verwijzing naar het feit dat eerdere AI-videogeneratoren geen audio produceerden.\nAlle video’s gemaakt met Veo bevatten een zichtbaar watermerk en een onzichtbaar digitaal watermerk via SynthID — een door Google DeepMind ontwikkelde techniek die aangeeft dat de video AI-gegenereerd is. Veo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement.\n\nHet resultaat van mijn poging:  Het werkt net zo vaak niet als wel. Met een Pro-account kan ik 3 video’s per dag genereren.\n\n\n\n Terug naar boven",
+    "text": "veo screenshot\n\n\nVeo 3.1 is Google’s AI-videogeneratiemodel, beschikbaar via de Gemini-app. Het model genereert korte video’s met geluid op basis van een tekstprompt — inclusief omgevingsgeluiden, muziek en stemmen. De slogan luidt treffend: “Doorbreek de stilte” — een verwijzing naar het feit dat eerdere AI-videogeneratoren geen audio produceerden.\nAlle video’s gemaakt met Veo bevatten een zichtbaar watermerk en een onzichtbaar digitaal watermerk via SynthID — een door Google DeepMind ontwikkelde techniek die aangeeft dat de video AI-gegenereerd is. Veo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement.\n\nHet resultaat van mijn poging: ▶Klik om video te starten Het werkt net zo vaak niet als wel. Met een Pro-account kan ik 3 video’s per dag genereren.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Gemini Veo 3.1"
@@ -433,7 +433,7 @@
     "href": "toets-jezelf.html",
     "title": "Toets Jezelf!",
     "section": "",
-    "text": "Beantwoord de vragen hieronder om je kennis te testen.\n\n\n\nWat bedoelen we met het Jaws effect?\n\nA. Het onterecht negatieve beeld van haaien door hun rol in films.B. De lessen over AI die we kunnen trekken uit films over haaien.C. De waarschuwing dat AI gevaarlijk is.D. Het gegeven dat door films de belangstelling voor haaien groeide.\n\n\n\nFeedback op de opties:\n\nDat klopt. En dat effect bestaat ook voor AI.\nJa en nee, de films over haaien wekken ten onrechte de indruk dat haaien bloeddorstig zijn, maar dat is geen bewuste les.\nNee, want dat is, net als bij haaien geen vaststaand gegeven.\nDat zou kunnen, maar dan niet op een positieve manier.\n\n\n\n\n\nWelke ethische overwegingen spelen een rol bij het gebruik van AI in het onderwijs?\n\nA. Privacy van studentgegevens.B. Bias en discriminatie in AI-algoritmen.C. Transparantie van AI-beslissingen.D. Kostenreductie door automatisering.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nNee, dat is niet juist.\n\n\n\n\n\nHoe kan AI docenten ondersteunen in hun werkzaamheden?\n\nA. Door administratieve taken te automatiseren.B. Door lesmateriaal automatisch te genereren.C. Door gepersonaliseerde feedback aan studenten te geven.D. Door fysieke lessen te vervangen zonder tussenkomst van een docent.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nNee, dat is niet juist.\n\n\n\n\n\nWelk van de onderstaande uitspraken over Machine Learning is juist?\n\nA. Meer data = betere resultatenB. Bij Machine Learning hoeft de mens niets te doen.C. Machine Learning is nog niet toepasbaar in het onderwijs\n\n\n\nFeedback op de opties:\n\nDat is inderdaad waar. Voorwaarde is dan wel dat het correcte data is. Garbage in = garbage out!\nDe mens moet het model ontwikkelen, het trainen begeleiden, het model daarna testen. Dus helemaal niets is niet juist. \nJawel hoor, het kan wel al, je zult waarschijnlijk alleen niet snel zelf een model trainen als individuele docent.\n\n\n\n\n\nWaar is AI niet goed in?\n\nA. Herkennen van spraakB. Herkennen van afbeeldingenC. Herkennen van emoties\n\n\n\nFeedback op de opties:\n\nDat kan AI steeds beter en lukt al heel goed\nDat kan AI soms beter dan mensen\nDat klopt, het blijft best moeilijk om die goed te herkennen. Ook voor mensen overigens.\n\n\n\n\n\nWat is kunstmatige intelligentie (AI)?\n\nA. Een technologie die machines in staat stelt menselijke intelligentie na te bootsen.B. Een programmeertaal voor het ontwikkelen van software.C. Een hardwarecomponent die de snelheid van computers verbetert.D. Een methode om gegevens op te slaan in de cloud.\n\n\n\nFeedback op de opties:\n\nDat is het juiste antwoord.\nNee, dat is helaas niet juist\nNee, het gaat niet alleen om hardware\nNee, dat is niet juist.\n\n\n\n\n\nWat is een voorbeeld van een adaptief leersysteem?\n\nA. Een systeem dat dezelfde inhoud op dezelfde manier aan alle studenten presenteert.B. Een systeem dat de leerroute aanpast op basis van de prestaties van de student.C. Een systeem dat alleen door docenten kan worden aangepast.D. Een systeem dat geen gebruik maakt van data-analyse.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nDit is het juiste antwoord.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\n\n\n\n\n\nWat is een potentiële uitdaging bij de implementatie van AI in het onderwijs?\n\nA. Gebrek aan voldoende data om AI-systemen te trainen.B. Overmatige personalisatie die leidt tot isolatie van studenten.C. Hoge kosten voor de ontwikkeling en implementatie van AI-systemen.D. Verhoogde werkdruk voor docenten door AI-systemen.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nHet doel van AI-systemen is natuurlijk niet dat de werkdruk toeneemt, maar het is niet uitgesloten.\n\n\n\n\n\nHoe kan AI bijdragen aan inclusiviteit in het onderwijs?\n\nA. Door leermaterialen aan te passen voor studenten met verschillende leerbehoeften.B. Door alleen te focussen op de gemiddelde student.C. Door geen rekening te houden met individuele verschillenD. Door toegang te beperken tot technologie voor bepaalde groepen.\n\n\n\nFeedback op de opties:\n\nDat is het juiste antwoord.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nNee, dat is een risico maar geen bijdrage aan inclusiviteit.\n\n\n\n\n\nVink alle risico's van AI aan\n\nA. Sommige onderwijsdoelen kunnen door AI in het geding rakenB. Afhankelijkheid van black-box modellen (unexplainable AI) versus verantwoordelijkheid van de docent.C. Bias in mensen vertaalt door naar data, die vervolgens wordt overgenomen door AI.D. Een machtsverschuiving naar de producenten van lesmateriaal.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\n\n\n\n\n\n\n\n Terug naar boven",
+    "text": "Beantwoord de vragen hieronder om je kennis te testen.\n\n\n\nWat is een voorbeeld van een adaptief leersysteem?\n\nA. Een systeem dat dezelfde inhoud op dezelfde manier aan alle studenten presenteert.B. Een systeem dat de leerroute aanpast op basis van de prestaties van de student.C. Een systeem dat alleen door docenten kan worden aangepast.D. Een systeem dat geen gebruik maakt van data-analyse.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nDit is het juiste antwoord.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\n\n\n\n\n\nWelke rol speelt data-analyse in AI-gedreven onderwijssystemen?\n\nA. Het helpt bij het identificeren van leerpatronen en -behoeften van studenten.B. Het vervangt de noodzaak voor menselijke docenten volledig.C. Het vermindert de noodzaak voor enige vorm van beoordeling.D. Het maakt handmatige invoer van studentgegevens overbodig.\n\n\n\nFeedback op de opties:\n\nDat is het juiste antwoord.\nNee, dat is gelukkig niet juist\nGeen specifieke feedback beschikbaar.\nNee, dat heeft niets met data-analyse te maken\n\n\n\n\n\nWelke ethische overwegingen spelen een rol bij het gebruik van AI in het onderwijs?\n\nA. Privacy van studentgegevens.B. Bias en discriminatie in AI-algoritmen.C. Transparantie van AI-beslissingen.D. Kostenreductie door automatisering.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nNee, dat is niet juist.\n\n\n\n\n\nWat is ChatGPT? Vink alle juiste antwoorden aan.\n\nA. Een chatbotB. Een Generative Pre-trained TransformerC. Een generieke AID. Een computerprogramma met bewustzijn\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\n\n\n\n\n\nHoe kan AI bijdragen aan inclusiviteit in het onderwijs?\n\nA. Door leermaterialen aan te passen voor studenten met verschillende leerbehoeften.B. Door alleen te focussen op de gemiddelde student.C. Door geen rekening te houden met individuele verschillenD. Door toegang te beperken tot technologie voor bepaalde groepen.\n\n\n\nFeedback op de opties:\n\nDat is het juiste antwoord.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nNee, dat is een risico maar geen bijdrage aan inclusiviteit.\n\n\n\n\n\nWelk van de onderstaande uitspraken over Machine Learning is juist?\n\nA. Meer data = betere resultatenB. Bij Machine Learning hoeft de mens niets te doen.C. Machine Learning is nog niet toepasbaar in het onderwijs\n\n\n\nFeedback op de opties:\n\nDat is inderdaad waar. Voorwaarde is dan wel dat het correcte data is. Garbage in = garbage out!\nDe mens moet het model ontwikkelen, het trainen begeleiden, het model daarna testen. Dus helemaal niets is niet juist. \nJawel hoor, het kan wel al, je zult waarschijnlijk alleen niet snel zelf een model trainen als individuele docent.\n\n\n\n\n\nWaar of niet waar? De AVG zorgt voor rechtvaardige AI\n\nA. WaarB. Niet waar\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\n\n\n\n\n\nWat is een potentiële uitdaging bij de implementatie van AI in het onderwijs?\n\nA. Gebrek aan voldoende data om AI-systemen te trainen.B. Overmatige personalisatie die leidt tot isolatie van studenten.C. Hoge kosten voor de ontwikkeling en implementatie van AI-systemen.D. Verhoogde werkdruk voor docenten door AI-systemen.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nHet doel van AI-systemen is natuurlijk niet dat de werkdruk toeneemt, maar het is niet uitgesloten.\n\n\n\n\n\nHoe kan AI docenten ondersteunen in hun werkzaamheden?\n\nA. Door administratieve taken te automatiseren.B. Door lesmateriaal automatisch te genereren.C. Door gepersonaliseerde feedback aan studenten te geven.D. Door fysieke lessen te vervangen zonder tussenkomst van een docent.\n\n\n\nFeedback op de opties:\n\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nGeen specifieke feedback beschikbaar.\nNee, dat is niet juist.\n\n\n\n\n\nWelke van de onderstaande begrippen heeft niets met AI te maken?\n\nA. Random ForestB. BeslisboomC. Deep LearningD. Onlogische regressie\n\n\n\nFeedback op de opties:\n\nEen random forest is een een verzameling van (random) beslissingsbomen. Er wordt een verzameling van decision trees (beslisboom) gegenereerd met random variaties in de trainingset en input variabelen. Deze decision trees krijgen dan elk een stem. Het begrip heeft zeker met machine learning te maken.\nEen beslisboom is een manier waarop machine learning ingericht kan worden.\nDeep learning is een discipline van machine learning, waarin gelaagde neurale netwerken leren van grote hoeveelheden data.\nLogische regressie bestaat wel, maar onlogische regressie is onzin.\n\n\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Test Jezelf!"
     ]
@@ -468,21 +468,21 @@
     "href": "inleiding/lubach.html#is-het-onderwijs-nog-te-redden",
     "title": "Lubach over AI",
     "section": "Is het onderwijs nog te redden?",
-    "text": "Is het onderwijs nog te redden?"
+    "text": "Is het onderwijs nog te redden?\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/lubach.html#karen-hao-over-ai",
     "href": "inleiding/lubach.html#karen-hao-over-ai",
     "title": "Lubach over AI",
     "section": "Karen Hao over AI",
-    "text": "Karen Hao over AI"
+    "text": "Karen Hao over AI\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/lubach.html#is-ai-een-bubbel",
     "href": "inleiding/lubach.html#is-ai-een-bubbel",
     "title": "Lubach over AI",
     "section": "Is AI een bubbel?",
-    "text": "Is AI een bubbel?"
+    "text": "Is AI een bubbel?\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/index.html",
@@ -544,28 +544,28 @@
     "href": "inleiding/creativiteit.html",
     "title": "Is AI slecht voor je creativiteit?",
     "section": "",
-    "text": "Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag."
+    "text": "Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/creativiteit.html#hoedan-npo3-verlies-ik-mijn-creativiteit-door-ai",
     "href": "inleiding/creativiteit.html#hoedan-npo3-verlies-ik-mijn-creativiteit-door-ai",
     "title": "Is AI slecht voor je creativiteit?",
     "section": "",
-    "text": "Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag."
+    "text": "Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/creativiteit.html#creativity-in-the-age-of-ai",
     "href": "inleiding/creativiteit.html#creativity-in-the-age-of-ai",
     "title": "Is AI slecht voor je creativiteit?",
     "section": "Creativity in the Age of AI",
-    "text": "Creativity in the Age of AI\nBetekent AI het einde van creativiteit? Zorgt het gemak waarmee iedereen (ogenschijnlijk) een afbeelding, video, tekst kan (na-)maken er voor dat we straks verzuipen in een slap aftreksel van echte menselijke creativiteit? Het innovatielab van IKEA (SPACE10) maakte in samenwerking met Joss Fong en Aron Filkey, 3 jaar geleden alweer, een korte animatiefilm waarin ze stil staan bij die vraag."
+    "text": "Creativity in the Age of AI\nBetekent AI het einde van creativiteit? Zorgt het gemak waarmee iedereen (ogenschijnlijk) een afbeelding, video, tekst kan (na-)maken er voor dat we straks verzuipen in een slap aftreksel van echte menselijke creativiteit? Het innovatielab van IKEA (SPACE10) maakte in samenwerking met Joss Fong en Aron Filkey, 3 jaar geleden alweer, een korte animatiefilm waarin ze stil staan bij die vraag.\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/ai-onderwijs.html",
     "href": "inleiding/ai-onderwijs.html",
     "title": "AI in het onderwijs (2025)",
     "section": "",
-    "text": "De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.\n\n\n\n\n Terug naar boven",
+    "text": "De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.\n▶Klik om video te starten\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "AI in het onderwijs"
@@ -609,7 +609,7 @@
     "href": "de-mens-en-ai/coded-bias.html#trailer",
     "title": "Coded Bias",
     "section": "Trailer",
-    "text": "Trailer\n\n\nAlgorithmic Justice League\nJoy richtte de Algorithmic Justice League op. Bekijk hier haar TEDTalk over “The Coded Gaze”:\n\n\n\nCathy O’Neil: Weapons of Math Destruction\nCathy O’Neil schreef de bestseller Weapons of Math Destruction.\n\n\n\nBoekomslag\n\n\nJe kunt het audioboek hier beluisteren: \nEn haar TEDTalk over het gevaar van blinde algoritmen:\n\n\n\n\n\n\n\nOpmerkingBig Brother Watch\n\n\n\n\n\nEen van de organisaties uit de film is Big Brother Watch, die strijdt tegen het ongecontroleerd gebruik van gezichtsherkenning.",
+    "text": "Trailer\n▶Klik om video te starten\n\nAlgorithmic Justice League\nJoy richtte de Algorithmic Justice League op. Bekijk hier haar TEDTalk over “The Coded Gaze”:\n\n\n\nCathy O’Neil: Weapons of Math Destruction\nCathy O’Neil schreef de bestseller Weapons of Math Destruction.\n\n\n\nBoekomslag\n\n\nJe kunt het audioboek hier beluisteren: \nEn haar TEDTalk over het gevaar van blinde algoritmen:\n▶Klik om video te starten\n\n\n\n\n\n\nOpmerkingBig Brother Watch\n\n\n\n\n\nEen van de organisaties uit de film is Big Brother Watch, die strijdt tegen het ongecontroleerd gebruik van gezichtsherkenning.",
     "crumbs": [
       "Over deze module",
       "Coded Bias"
@@ -642,14 +642,14 @@
     "href": "colofon.html",
     "title": "Over deze module",
     "section": "",
-    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\n\n\nDeze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI.\nEr wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehorende privacybeleid deze pagina.\n\n\n\nJe kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen.\n\n\n\nEr is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van Google Antigravity. Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud zijn afkomstig van een mens.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
+    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\n\n\nDeze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI.\nEr wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacybeleid deze pagina. De video’s worden pas geladen als jij er op klikt. Dus als je niet op de video klikt, wordt er geen informatie gedeeld met YouTube.\n\n\n\nJe kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen.\n\n\n\nEr is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van Google Antigravity. Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud zijn afkomstig van een mens.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
   },
   {
     "objectID": "colofon.html#privacy",
     "href": "colofon.html#privacy",
     "title": "Over deze module",
     "section": "",
-    "text": "Deze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI.\nEr wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehorende privacybeleid deze pagina."
+    "text": "Deze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI.\nEr wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacybeleid deze pagina. De video’s worden pas geladen als jij er op klikt. Dus als je niet op de video klikt, wordt er geen informatie gedeeld met YouTube."
   },
   {
     "objectID": "colofon.html#zelf-hosten-in-je-leeromgeving",
@@ -794,7 +794,7 @@
     "href": "ai-in-het-onderwijs/feedbackfruits.html",
     "title": "FeedbackFruits",
     "section": "",
-    "text": "FeedbackFruits levert een tool voor studenten waarbij ze automatische feedback krijgen op werkstukken, rapporten en andere schrijfproducten. De AI analyseert de tekst op basis van vooraf ingestelde criteria.\n\nFeedbackfruits komt al jaren voor in mijn overzicht van mooie tools, ze richten zich inmiddels in Nederland ook op het mbo, maar ik heb nog steeds geen demo’s gezien waarbij de tool en taalondersteuning ook voor het Nederlands beschikbaar waren.\n\n\n\n Terug naar boven",
+    "text": "FeedbackFruits levert een tool voor studenten waarbij ze automatische feedback krijgen op werkstukken, rapporten en andere schrijfproducten. De AI analyseert de tekst op basis van vooraf ingestelde criteria.\n▶Klik om video te starten\nFeedbackfruits komt al jaren voor in mijn overzicht van mooie tools, ze richten zich inmiddels in Nederland ook op het mbo, maar ik heb nog steeds geen demo’s gezien waarbij de tool en taalondersteuning ook voor het Nederlands beschikbaar waren.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Feedbackfruits"
@@ -827,7 +827,7 @@
     "href": "ai-in-het-onderwijs/ai-teach.html#pioneering-videos",
     "title": "AI-Teach",
     "section": "Pioneering videos",
-    "text": "Pioneering videos\nOok zijn er een aantal ‘pioneering videos’ gemaakt waarin docenten uit verschillende landen vertellen over hun ervaringen met AI in het onderwijs. Je kunt ze hier bekijken.\n In deze video hoor je Jochem Hiddink van de HAN over zijn ervaringen met AI in het onderwijs. Hieronder een voorbeeld uit België:\n (n.b. YouTube leek deze video als gesproken in het Turks te herkennen en liet de Engelstalige audiotrack horen, dit is toch echt gewoon Vlaams…)\nRechtstreeks toegang tot alle video’s vind je hier.",
+    "text": "Pioneering videos\nOok zijn er een aantal ‘pioneering videos’ gemaakt waarin docenten uit verschillende landen vertellen over hun ervaringen met AI in het onderwijs. Je kunt ze hier bekijken.\n▶Klik om video te starten In deze video hoor je Jochem Hiddink van de HAN over zijn ervaringen met AI in het onderwijs. Hieronder een voorbeeld uit België:\n▶Klik om video te starten (n.b. YouTube leek deze video als gesproken in het Turks te herkennen en liet de Engelstalige audiotrack horen, dit is toch echt gewoon Vlaams…)\nRechtstreeks toegang tot alle video’s vind je hier.",
     "crumbs": [
       "Over deze module",
       "AI-Teach"
@@ -845,7 +845,7 @@
     "href": "ai-in-de-film/jaws-effect.html#beeldvorming",
     "title": "Het Jaws Effect voor AI",
     "section": "Beeldvorming",
-    "text": "Beeldvorming\nNet als bij die haaien hebben veel mensen een negatief beeld van AI of van robots door wat ze erover in films gezien hebben. Logisch, want zoals de meeste mensen nog nooit een haai in het echt of in het water gezien hebben, en geloof me: het zijn prachtige beesten om te zien, zo hebben ze vaak ook nog geen robots of bewust AI meegemaakt in het echt. Kijk maar eens naar onderstaande video die ik maakte tijdens een duik met een blauwe haai op de Azoren.\n\nEn inmiddels kan ik ook video’s laten zien van rifhaaien op de Malediven.\n\nEn hamerhaaien bij Moquera bij de Galagapos Eilanden.\n\nEn okay, áls je dan toch ergens bang van moet zijn. Dan in ieder geval niet van de haaien!"
+    "text": "Beeldvorming\nNet als bij die haaien hebben veel mensen een negatief beeld van AI of van robots door wat ze erover in films gezien hebben. Logisch, want zoals de meeste mensen nog nooit een haai in het echt of in het water gezien hebben, en geloof me: het zijn prachtige beesten om te zien, zo hebben ze vaak ook nog geen robots of bewust AI meegemaakt in het echt. Kijk maar eens naar onderstaande video die ik maakte tijdens een duik met een blauwe haai op de Azoren.\n▶Klik om video te starten\nEn inmiddels kan ik ook video’s laten zien van rifhaaien op de Malediven.\n▶Klik om video te starten\nEn hamerhaaien bij Moquera bij de Galagapos Eilanden.\n▶Klik om video te starten\nEn okay, áls je dan toch ergens bang van moet zijn. Dan in ieder geval niet van de haaien!"
   },
   {
     "objectID": "ai-in-de-film/films/westworld-1973.html",
@@ -1309,7 +1309,7 @@
     "href": "ai-in-het-onderwijs/china-voorbeeld.html",
     "title": "AI voorbeeld uit China",
     "section": "",
-    "text": "Het experiment is inmiddels al lang en breed beëindigd, maar de video dient nog steeds als goed voorbeeld als je gaat nadenken over de vraag “wat willen we eigenlijk wel of niet?”.\n\nRecentelijk (2026) is een logischere link bij “AI voorbeeld uit China” een verwijzing naar DeepSeek. Die concurrent van ChatGPT deed heel wat stof opwaaien omdat mensen tot dat moment er vanuit gingen dat de echt goede taalmodellen allemaal in de VS ontwikkeld werden. Waar China al lang te maken heeft met importrestricties van chips uit de VS, lijkt het erop dat ook hier de ontwikkelingen niet stil staan. Deepseek spreekt inmiddels ook Nederlands.\n\n\n\nDeepseek over de oorlog in Iran\n\n\nBelangrijk kritiekpunt bij Deepseek is dat het systeem soms keihard censureert. Dat is in het bovenstaande voorbeeld niet zo, en toen ik vroeg “Wat waren de belangrijkste besluiten tijdens het volkscongres in China onlangs?” kreeg ik een net antwoord. En ook op mijn vervolgvraag “Er zijn mensen die zeggen dat de wetgeving rond het bevorderen van harmonie tussen bevolkingsgroepen zal leiden tot onderdrukking van minderheden in China. Is dat een risico fo zelfs doel van de wetgeving?” kreeg ik in eerste instantie wél een antwoord. En een heel goed antwoord in zoverre dat daarbij zowel het officiële standpunt van de Chinese overheid aan bod kwam als de kritiek daarop. Maar nog voordat ik een screenshot kon nemen van dat antwoord, greep het systeem in en kwam met de volgende melding:\n\n\n\nDeepseek censuur\n\n\nIk realiseerde me dat ik met mijn gewone gmail-account ingelogd was, dus het was ook wat ingewikkelder om te gaan proberen het te reproduceren voor een schermfilmpje. Maar het illustreert wel een verschil in aanpak. Vraag je dit aan ChatGPT, dan krijg je overigens ook gewoon beide kanten van het verhaal te horen.\n\n\n\n Terug naar boven",
+    "text": "Het experiment is inmiddels al lang en breed beëindigd, maar de video dient nog steeds als goed voorbeeld als je gaat nadenken over de vraag “wat willen we eigenlijk wel of niet?”.\n▶Klik om video te starten\nRecentelijk (2026) is een logischere link bij “AI voorbeeld uit China” een verwijzing naar DeepSeek. Die concurrent van ChatGPT deed heel wat stof opwaaien omdat mensen tot dat moment er vanuit gingen dat de echt goede taalmodellen allemaal in de VS ontwikkeld werden. Waar China al lang te maken heeft met importrestricties van chips uit de VS, lijkt het erop dat ook hier de ontwikkelingen niet stil staan. Deepseek spreekt inmiddels ook Nederlands.\n\n\n\nDeepseek over de oorlog in Iran\n\n\nBelangrijk kritiekpunt bij Deepseek is dat het systeem soms keihard censureert. Dat is in het bovenstaande voorbeeld niet zo, en toen ik vroeg “Wat waren de belangrijkste besluiten tijdens het volkscongres in China onlangs?” kreeg ik een net antwoord. En ook op mijn vervolgvraag “Er zijn mensen die zeggen dat de wetgeving rond het bevorderen van harmonie tussen bevolkingsgroepen zal leiden tot onderdrukking van minderheden in China. Is dat een risico fo zelfs doel van de wetgeving?” kreeg ik in eerste instantie wél een antwoord. En een heel goed antwoord in zoverre dat daarbij zowel het officiële standpunt van de Chinese overheid aan bod kwam als de kritiek daarop. Maar nog voordat ik een screenshot kon nemen van dat antwoord, greep het systeem in en kwam met de volgende melding:\n\n\n\nDeepseek censuur\n\n\nIk realiseerde me dat ik met mijn gewone gmail-account ingelogd was, dus het was ook wat ingewikkelder om te gaan proberen het te reproduceren voor een schermfilmpje. Maar het illustreert wel een verschil in aanpak. Vraag je dit aan ChatGPT, dan krijg je overigens ook gewoon beide kanten van het verhaal te horen.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "China - een voorbeeld?"
@@ -1320,7 +1320,7 @@
     "href": "ai-in-het-onderwijs/gradescope.html",
     "title": "Gradescope",
     "section": "",
-    "text": "Gradescope is een systeem dat de docent helpt bij het beoordelen van werkstukken en proefwerken van leerlingen. Duidelijk is dat de docent hier steeds “in control” blijft; de AI groepeert antwoorden, maar de mens bepaalt de punten.\n\nGradescope is voor zover bekend niet voor de Nederlandse markt beschikbaar, maar het blijft een mooi voorbeeld van ondersteuning door AI zonder risico van “the computer says no” of het uit handen nemen van de controle van de docent.\n\n\n\n Terug naar boven",
+    "text": "Gradescope is een systeem dat de docent helpt bij het beoordelen van werkstukken en proefwerken van leerlingen. Duidelijk is dat de docent hier steeds “in control” blijft; de AI groepeert antwoorden, maar de mens bepaalt de punten.\n▶Klik om video te starten\nGradescope is voor zover bekend niet voor de Nederlandse markt beschikbaar, maar het blijft een mooi voorbeeld van ondersteuning door AI zonder risico van “the computer says no” of het uit handen nemen van de controle van de docent.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Gradescope"
@@ -1331,7 +1331,7 @@
     "href": "ai-in-het-onderwijs/kennisnet.html",
     "title": "Kennisnet",
     "section": "",
-    "text": "Kennisnet richt zich specifiek op het funderend onderwijs. Maar zoals Npuls niet alleen interessant is als je in het mbo of hoger onderwijs werkt, is ook Kennisnet een bezoek voor docenten uit andere onderwijssectoren de moeite waard.\nKennisnet heeft een aantal interessante pagina’s over AI en onderwijs. Hieronder een selectie:\n\nAI in het onderwijs\nAandachtspunten bij de ontwikkeling van je curriculum en de invloed van AI\nWerken aan AI-geletterdheid op school\nAI Impact Game\nEthiekkompas - niet specifiek over AI, maar net zo relevant voor AI-toepassingen\nAI-companions\n\n\n\n\n\n Terug naar boven",
+    "text": "Kennisnet richt zich specifiek op het funderend onderwijs. Maar zoals Npuls niet alleen interessant is als je in het mbo of hoger onderwijs werkt, is ook Kennisnet een bezoek voor docenten uit andere onderwijssectoren de moeite waard.\nKennisnet heeft een aantal interessante pagina’s over AI en onderwijs. Hieronder een selectie:\n\nAI in het onderwijs\nAandachtspunten bij de ontwikkeling van je curriculum en de invloed van AI\nWerken aan AI-geletterdheid op school\nAI Impact Game\nEthiekkompas - niet specifiek over AI, maar net zo relevant voor AI-toepassingen\nAI-companions\n\n▶Klik om video te starten\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Kennisnet"
@@ -1375,7 +1375,7 @@
     "href": "ai-in-het-onderwijs/npuls.html",
     "title": "Npuls Community AI en Data",
     "section": "",
-    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n\n\n\n\n\n Terug naar boven"
+    "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n▶Klik om video te starten\n\n\n\n\n Terug naar boven"
   },
   {
     "objectID": "ai-in-het-onderwijs/snappet-copilot.html",
@@ -1459,7 +1459,7 @@
     "href": "de-mens-en-ai/mens-en-technologie.html",
     "title": "De mens centraal?",
     "section": "",
-    "text": "De invloed van technologie op de mens en de relatie tussen mens en technologie is niet nieuw en niet beperkt tot alleen AI.\nEen onderzoeker die daar veel over gezegd en geschreven heeft is Peter Paul Verbeek, hoogleraar Filosofie en Ethiek van Wetenschap en Technologie in een Veranderende Wereld aan de UvA.\nWaar soms technologie vooral als een bedreiging voor de autonomie van de mens gepositioneerd wordt, stelt hij dat beeld ter discussie.\n\nDat betekent niet dat we niet kritisch moeten zijn over het gebruik van technologie of AI. Technologie is niet neutraal. De relatie is niet alleen van ethiek naar technologie, waarbij ethiek bepaalt wat we technisch zouden moeten willen. Technologie bepaalt ook onze ethiek.\n\n\n\n Terug naar boven",
+    "text": "De invloed van technologie op de mens en de relatie tussen mens en technologie is niet nieuw en niet beperkt tot alleen AI.\nEen onderzoeker die daar veel over gezegd en geschreven heeft is Peter Paul Verbeek, hoogleraar Filosofie en Ethiek van Wetenschap en Technologie in een Veranderende Wereld aan de UvA.\nWaar soms technologie vooral als een bedreiging voor de autonomie van de mens gepositioneerd wordt, stelt hij dat beeld ter discussie.\n▶Klik om video te starten\nDat betekent niet dat we niet kritisch moeten zijn over het gebruik van technologie of AI. Technologie is niet neutraal. De relatie is niet alleen van ethiek naar technologie, waarbij ethiek bepaalt wat we technisch zouden moeten willen. Technologie bepaalt ook onze ethiek.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "De mens centraal?"
@@ -1499,7 +1499,7 @@
     "href": "inleiding/data-ondersteund-onderwijs.html#inleiding-op-het-onderwerp-data-ondersteund-onderwijs.",
     "title": "Data-ondersteund onderwijs",
     "section": "Inleiding op het onderwerp data-ondersteund onderwijs.",
-    "text": "Inleiding op het onderwerp data-ondersteund onderwijs.\nDe video hieronder geeft een inleiding op het onderwerp data-ondersteund onderwijs. De video is uit 2022 (pre-ChatGPT dus). Doelgroep van de video waren leidinggevenden in het onderwijs en de video geeft een overzicht van de relatie tussen data-ondersteund onderwijs, studiedata, learning analytics en kunstmatige intelligentie (AI)."
+    "text": "Inleiding op het onderwerp data-ondersteund onderwijs.\nDe video hieronder geeft een inleiding op het onderwerp data-ondersteund onderwijs. De video is uit 2022 (pre-ChatGPT dus). Doelgroep van de video waren leidinggevenden in het onderwijs en de video geeft een overzicht van de relatie tussen data-ondersteund onderwijs, studiedata, learning analytics en kunstmatige intelligentie (AI).\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/data-ondersteund-onderwijs.html#verdieping",
@@ -1513,7 +1513,7 @@
     "href": "inleiding/klokhuis.html",
     "title": "Het Klokhuis over AI",
     "section": "",
-    "text": "Klokhuis is zeker niet alleen voor kinderen. Kijk maar eens naar de afleveringen over AI die ze in 2024 maakten. De inleidende aflevering:\n\n\nDeel 2: AI boodschappenservice\nDeel 3: AI en taal\nDeel 4: AI en beeld\nDeel 5: AI volgt jou\n\nEn nog veel meer is te vinden op hun Klokhuis over AI pagina.\n\n\n\n Terug naar boven"
+    "text": "Klokhuis is zeker niet alleen voor kinderen. Kijk maar eens naar de afleveringen over AI die ze in 2024 maakten. De inleidende aflevering:\n▶Klik om video te starten\n\nDeel 2: AI boodschappenservice\nDeel 3: AI en taal\nDeel 4: AI en beeld\nDeel 5: AI volgt jou\n\nEn nog veel meer is te vinden op hun Klokhuis over AI pagina.\n\n\n\n Terug naar boven"
   },
   {
     "objectID": "inleiding/nos-op-3.html",
@@ -1527,28 +1527,28 @@
     "href": "inleiding/nos-op-3.html#de-race-om-ai",
     "title": "NOS op 3 over AI",
     "section": "De race om AI",
-    "text": "De race om AI\nMoeten we bang zijn voor AI? En wat betekent de race om AI voor ons allemaal?"
+    "text": "De race om AI\nMoeten we bang zijn voor AI? En wat betekent de race om AI voor ons allemaal?\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/nos-op-3.html#nos-stories-ai-in-de-klas",
     "href": "inleiding/nos-op-3.html#nos-stories-ai-in-de-klas",
     "title": "NOS op 3 over AI",
     "section": "NOS Stories: AI in de klas",
-    "text": "NOS Stories: AI in de klas\nNOS Stories zocht uit hoe leerlingen en studenten AI gebruiken voor hun huiswerk en wat docenten daarvan vinden."
+    "text": "NOS Stories: AI in de klas\nNOS Stories zocht uit hoe leerlingen en studenten AI gebruiken voor hun huiswerk en wat docenten daarvan vinden.\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/nos-op-3.html#nos-op-3-hoe-jij-gratis-ai-traint",
     "href": "inleiding/nos-op-3.html#nos-op-3-hoe-jij-gratis-ai-traint",
     "title": "NOS op 3 over AI",
     "section": "NOS op 3: Hoe jij (gratis) AI traint",
-    "text": "NOS op 3: Hoe jij (gratis) AI traint\nTrainen van AI kost veel werk. En dat werk wordt gedaan door mensen. In deze video wordt uitgelegd hoe dat zit."
+    "text": "NOS op 3: Hoe jij (gratis) AI traint\nTrainen van AI kost veel werk. En dat werk wordt gedaan door mensen. In deze video wordt uitgelegd hoe dat zit.\n▶Klik om video te starten"
   },
   {
     "objectID": "inleiding/nos-op-3.html#nos-op-3-ben-jij-straks-werkloos-door-ai",
     "href": "inleiding/nos-op-3.html#nos-op-3-ben-jij-straks-werkloos-door-ai",
     "title": "NOS op 3 over AI",
     "section": "NOS op 3: Ben jij straks werkloos door AI?",
-    "text": "NOS op 3: Ben jij straks werkloos door AI?\nIn deze video van begin 2023 gaat NOS in op generatieve AI op een moment dat we nog weinig wisten over wat er zou gaan kunnen."
+    "text": "NOS op 3: Ben jij straks werkloos door AI?\nIn deze video van begin 2023 gaat NOS in op generatieve AI op een moment dat we nog weinig wisten over wat er zou gaan kunnen.\n▶Klik om video te starten"
   },
   {
     "objectID": "literatuur/index.html",
@@ -1675,7 +1675,7 @@
     "href": "vibecoding/index.html#voorbeeld-van-vibecoding",
     "title": "Vibecoding",
     "section": "Voorbeeld van vibecoding",
-    "text": "Voorbeeld van vibecoding\nIn de video hieronder zie je hoe een docent in gesprek met een (volwassen) student al vibecodend tot een werkende web-app komt in Gemini. Daarbij gebruiken ze Gemini 2.5 Pro (preview), inmiddels zijn er alweer nieuwere versies van die modellen waar het ook mee werkt.\n\n\n\n\n\n\n\nTipVibecoding en computational thinking\n\n\n\nVibecoden vraagt de nodige computational thinking vaardigheden. Je moet immers wel weten wat je wilt bouwen (dat zie je ook hierboven in de video) en hoe je het wilt bouwen. Het is daarmee zowel voor docenten als studenten een uitstekende manier om computational thinking te oefenen."
+    "text": "Voorbeeld van vibecoding\nIn de video hieronder zie je hoe een docent in gesprek met een (volwassen) student al vibecodend tot een werkende web-app komt in Gemini. Daarbij gebruiken ze Gemini 2.5 Pro (preview), inmiddels zijn er alweer nieuwere versies van die modellen waar het ook mee werkt.\n▶Klik om video te starten\n\n\n\n\n\n\nTipVibecoding en computational thinking\n\n\n\nVibecoden vraagt de nodige computational thinking vaardigheden. Je moet immers wel weten wat je wilt bouwen (dat zie je ook hierboven in de video) en hoe je het wilt bouwen. Het is daarmee zowel voor docenten als studenten een uitstekende manier om computational thinking te oefenen."
   },
   {
     "objectID": "vibecoding/index.html#wegwerpapplicaties-zijn-niet-duurzaam",
@@ -1744,7 +1744,7 @@
     "href": "voorbeelden/chatgpt.html#grenzen-aan-chatgpt",
     "title": "ChatGPT",
     "section": "Grenzen aan ChatGPT",
-    "text": "Grenzen aan ChatGPT\n\nFatherPhi is een YouTube-kanaal dat ChatGPT en andere chatbots “test” aan de hand van vaak grappige voorbeelden en scenario’s.",
+    "text": "Grenzen aan ChatGPT\n▶Klik om video te starten\nFatherPhi is een YouTube-kanaal dat ChatGPT en andere chatbots “test” aan de hand van vaak grappige voorbeelden en scenario’s.",
     "crumbs": [
       "Over deze module",
       "ChatGPT"
@@ -1766,7 +1766,7 @@
     "href": "voorbeelden/claude-code.html#voor-wie",
     "title": "Claude Code",
     "section": "Voor wie?",
-    "text": "Voor wie?\nClaude Code is primair bedoeld voor ontwikkelaars en meer technisch onderlegde gebruikers. Op Youtube kun je een constante stroom aan video’s vinden van mensen die uitleggen waar zij Claude Code voor inzetten. De leercurve is wat steiler dan andere toepassingen, maar het is op dit moment dé applicatie voor wie hip wil zijn. Voor een iets laagdrempeligere variant van vibecoding, zie ook Google AI Studio of Antigravity.\nEn anders, hier is een 10 uur durende tutorial die je op weg helpt om expert te worden:\n\n\n\n\n\n\n\nOpmerkingMoeten docenten dit leren?\n\n\n\nDat is een interessante vraag. Enerzijds is het goed om te weten wat er mogelijk is, anderzijds is het niet direct relevant voor iedereen. Het hangt sowieso af van je rol en interesses. Er zijn voorbeelden van bedrijven waar tools als Claude Code officieel beschikbaar zijn gesteld voor medewerkers. Die medewerkers zullen in staat zijn om veel van de taken die zij anders handmatig uitvoeren te automatiseren. In een onderwijsomgeving zou je kunnen denken aan het automatiseren van het maken van toetsen, het nakijken van werk, het genereren van lesmateriaal, etc. Maar dat kan alleen als de onderwijsorganisatie ook de benodigde gebruiksafspraken maakt met Anthropic.",
+    "text": "Voor wie?\nClaude Code is primair bedoeld voor ontwikkelaars en meer technisch onderlegde gebruikers. Op Youtube kun je een constante stroom aan video’s vinden van mensen die uitleggen waar zij Claude Code voor inzetten. De leercurve is wat steiler dan andere toepassingen, maar het is op dit moment dé applicatie voor wie hip wil zijn. Voor een iets laagdrempeligere variant van vibecoding, zie ook Google AI Studio of Antigravity.\nEn anders, hier is een 10 uur durende tutorial die je op weg helpt om expert te worden:\n▶Klik om video te starten\n\n\n\n\n\n\nOpmerkingMoeten docenten dit leren?\n\n\n\nDat is een interessante vraag. Enerzijds is het goed om te weten wat er mogelijk is, anderzijds is het niet direct relevant voor iedereen. Het hangt sowieso af van je rol en interesses. Er zijn voorbeelden van bedrijven waar tools als Claude Code officieel beschikbaar zijn gesteld voor medewerkers. Die medewerkers zullen in staat zijn om veel van de taken die zij anders handmatig uitvoeren te automatiseren. In een onderwijsomgeving zou je kunnen denken aan het automatiseren van het maken van toetsen, het nakijken van werk, het genereren van lesmateriaal, etc. Maar dat kan alleen als de onderwijsorganisatie ook de benodigde gebruiksafspraken maakt met Anthropic.",
     "crumbs": [
       "Over deze module",
       "Claude Code"
@@ -1887,7 +1887,7 @@
     "href": "voorbeelden/heygen.html#de-podcast-optie",
     "title": "HeyGen",
     "section": "De podcast optie",
-    "text": "De podcast optie\nNóg eentje dan, bepaal zelf maar hoe vreselijk of je het resultaat vindt:\n\nDe enige input die Heygen hier gekregen heeft was de URL van de MOVEL pagina bij de HAN. Geen prompt, geen instructies. Wel heb ik 2 van de standaard avatars gekozen, maar dat was het dan ook. De rest is volledig automatisch gegaan.\n\n\n\n\n\n\nOpmerkingStartpunt voor ethische discussie?\n\n\n\nFuncitonaliteiten als face swap, product placement en stemkloning roepen direct ethische vragen op. Dat gesprek zou je ook in de klas kunnen voeren.",
+    "text": "De podcast optie\nNóg eentje dan, bepaal zelf maar hoe vreselijk of je het resultaat vindt:\n▶Klik om video te starten\nDe enige input die Heygen hier gekregen heeft was de URL van de MOVEL pagina bij de HAN. Geen prompt, geen instructies. Wel heb ik 2 van de standaard avatars gekozen, maar dat was het dan ook. De rest is volledig automatisch gegaan.\n\n\n\n\n\n\nOpmerkingStartpunt voor ethische discussie?\n\n\n\nFuncitonaliteiten als face swap, product placement en stemkloning roepen direct ethische vragen op. Dat gesprek zou je ook in de klas kunnen voeren.",
     "crumbs": [
       "Over deze module",
       "HeyGen"
@@ -1898,7 +1898,7 @@
     "href": "voorbeelden/invideo-ai.html",
     "title": "Invideo AI",
     "section": "",
-    "text": "invideo-ai screenshot\n\n\nInvideo AI is een online dienst waarmee je met een tekstprompt een complete video met voice-over kunt genereren. Je geeft aan wat het onderwerp is, voor welk publiek de video bedoeld is en hoe lang hij moet zijn, de rest doet de AI. Je bent nie tbeperkt tot één of een paar modellen, je hebt een groot aantal verschillende modellen voor video, afbeeldingen, audio en muziek ter beschikking, onder andere Veo 3.1, Kling, Nano Banana 2 en stemmodellen van ElevenLabs. Je kunt ook gebruik maken van stockbeelden die niet door AI zijn gegenereerd of je eigen media uploaden.\n\nDe video hieronder laat zien wat de mogelijkheden waren begin 2026.\n\nEr is een gratis optie beschikbaar met beperkt aantal exports per maand. Voor hogere kwaliteit en meer functionaliteit zijn betaalde abonnementen beschikbaar.\n\nMet de stockafbeeldingen optie krijg je weliswaar een resultaat, maar niet echt een video die ik in een les zou willen gebruiken.\n\n\n\n Terug naar boven",
+    "text": "invideo-ai screenshot\n\n\nInvideo AI is een online dienst waarmee je met een tekstprompt een complete video met voice-over kunt genereren. Je geeft aan wat het onderwerp is, voor welk publiek de video bedoeld is en hoe lang hij moet zijn, de rest doet de AI. Je bent nie tbeperkt tot één of een paar modellen, je hebt een groot aantal verschillende modellen voor video, afbeeldingen, audio en muziek ter beschikking, onder andere Veo 3.1, Kling, Nano Banana 2 en stemmodellen van ElevenLabs. Je kunt ook gebruik maken van stockbeelden die niet door AI zijn gegenereerd of je eigen media uploaden.\n\nDe video hieronder laat zien wat de mogelijkheden waren begin 2026.\n▶Klik om video te starten\nEr is een gratis optie beschikbaar met beperkt aantal exports per maand. Voor hogere kwaliteit en meer functionaliteit zijn betaalde abonnementen beschikbaar.\n\nMet de stockafbeeldingen optie krijg je weliswaar een resultaat, maar niet echt een video die ik in een les zou willen gebruiken.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
       "Invideo AI"
@@ -1964,7 +1964,7 @@
     "href": "voorbeelden/synthesia.html#pionieren",
     "title": "Synthesia",
     "section": "Pionieren",
-    "text": "Pionieren\nDe twee onderstaande video’s zijn van december 2022. In de tijd dus dat ChatGPT net beschikbaar was en niet meer kon dan alleen tekst. Toen kon je dit dus al met Synthesia (en een beetje creativiteit) voor elkaar krijgen. \nDeze video is overigens niet met Synthesia gemaakt, maar met Adobe Character Animator.",
+    "text": "Pionieren\nDe twee onderstaande video’s zijn van december 2022. In de tijd dus dat ChatGPT net beschikbaar was en niet meer kon dan alleen tekst. Toen kon je dit dus al met Synthesia (en een beetje creativiteit) voor elkaar krijgen. ▶Klik om video te starten\nDeze video is overigens niet met Synthesia gemaakt, maar met Adobe Character Animator. ▶Klik om video te starten",
     "crumbs": [
       "Over deze module",
       "Synthesia"
@@ -1986,7 +1986,7 @@
     "href": "voorbeelden/this-does-not-exist.html#hoe-werkt-het-gan-uitgelegd",
     "title": "This […] Does Not Exist",
     "section": "Hoe werkt het? — GAN uitgelegd",
-    "text": "Hoe werkt het? — GAN uitgelegd\nDeze sites maken gebruik van een GAN (Generative Adversarial Network, in het Nederlands: generatief antagonistennetwerk). Een GAN bestaat uit twee neurale netwerken die elkaar beconcurreren:\n\nDe generator maakt nep-afbeeldingen\nDe discriminator probeert echte van neppe afbeeldingen te onderscheiden\n\nDoor dit spel van bedriegen en ontmaskeren worden beide netwerken steeds beter — tot de generator afbeeldingen maakt die niet meer van echt te onderscheiden zijn.\nUitleg over hoe het werkt:",
+    "text": "Hoe werkt het? — GAN uitgelegd\nDeze sites maken gebruik van een GAN (Generative Adversarial Network, in het Nederlands: generatief antagonistennetwerk). Een GAN bestaat uit twee neurale netwerken die elkaar beconcurreren:\n\nDe generator maakt nep-afbeeldingen\nDe discriminator probeert echte van neppe afbeeldingen te onderscheiden\n\nDoor dit spel van bedriegen en ontmaskeren worden beide netwerken steeds beter — tot de generator afbeeldingen maakt die niet meer van echt te onderscheiden zijn.\nUitleg over hoe het werkt: ▶Klik om video te starten ▶Klik om video te starten ▶Klik om video te starten",
     "crumbs": [
       "Over deze module",
       "This [...] Does Not Exist"
@@ -2019,7 +2019,7 @@
     "href": "voorbeelden/wav2lip.html#demonstratie",
     "title": "Wav2Lip – Lipsync met AI",
     "section": "Demonstratie",
-    "text": "Demonstratie\nHieronder een demonstratie van het principe:\n\nEen voorbeeld van het resultaat: een Hamlet-monoloog gezongen door een historische afbeelding, gemaakt via Google Colab:\n\nDe volledige video:",
+    "text": "Demonstratie\nHieronder een demonstratie van het principe:\n▶Klik om video te starten\nEen voorbeeld van het resultaat: een Hamlet-monoloog gezongen door een historische afbeelding, gemaakt via Google Colab:\n▶Klik om video te starten\nDe volledige video:\n▶Klik om video te starten",
     "crumbs": [
       "Over deze module",
       "Wav2Lip – Lipsync met AI"
