@@ -46,5 +46,6 @@ jobs:
       # 2. Roep je eigen server aan (de Webhook)
       - name: Trigger eigen server
         run: |
-          curl -X POST https://cdn.lrn4life.org/webhook.php \
-          -H "Authorization: Bearer ${{ secrets.WEBHOOK_TOKEN }}"
+          curl -X POST https://cdn.lrn4life.org \
+          -H "Authorization: Bearer ${{ secrets.WEBHOOK_TOKEN }}" \
+          -A "GitHub-Actions-MyQuartoSite"
