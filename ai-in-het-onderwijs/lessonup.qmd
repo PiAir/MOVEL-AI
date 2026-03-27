@@ -14,9 +14,9 @@ Met LessonUp AI kun je:
 Bekijk hieronder hoe LessonUp AI docenten ondersteunt:
 
 ::: {layout-nw="[1,1]"}
-{{< video https://www.youtube.com/embed/bMU09n-TMBo >}}
+{{< private-video bMU09n-TMBo >}}
 
-{{< video https://www.youtube.com/embed/AgFjEV1FvE8 >}}
+{{< private-video AgFjEV1FvE8 >}}
 :::
 
 ## Disclaimer

@@ -7,7 +7,7 @@ sidebar: id-de-mens-en-ai
 
 ## Trailer
 
-{{< video https://www.youtube.com/watch?v=jZl55PsfZJQ >}}
+{{< private-video jZl55PsfZJQ >}}
 
 ### Algorithmic Justice League
 Joy richtte de [Algorithmic Justice League](https://www.ajl.org/) op. Bekijk hier haar TEDTalk over "The Coded Gaze":
@@ -24,7 +24,7 @@ Je kunt het audioboek hier beluisteren:
 
 En haar TEDTalk over het gevaar van blinde algoritmen:
 
-{{< video https://www.youtube.com/watch?v=_2u_eHHzRto >}}
+{{< private-video _2u_eHHzRto >}}
 
 :::{.callout-note collapse="true"}
 ## Big Brother Watch

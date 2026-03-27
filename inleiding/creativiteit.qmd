@@ -9,7 +9,7 @@ sidebar: id-inleiding
 
 Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.
 
-{{< video https://youtu.be/KA_tOaZLHL8?si=8TaJutLxDk_WGt_q >}}
+{{< private-video KA_tOaZLHL8 >}}
 
 
 ## Creativity in the Age of AI
@@ -17,4 +17,4 @@ Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.
 Betekent AI het einde van creativiteit? Zorgt het gemak waarmee iedereen (ogenschijnlijk) een afbeelding, video, tekst kan (na-)maken er voor dat we straks verzuipen in een slap aftreksel van echte menselijke creativiteit?
 Het innovatielab van IKEA (SPACE10) maakte in samenwerking met Joss Fong en Aron Filkey, 3 jaar geleden alweer, een korte animatiefilm waarin ze stil staan bij die vraag. 
 
-{{< video https://youtu.be/y7g-nRooZr8?si=JbDbfXc9Inf0oCt1 >}}
+{{< private-video y7g-nRooZr8 >}}

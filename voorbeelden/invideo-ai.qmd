@@ -14,7 +14,7 @@ Je kunt ook gebruik maken van stockbeelden die niet door AI zijn gegenereerd of 
 
 De video hieronder laat zien wat de mogelijkheden waren begin 2026.
 
-{{< video https://www.youtube.com/embed/9rpOO0Bh7i0?si=qvD5fZyGfKE8Z7Fs >}}
+{{< private-video 9rpOO0Bh7i0 >}}
 
 Er is een gratis optie beschikbaar met beperkt aantal exports per maand. Voor hogere kwaliteit en meer functionaliteit zijn betaalde abonnementen beschikbaar.
 

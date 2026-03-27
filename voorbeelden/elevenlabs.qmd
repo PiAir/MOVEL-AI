@@ -6,7 +6,7 @@ sidebar: id-voorbeelden
 
 [ElevenLabs](https://elevenlabs.io/) is een van de meest geavanceerde platforms voor AI-spraaksynthese. Waar [HeyGen](heygen.qmd) primair video vertaalt, richt ElevenLabs zich op de kwalitatief hoogwaardige generatie en kloning van stemmen. Maar zoals je hieronder kunt zien, kan het ook video's vertalen en nasynchroniseren.
 
-{{< video https://www.youtube.com/embed/32d4tOzS2sM >}}
+{{< private-video 32d4tOzS2sM >}}
 
 De video laat een test zien die ik 2 jaar geleden gemaakt heb met de software. De kwaliteit is sindsdien alleen maar beter geworden. Bij spraakgeneratie is het inmiddels bijna niet meer van echt te onderscheiden. Ook in het Nederlands, terwijl die stemmen bij anderen nog vaak wat mechanisch klinken.
 

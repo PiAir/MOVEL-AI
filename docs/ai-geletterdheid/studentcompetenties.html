@@ -273,7 +273,7 @@ cookieconsent.run({
 </section>
 <section id="metacognitieve-luiheid-en-cognitief-offloaden" class="level2">
 <h2 class="anchored" data-anchor-id="metacognitieve-luiheid-en-cognitief-offloaden">Metacognitieve luiheid en Cognitief offloaden</h2>
-<p>Relevant bij digitale geletterdheid / AI-geletterdheid van studenten is, dat het niet alleen gaat om het leren van “technische” of procedurele vaardigheden. AI kent namelijk ook risico’s, bijvoorbeeld van <a href="https://figshare.uts.edu.au/articles/report/Artificial_intelligence_cognitive_offloading_and_implications_for_education/31302475?file=62363005">cognitief offloaden</a> of cognitieve luiheid (“ik hoef niet meer zelf na te denkten, dat doe AI voor me”). Voor studenten is het noodzakelijk om over voldoende <a href="https://www.slo.nl/@23299/metacognitieve-kennis-vaardigheden/">metacognitieve vaardigheden</a> te beschikken. Dat betekent dat ze moeten leren hoe het plannen, monitoren, bijsturen en evalueren van cognitieve taken (zoals bij het leren) werkt. Ze moeten namelijk leren inschatten wanneer/waarvoor het wel of juist niet verstandig is om AI in te zetten. Als dat alleen is “als de docent niet zegt dat het niet mag, dan mag het”, dan loopt zo’n student vroeg of laat tegen problemen aan. En omdat we weten dat die metacognitieve vaardigheden zich niet vanzelf ontwikkelen, is het belangrijk dat docenten hier alert op zijn en studenten hierbij helpen.</p>
+<p>Relevant bij digitale geletterdheid / AI-geletterdheid van studenten is, dat het niet alleen gaat om het leren van “technische” of procedurele vaardigheden. AI kent namelijk ook risico’s, bijvoorbeeld van <a href="https://figshare.uts.edu.au/articles/report/Artificial_intelligence_cognitive_offloading_and_implications_for_education/31302475?file=62363005">cognitief offloaden</a> of cognitieve luiheid (“ik hoef niet meer zelf na te denken, dat doe AI voor me”). Voor studenten is het noodzakelijk om over voldoende <a href="https://www.slo.nl/@23299/metacognitieve-kennis-vaardigheden/">metacognitieve vaardigheden</a> te beschikken. Dat betekent dat ze moeten leren hoe het plannen, monitoren, bijsturen en evalueren van cognitieve taken (zoals bij het leren) werkt. Ze moeten namelijk leren inschatten wanneer/waarvoor het wel of juist niet verstandig is om AI in te zetten. Als dat alleen is “als de docent niet zegt dat het niet mag, dan mag het”, dan loopt zo’n student vroeg of laat tegen problemen aan. En omdat we weten dat die metacognitieve vaardigheden zich niet vanzelf ontwikkelen, is het belangrijk dat docenten hier alert op zijn en studenten hierbij helpen.</p>
 
 
 </section>
@@ -998,7 +998,7 @@ window.onload = function() {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/cdn\.lrn4life\.org\/AI-2025-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

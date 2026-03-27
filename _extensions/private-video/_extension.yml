@@ -1,0 +1,6 @@
+name: private-video
+author: Pierre Gorissen
+version: 1.0.0
+contributes:
+  shortcodes:
+    - private-video.lua

@@ -19,4 +19,4 @@ Kennisnet heeft een aantal interessante pagina's over AI en onderwijs. Hieronder
 
 
 
-{{< video https://vimeo.com/1086751578?fl=pl&fe=vl >}}
+{{< private-video 1086751578 >}}

@@ -14,7 +14,7 @@ Zowel Synthesia als [HeyGen](heygen.qmd) genereren avatar-video'.
 
 ## Pionieren
 De twee onderstaande video's zijn van december 2022. In de tijd dus dat ChatGPT net beschikbaar was en niet meer kon dan alleen tekst. Toen kon je dit dus al met Synthesia (en een beetje creativiteit) voor elkaar krijgen.
-{{< video https://www.youtube.com/watch?v=7X_0Qe5tW00 >}}
+{{< private-video 7X_0Qe5tW00 >}}
 
 Deze video is overigens niet met Synthesia gemaakt, maar met Adobe Character Animator.
-{{< video https://www.youtube.com/watch?v=PHMQFMKq1r0 >}}
+{{< private-video PHMQFMKq1r0 >}}

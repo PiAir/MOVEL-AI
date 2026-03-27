@@ -6,7 +6,7 @@ sidebar: id-ai-in-het-onderwijs
 
 Het experiment is inmiddels al lang en breed beëindigd, maar de video dient nog steeds als goed voorbeeld als je gaat nadenken over de vraag "wat willen we eigenlijk wel of niet?".
 
-{{< video https://www.youtube.com/embed/JMLsHI8aV0g >}}
+{{< private-video JMLsHI8aV0g >}}
 
 Recentelijk (2026) is een logischere link bij "AI voorbeeld uit China" een verwijzing naar [DeepSeek](https://chat.deepseek.com/). Die concurrent van ChatGPT deed heel wat stof opwaaien omdat mensen tot dat moment er vanuit gingen dat de echt goede taalmodellen allemaal in de VS ontwikkeld werden. Waar China al lang te maken heeft met importrestricties van chips uit de VS, lijkt het erop dat ook hier de ontwikkelingen niet stil staan. Deepseek spreekt inmiddels ook Nederlands. 
 

@@ -10,11 +10,11 @@ sidebar: id-voorbeelden
 [HeyGen](https://www.heygen.com/) is een betaalde dienst waarmee je video's kunt laten vertalen en nasynchroniseren met behulp van AI. 
 In de onderstaande demo spreekt de Engelse presentator Jon Finger vanaf **11:54 minuten** opeens vloeiend Nederlands:
 
-{{< video https://www.youtube.com/embed/tgfrbKgr3_8 >}}
+{{< private-video tgfrbKgr3_8 >}}
 
 De video hierboven (uit 2024) demonstreert de automatische vertaling naar 14 talen (vergelijkbaar met mijnvoorbeeld bij [ElevenLabs](elevenlabs.qmd) ):
 
-{{< video https://www.youtube.com/watch?v=UFXbUdLm9g0 >}}
+{{< private-video UFXbUdLm9g0 >}}
 
 De video hierboven werd (maart 2026) gegenereerd op basis van de volgende prompt:
 
@@ -47,7 +47,7 @@ Met de gratis versie kun je 3 video's van maximaal 3 minuten per maand maken. Da
 
 Nóg eentje dan, bepaal zelf maar hoe vreselijk of je het resultaat vindt:
 
-{{< video https://youtu.be/F5VxiPA5fXU >}}
+{{< private-video F5VxiPA5fXU >}}
 
 De enige input die Heygen hier gekregen heeft was de URL van [de MOVEL pagina bij de HAN](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/). Geen prompt, geen instructies. Wel heb ik 2 van de standaard avatars gekozen, maar dat was het dan ook. De rest is volledig automatisch gegaan.
 

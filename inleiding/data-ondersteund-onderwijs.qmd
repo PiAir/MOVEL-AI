@@ -4,16 +4,28 @@ lang: nl
 sidebar: id-inleiding
 ---
 
-Inleidende video over het onderwerp Data ondersteund onderwijs uit 2022 (pre-ChatGPT). Doelgroep was leidinggevenden in het onderwijs en de video geeft een overzicht van de relatie tussen data-ondersteund onderwijs, studiedata, learning analytics en kunstmatige intelligentie (AI).
+Binnen de masteropleiding besteden we in het eerste jaar uitgebreid aanacht aan learning analytics. Dit is *het meten, verzamelen, analyseren en rapporteren van en over data van
+leerlingen en hun context, met als doel het begrijpen en optimaliseren van het leren en de omgeving
+waarin dit plaatsvindt* ([bron](media/Learning-Analytics-Whitepaper-v1.0.pdf))
 
-{{< video https://youtu.be/ZFHQnVZ6T1o?si=miS1KF6DuwIP8wSY>}}
+Learning analytics is, net als AI, afhankelijk van grote hoeveelheden data. Bij AI gaat het om data om de gebruikte modellen te trainen, maar ook tijdens het gebruik ervan, wordt de kwaliteit van de ondersteuning bepaald door de mate waarin het AI-systeem jou en jouw context kent.
 
-Items die je kunt bekijken:
+Op zich is dat niet vreemd of niet, onderwijs maakt al heel lang gebruik van data om het leerproces te ondersteunen en om leerlingen en studenten te beoordelen. Denk maar aan de cijfers voor toetsen en examens. Bij het onderdeel learning analytics hebben we het erover gehad dat door de grote(re) hoeveelheden data waar het nu om gaat én het gegeven dat die data door externe (commerciële) partijen wordt beheerd, ethische en juridische vragen oproept. En mensen (ook jouw collega's) kunnen hier al dan niet sterke gevoelens bij hebben. En dat is oké. Het is goed om hierbij stil te staan en je bewust te zijn van je eigen standpunten en die van anderen.
+
+## Inleiding op het onderwerp data-ondersteund onderwijs.
+
+De video hieronder geeft een inleiding op het onderwerp data-ondersteund onderwijs. De video is uit 2022 (pre-ChatGPT dus). Doelgroep van de video waren leidinggevenden in het onderwijs en de video geeft een overzicht van de relatie tussen data-ondersteund onderwijs, studiedata, learning analytics en kunstmatige intelligentie (AI).
+
+{{< private-video ZFHQnVZ6T1o >}}
+
+## Verdieping
+
+Items die je kunt bekijken als je je verder wilt verdiepen in het onderwerp:
 
 - [Item op nos.nl over het boek Homo Deus van Yuval Noah Harari](https://nos.nl/nieuwsuur/artikel/2170543-homo-deus-na-god-en-de-mens-bepalen-algoritmen-straks-alles)
 - [Aflevering van VPRO Tegenlicht over het boek Frictie van Miriam Rasch](https://www.npostart.nl/vpro-tegenlicht/24-01-2021/VPWON_1322203)
 - [Website van de NL AI Coalitie](https://nlaic.com/)
 
 
-![](media/data-ondersteund-onderwijs.png){.img-fluid .rounded}
+
 

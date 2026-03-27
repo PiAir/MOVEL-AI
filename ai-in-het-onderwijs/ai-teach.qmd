@@ -15,10 +15,10 @@ Het project is op dit moment (maart 2026) nog volop bezig met het ontwikkelen va
 ## Pioneering videos
 Ook zijn er een aantal 'pioneering videos' gemaakt waarin docenten uit verschillende landen vertellen over hun ervaringen met AI in het onderwijs. Je kunt ze [hier bekijken](https://share.eu.articulate.com/b096EEzdGDgAnkMugkKpk#/).
 
-{{< video https://www.youtube.com/watch?v=dFCo96s44GY >}}
+{{< private-video dFCo96s44GY >}}
 In deze video hoor je Jochem Hiddink van de HAN over zijn ervaringen met AI in het onderwijs. Hieronder een voorbeeld uit België:
 
-{{< video https://www.youtube.com/watch?v=hqEh0wVYVic >}}
+{{< private-video hqEh0wVYVic >}}
 (n.b. YouTube leek deze video als gesproken in het Turks te herkennen en liet de Engelstalige audiotrack horen, dit is toch echt gewoon Vlaams...)
 
 Rechtstreeks toegang tot alle video's vind je [hier](https://www.youtube.com/@AI-teach_Europe/playlists).

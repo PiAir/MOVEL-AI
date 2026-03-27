@@ -13,7 +13,7 @@ De eerste versie van de module zijn gemaakt in de open source leeromgeving [Xert
 
 Deze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI. 
 
-Er wordt echter wel gebruik gemaakt van YouTube filmpjes, zie voor het bijbehorende privacybeleid [deze pagina](https://policies.google.com/privacy?hl=nl).
+Er wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacybeleid [deze pagina](https://policies.google.com/privacy?hl=nl). De video's worden pas geladen als jij er op klikt. Dus als je niet op de video klikt, wordt er geen informatie gedeeld met YouTube.
 
 ## Zelf hosten in je leeromgeving
 

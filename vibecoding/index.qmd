@@ -61,14 +61,22 @@ Maar, zo hoor ik je nu denken: dat zijn toch tools van Google en die gebruiken m
 
 Als je je aan deze regels houdt én er voor zorgt dat je geen apps aan het ontwikkelen bent waar je over 2-3 maanden nog steeds onderhoud op zou moeten plegen, dan is het gebruik van dit soort tools prima te verantwoorden. Alles wat complexer is dan wat je hier meer kunt realiseren, of wat toegang tot data nodig heeft die je niet zomaar met Google zou mogen delen, moet je ook simpelweg niet willen gaan vibecoden. Dan moet je echt gaan programmeren. En dat is een heel ander verhaal.
 
+## Voorbeeld van vibecoding
+
+In de video hieronder zie je hoe een docent in gesprek met een (volwassen) student al vibecodend tot een werkende web-app komt in Gemini. Daarbij gebruiken ze Gemini 2.5 Pro (preview), inmiddels zijn er alweer nieuwere versies van die modellen waar het ook mee werkt. 
+
+{{< private-video BrXG_hduDGM >}}
+
+:::{.callout-tip}
+## Vibecoding en computational thinking
+
+Vibecoden vraagt de nodige computational thinking vaardigheden. Je moet immers wel weten wat je wilt bouwen (dat zie je ook hierboven in de video) en hoe je het wilt bouwen. Het is daarmee zowel voor docenten als studenten een uitstekende manier om computational thinking te oefenen. 
+
+:::
+
 ## Wegwerpapplicaties zijn niet duurzaam
 ![](media/wegwerpapplicaties.png)
 Het is een mooi bezwaar tegen wegwerpapplicaties. Maar het is niet het hele verhaal. Een wegwerpapplicatie wordt zo genoemd omdat je er geen onderhoud aan pleegt. Traditioneel zijn applicaties zaken die veel ontwikkeltijd gekost hebben en waar dus ook veel monetaire waarden aan hangen. Dat is niet het geval voor een wegwerpapplicatie. Dat betekent dus dat die in de productie wint van de traditionele applicatie. Natuurlijk, als je géén applicatie nodig hebt en niet bouwt, dan is dat het meest duurzaam. Maar een app bouwen, hosten en dan jarenlang onderhouden, kost uiteindelijk veel meer energie en grondstoffen dan een wegwerpapplicatie. En dat is de vergelijking die je moet maken. 
 Dus als je dan toch een jaarlijkse digitale schoonmaak organiseert binnen je school, kun je ook meteen de wegwerpapplicaties die je het laatste halfjaar niet meer gebruikt hebt, opruimen.
 
-:::{.callout-tip}
-## Vibecoding en computational thinking
 
-Vibecoden vraagt de nodige computational thinking vaardigheden. Je moet immers wel weten wat je wilt bouwen en hoe je het wilt bouwen. Het is daarmee zowel voor docenten als studenten een uitstekende manier om computational thinking te oefenen. 
-
-:::

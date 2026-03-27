@@ -9,3 +9,5 @@ Thumbs.db
 # SCORM output en hulpscripts
 scripts/
 releases/
+
+/.luarc.json

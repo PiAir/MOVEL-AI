@@ -23,4 +23,4 @@ Daar vind je onder andere:
 
 EduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.  
 
-{{< video https://www.youtube.com/embed/QtcoJR8ByKo?si=9qKZDe1hpzxkK0CF >}}
+{{< private-video QtcoJR8ByKo >}}

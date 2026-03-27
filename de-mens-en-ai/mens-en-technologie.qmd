@@ -10,6 +10,6 @@ Een onderzoeker die daar veel over gezegd en geschreven heeft is [Peter Paul Ver
 
 Waar soms technologie vooral als een bedreiging voor de autonomie van de mens gepositioneerd wordt, stelt hij dat beeld ter discussie. 
 
-{{< video https://www.youtube.com/watch?v=YWFBvfer0aI >}}
+{{< private-video YWFBvfer0aI >}}
 
 Dat betekent niet dat we niet kritisch moeten zijn over het gebruik van technologie of AI. Technologie is niet neutraal. De relatie is niet alleen van ethiek naar technologie, waarbij ethiek bepaalt wat we technisch zouden moeten willen. Technologie bepaalt ook onze ethiek.

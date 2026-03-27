@@ -389,7 +389,7 @@ cookieconsent.run({
 <p><a href="https://ai.invideo.io/">Invideo AI</a> is een online dienst waarmee je met een tekstprompt een complete video met voice-over kunt genereren. Je geeft aan wat het onderwerp is, voor welk publiek de video bedoeld is en hoe lang hij moet zijn, de rest doet de AI. Je bent nie tbeperkt tot één of een paar modellen, je hebt een groot aantal verschillende modellen voor video, afbeeldingen, audio en muziek ter beschikking, onder andere <a href="../voorbeelden/veo.html">Veo 3.1</a>, <a href="../voorbeelden/kling-ai.html">Kling</a>, <a href="../voorbeelden/nano-banana.html">Nano Banana 2</a> en stemmodellen van <a href="../voorbeelden/elevenlabs.html">ElevenLabs</a>. Je kunt ook gebruik maken van stockbeelden die niet door AI zijn gegenereerd of je eigen media uploaden.</p>
 <p><a href="media/screenshot-invideo-ai-videomodellen.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="media/screenshot-invideo-ai-videomodellen.png" class="img-fluid rounded"></a></p>
 <p>De video hieronder laat zien wat de mogelijkheden waren begin 2026.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/9rpOO0Bh7i0?si=qvD5fZyGfKE8Z7Fs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/9rpOO0Bh7i0?autoplay=1" style="background-image:url('https://img.youtube.com/vi/9rpOO0Bh7i0/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><script>(function(){var el=document.currentScript.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script>
 <p>Er is een gratis optie beschikbaar met beperkt aantal exports per maand. Voor hogere kwaliteit en meer functionaliteit zijn betaalde abonnementen beschikbaar.</p>
 <p><a href="media/screenshot-invideo-ai-stockimages.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="media/screenshot-invideo-ai-stockimages.png" class="img-fluid rounded"></a></p>
 <p>Met de stockafbeeldingen optie krijg je weliswaar een resultaat, maar niet echt een video die ik in een les zou willen gebruiken.</p>
@@ -1116,7 +1116,7 @@ window.onload = function() {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/cdn\.lrn4life\.org\/AI-2025-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

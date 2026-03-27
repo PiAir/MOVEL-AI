@@ -6,7 +6,7 @@ sidebar: id-voorbeelden
 
 [Whisper](https://openai.com/research/whisper) is een open-source spraakherkenningsmodel van OpenAI. Het kan gesproken audio omzetten naar tekst in tientallen talen — inclusief Nederlands — en doet dat verrassend nauwkeurig, ook bij achtergrondgeluid of accenten.
 
-{{< video https://www.youtube.com/embed/XGvrO8him-4 >}}
+{{< private-video XGvrO8him-4 >}}
 
 
 ## Hoe gebruiken?

@@ -28,7 +28,7 @@ Deze sites maken gebruik van een **GAN** (Generative Adversarial Network, in het
 Door dit spel van bedriegen en ontmaskeren worden beide netwerken steeds beter — tot de generator afbeeldingen maakt die niet meer van echt te onderscheiden zijn.
 
 Uitleg over hoe het werkt:
-{{< video https://www.youtube.com/watch?v=u8qPvzk0AfY >}}
-{{< video https://www.youtube.com/watch?v=dCKbRCUyop8 >}}
-{{< video https://www.youtube.com/watch?v=SWoravHhsUU >}}
+{{< private-video u8qPvzk0AfY >}}
+{{< private-video dCKbRCUyop8 >}}
+{{< private-video SWoravHhsUU >}}
 

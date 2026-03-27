@@ -22,15 +22,15 @@ Het resultaat is een deepfake-video waarbij het lijkt alsof de persoon op de fot
 
 Hieronder een demonstratie van het principe:
 
-{{< video https://www.youtube.com/embed/Ic0TBhfuOrA >}}
+{{< private-video Ic0TBhfuOrA >}}
 
 Een voorbeeld van het resultaat: een Hamlet-monoloog gezongen door een historische afbeelding, gemaakt via Google Colab:
 
-{{< video https://www.youtube.com/embed/ovhuNdZVswI >}}
+{{< private-video ovhuNdZVswI >}}
 
 De volledige video:
 
-{{< video https://www.youtube.com/embed/zbldG5CmtVo >}}
+{{< private-video zbldG5CmtVo >}}
 
 ## Context 
 

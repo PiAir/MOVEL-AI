@@ -23,6 +23,6 @@ Een volledige lijst maken van toepassingen basis van ChatGPT is ondoenlijk — d
 
 ## Grenzen aan ChatGPT
 
-{{< video https://www.youtube.com/shorts/CJrOMs4L-lc >}}
+{{< private-video CJrOMs4L-lc >}}
 
 [FatherPhi](https://www.youtube.com/@FatherPhi) is een YouTube-kanaal dat ChatGPT en andere chatbots "test" aan de hand van vaak grappige voorbeelden en scenario's. 

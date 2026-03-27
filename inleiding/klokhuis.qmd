@@ -6,7 +6,7 @@ sidebar: id-inleiding
 
 Klokhuis is zeker niet alleen voor kinderen. Kijk maar eens naar de afleveringen over AI die ze in 2024 maakten. De inleidende aflevering:
 
-{{< video https://www.youtube.com/watch?v=xHcv99wuUwA >}}
+{{< private-video xHcv99wuUwA >}}
 
 
 - Deel 2: [AI boodschappenservice](https://www.youtube.com/watch?v=pmtilGJ5VrA)

@@ -9,13 +9,13 @@ Arjen Lubach besteedt regelmatig aandacht aan de maatschappelijke gevolgen van A
 
 ## Is het onderwijs nog te redden?
 
-{{< video https://www.youtube.com/watch?v=xpedFIZFmhc >}}
+{{< private-video xpedFIZFmhc >}}
 
 ## Karen Hao over AI
 
-{{< video https://youtu.be/mxq4Ne_8ne4?si=9pkpCWLe-b4h0Pw9  >}}  
+{{< private-video mxq4Ne_8ne4 >}}  
 
 ## Is AI een bubbel?
 
-{{< video https://youtu.be/Q_5jTOFX5Wc?si=eZJ9ZYmUey4wBxxt >}}
+{{< private-video Q_5jTOFX5Wc >}}
 

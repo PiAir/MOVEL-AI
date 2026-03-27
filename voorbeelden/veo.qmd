@@ -16,5 +16,5 @@ Veo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement.
 ![](media/screenshot-veo_2_MOVEL-opdracht.png)
 
 Het resultaat van mijn poging:
-{{< video https://youtu.be/PUtKXu-Foyo >}}
+{{< private-video PUtKXu-Foyo >}}
 Het werkt net zo vaak niet als wel. Met een Pro-account kan ik 3 video's per dag genereren. 

@@ -15,7 +15,7 @@ Voor een iets laagdrempeligere variant van vibecoding, zie ook [Google AI Studio
 
 En anders, hier is een 10 uur durende tutorial die je op weg helpt om expert te worden:
 
-{{< video https://www.youtube.com/watch?v=mpALXah_PBg >}}
+{{< private-video mpALXah_PBg >}}
 
 ::: {.callout-note}
 ## Moeten docenten dit leren?

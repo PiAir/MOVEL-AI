@@ -6,4 +6,4 @@ sidebar: id-inleiding
 
 De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.
 
-{{< video https://www.youtube.com/embed/OV7_hDo3yWY >}}
+{{< private-video OV7_hDo3yWY >}}

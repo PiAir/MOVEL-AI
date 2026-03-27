@@ -223,6 +223,7 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#verboden-ai-systemen" id="toc-verboden-ai-systemen" class="nav-link active" data-scroll-target="#verboden-ai-systemen">Verboden AI-systemen</a></li>
+  <li><a href="#aan-de-slag-met-de-ai-act" id="toc-aan-de-slag-met-de-ai-act" class="nav-link" data-scroll-target="#aan-de-slag-met-de-ai-act">Aan de slag met de AI-act</a></li>
   </ul>
 </nav>
     </div>
@@ -257,8 +258,12 @@ cookieconsent.run({
 <p>Meer informatie is te vinden bij:</p>
 <ul>
 <li><a href="https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening">Rijksoverheid: Gids AI-verordening</a></li>
-<li><a href="https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening">Autoriteit Persoonsgegevens: AI-verordening</a></li>
+<li><a href="https://www.autoriteitspersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening">Autoriteit Persoonsgegevens: AI-verordening</a></li>
 </ul>
+</section>
+<section id="aan-de-slag-met-de-ai-act" class="level2">
+<h2 class="anchored" data-anchor-id="aan-de-slag-met-de-ai-act">Aan de slag met de AI-act</h2>
+<p>Npuls heeft een publicatie getiteld <a href="https://npuls.nl/kennisbank/aan-de-slag-met-de-ai-act">De AI-act en het onderwijs</a> opgesteld waarin ze in het kort beschrijven wat de AI Act voor het onderwijs betekent, welke AI‑tools je wel of niet mag gebruiken in de klas, welke risico’s je moet kennen, en welke stappen je als school moet zetten om verantwoord met AI om te gaan.</p>
 
 
 </section>
@@ -983,7 +988,7 @@ window.onload = function() {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/cdn\.lrn4life\.org\/AI-2025-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
