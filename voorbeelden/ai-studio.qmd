@@ -7,7 +7,7 @@ sidebar: id-voorbeelden
 
 ![ai-studio screenshot](media/screenshot-ai-studio.png){.img-fluid .rounded}
 
-[Google AI Studio](https://aistudio.google.com/) is een ontwikkelplatform van Google. Een tijd lang was het de enige gratis optie als je aan vibecoding wilde doen. Tegenwoordig kan elke chatbot wel via de **canvas** optie ook websites en compacte apps bouwen. Desondanks blijft het een mooie playground.
+[Google AI Studio](https://aistudio.google.com/) is een ontwikkelplatform van Google. Een tijd lang was het de enige gratis optie als je aan [vibecoding](/vibecoding/) wilde doen. Tegenwoordig kan elke chatbot wel via de **canvas** optie ook websites en compacte apps bouwen. Desondanks blijft het een mooie playground.
 
 Daarnaast heeft Google AI Studio nog steeds als voordeel ten opzichte van andere omgevingen dat de 'contextomvang' (de hoeveel tokens die beschikbaar zijn in een gesprek), zeker voor een gratis omgeving erg groot is (1 miljoen tokens). Ook ben je bij AI-studio in staat om bv een YouTube-video te linken waarbij het taalmodel dan de inhoud van die video in de context opneemt. Dat maakt het bv mogelijk om ook inhoudelijke vragen te stellen over de video. Dat kun je ook in NotebookLM, maar als je bv een webspagina wilt laten genereren met daarin automatisch gegenereerde navigatie binnen de video, dan is dit heel handig.
 
