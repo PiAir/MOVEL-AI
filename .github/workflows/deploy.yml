@@ -26,8 +26,10 @@ jobs:
 
       - name: Installeer R-pakketten
         run: |
-          install.packages('remotes', repos='https://cloud.r-project.org')
-          remotes::install_github('zeileis/exams2forms')
+          # Installeer eerst de basis voor exams2forms vanaf R-Forge
+          install.packages("exams2forms", repos = "http://R-Forge.R-project.org")
+          # Voeg hier eventuele andere pakketten toe die je gebruikt
+          # install.packages(c("knitr", "rmarkdown")) 
         shell: Rscript {0}
 
       - name: Installeer Quarto
