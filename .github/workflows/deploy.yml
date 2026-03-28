@@ -40,3 +40,5 @@ jobs:
         run: |
           curl -X POST https://cdn.lrn4life.org/webhook.php \
           -H "Authorization: Bearer ${{ secrets.WEBHOOK_TOKEN }}"
+          -H "Accept: */*" \
+          -A "GitHub-Actions-MyQuartoSite"
