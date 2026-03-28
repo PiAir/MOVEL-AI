@@ -20,6 +20,10 @@ Voor de eerste versie van deze  online module voor lesjaar 2022-2023, ontwikkeld
 
 En natuurlijk: AI toepassingen die niet specifiek voor het onderwijs ontwikkeld zijn, zijn vaak ook heel goed ten behoeve van het onderwijs in te zetten. Bij het [Nationaal Onderwijslab AI](nolai.qmd) lopen inmiddels vele co-creatieprojecten waarbij scholen, wetenschappers en bedrijven samen onderwijs-AI ontwikkelen.
 
+## Inleiding
+
+Mocht je de inleiding van de module over [AI in het onderwijs](../inleiding/ai-onderwijs.qmd) nog niet gelezen hebben, dan is het goed om dat nu alsnog te doen. De video die daarin centraal staat, geeft een goed beeld van de stand van zaken rondom AI in het onderwijs. De video is van januari 2025, maar geeft nog steeds een goed beeld van de stand van zaken rondom AI in het onderwijs.
+
 ## AI materialen bij Edusources
 
 ![Edusources](./media/edusources.png)

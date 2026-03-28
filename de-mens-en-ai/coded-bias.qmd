@@ -12,7 +12,7 @@ sidebar: id-de-mens-en-ai
 ### Algorithmic Justice League
 Joy richtte de [Algorithmic Justice League](https://www.ajl.org/) op. Bekijk hier haar TEDTalk over "The Coded Gaze":
 
-{{< video https://www.youtube.com/watch?v=UG_X_7g63rY >}}
+{{< private-video UG_X_7g63rY >}}
 
 ### Cathy O'Neil: Weapons of Math Destruction
 Cathy O'Neil schreef de bestseller *Weapons of Math Destruction*.

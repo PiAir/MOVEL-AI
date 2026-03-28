@@ -27,7 +27,7 @@ website:
   bread-crumbs: true
   back-to-top-navigation: true
   page-navigation: true
-  cookie-consent: true
+  cookie-consent: false 
 
   navbar:
     right:

@@ -1,0 +1,27 @@
+Question
+========
+Welk voordeel biedt RAG (Retrieval Augmented Generation) voor het onderwijs?
+
+Answerlist
+----------
+* A. Het zorgt ervoor dat AI-modellen sneller kunnen praten.
+* B. Het maakt AI-gebruik gratis voor alle studenten.
+* C. Het voorkomt hallucinaties door de AI alleen gebruik te laten maken van specifieke, betrouwbare bronnen.
+* D. Het vervangt de docent volledig bij het nakijken van toetsen.
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Nee, dat is niet wat RAG doet.
+* Nee, RAG heeft niets met de prijs te maken.
+* Ja, dit klopt inderdaad. RAG koppelt de AI aan specifieke bronnen.
+* Nee, dat is zeker niet het geval.
+
+Meta-information
+================
+exname: question-3
+extype: schoice
+exsolution: 0010

@@ -1,0 +1,27 @@
+Question
+========
+Pierre Gorissen noemt een stoplichtmodel voor toetsing. Welke kleur staat voor 'toetsvormen waarbij de student zelf zijn competenties laat zien, zoals een mondelinge toets'?
+
+Answerlist
+----------
+* A. Rood
+* B. Oranje
+* C. Groen
+* D. Blauw
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Nee, rood is voor fraudegevoelige toetsen.
+* Nee, oranje wordt niet specifiek in deze context genoemd voor deze toetsvorm.
+* Ja, dit klopt inderdaad. Groen staat voor AI-bestendige toetsing.
+* Nee, blauw is geen onderdeel van het genoemde stoplichtmodel.
+
+Meta-information
+================
+exname: question-4
+extype: schoice
+exsolution: 0010

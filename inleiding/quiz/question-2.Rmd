@@ -1,0 +1,27 @@
+Question
+========
+Wat wordt in de video bedoeld met de 'buurmeisjestest'?
+
+Answerlist
+----------
+* A. Een test om te kijken of een kind van basisschoolleeftijd de AI kan bedienen.
+* B. Als een opdracht eenvoudig door een slimme buitenstaander met AI gemaakt kan worden, heb je als docent een probleem.
+* C. Een onderzoek naar de mate waarin meisjes meer of minder gebruikmaken van AI dan jongens.
+* D. Een methode om te controleren of de data van de buren veilig is volgens de AVG.  
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Nee, gelukkig niet. 
+* Ja, dat klopt inderdaad
+* Nee, Dat zou een heel ander soort onderzoek zijn.
+* Nee, Dat heeft niets met de AVG te maken.
+
+Meta-information
+================
+exname: question-2
+extype: schoice
+exsolution: 0100

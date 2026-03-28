@@ -1,0 +1,27 @@
+Question
+========
+Wat is volgens de monitor van 2024 een groot knelpunt bij docenten in het MBO?
+
+Answerlist
+----------
+* A. Studenten weigeren AI te gebruiken.
+* B. 40% van de docenten heeft zich niet geprofessionaliseerd en wil dat ook niet.
+* C. Er is geen internetverbinding in de klaslokalen.
+* D. De AI-tools zijn te moeilijk om te begrijpen voor docenten.
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Nee, studenten gebruiken het juist veel.
+* Ja, dit klopt inderdaad. De monitor laat zien dat een groot deel van de docenten achterblijft.
+* Nee, dat is tegenwoordig meestal geen probleem meer.
+* Nee, dat is niet het genoemde knelpunt in de monitor.
+
+Meta-information
+================
+exname: question-5
+extype: schoice
+exsolution: 0100

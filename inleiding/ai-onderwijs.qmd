@@ -7,3 +7,104 @@ sidebar: id-inleiding
 De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.
 
 {{< private-video OV7_hDo3yWY >}}
+
+
+
+## Samenvatting van de video
+
+In deze video worden de snelle ontwikkelingen van AI in het onderwijs besproken. De kernpunten zijn:
+
+1.  **Definitie & Soorten AI**: AI wordt gedefinieerd als de mogelijkheid van machines om mensachtige vaardigheden te vertonen. Er wordt onderscheid gemaakt tussen *Algemene AI* (zoals beeldherkenning en generatieve AI) en *Onderwijs AI* (specifiek ontwikkeld voor de context van leren).
+2.  **Generatieve AI-evolutie**: Van de simpele tekst-naar-tekst modellen eind 2022 naar de multimodale systemen van 2025 (tekst, beeld, audio, video). 
+3.  **Technologische Doorbraken**:
+    *   **Bredere modellen**: Grotere rekenkracht voor betere antwoorden.
+    *   **Redeneermodellen**: Modellen die uitleggen *hoe* ze tot een oplossing komen.
+    *   **RAG (Retrieval Augmented Generation)**: Het koppelen van AI aan eigen bronnen om hallucinaties te voorkomen.
+    *   **Agentic AI**: Autonome AI-agenten die samenwerken aan complexe opdrachten (het 'buzzword' voor 2025).
+4.  **Onderwijs en Toetsing**: Het 'stoplichtmodel' voor toetsing (rood: makkelijk fraudegevoelig, groen: AI-bestendig). De nadruk ligt op het niet criminaliseren van studenten, maar het aanleren van een kritische houding.
+5.  **Professionalisering en Ontwikkeling**: Via initiatieven zoals **NOLAI** wordt er gewerkt aan co-creatie tussen wetenschap, onderwijs en bedrijfsleven. Pierre benadrukt dat 40% van de docenten zich nog niet geprofessionaliseerd heeft, wat problematisch is gezien de EU-wetgeving (AI Act).
+
+## Lessen voor de Master Ontwerpen van Eigentijds Leren (MOVEL)
+
+Voor een student aan de Master MOVEL zijn de volgende inzichten uit de video relevant bij het ontwerpen van leeromgevingen:
+
+*   **Pedagogisch-Didactisch Handelen als Kern**: AI is een hulpmiddel bij het informeren en handelen, maar het pedagogisch-didactisch ontwerp blijft de verantwoordelijkheid van de ontwerper/docent.
+*   **Toetsing herontwerpen**: Een eigentijds ontwerp vereist dat je rekening houdt met de "buurmeisjestest". Als een slimme buurjongen een opdracht met AI kan maken, is de opdracht niet langer valide voor het aantonen van competenties.
+*   **Inclusiviteit en Kansengelijkheid**: Omdat voor veel premium AI-diensten betaald moet worden, moet een onderwijsontwerper nadenken over hoe hij voorkomt dat AI de kloof tussen studenten vergroot.
+*   **Geïnformeerd Experimenteren**: Ontwerpen is een cyclisch proces. Gebruik AI om kleine experimenten te doen, ontdek wat werkt, en schaal dan pas op.
+*   **Ethiek als Ontwerpprincipe**: Ethiek is geen 'moetje' achteraf, maar een sturend principe aan de voorkant van je ontwerp (welzijn, diversiteit, duurzaamheid).
+
+## Update 2026: Wat zou er nu in de video moeten staan?
+
+Nu het inmiddels 2026 is, is de video van 2025 nog steeds relevant, maar zijn er een aantal zaken die inmiddels veranderd zijn of duidelijker zijn geworden.
+Zowel [Claude](/voorbeelden/claude-ai.qmd), [ChatGPT](/voorbeelden/chatgpt.qmd) als [Gemini](/voorbeelden/gemini.qmd) kregen die vraag. 
+
+### Claude
+Claude gaf aan dat de video niet rechtstreeks toegankelijk was. Dat zou kunnen, hoewel hij wel openbaar is zijn er steeds meer sites en diensten die bots tegenhouden (ik heb het benaderen van de online versie van deze cursus expliciet moeten vrijgeven voor bots). Eerste antwoord van veel langer, dit was op verzoek de samenvatting van Claude:
+
+1. **EU AI Act** – Niet meer toekomst; verboden AI-toepassingen gelden al, verplichtingen voor scholen volgen augustus 2026.
+2. **AI-geletterdheid** – Wettelijke verplichting; de AP doet in 2026 een landelijke uitvraag.
+3. **Hoog-risico AI** – Toetsing, toelating en fraude-detectie vallen hieronder; directe impact op schoolpraktijk.
+4. **Van chatbots naar AI-agenten** – Autonome AI die taken zelfstandig uitvoert roept nieuwe vragen op over eigenaarschap van werk.
+5. **AI-tutors zijn mainstream** – Toon verschuift van "dit komt eraan" naar "dit is er al — hoe sturen we het?"
+
+### ChatGPT
+Ook ChatGPT gaf eerst een langer antwoord, geen melding van het wel of niet kunnen bereiken van de video, de samenvatting was:
+
+* **AI is infrastructuur geworden**: Niet meer experimenteren, maar structureel onderdeel van onderwijs en beleid.
+* **Opkomst van AI-agents**: Van simpele chatbots naar systemen die zelfstandig taken uitvoeren.
+* **Meer focus op wetgeving (EU AI Act)**: Nadruk op transparantie, verantwoording en schoolbeleid.
+* **Didactiek centraal**: AI inzetten als leerondersteuning i.p.v. alleen antwoordmachine.
+* **Meer aandacht voor risico’s**: Denk aan afhankelijkheid, minder kritisch denken en vaardighedenverlies.
+
+### Gemini
+En het antwoord van Gemini (de samenvatting op verzoek):
+
+* **EU AI Act deadlines:** Besteed aandacht aan de naderende en harde handhavingsdeadlines (augustus 2026) voor AI-systemen in het onderwijs.
+* **Autonome AI-Agenten in de praktijk:** Bespreek hoe 'Agentic AI' (zoals zelfstandig onderzoekende AI) inmiddels geen toekomstvisie meer is, maar dagelijkse realiteit voor studenten.
+* **Actuele monitor-cijfers:** Update de statistieken over docentprofessionalisering met de recentere data uit 2025 in plaats van 2024.
+* **Integratie en vendor lock-in:** Benoem de volledige integratie van AI in systemen zoals Microsoft Copilot en de groeiende zorg over afhankelijkheid van Big Tech.
+* **De roep om 'Meer Mens':** Voeg de actuele kritische discussie toe dat efficiëntie door AI niet ten koste mag gaan van de menselijke maat en het persoonlijke leerproces.
+
+Het lijkt erop dat Gemini (logisch, want Google is zowel eigenaar van YouTube als Gemini) het meest 'op de hoogte' was van de inhoud van de video. De opmerking over de monitor-cijfers is namelijk het enige van de antwoorden die niet algemeen bekend is, maar duidelijk uit de video komt. 
+
+## Samenvattend
+
+Hoewel in de video inderdaad al over de opkomst van Agentic AI gesproken wordt, is de ontwikkeling in 2025 en begin 2026 in een stroomversnelling geraakt. In 2026 zijn 'AI-agents' voor veel mensen gemeengoed geworden. Daarbij beperkt het gebruik van generatieve AI zich niet tot een vraag en antwoordspel in de browser, maar voeren agents semi-autonoom taken uit. Het gebruik van [Agent Skills](https://agentskills.io/home), eerst alleen binnen tools van Antropic, maar nu als breed geaccepteerde standaart voor het beschrijven van de werkwijze van deze agents is een belangrijke basis daarbij. Het zorgt er ook voor dat het efficiënt en optimaal kunnen gebruiken van AI-tools enerzijds 'eenvoudiger' maar tegelijkertijd ook veel complexer geworden is. 
+
+Meer aandacht voor de AI Act is veel minder zichtbaar dan de verschillende taalmodellen zelf denken. Ja, in woord, maar om nou te stellen dat organisaties en scholen zich er bewust van zijn dat AI-geletterdheid voor hun studenten en docenten verplicht is, dat valt tegen. 
+
+De roep om 'Meer Mens', zoals die door Gemini wordt geuit, is wel merkbaar. Dat is in het onderwijs overigens wel een heel natuurlijke ontwikkeling bij élke technologische innovatie. De enthousiaste verhalen van een deel van de voorlopers wordt na verloop van tijd altijd aangevuld met zeer kritische tegengeluiden.
+
+Afgelopen jaar heeft ook een verdere groei van het gebruik van generatieve AI in het onderwijs laten zien. Het toepassen en aanpassen van dit soort generatieve AI-tools gaat sneller en eenvoudiger dan het zorgvulig en gestructureerd ontwikkelen van specifieke AI-oplossingen. Met wel nog steeds de belangrijke kanttekening die er ook bij [vibecoding](/vibecoding/) te maken is: offloaden van het denkproces heeft inherent het risico in zich dat je vergeet zelf na te denken. En AI-systemen zijn gewoon té goed in het genereren van antwoorden die plausibel klinken, ook als ze feitelijk onjuist zijn.
+
+
+## Quizvragen
+
+Test jezelf na het kijken van de video met de volgende quizvragen:
+
+::: webex-group
+```{r}
+#| echo: false
+#| results: "asis"
+#| message: false
+#| warning: false
+
+library("exams2forms")
+# List all question files starting with 'question-' in the 'quiz' folder
+question_pool <- list.files(path = "quiz", pattern = "^question-.*\\.Rmd$", full.names = TRUE)
+
+if (length(question_pool) > 0) {
+  # Randomly select up to 10 questions
+  n_select <- min(length(question_pool), 10)
+  set.seed(Sys.Date()) # Optional: same questions for everyone on the same day
+  selected_questions <- sample(question_pool, n_select)
+
+  # Render the selected questions
+  # exams2forms will produce multiple .webex-question divs
+  exams2forms::exams2forms(file = selected_questions, title = 'Randomized Quiz', browse = FALSE)
+} else {
+  cat("No questions found in the quiz/ directory.")
+}
+```
+:::

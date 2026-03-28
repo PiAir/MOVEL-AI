@@ -1,0 +1,28 @@
+Question
+========
+Wat is volgens de video de kern van 'Agentic AI'?
+
+
+Answerlist
+----------
+* A. Het gebruik van AI om sneller teksten te schrijven.
+* B. AI-modellen die alleen antwoord geven op basis van één specifieke bron.
+* C. Meerdere AI-agenten die autonoom samenwerken aan complexe opdrachten.
+* D. Een techniek om hallucinaties in taalmodellen te voorkomen.
+
+Solution
+========
+Feedback op de opties:
+
+Answerlist
+----------
+* Nee, dat is helaas niet juist. Hoewel het sneller kan, is dat niet de kern van agentic AI
+* Nee, agentic systemen werken vaak juist samen op basis van meerdere bronnen
+* Ja, dt klopt inderdaad
+* Nee, hallucineren, of 'los' gaan is juist bij agentic AI een extra risico
+
+Meta-information
+================
+exname: question-1
+extype: schoice
+exsolution: 0010
