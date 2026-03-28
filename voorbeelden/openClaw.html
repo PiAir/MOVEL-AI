@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Wav2Lip – MOVEL AI 2025-2026</title>
+<title>OpenClaw – MOVEL AI 2025-2026</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../voorbeelden/whisper.html" rel="next">
-<link href="../voorbeelden/veo.html" rel="prev">
+<link href="../voorbeelden/perplexity.html" rel="next">
+<link href="../voorbeelden/notebooklm.html" rel="prev">
 <link href="../media/MOVEL-icon.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Schakel zijbalknavigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../voorbeelden/wav2lip.html">Wav2Lip</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../voorbeelden/openClaw.html">OpenClaw</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Schakel zijbalknavigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Zoeken" onclick="window.quartoOpenSearch();">
@@ -280,7 +280,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../voorbeelden/openClaw.html" class="sidebar-item-text sidebar-link">
+  <a href="../voorbeelden/openClaw.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">OpenClaw</span></a>
   </div>
 </li>
@@ -328,7 +328,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../voorbeelden/wav2lip.html" class="sidebar-item-text sidebar-link active">
+  <a href="../voorbeelden/wav2lip.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Wav2Lip</span></a>
   </div>
 </li>
@@ -348,9 +348,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Op deze pagina</h2>
    
   <ul>
-  <li><a href="#hoe-werkt-het" id="toc-hoe-werkt-het" class="nav-link active" data-scroll-target="#hoe-werkt-het">Hoe werkt het?</a></li>
-  <li><a href="#demonstratie" id="toc-demonstratie" class="nav-link" data-scroll-target="#demonstratie">Demonstratie</a></li>
-  <li><a href="#context" id="toc-context" class="nav-link" data-scroll-target="#context">Context</a></li>
+  <li><a href="#wat-is-openclaw" id="toc-wat-is-openclaw" class="nav-link active" data-scroll-target="#wat-is-openclaw">Wat is OpenClaw?</a></li>
+  <li><a href="#goed-idee" id="toc-goed-idee" class="nav-link" data-scroll-target="#goed-idee">Goed idee?</a></li>
   </ul>
 </nav>
     </div>
@@ -359,7 +358,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Wav2Lip</h1>
+<h1 class="title">OpenClaw</h1>
 </div>
 
 
@@ -376,31 +375,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="media/screenshot-wav2lip.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="wav2lip screenshot"><img src="media/screenshot-wav2lip.png" class="img-fluid rounded figure-img" alt="wav2lip screenshot"></a></p>
-<figcaption>wav2lip screenshot</figcaption>
-</figure>
-</div>
-<p><a href="http://bhaasha.iiit.ac.in/lipsync/">Wav2Lip</a> is een vroeg (2020) maar invloedrijk onderzoeksproject van het IIIT Hyderabad dat aantoonde dat je een foto of video van een persoon kunt laten “spreken” op basis van een audio-opname. De lipsynchronisatie is niet perfect, maar was voor zijn tijd ronduit indrukwekkend.</p>
-<section id="hoe-werkt-het" class="level2">
-<h2 class="anchored" data-anchor-id="hoe-werkt-het">Hoe werkt het?</h2>
-<p>Wav2Lip combineert drie zaken: 1. Een afbeelding of video van een gezicht 2. Een audio-opname van de gewenste spraak 3. Een neuraal netwerk dat de lippen in de video aanpast aan het audiobestand</p>
-<p>Het resultaat is een deepfake-video waarbij het lijkt alsof de persoon op de foto spreekt.</p>
+<p><a href="media/openclaw_lovestory.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="media/openclaw_lovestory.png" class="img-fluid"></a></p>
+<section id="wat-is-openclaw" class="level2">
+<h2 class="anchored" data-anchor-id="wat-is-openclaw">Wat is OpenClaw?</h2>
+<p><a href="https://openclaw.ai/">OpenClaw</a> is een gratis, opensource, zelfgehoste autonome AI-agent (voorheen Clawdbot/Moltbot) ontwikkeld door <a href="https://steipete.me/">Peter Steinberger</a>, die taken uitvoert via grote taalmodellen (LLM’s). Het fungeert als een persoonlijke assistent die via chat-apps zoals WhatsApp en Telegram e-mails beheert, agenda’s bijhoudt en acties op je computer uitvoert. Het project zag het daglicht in de loop van 2025 onder de naam Clawdbot. Maar omdat Anthropic een product had met een vergelijkbare naam, werd de naam al snel veranderd in eerst Moltbot en daarna in OpenClaw. Begin 2026 ging het project viraal en begonnen mensen massaal hun eigen agent te hosten. Tegelijkertijd kwamen er ook wel de nodige berichten over beveiligingsrisico’s. Ook kwamen er de nodige varianten op het project die vergelijkbare functionaliteiten boden, maar compacter of veiliger waren.</p>
+<p>Uitgebreide uitleg over OpenClaw: </p><div class="private-video-wrapper" style="margin-bottom: 2em;"><div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/c2nAKH8BIdo?autoplay=1" style="background-image:url('https://img.youtube.com/vi/c2nAKH8BIdo/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><div style="margin-top: 0.5em; font-size: 0.9em; text-align: right;"><a href="https://www.youtube.com/watch?v=c2nAKH8BIdo" target="_blank" rel="noopener">Bekijk op YouTube</a></div><script>(function(){var el=document.currentScript.previousElementSibling;el=el.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script></div><p></p>
+<p>en ook Moltbook: </p><div class="private-video-wrapper" style="margin-bottom: 2em;"><div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/2PWFj50DcZU?autoplay=1" style="background-image:url('https://img.youtube.com/vi/2PWFj50DcZU/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><div style="margin-top: 0.5em; font-size: 0.9em; text-align: right;"><a href="https://www.youtube.com/watch?v=2PWFj50DcZU" target="_blank" rel="noopener">Bekijk op YouTube</a></div><script>(function(){var el=document.currentScript.previousElementSibling;el=el.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script></div><p></p>
+<p>Moraal van dit verhaal (van deze video’s): niet té serieus nemen allemaal. Ik schreef begin 2026 een <a href="https://ictoblog.nl/2026/02/01/openclaw-moltbook-her">blog over OpenClaw en Moltbook</a>.</p>
 </section>
-<section id="demonstratie" class="level2">
-<h2 class="anchored" data-anchor-id="demonstratie">Demonstratie</h2>
-<p>Hieronder een demonstratie van het principe:</p>
-<div class="private-video-wrapper" style="margin-bottom: 2em;"><div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/Ic0TBhfuOrA?autoplay=1" style="background-image:url('https://img.youtube.com/vi/Ic0TBhfuOrA/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><div style="margin-top: 0.5em; font-size: 0.9em; text-align: right;"><a href="https://www.youtube.com/watch?v=Ic0TBhfuOrA" target="_blank" rel="noopener">Bekijk op YouTube</a></div><script>(function(){var el=document.currentScript.previousElementSibling;el=el.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script></div>
-<p>Een voorbeeld van het resultaat: een Hamlet-monoloog gezongen door een historische afbeelding, gemaakt via Google Colab:</p>
-<div class="private-video-wrapper" style="margin-bottom: 2em;"><div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/ovhuNdZVswI?autoplay=1" style="background-image:url('https://img.youtube.com/vi/ovhuNdZVswI/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><div style="margin-top: 0.5em; font-size: 0.9em; text-align: right;"><a href="https://www.youtube.com/watch?v=ovhuNdZVswI" target="_blank" rel="noopener">Bekijk op YouTube</a></div><script>(function(){var el=document.currentScript.previousElementSibling;el=el.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script></div>
-<p>De volledige video:</p>
-<div class="private-video-wrapper" style="margin-bottom: 2em;"><div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/zbldG5CmtVo?autoplay=1" style="background-image:url('https://img.youtube.com/vi/zbldG5CmtVo/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><div style="margin-top: 0.5em; font-size: 0.9em; text-align: right;"><a href="https://www.youtube.com/watch?v=zbldG5CmtVo" target="_blank" rel="noopener">Bekijk op YouTube</a></div><script>(function(){var el=document.currentScript.previousElementSibling;el=el.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script></div>
-</section>
-<section id="context" class="level2">
-<h2 class="anchored" data-anchor-id="context">Context</h2>
-<p>Wav2Lip was toonaangevend in 2020, maar de technologie is sindsdien dramatisch verbeterd. Diensten zoals <a href="../voorbeelden/heygen.html">HeyGen</a> en <a href="../voorbeelden/elevenlabs.html">ElevenLabs</a> bieden tegenwoordig vergelijkbare (en veel betere) resultaten met een gebruiksvriendelijke interface.</p>
-<p>Wav2Lip is echter historisch interessant als vroeg voorbeeld van hoe <strong>open onderzoek deepfaketechnologie democratiseerde</strong>. De code staat nog steeds op <a href="https://github.com/Rudrabha/Wav2Lip">GitHub</a>.</p>
+<section id="goed-idee" class="level2">
+<h2 class="anchored" data-anchor-id="goed-idee">Goed idee?</h2>
+<p>Korte antwoord: nee.</p>
+<p>Lange antwoord: als je toe bent aan het experimenteren met OpenClaw, dan is deze module waarschijnlijk veel te simpel voor je of was je niet echt de doelgroep. Maar, het is wel een voorbeeld van waar het naartoe kan gaan met AI-assistenten. Zie ook <a href="../inleiding/ai-onderwijs.html">de inleiding</a> over AI in het onderwijs.</p>
 
 
 </section>
@@ -1519,13 +1505,13 @@ window.onload = function() {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../voorbeelden/veo.html" class="pagination-link" aria-label="Gemini Veo 3.1">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Gemini Veo 3.1</span>
+      <a href="../voorbeelden/notebooklm.html" class="pagination-link" aria-label="NotebookLM">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">NotebookLM</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../voorbeelden/whisper.html" class="pagination-link" aria-label="Whisper">
-        <span class="nav-page-text">Whisper</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../voorbeelden/perplexity.html" class="pagination-link" aria-label="Perplexity AI">
+        <span class="nav-page-text">Perplexity AI</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
