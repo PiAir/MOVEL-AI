@@ -4,9 +4,10 @@ on:
   push:
     branches: [ main ]
 
-# Forceert het gebruik van Node 24 voor alle actions
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true    
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  # Gebruik binaire pakketten voor Linux (razendsnel)
+  RENV_CONFIG_REPOS_OVERRIDE: https://packagemanager.posit.co
 
 jobs:
   build-and-deploy:
@@ -17,16 +18,23 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         
-      # VOEG DIT TOE: Installeer R
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
         with:
-          r-version: 'release'     
+          r-version: 'release'
+          use-public-rspm: true # Gebruik binaire Linux pakketten
 
-      # OPTIONEEL: Als je specifieke R-pakketten gebruikt, installeer ze hier
+      # Caching van R-pakketten om herinstallatie te voorkomen
+      - name: Cache R packages
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-r-${{ hashFiles('**/xapi-logic.js') }} # Of gebruik een lockfile
+          restore-keys: ${{ runner.os }}-r-
+
       - name: Installeer R-pakketten
         run: |
-          Rscript -e "install.packages(c('rmarkdown', 'knitr', 'exams2forms'))"        
+          Rscript -e "install.packages(c('rmarkdown', 'knitr', 'exams2forms'), repos = '${{ env.RENV_CONFIG_REPOS_OVERRIDE }}')"
 
       - name: Installeer Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -46,10 +54,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           QUARTO_PROFILE: production
 
-      # 2. Roep je eigen server aan (de Webhook)
+      # Stap 3: Roep je eigen server aan (de Webhook)
       - name: Trigger eigen server
         run: |
           curl -X POST https://cdn.lrn4life.org/webhook.php \
           -H "Authorization: Bearer ${{ secrets.WEBHOOK_TOKEN }}" \
           -H "Content-Type: application/json" \
-          -A "GitHub-Actions-MyQuartoSite"
+          -A "GitHub-Actions-MyQuarto"
