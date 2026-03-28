@@ -19,9 +19,11 @@ Er wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacy
 
 Je kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je [hier op github downloaden](https://github.com/PiAir/MOVEL-AI/releases). Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt [de repostiory](https://github.com/PiAir/MOVEL-AI/) forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even [mailen](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20Onderwijs).
 
+Op dit moment is er nog geen SCORM-package van de module beschikbaar. De leeromgeving van de HAN [Brightspace](https://www.han.nl/onderwijsondersteuning/tools/brightspace/) heeft niet persé een SCORM-package nodig voor externe content. Je kunt ook een ZIP-bestand zoals voor deze module beschikbaar uploaden en gebruiken. Zie daarvoor [deze video](https://www.youtube.com/watch?v=UKVpU_hmCbU) met uitleg als je dat nog nooit eerder gedaan hebt. De standaard "pak een website in als een SCORM-package"-opties die ik kon vinden, daar had Brightspace dan weer geen zin in. En omdat de inhoud bijwerken al meer dan genoeg tijd vergde, is dat even lager op de TODO-lijst gezet.
+
 ## Gebruik van AI 
 
-Er is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van [Google Antigravity](./voorbeelden/antigravity.qmd). Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud zijn afkomstig van een mens. 
+Er is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van [Google Antigravity](./voorbeelden/antigravity.qmd). Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud, en eventuele fouten zijn afkomstig van en de verantwoordelijkheid van een mens. 
 
 ## Creative Commons Licentie
 
