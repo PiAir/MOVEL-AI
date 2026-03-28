@@ -1,5 +1,5 @@
 ---
-title: "Whisper – Spraak naar tekst"
+title: "Whisper"
 lang: nl
 sidebar: id-voorbeelden
 ---

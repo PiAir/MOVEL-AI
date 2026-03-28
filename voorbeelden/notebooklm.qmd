@@ -1,5 +1,5 @@
 ---
-title: "Google NotebookLM"
+title: "NotebookLM"
 lang: nl
 sidebar: id-voorbeelden
 ---

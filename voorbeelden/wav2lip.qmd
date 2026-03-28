@@ -1,5 +1,5 @@
 ---
-title: "Wav2Lip – Lipsync met AI"
+title: "Wav2Lip"
 lang: nl
 sidebar: id-voorbeelden
 ---

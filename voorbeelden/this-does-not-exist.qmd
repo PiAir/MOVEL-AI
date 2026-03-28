@@ -1,5 +1,5 @@
 ---
-title: "This [...] Does Not Exist"
+title: "This Does Not Exist"
 lang: nl
 sidebar: id-voorbeelden
 ---
