@@ -11,5 +11,5 @@ sidebar: id-voorbeelden
 
 ![](media/screenshot-perplexity-zoekopdracht.png){.img-fluid .rounded}
 
-De gratis versie stelt je in staat om een gevoel te krijgen voor de functionaliteit, voor de meer geavanceerde zaken heb je een betaald abononement nodig. En dat maakt het toch wat ingewikkelder als je toch al [ChatGPT](chatgpt.qmd) of [Gemini](gemini.qmd) gebruikt die ook een deepresearch-functionaliteit hebben.
+De gratis versie stelt je in staat om een gevoel te krijgen voor de functionaliteit, voor de meer geavanceerde zaken heb je een betaald abononement nodig. En dat maakt het toch wat ingewikkelder als je toch al [ChatGPT](chatgpt.qmd), [Gemini](gemini.qmd) of [NotebookLM](notebooklm.qmd) gebruikt die ook een deepresearch-functionaliteit hebben.
 
