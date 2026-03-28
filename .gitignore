@@ -11,3 +11,9 @@ scripts/
 releases/
 
 /.luarc.json
+
+# Genegeerde bestanden en mappen
+docs/
+update-site.bat
+README_files/
+README.html
