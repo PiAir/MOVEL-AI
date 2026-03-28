@@ -19,11 +19,15 @@ jobs:
         with:
           r-version: 'release'        
 
+       # OPTIONEEL: Als je specifieke R-pakketten gebruikt, installeer ze hier
+      - name: Installeer rmarkdown en knits
+        run: |
+          Rscript -e "install.packages(c('rmarkdown', 'knitr'))"         
+
       - name: Installeer R-pakketten
         run: |
           # Installeer eerst de basis voor exams2forms vanaf R-Forge
           install.packages("exams2forms", repos = "http://R-Forge.R-project.org")
-          install.packages(c("knitr", "rmarkdown"))
           # Voeg hier eventuele andere pakketten toe die je gebruikt 
         shell: Rscript {0}
 
