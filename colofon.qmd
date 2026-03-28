@@ -11,7 +11,7 @@ De eerste versie van de module zijn gemaakt in de open source leeromgeving [Xert
 
 ## Privacy
 
-Deze module verzamelt geen gebruiksinformatie ten behoeve van gebruiksanalyse. Mogelijk krijgt een nieuwe versie wel weer (anonieme) gebruiksanalyse via xAPI. 
+Deze module verzamelt anonieme gebruiksinformatie ten behoeve van gebruiksanalyse via xAPI. Er worden geen naar personen herleidbare gegevens verzameld. De broncode die je download bevat géén trackingcodes, geen "call home" functionaliteit of iets dergelijks. De xapi-functionaliteit wordt alleen geactiveerd als de module met het _quarto-production.yml profiel wordt gerenderd. In de map xapi staat ook een voorbeeld van een PHP-proxy die door het .js-bestand gebruikt kan worden. Nogmaals, de functionaliteit is optioneel en wordt alleen geactiveerd als je er zelf voor kiest.
 
 Er wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacybeleid [deze pagina](https://policies.google.com/privacy?hl=nl). De video's worden pas geladen als jij er op klikt. Dus als je niet op de video klikt, wordt er geen informatie gedeeld met YouTube.
 
