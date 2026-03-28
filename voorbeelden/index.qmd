@@ -65,4 +65,6 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 - [Google AI Studio](ai-studio.qmd) — ontwikkelplatform van Google
 - [Teachable Machine](teachable-machine.qmd) — train zelf een eenvoudig ML-model, zonder code
 - [Claude Code](claude-code.qmd) — AI-assistent die zelfstandig code schrijft en bewerkt
-- [Antigravity](antigravity.qmd) — de AI waarmee deze module is gebouwd
+- [Antigravity](antigravity.qmd) — de tool waarmee deze module is gebouwd
+- [OpenClaw](openClaw.qmd) — een open-source AI-assistent
+
