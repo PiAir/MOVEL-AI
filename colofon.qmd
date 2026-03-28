@@ -17,7 +17,7 @@ Er wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacy
 
 ## Zelf hosten in je leeromgeving
 
-Je kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je [hier op github downloaden](https://github.com/PiAir/MOVEL-AI/releases). Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even [mailen](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20Onderwijs).
+Je kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je [hier op github downloaden](https://github.com/PiAir/MOVEL-AI/releases). Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt [de repostiory](https://github.com/PiAir/MOVEL-AI/) forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even [mailen](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20Onderwijs).
 
 ## Gebruik van AI 
 
