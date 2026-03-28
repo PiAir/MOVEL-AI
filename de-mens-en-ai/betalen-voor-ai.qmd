@@ -17,7 +17,7 @@ Het is een veel bekritiseerde strategie van grote bedrijven zoals Google of Face
 Aanbieders zoals OpenAI hebben na de gratis start inmiddels de nodige betaalde diensten toegevoegd. Hoewel dit vaak gepaard gaat met betere privacybescherming, ontstaat er een risico op toename van kansenongelijkheid: de beste tools zijn niet meer voor iedereen toegankelijk.
 
 ### Betalen voor de hardware
-Open source modellen zoals [Whisper](https://github.com/openai/whisper) kun je zelf draaien, maar dat vereist krachtige hardware (GPU's). De kosten voor dergelijke hardware lopen stevig in de papieren. Ook hier is kansenongelijkheid een risico tussen studenten die deze hardware thuis hebben en studenten die dat niet hebben.
+Open source modellen zoals [Whisper](/voorbeelden/whisper.qmd) kun je zelf draaien, maar dat vereist krachtige hardware (GPU's). De kosten voor dergelijke hardware lopen stevig in de papieren. Ook hier is kansenongelijkheid een risico tussen studenten die deze hardware thuis hebben en studenten die dat niet hebben.
 
 ::: {.callout-note collapse="true"}
 ## Nog meer achtergrondinfo

@@ -19,4 +19,4 @@ css: ../films-style.css
 
 De volledige film:
 
-{{< private-video https://www.youtube.com/embed/yFzHH9EL9x0 >}}
+{{< private-video yFzHH9EL9x0 >}}

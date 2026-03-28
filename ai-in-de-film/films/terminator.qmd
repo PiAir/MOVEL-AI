@@ -21,4 +21,4 @@ css: ../films-style.css
 
 De trailer van het origineel:
 
-{{< private-video https://www.youtube.com/embed/nGrW-OR2uDk?si=6xBEIxHL1p7Sg-5Z >}}
+{{< private-video nGrW-OR2uDk >}}

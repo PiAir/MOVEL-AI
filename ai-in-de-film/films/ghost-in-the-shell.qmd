@@ -19,8 +19,8 @@ css: ../films-style.css
 
 Van het origineel:
 
-{{< private-video https://www.youtube.com/embed/8RF09G8Ymqg >}}
+{{< private-video 8RF09G8Ymqg >}}
 
 En van de remake:
 
-{{< private-video https://www.youtube.com/embed/G4VmJcZR0Yg >}}
+{{< private-video G4VmJcZR0Yg >}}

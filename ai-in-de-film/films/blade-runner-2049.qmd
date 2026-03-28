@@ -17,4 +17,4 @@ css: ../films-style.css
 
 ## Trailer
 
-{{< private-video https://www.youtube.com/embed/gCcx85zbxz4 >}}
+{{< private-video gCcx85zbxz4 >}}

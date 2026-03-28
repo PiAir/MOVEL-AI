@@ -17,7 +17,7 @@ css: ../films-style.css
 
 ## Trailer
 
-{{< private-video https://www.youtube.com/embed/JoUWNBcBKkA >}}
+{{< private-video JoUWNBcBKkA >}}
 
 En voor wie de serie uit 2016 nog niet gezien heeft:
 
