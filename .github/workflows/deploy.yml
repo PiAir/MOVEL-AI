@@ -58,6 +58,9 @@ jobs:
       - name: Trigger eigen server
         run: |
           curl -X POST https://cdn.lrn4life.org/webhook.php \
+          --http2 \
+          --compressed \
           -H "Authorization: Bearer ${{ secrets.WEBHOOK_TOKEN }}" \
           -H "Content-Type: application/json" \
-          -A "GitHub-Actions-MyQuarto"
+          -H "Accept: application/json, text/plain, */*" \
+          -A "GitHub-Actions-MyQuartoSite"
