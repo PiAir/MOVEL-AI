@@ -1046,16 +1046,16 @@ window.onload = function() {
 
     const statement = {
         "verb": {
-        "id": `http://adlnet.gov{verbId}`,
+        "id": `http://adlnet.gov/expapi/verbs/${verbId}`,
     "display": {"en-US": verbDisplay }
-            },
+        },
     "object": {
         "id": window.location.href,
     "definition": {
         "name": {"en-US": document.title || "Quarto Page" }
-                }
             }
-        };
+        }
+    };
 
     fetch(proxyUrl, {
         method: 'POST',
