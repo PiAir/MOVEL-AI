@@ -23,4 +23,4 @@ Ik schreef begin 2026 een [blog over OpenClaw en Moltbook](https://ictoblog.nl/2
 ## Goed idee?
 Korte antwoord: nee.
 
-Lange antwoord: als je toe bent aan het experimenteren met OpenClaw, dan is deze module waarschijnlijk veel te simpel voor je of was je niet echt de doelgroep. Maar, het is wel een voorbeeld van waar het naartoe kan gaan met AI-assistenten. Zie ook [de inleiding](/inleiding/ai-onderwijs.qmd) over AI in het onderwijs. 
+Lange antwoord: als je toe bent aan het experimenteren met OpenClaw, dan is deze module waarschijnlijk veel te simpel voor je of was je niet echt de doelgroep. Maar, het is wel een voorbeeld van waar het naartoe kan gaan met AI-assistenten. Zie ook [de inleiding](/inleiding/ai-onderwijs.qmd) over AI in het onderwijs. Het is interssant als onderdeel van de discussie over hoeveel controle we uit handen willen geven, hoe autonoom we AI voor ons aan de slag willen, durven, moeten laten gaan. In het onderwijs zou een conclusie voor nu in ieder geval zijn: te wild en te spannend. Tenzij je een echt beschermde omgeving creëert. Maar dus zeker niet op de laptop van de docent, in het schoolnetwerk, met toegang tot data van studenten.
