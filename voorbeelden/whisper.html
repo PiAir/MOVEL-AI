@@ -35,8 +35,6 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <link href="../voorbeelden/wav2lip.html" rel="prev">
 <link href="../media/MOVEL-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -74,24 +72,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Zoeken"
   }
 }</script>
-
-<script type="text/javascript" charset="UTF-8">
-document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({
-  "notice_banner_type":"simple",
-  "consent_type":"express",
-  "palette":"light",
-  "language":"en",
-  "page_load_consent_levels":["strictly-necessary"],
-  "notice_banner_reject_button_hide":false,
-  "preferences_center_close_button_hide":false,
-  "website_name":""
-  ,
-"language":"nl"
-  });
-});
-</script> 
-  
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -385,7 +365,7 @@ cookieconsent.run({
 
 
 <p><a href="https://openai.com/research/whisper">Whisper</a> is een open-source spraakherkenningsmodel van OpenAI. Het kan gesproken audio omzetten naar tekst in tientallen talen — inclusief Nederlands — en doet dat verrassend nauwkeurig, ook bij achtergrondgeluid of accenten.</p>
-<div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/XGvrO8him-4?autoplay=1" style="background-image:url('https://img.youtube.com/vi/XGvrO8him-4/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><script>(function(){var el=document.currentScript.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script>
+<div class="private-video-wrapper" style="margin-bottom: 2em;"><div class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/XGvrO8him-4?autoplay=1" style="background-image:url('https://img.youtube.com/vi/XGvrO8him-4/hqdefault.jpg');background-size:cover;background-position:center;aspect-ratio:16/9;cursor:pointer;display:flex;align-items:center;justify-content:center;position:relative;"><div style="background:rgba(0,0,0,0.6);color:white;padding:20px;border-radius:10px;text-align:center;pointer-events:none;"><div style="font-size:3em;">▶</div><p style="margin:0;">Klik om video te starten</p></div></div><div style="margin-top: 0.5em; font-size: 0.9em; text-align: right;"><a href="https://www.youtube.com/watch?v=XGvrO8him-4" target="_blank" rel="noopener">Bekijk op YouTube</a></div><script>(function(){var el=document.currentScript.previousElementSibling;el=el.previousElementSibling;el.addEventListener("click",function(){var f=document.createElement("iframe");f.src=el.dataset.embed;f.style.cssText="position:absolute;top:0;left:0;width:100%;height:100%;border:0";f.setAttribute("allow","autoplay; encrypted-media");f.setAttribute("allowfullscreen","");el.innerHTML="";el.style.padding="0";el.appendChild(f);});})();</script></div>
 <section id="hoe-gebruiken" class="level2">
 <h2 class="anchored" data-anchor-id="hoe-gebruiken">Hoe gebruiken?</h2>
 <p>Whisper is beschikbaar als open-source model op <a href="https://github.com/openai/whisper">GitHub</a>. Voor wie niet met Python wil werken zijn er inmiddels uitstekende kant-en-klare toepassingen:</p>
@@ -1463,19 +1443,6 @@ window.onload = function() {
   </div>
 </nav>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">
-
-<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 
