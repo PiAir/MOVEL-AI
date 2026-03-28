@@ -1,0 +1,5 @@
+# _quarto-production.yml
+format:
+  html:
+    include-after-body: 
+      - xapi/xapi-logic.js

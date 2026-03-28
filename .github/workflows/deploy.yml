@@ -31,13 +31,20 @@ jobs:
       - name: Installeer Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      # 1. Render en publiceer naar GitHub Pages
+      # Stap 1: Injecteer de geheimen in xapi-logic.js
+      - name: Inject Proxy Config
+        run: |
+          sed -i "s|PROXY_URL_PLACEHOLDER|${{ secrets.XAPI_PROXY_URL }}|g" xapi/xapi-logic.js
+          sed -i "s|PROXY_KEY_PLACEHOLDER|${{ secrets.XAPI_PROXY_KEY }}|g" xapi/xapi-logic.js
+
+      # Stap 2: Render en Publish met het productie-profiel
       - name: Publish naar GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          QUARTO_PROFILE: production
 
       # 2. Roep je eigen server aan (de Webhook)
       - name: Trigger eigen server
