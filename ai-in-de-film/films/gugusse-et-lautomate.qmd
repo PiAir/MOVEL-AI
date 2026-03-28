@@ -21,4 +21,4 @@ css: ../films-style.css
 
 De volledige film:
 
-{{< video https://www.youtube.com/embed/ojqcjzzjN2Q >}}
+{{< private-video https://www.youtube.com/embed/ojqcjzzjN2Q >}}
