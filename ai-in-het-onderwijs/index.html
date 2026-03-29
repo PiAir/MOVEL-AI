@@ -33,7 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../ai-in-het-onderwijs/china-voorbeeld.html" rel="next">
+<link href="../ai-in-het-onderwijs/spinnenweb.html" rel="next">
 <link href="../index.html" rel="prev">
 <link href="../media/MOVEL-icon.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-listing/list.min.js"></script>
@@ -95,6 +95,34 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-ai-in-het-onderwijs-voorbeelden'] = new List('listing-ai-in-het-onderwijs-voorbeelden', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-ai-in-het-onderwijs-organisaties .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-ai-in-het-onderwijs-organisaties'] = new List('listing-ai-in-het-onderwijs-organisaties', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -214,62 +242,20 @@ window.Quarto = {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/china-voorbeeld.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">China - een voorbeeld?</span></a>
+  <a href="../ai-in-het-onderwijs/spinnenweb.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AI en het curriculum</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/feedbackfruits.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Feedbackfruits</span></a>
+  <a href="../ai-in-het-onderwijs/toetsing.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AI en toetsing</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/lessonup.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">LessonUp</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/gradescope.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Gradescope</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/magicschool-ai.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">MagicSchool AI</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/snappet-copilot.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Snappet Copilot</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/onzichtbare-ai.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Onzichtbare AI</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/nolai.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">NOLAI</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/kennisnet.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Kennisnet</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ai-in-het-onderwijs/ai-teach.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">AI-Teach</span></a>
+  <a href="../ai-in-het-onderwijs/herontwerp.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AI en herontwerp</span></a>
   </div>
 </li>
     </ul>
@@ -282,10 +268,12 @@ window.Quarto = {
     <h2 id="toc-title">Op deze pagina</h2>
    
   <ul>
-  <li><a href="#de-lijst-wordt-langer" id="toc-de-lijst-wordt-langer" class="nav-link active" data-scroll-target="#de-lijst-wordt-langer">De lijst wordt langer…</a></li>
-  <li><a href="#inleiding" id="toc-inleiding" class="nav-link" data-scroll-target="#inleiding">Inleiding</a></li>
+  <li><a href="#inleiding" id="toc-inleiding" class="nav-link active" data-scroll-target="#inleiding">Inleiding</a></li>
+  <li><a href="#ai-in-het-onderwijs-voor-de-movel-student" id="toc-ai-in-het-onderwijs-voor-de-movel-student" class="nav-link" data-scroll-target="#ai-in-het-onderwijs-voor-de-movel-student">AI in het onderwijs voor de MOVEL-student</a></li>
+  <li><a href="#de-lijst-wordt-langer" id="toc-de-lijst-wordt-langer" class="nav-link" data-scroll-target="#de-lijst-wordt-langer">De lijst wordt langer…</a></li>
   <li><a href="#ai-materialen-bij-edusources" id="toc-ai-materialen-bij-edusources" class="nav-link" data-scroll-target="#ai-materialen-bij-edusources">AI materialen bij Edusources</a></li>
-  <li><a href="#ai-in-het-onderwijs-voorbeelden" id="toc-ai-in-het-onderwijs-voorbeelden" class="nav-link" data-scroll-target="#ai-in-het-onderwijs-voorbeelden">AI in het onderwijs voorbeelden</a></li>
+  <li><a href="#ai-in-het-onderwijs-producten" id="toc-ai-in-het-onderwijs-producten" class="nav-link" data-scroll-target="#ai-in-het-onderwijs-producten">AI in het onderwijs producten</a></li>
+  <li><a href="#ai-in-het-onderwijs-organisaties" id="toc-ai-in-het-onderwijs-organisaties" class="nav-link" data-scroll-target="#ai-in-het-onderwijs-organisaties">AI in het onderwijs organisaties</a></li>
   </ul>
 </nav>
     </div>
@@ -312,14 +300,18 @@ window.Quarto = {
 
 
 <p><a href="media/ai-in-het-onderwijs.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="media/ai-in-het-onderwijs.png" height="200"></a></p>
-<section id="de-lijst-wordt-langer" class="level2">
-<h2 class="anchored" data-anchor-id="de-lijst-wordt-langer">De lijst wordt langer…</h2>
-<p>Voor de eerste versie van deze online module voor lesjaar 2022-2023, ontwikkeld net nadat <a href="../voorbeelden/chatgpt.html">ChatGPT</a> op de markt kwam, was het heel moeilijk om voorbeelden te vinden van toepassingen van AI die speciaal voor het onderwijs ontwikkeld waren. De lijst met voorbeelden is nog steeds korter dan de lijst <a href="../voorbeelden/index.html">voorbeelden van algemene AI</a> die je in deze module kunt vinden.</p>
-<p>En natuurlijk: AI toepassingen die niet specifiek voor het onderwijs ontwikkeld zijn, zijn vaak ook heel goed ten behoeve van het onderwijs in te zetten. Bij het <a href="../ai-in-het-onderwijs/nolai.html">Nationaal Onderwijslab AI</a> lopen inmiddels vele co-creatieprojecten waarbij scholen, wetenschappers en bedrijven samen onderwijs-AI ontwikkelen.</p>
-</section>
 <section id="inleiding" class="level2">
 <h2 class="anchored" data-anchor-id="inleiding">Inleiding</h2>
 <p>Mocht je de inleiding van de module over <a href="../inleiding/ai-onderwijs.html">AI in het onderwijs</a> nog niet gelezen hebben, dan is het goed om dat nu alsnog te doen. De video die daarin centraal staat, geeft een goed beeld van de stand van zaken rondom AI in het onderwijs. De video is van januari 2025, maar geeft nog steeds een goed beeld van de stand van zaken rondom AI in het onderwijs.</p>
+</section>
+<section id="ai-in-het-onderwijs-voor-de-movel-student" class="level2">
+<h2 class="anchored" data-anchor-id="ai-in-het-onderwijs-voor-de-movel-student">AI in het onderwijs voor de MOVEL-student</h2>
+<p>Voor jou als student bij de MOVEL zijn <a href="../voorbeelden/">voorbeelden van AI</a> en zelfs de specifieke onderwijstoepassingen hieronder op deze pagina natuurlijk interessant. Maar het is niet waar je de MOVEL voor gekozen hebt. Daarom vind je hier ook informatie over de gevolgen van <a href="../ai-in-het-onderwijs/spinnenweb.html">AI op het curriculum</a>, wat <a href="../ai-in-het-onderwijs/toetsing.html">AI betekent voor toetsing</a> en hoe je het onderwijs binnen jouw organisatie kunt <a href="../ai-in-het-onderwijs/herontwerp.html">herontwerpen</a>.</p>
+</section>
+<section id="de-lijst-wordt-langer" class="level2">
+<h2 class="anchored" data-anchor-id="de-lijst-wordt-langer">De lijst wordt langer…</h2>
+<p>Voor de eerste versie van deze online module voor lesjaar 2022-2023, ontwikkeld net nadat <a href="../voorbeelden/chatgpt.html">ChatGPT</a> op de markt kwam, was het heel moeilijk om voorbeelden te vinden van toepassingen van AI die speciaal voor het onderwijs ontwikkeld waren. De lijst met voorbeelden is nog steeds korter dan de lijst <a href="../voorbeelden/index.html">voorbeelden van algemene AI</a> die je in deze module kunt vinden.</p>
+<p>En natuurlijk: AI toepassingen die niet specifiek voor het onderwijs ontwikkeld zijn, zijn vaak ook heel goed ten behoeve van het onderwijs in te zetten. Bij het <a href="../ai-in-het-onderwijs/organisaties/nolai.html">Nationaal Onderwijslab AI</a> lopen inmiddels vele co-creatieprojecten waarbij scholen, wetenschappers en bedrijven samen onderwijs-AI ontwikkelen.</p>
 </section>
 <section id="ai-materialen-bij-edusources" class="level2">
 <h2 class="anchored" data-anchor-id="ai-materialen-bij-edusources">AI materialen bij Edusources</h2>
@@ -330,15 +322,15 @@ window.Quarto = {
 </figure>
 </div>
 <p>Op <a href="https://edusources.nl/">Edusources.nl</a> delen docenten en vakcommunity’s onderwijsmaterialen in het hoger onderwijs. Daar is inmiddels ook het nodige materiaal over kunstmatige intelligentie te vinden, zoals de <a href="https://edusources.nl/materials/2bee669c-264e-461b-af05-2f54351496d1/critical-ai-literacy-e-learning-course">cursusmaterialen van de Rijksuniversiteit Groningen</a> of deze <a href="https://edusources.nl/materials/search?filters=%5B%7B%22external_id%22:%22publishers.keyword%22,%22items%22:%5B%22HAN+University+of+Applied+Sciences%22%5D%7D%5D&amp;page=1&amp;page_size=10&amp;search_text=AI">materialen van de HAN University of Applied Sciences</a>.</p>
-<p>Samen ontwikkelen is heel belangrijk om te voorkomen dat wij in Nederland systemen ontwikkelen zoals het inmiddels <a href="../ai-in-het-onderwijs/china-voorbeeld.html">heel bekende voorbeeld uit China</a>.</p>
+<p>Samen ontwikkelen is heel belangrijk om te voorkomen dat wij in Nederland systemen ontwikkelen zoals het inmiddels <a href="../ai-in-het-onderwijs/tools/china-voorbeeld.html">heel bekende voorbeeld uit China</a>.</p>
 </section>
-<section id="ai-in-het-onderwijs-voorbeelden" class="level2">
-<h2 class="anchored" data-anchor-id="ai-in-het-onderwijs-voorbeelden">AI in het onderwijs voorbeelden</h2>
-<p>Hieronder vind je een aantal voorbeelden van producten en initiatieven op het gebied van AI in het onderwijs.</p>
+<section id="ai-in-het-onderwijs-producten" class="level2">
+<h2 class="anchored" data-anchor-id="ai-in-het-onderwijs-producten">AI in het onderwijs producten</h2>
+<p>Hieronder vind je een aantal voorbeelden van producten op het gebied van AI in het onderwijs.</p>
 <div id="listing-ai-in-het-onderwijs-voorbeelden" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1774725994621" data-listing-reading-time-sort="2" data-listing-word-count-sort="296">
-<a href="../ai-in-het-onderwijs/china-voorbeeld.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1774742461367" data-listing-reading-time-sort="2" data-listing-word-count-sort="296">
+<a href="../ai-in-het-onderwijs/tools/china-voorbeeld.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="media/screenshot-china-voorbeeld.png" class="thumbnail-image card-img" style="height: 180px;">
@@ -353,8 +345,8 @@ China voorbeeld
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1774725994621" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
-<a href="../ai-in-het-onderwijs/feedbackfruits.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1774742461367" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
+<a href="../ai-in-het-onderwijs/tools/feedbackfruits.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="media/screenshot-feedbackfruits-main.png" class="thumbnail-image card-img" style="height: 180px;">
@@ -369,8 +361,8 @@ FeedbackFruits
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1774725994621" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<a href="../ai-in-het-onderwijs/gradescope.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1774742461367" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<a href="../ai-in-het-onderwijs/tools/gradescope.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="media/screenshot-gradescope-main.png" class="thumbnail-image card-img" style="height: 180px;">
@@ -385,8 +377,8 @@ Gradescope
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1774725994621" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
-<a href="../ai-in-het-onderwijs/lessonup.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1774742461367" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
+<a href="../ai-in-het-onderwijs/tools/lessonup.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="media/screenshot-lesson-up.png" class="thumbnail-image card-img" style="height: 180px;">
@@ -401,8 +393,8 @@ LessonUp
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1774725994621" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
-<a href="../ai-in-het-onderwijs/magicschool-ai.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1774742461367" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
+<a href="../ai-in-het-onderwijs/tools/magicschool-ai.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="media/screenshot-magicschool-ai-main.png" class="thumbnail-image card-img" style="height: 180px;">
@@ -417,8 +409,64 @@ MagicSchool AI
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1774725994640" data-listing-reading-time-sort="2" data-listing-word-count-sort="347">
-<a href="../ai-in-het-onderwijs/nolai.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1774742461381" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<a href="../ai-in-het-onderwijs/tools/snappet-copilot.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left borderless">
+<p class="card-img-top">
+<img loading="lazy" src="media/screenshot-snappet-copilot-main.png" class="thumbnail-image card-img" style="height: 180px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Snappet Copilot
+</h5>
+<div class="card-text listing-description delink">
+<p>Nieuwe AI-mogelijkheden in het basisonderwijs</p>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">Geen overeenkomsten</div>
+</div>
+</section>
+<section id="ai-in-het-onderwijs-organisaties" class="level2">
+<h2 class="anchored" data-anchor-id="ai-in-het-onderwijs-organisaties">AI in het onderwijs organisaties</h2>
+<div id="listing-ai-in-het-onderwijs-organisaties" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1774742461362" data-listing-reading-time-sort="1" data-listing-word-count-sort="192">
+<a href="../ai-in-het-onderwijs/organisaties/ai-teach.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left borderless">
+<p class="card-img-top">
+<img loading="lazy" src="media/ai-teach-banner.png" class="thumbnail-image card-img" style="height: 180px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+AI Teach
+</h5>
+<div class="card-text listing-description delink">
+<p>Erasmus+ project voor leraren (in opleiding).</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1774742461362" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="../ai-in-het-onderwijs/organisaties/kennisnet.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left borderless">
+<p class="card-img-top">
+<img loading="lazy" src="media/kennisnet-banner.png" class="thumbnail-image card-img" style="height: 180px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kennisnet
+</h5>
+<div class="card-text listing-description delink">
+<p>De organisatie voor het funderend onderwijs.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1774742461367" data-listing-reading-time-sort="2" data-listing-word-count-sort="347">
+<a href="../ai-in-het-onderwijs/organisaties/nolai.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="media/screenshot-nolai-website.png" class="thumbnail-image card-img" style="height: 180px;">
@@ -433,8 +481,8 @@ NOLAI
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1774725994640" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
-<a href="../ai-in-het-onderwijs/npuls.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1774742461367" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
+<a href="../ai-in-het-onderwijs/organisaties/npuls.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="media/screenshot-npuls-ai-data-website.png" class="thumbnail-image card-img" style="height: 180px;">
@@ -445,38 +493,6 @@ NPULS
 </h5>
 <div class="card-text listing-description delink">
 <p>Community AI en Data van Npuls</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1774725994640" data-listing-reading-time-sort="2" data-listing-word-count-sort="235">
-<a href="../ai-in-het-onderwijs/onzichtbare-ai.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left borderless">
-<p class="card-img-top">
-<img loading="lazy" src="media/screenshot-onzichtbare-ai-main.png" class="thumbnail-image card-img" style="height: 180px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Onzichtbare AI
-</h5>
-<div class="card-text listing-description delink">
-<p>De AI in Microsoft 365 en Copilot</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1774725994640" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
-<a href="../ai-in-het-onderwijs/snappet-copilot.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left borderless">
-<p class="card-img-top">
-<img loading="lazy" src="media/screenshot-snappet-copilot-main.png" class="thumbnail-image card-img" style="height: 180px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Snappet Copilot
-</h5>
-<div class="card-text listing-description delink">
-<p>Nieuwe AI-mogelijkheden in het basisonderwijs</p>
 </div>
 </div>
 </div></a>
@@ -1608,8 +1624,8 @@ window.onload = function() {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../ai-in-het-onderwijs/china-voorbeeld.html" class="pagination-link" aria-label="China - een voorbeeld?">
-        <span class="nav-page-text">China - een voorbeeld?</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../ai-in-het-onderwijs/spinnenweb.html" class="pagination-link" aria-label="AI en het curriculum">
+        <span class="nav-page-text">AI en het curriculum</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
