@@ -1,0 +1,55 @@
+---
+title: "Herontwerp"
+lang: nl
+sidebar: id-ai-in-het-onderwijs
+---
+
+De komst van (generatieve) AI is geen tijdelijke storm die overwaait. Het is een fundamentele verschuiving in hoe we kennis creëren, bewerken en toetsen. Voor het onderwijs, voor studenten aan de MOVEL, betekent dit dat "losse reparaties" aan een curriculum niet langer volstaan. Dat is symptoombestrijding, tijd voor structureel herontwerp.
+
+## Vier Niveaus van Respons
+
+![](media/4-niveaus_van_respons.png){.lightbox height="200px"}
+
+We kunnen vier niveaus onderscheiden in de manier waarop een onderwijsinstelling op AI reageert: 
+
+  * **Negeren:** Doen alsof er niets veranderd is. Het risico is dat er een groeiende kloof ontstaat tussen wat de student leert en de realiteit van de buitenwereld, plus een onhoudbare toetsdruk door onzichtbaar AI-gebruik.
+  * **Verbieden:** AI wordt geweerd uit de klas en van opdrachten. Dit kan zinvol zijn bij specifieke basisvaardigheden (bijv. leren rekenen of spellen), maar als algemeen beleid is het vaak een illusie en remt het de broodnodige AI-geletterdheid.
+  * **Aanpassen:** Bestaande opdrachten worden "ge-tweakt". Bijvoorbeeld: "Je mag ChatGPT gebruiken, maar je moet de prompts bijvoegen." Dit is een begrijpelijke tussenstap, maar verandert de kern van het leren nog niet.
+  * **Herontwerpen:** De fundamentele vragen worden gesteld. Als AI dit kan, wat moeten onze studenten dan nog zélf kunnen? Hoe verandert de relatie tussen mens en machine in dit vakgebied? Dit is het domein van de MOVEL-ontwerper.
+
+Als je [het SAMR-model](https://te-learning.nl/tpack-en-samr-helder-uitgelegd/) (Substitution, Augmentation, Modification, Redefinition) kent, dan zul je de "herontwerpen" stap herkennen als gelinkt aan de Redefinition stap uit SAMR.
+
+## De Ontwerpmethode: Conjecture Mapping
+
+Voor het herontwerpen van ict-ondersteund onderwijs of onderwijs met AI kun je gebruik maken van **Conjecture Mapping** ([Sandoval, 2014](https://www.tandfonline.com/doi/abs/10.1080/10508406.2013.778204)). Deze methode dwingt je om je aannames (*conjectures*) over hoe technologie het leren ondersteunt, expliciet te maken.
+
+![](media/Conjecture_mapping_schema.jpg){.lightbox height="200px"}
+
+
+### De vier elementen voor jouw AI-ontwerp:
+
+1.  **High-level conjectures:** Welke visie op leren ligt ten grondslag aan je ontwerp?
+      * *Voorbeeld:* "Als we AI inzetten als 'Socratische tutor', dan ontwikkelen studenten diepere reflectieve vaardigheden."
+2.  **Embodiment (Vormgeving):** Welke concrete keuzes maak je? 
+    * Denk aan de tools (welke LLM?), de taakomschrijving, de participatiestructuur (individueel of in dialoog met AI) en de rol van de docent.
+3.  **Mediating processes:** Welke interacties wil je zien? 
+    * Je ontwerpt niet alleen de output, maar ook het proces. Welke vragen stelt de student aan de AI? Hoe verandert hun redenering door de feedback van de bot?
+4.  **Outcomes:** Wat is het uiteindelijke bewijs van leren? 
+    * Hoe onderscheid je de groei van de student van de geproduceerde AI-output?
+
+::: {.callout-note collapse="false"}
+## De samenhang met het spinnenweb
+Waar het [Curriculair Spinnenweb](spinnenweb.qmd) laat zien *wat* er in samenhang moet veranderen, legt de Conjecture Map uit *waarom* je verwacht dat die verandering tot leren leidt.
+:::
+
+Herontwerpen vraagt om een hoge mate van AI-geletterdheid. Je kunt pas ontwerpen met een tool als je de grenzen, de ethiek en de mechanica ervan begrijpt. 
+
+## Dialoog
+Belangrijk bij het herontwerpen is de dialoog met collega's en studenten. Antwoorden op keuzes liggen niet vast, maar zijn afhankelijk van de context en de visie op leren. Hieronder staan een aantal voorbeelden van dilemma's die je kunt gebruiken om de dialoog te starten.
+
+  * **Het Verbod:** Een school verbiedt AI voor alle schrijfopdrachten.
+      * *Vraag:* Wat betekent dit voor de authenticiteit van de taak? Bereiden we leerlingen nog wel voor op een wereld waarin professioneel schrijven bijna altijd hybride is?
+  * **De Volledige Integratie:** Een docent integreert AI volledig in een project dat studenten uitvoeren.
+      * *Vraag:* Welke draden van het spinnenweb moeten meebewegen? (Denk aan: Toetsing, Tijd, en vooral de Rol van de leraar).
+  * **AI-Proof Toetsen:** Een opleiding wil fraude voorkomen door alles on-site op papier te laten doen.
+      * *Vraag:* Is dit een duurzame oplossing, of verkleinen we hiermee de leeromgeving tot een kunstmatige bubbel?

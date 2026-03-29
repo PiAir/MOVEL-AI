@@ -116,26 +116,46 @@ website:
            text: Home
          - href: ai-in-het-onderwijs/index.qmd
            text: AI in het onderwijs
-         - href: ai-in-het-onderwijs/china-voorbeeld.qmd
+         - href: ai-in-het-onderwijs/spinnenweb.qmd
+           text: AI en het curriculum
+         - href: ai-in-het-onderwijs/toetsing.qmd
+           text: AI en toetsing
+         - href: ai-in-het-onderwijs/herontwerp.qmd
+           text: AI en herontwerp
+     - id: id-ai-in-het-onderwijs-tools
+       style: "docked"
+       search: true
+       contents:
+         - href: index.qmd
+           text: Home
+         - href: ai-in-het-onderwijs/index.qmd
+           text: AI in het onderwijs
+         - href: ai-in-het-onderwijs/tools/china-voorbeeld.qmd
            text: China - een voorbeeld?
-         - href: ai-in-het-onderwijs/feedbackfruits.qmd 
+         - href: ai-in-het-onderwijs/tools/feedbackfruits.qmd 
            text: Feedbackfruits
-         - href: ai-in-het-onderwijs/lessonup.qmd
+         - href: ai-in-het-onderwijs/tools/lessonup.qmd
            text: LessonUp
-         - href: ai-in-het-onderwijs/gradescope.qmd
+         - href: ai-in-het-onderwijs/tools/gradescope.qmd
            text: Gradescope 
-         - href: ai-in-het-onderwijs/magicschool-ai.qmd
+         - href: ai-in-het-onderwijs/tools/magicschool-ai.qmd
            text: MagicSchool AI 
-         - href: ai-in-het-onderwijs/snappet-copilot.qmd
+         - href: ai-in-het-onderwijs/tools/snappet-copilot.qmd
            text: Snappet Copilot 
-         - href: ai-in-het-onderwijs/onzichtbare-ai.qmd
-           text: Onzichtbare AI 
-         - href: ai-in-het-onderwijs/nolai.qmd
+     - id: id-ai-in-het-onderwijs-organisatie
+       style: "docked"
+       search: true
+       contents:
+         - href: index.qmd
+           text: Home
+         - href: ai-in-het-onderwijs/index.qmd
+           text: AI in het onderwijs
+         - href: ai-in-het-onderwijs/organisaties/nolai.qmd
            text: NOLAI
-         - href: ai-in-het-onderwijs/kennisnet.qmd
+         - href: ai-in-het-onderwijs/organisaties/kennisnet.qmd
            text: Kennisnet
-         - href: ai-in-het-onderwijs/ai-teach.qmd
-           text: AI-Teach
+         - href: ai-in-het-onderwijs/organisaties/ai-teach.qmd
+           text: AI-Teach                      
      - id: id-ai-geletterdheid
        style: "docked"
        search: true
