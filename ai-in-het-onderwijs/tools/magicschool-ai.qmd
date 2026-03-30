@@ -6,7 +6,7 @@ sidebar: id-ai-in-het-onderwijs-tools
 
 ![](./media/screenshot-magicschool-ai-main.png)
 
-[MagicSchool AI](https://www.magicschool.ai/) is een platform dat speciaal is ontwikkeld **door en voor leraren**. In tegenstelling tot generieke AI-tools als ChatGPT of [Claude](../voorbeelden/claude-ai.qmd), is MagicSchool gebouwd rondom concrete lerarentaken: de interface bestaat uit een bibliotheek van meer dan 60 vooraf gedefinieerde tools, elk gericht op een specifieke taak die leraren dagelijks uitvoeren.
+[MagicSchool AI](https://www.magicschool.ai/) is een platform dat speciaal is ontwikkeld **door en voor leraren**. In tegenstelling tot generieke AI-tools als ChatGPT of [Claude](/voorbeelden/claude-ai.qmd), is MagicSchool gebouwd rondom concrete lerarentaken: de interface bestaat uit een bibliotheek van meer dan 60 vooraf gedefinieerde tools, elk gericht op een specifieke taak die leraren dagelijks uitvoeren.
 
 ## Welke tools biedt MagicSchool?
 
