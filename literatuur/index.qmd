@@ -21,7 +21,7 @@ Als je op zoek bent naar een lijstje boeken over AI en onderwijs, dan kun je o.a
 ## Rapporten en magazines
 Er zijn de nodige rapporten en andere (digitale) publicaties over AI (in het onderwijs). Voor dit soort publicaties geldt dat je ze eigenlijk net zo moet behandelen als alle andere informatie op internet. Je moet je afvragen: wie heeft dit gemaakt? Wat is het doel van deze publicatie? Is het betrouwbaar? Enzovoort. Dat een publicatie mooi opgemaakt is, betekent niet dat de inhoud klopt. 
 
-In deze module kom je op een aantal plekken verwijzingen tegen naar zulke rapporten, zoals bij de informatie over [NOLAI](/ai-in-het-onderwijs/nolai.qmd), [Kennisnet](/ai-in-het-onderwijs/kennisnet.qmd) en [AI-Teach](/ai-in-het-onderwijs/ai-teach.qmd).
+In deze module kom je op een aantal plekken verwijzingen tegen naar zulke rapporten, zoals bij de informatie over [NOLAI](/ai-in-het-onderwijs/organisaties/nolai.qmd), [Kennisnet](/ai-in-het-onderwijs/organisaties/kennisnet.qmd) en [AI-Teach](/ai-in-het-onderwijs/organisaties/ai-teach.qmd).
 
 ## Wetenschappelijke publicaties
 Voor veel MOVEL-studenten is de stap naar het gebruik van wetenschappelijke publicaties een lastige. Dat zijn teksten die geschreven zijn door onderzoekers voor onderzoeker. Meestal in het Engels, vaak met een heel eigen vocabulaire en een heel eigen manier van argumenteren.

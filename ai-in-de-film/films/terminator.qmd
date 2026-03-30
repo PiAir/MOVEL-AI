@@ -15,7 +15,7 @@ bread-crumbs: true
 css: ../films-style.css
 ---
 
-{{< include ../media/template.qmd >}}
+{{< include ../media/_template.qmd >}}
 
 ## Trailer
 

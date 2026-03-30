@@ -73,7 +73,7 @@ website:
          - href: inleiding/wat-is-ai.qmd         
            text: Wat is AI?
          - href: inleiding/ai-onderwijs.qmd
-           text: AI in het onderwijs
+           text: Overzichtsvideo
          - href: inleiding/ai-overheid.qmd
            text: AI bij de overheid
      - id: id-de-mens-en-ai

@@ -5,36 +5,37 @@ sidebar: id-inleiding
 ---
 ![](media/inleiding.png){.img-fluid .rounded}
 
-Welkom bij de inleiding van de module MOVEL AI. In dit gedeelte leggen we de basis voor je begrip van Kunstmatige Intelligentie en de impact ervan op het onderwijs en de samenleving.
-
 ## Waar beginnen?
 
-Is het onderwerp helemaal nieuw voor je, dan is het goed om te beginnen met [Wat is AI?](wat-is-ai.qmd). Heb je al enige kennis van AI, dan kun je ook direct doorgaan naar een van de andere onderwerpen. De overzichtvideo **[AI in het Onderwijs](./ai-onderwijs.qmd)** (editie 2025) geeft een goede samenvatting van het onderwerp als je liever kijkt en luistert dan leest. 
-Op de pagina  **[AI bij de Overheid](./ai-overheid.qmd)** lees je hoe de publieke sector AI inzet. Hoewel de lijst met voorbeelden van [AI in het onderwijs](/ai-in-het-onderwijs) zoals die binnen deze module is opgenomen, inmiddels al flink uitgebreider is, is het goed om ook bij andere sectoren te kijken. Kijk voor de link tussen learning analytics (uit jaar 1) en AI ook eens op de pagina over [data-ondersteund onderwijs](./data-ondersteund-onderwijs.qmd).
+Is het onderwerp helemaal nieuw voor je, dan is het goed om te beginnen met [Wat is AI?](wat-is-ai.qmd). Heb je al enige kennis van AI, dan kun je ook direct doorgaan naar een van de andere onderwerpen. De **[overzichtvideo](/inleiding/ai-onderwijs.qmd)** (editie 2025) geeft een goede samenvatting van het onderwerp als je liever kijkt en luistert dan leest. 
+
+Op de pagina  **[AI bij de Overheid](/inleiding/ai-overheid.qmd)** lees je hoe de publieke sector AI inzet. Hoewel de informatie specifiek voor het onderwijs inmiddels al flink uitgebreid is, is het goed om ook bij andere sectoren te kijken.
 
 ## Nog meer inspiratie nodig?
 
 Wil je nog meer inspiratie opdoen over AI, kijk dan eens naar de volgende video's:
 
-- **[NOS op 3](./nos-op-3.qmd)** — Actuele uitlegvideo's.
-- **[Het Klokhuis](./klokhuis.qmd)** — Niet alleen voor kinderen.
-- **[Lubach over AI](./lubach.qmd)** — Love him or hate him, hij kan het best goed uitleggen.
+- **[NOS op 3](/inleiding/nos-op-3.qmd)** — Actuele uitlegvideo's.
+- **[Het Klokhuis](/inleiding/klokhuis.qmd)** — Niet alleen voor kinderen.
+- **[Lubach over AI](/inleiding/lubach.qmd)** — Love him or hate him, hij kan het best goed uitleggen.
 
-En mocht je honger daarna nóg niet gestild zijn, dan is er nog een [overzicht](/ai-geletterdheid/experimenteren.qmd) van (online) cursussen en mogelijkheden tot professionalisering in het AI-geletterdheid onderdeel van deze module. 
-Ter ondersteuning van je bredere beeldvorming over AI kun je ook kijken naar de [films](/ai-in-de-film) waar AI een rol in speelt.
+Mocht je honger daarna nóg niet gestild zijn, dan is er nog een [overzicht](/ai-geletterdheid/experimenteren.qmd) van (online) cursussen en mogelijkheden tot professionalisering in het AI-geletterdheid onderdeel van deze module. 
+Ter ondersteuning van je bredere beeldvorming over AI kun je ook kijken naar de [films](/ai-in-de-film/index.qmd) waar AI een rol in speelt.
 
 ## Verdieping
 
 Daarna zijn er nog meer mogelijkheden om je kennis over AI te verdiepen binnen deze module:
 
-- **[AI-geletterdheid](/ai-geletterdheid/)** - Hoe kunnen we docenten, studenten, leidinggevenden voorbereiden op een toekomst met AI?
-- **[De mens en AI](/de-mens-en-ai/)** - Hoe zorgen we voor duurzame, betrouwbare AI waarbij de mens centraal blijft staan?
+- **[De mens en AI](/de-mens-en-ai/index.qmd)** - Hoe zorgen we voor duurzame, betrouwbare AI waarbij de mens centraal blijft staan?
 - **[Slecht voor je creativiteit?](./creativiteit.qmd)** — Is AI een bedreiging of verrijking?
-- **[Literatuur](/literatuur)** - Waar kan ik bewijs vinden over wat werkt?
+- **[Literatuur](/literatuur/index.qmd)** - Waar kan ik bewijs vinden over wat werkt?
+- **[AI-geletterdheid](/ai-geletterdheid/index.qmd)** - Hoe kunnen we docenten, studenten, leidinggevenden voorbereiden op een toekomst met AI?
+- Hoe hangen **AI en learning analytics** samen is een vraag die aan bod komt op de pagina over [data-ondersteund onderwijs](/inleiding/data-ondersteund-onderwijs.qmd). Dit onderwerp is in jaar 1 van MOVEL aan bod gekomen.
+- Kijk bij **[AI in het onderwijs](/ai-in-het-onderwijs/index.qmd)** voor de verdieping op het gebied van AI in het onderwijs.
 
 ## Testen
 
-En weet je nu echt alles over AI? Dan is het tijd om te testen of je het ook echt kunt: [Test jezelf](/toets-jezelf.qmd)!
+En weet je dan toch echt alles over AI? Dan is het tijd om te testen of je het ook echt kunt: [Test jezelf](/toets-jezelf.qmd)!
 
 
 

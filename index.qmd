@@ -5,9 +5,7 @@ sidebar: id-default
 ---
 ![](media/MOVEL-banner.png)
 
-Welkom bij deze online module over AI en Onderwijs.
-Deze module is onderdeel van de [HAN Master Ontwerpen Van Eigentijds Leren](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/) (MOVEL).
+Deze module is onderdeel van de HAN Master Ontwerpen van Eigentijds Leren ([MOVEL](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/)).
 
-Gebruik het menu aan de linkerkant om door de verschillende onderwerpen te navigeren. De **[♥ Start hier](start-hier/)** link leidt je door de module.
-
-Veel plezier met het ontdekken van AI en Onderwijs!
+Gebruik het menu aan de linkerkant van je scherm om door de verschillende onderwerpen te navigeren. Of het uitklapmenu als je de inhoud op een telefoon bekijkt.
+De **[♥ Start hier](start-hier/index.qmd)** pagina leidt je door de module.

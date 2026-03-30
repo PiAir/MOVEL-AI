@@ -1,10 +1,10 @@
 ---
-title: "AI in het onderwijs (2025)"
+title: "Overzichtsvideo (2025)"
 lang: nl
 sidebar: id-inleiding
 ---
 
-De ontwikkelingen in 2025 laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.
+De ontwikkelingen afgelopen jaren laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.
 
 {{< private-video OV7_hDo3yWY >}}
 
