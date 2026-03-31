@@ -62,15 +62,13 @@ Een enorme hoeveelheid lesmaterialen rond AI als je het niet erg vindt om in het
 
 Afspeellijst met 21 video's over Kunstmatige Intelligentie en Machine Learning. In het Engels, soms een beetje flauw, maar meestal heel leuk, interessant en laagdrempelig.
 
-
-{{< video https://www.youtube-nocookie.com/embed/videoseries?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b >}}
+{{< private-video GvYYFloV0aA >}}
 
 ## Wat is een Neuraal Netwerk?
 
 De video is al ruim 8 (!) jaar oud, maar nog steeds een mooie video die uitlegt hoe een computer met behulp van een neuraal netwerk een handgeschreven cijfer kan herkennen:
 
-
-{{< video https://www.youtube.com/embed/aircAruvnKk >}}
+{{< private-video aircAruvnKk >}}
 
 Wil je liever lezen? Dat kan ook [op de website van 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks). De vervolgvideo's worden snel veel technischer dan dat je waarschijnlijk wilt weten.
 

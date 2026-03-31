@@ -22,7 +22,6 @@ format:
 
 website:
   title: "MOVEL AI 2025-2026"
-  repo-actions: false
   site-url: ""
   favicon: "media/MOVEL-icon.png"
   bread-crumbs: true
