@@ -45,19 +45,19 @@ website:
            text: ♥ Start hier           
          - href: inleiding/index.qmd
            text: Inleiding
-         - href: ai-geletterdheid/
+         - href: ai-geletterdheid/index.qmd
            text: AI-geletterdheid           
-         - href: voorbeelden/
+         - href: voorbeelden/index.qmd
            text: Voorbeelden van AI
-         - href: ai-in-het-onderwijs/
+         - href: ai-in-het-onderwijs/index.qmd
            text: AI in het onderwijs
-         - href: vibecoding/
+         - href: vibecoding/index.qmd
            text: Vibecoding
-         - href: literatuur/
+         - href: literatuur/index.qmd
            text: Literatuur
-         - href: de-mens-en-ai/
+         - href: de-mens-en-ai/index.qmd
            text: De mens en AI 
-         - href: ai-in-de-film/
+         - href: ai-in-de-film/index.qmd
            text: AI in de film 
          - href: toets-jezelf.qmd
            text: Test Jezelf!
