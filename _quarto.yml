@@ -175,8 +175,6 @@ website:
                text: Antigravity
              - href: voorbeelden/openclaw.qmd
                text: OpenClaw
-
-
      - id: id-ai-in-het-onderwijs
        style: "docked"
        search: true
