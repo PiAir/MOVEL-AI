@@ -9,6 +9,8 @@ sidebar: id-default
 Deze module is initieel in 2023 ontwikkeld door [Pierre Gorissen](https://www.ixperium.nl/over-ons/medewerkers/pierre-gorissen/) en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content.
 De eerste versie van de module zijn gemaakt in de open source leeromgeving [Xerte](https://xerte.org.uk/index.php/en/). De inhoud van de module is in 2026 geconverteerd naar [Quarto](https://quarto.org/), een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.
 
+Deze versie is voor het laatst bijgewerkt op {{< modified "%d-%m-%Y" >}}
+
 ## Privacy
 
 Deze module verzamelt anonieme gebruiksinformatie ten behoeve van gebruiksanalyse via xAPI. Er worden geen naar personen herleidbare gegevens verzameld. De broncode die je download bevat géén trackingcodes, geen "call home" functionaliteit of iets dergelijks. De xapi-functionaliteit wordt alleen geactiveerd als de module met het _quarto-production.yml profiel wordt gerenderd. In de map xapi staat ook een voorbeeld van een PHP-proxy die door het .js-bestand gebruikt kan worden. Nogmaals, de functionaliteit is optioneel en wordt alleen geactiveerd als je er zelf voor kiest.

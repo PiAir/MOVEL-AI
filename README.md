@@ -25,7 +25,19 @@ Om de module lokaal te bekijken of te bouwen, heb je Quarto nodig.
 
 1.  Installeer Quarto van [quarto.org](https://quarto.org/docs/get-started/).
 2.  Clone deze repository.
-3.  Gebruik de volgende commando's in de terminal:
+3.  Installeer de volgende R libraries als je die nog niet hebt:
+
+```r
+install.packages(c("rmarkdown", "knitr", "exams2forms"))
+```
+
+4.  Installeer de benodigde extensies:
+
+```bash
+quarto add gadenbuie/now
+```
+
+4.  Gebruik de volgende commando's in de terminal:
 
 ```bash
 # Preview de website lokaal
@@ -35,7 +47,7 @@ quarto preview
 quarto render
 ```
 
-De website wordt standaard gerenderd naar de `docs` map, die geconfigureerd is voor hosting via GitHub Pages.
+De website wordt standaard gerenderd naar de `docs` map.
 
 ## Realisatie en Licentie
 
