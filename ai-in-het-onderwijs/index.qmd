@@ -1,5 +1,5 @@
 ---
-title: "Onderwijs AI"
+title: "AI in het Onderwijs"
 lang: nl
 sidebar: id-ai-in-het-onderwijs
 listing:
@@ -39,7 +39,7 @@ En natuurlijk: AI toepassingen die niet specifiek voor het onderwijs ontwikkeld 
 
 ## AI materialen bij Edusources
 
-![Edusources](/voorbeelden/media/edusources.png)
+![Edusources](/ai-in-het-onderwijs/media/edusources.png)
 
 Op [Edusources.nl](https://edusources.nl/) delen docenten en vakcommunity's onderwijsmaterialen in het hoger onderwijs. Daar is inmiddels ook het nodige materiaal over kunstmatige intelligentie te vinden, zoals de [cursusmaterialen van de Rijksuniversiteit Groningen](https://edusources.nl/materials/2bee669c-264e-461b-af05-2f54351496d1/critical-ai-literacy-e-learning-course) of deze [materialen van de HAN University of Applied Sciences](https://edusources.nl/materials/search?filters=[{%22external_id%22:%22publishers.keyword%22,%22items%22:[%22HAN+University+of+Applied+Sciences%22]}]&page=1&page_size=10&search_text=AI).
 

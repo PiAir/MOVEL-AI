@@ -107,7 +107,76 @@ website:
            text: Home 
          - href: voorbeelden/index.qmd
            text: Voorbeelden van AI                             
-         - auto: "voorbeelden/*.qmd"
+         - section: "Chatten"
+           contents:
+             - href: voorbeelden/chatgpt.qmd
+               text: ChatGPT
+             - href: voorbeelden/claude-ai.qmd
+               text: Claude AI
+             - href: voorbeelden/gemini.qmd
+               text: Gemini
+             - href: voorbeelden/copilot.qmd
+               text: Copilot
+             - href: voorbeelden/gpt-nl.qmd
+               text: GPT-NL
+         - section: "Schrijven"
+           contents:
+             - href: voorbeelden/deepl.qmd
+               text: DeepL
+             - href: voorbeelden/grammarly.qmd
+               text: Grammarly  
+         - section: "Afbeeldingen"
+           contents:
+             - href: voorbeelden/nano-banana.qmd
+               text: Nano Banana 2
+             - href: voorbeelden/midjourney.qmd
+               text: Midjourney
+             - href: voorbeelden/this-does-not-exist.qmd
+               text: This [..] Does Not Exist
+             - href: voorbeelden/magic-eraser.qmd
+               text: Magic Eraser
+         - section: "Audio"
+           contents:
+             - href: voorbeelden/elevenlabs.qmd
+               text: Elevenlabs
+             - href: voorbeelden/whisper.qmd
+               text: Whisper
+             - href: voorbeelden/suno.qmd
+               text: Suno
+         - section: "Video"
+           contents:
+             - href: voorbeelden/veo.qmd
+               text: Gemini Veo 3.1
+             - href: voorbeelden/runway-ml.qmd
+               text: Runway ML
+             - href: voorbeelden/invideo-ai.qmd
+               text: Invideo AI
+             - href: voorbeelden/heygen.qmd
+               text: HeyGen
+             - href: voorbeelden/synthesia.qmd
+               text: Synthesia
+             - href: voorbeelden/wav2lip.qmd
+               text: Wav2Lip
+         - section: "Onderzoek"
+           contents:
+             - href: voorbeelden/notebooklm.qmd
+               text: NotebookLM
+             - href: voorbeelden/perplexity.qmd
+               text: Perplexity AI  
+         - section: "Technisch"
+           contents:
+             - href: voorbeelden/ai-studio.qmd
+               text: AI-Studio
+             - href: voorbeelden/teachable-machine.qmd
+               text: Teachable Machine
+             - href: voorbeelden/claude-code.qmd
+               text: Claude Code
+             - href: voorbeelden/antigravity.qmd
+               text: Antigravity
+             - href: voorbeelden/openclaw.qmd
+               text: OpenClaw
+
+
      - id: id-ai-in-het-onderwijs
        style: "docked"
        search: true
