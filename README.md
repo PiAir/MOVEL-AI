@@ -2,8 +2,6 @@
 
 Deze repository bevat de bronbestanden van de online module **AI en Onderwijs**. Deze module is onderdeel van de [HAN Master Ontwerpen Van Eigentijds Leren](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/) (MOVEL).
 
-De huidige versie van de module is voor het laatst bijgewerkt op **{{< modified "%d-%m-%Y" >}}**
-
 ## Over deze module
 
 Deze module biedt een gestructureerd overzicht van de ontwikkelingen rondom AI in een educatieve context. De inhoud is thematisch opgezet en bedoeld voor docenten, studenten van lerarenopleidingen en onderwijsprofessionals.
