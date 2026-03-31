@@ -7,7 +7,8 @@ Thumbs.db
 **/*.quarto_ipynb
 
 # SCORM output en hulpscripts
-scripts/
+scripts/*
+!scripts/build_zip.py
 releases/
 
 /.luarc.json
