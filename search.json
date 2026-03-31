@@ -2284,18 +2284,28 @@
     ]
   },
   {
-    "objectID": "voorbeelden/openClaw.html#wat-is-openclaw",
-    "href": "voorbeelden/openClaw.html#wat-is-openclaw",
+    "objectID": "voorbeelden/openclaw.html#wat-is-openclaw",
+    "href": "voorbeelden/openclaw.html#wat-is-openclaw",
     "title": "OpenClaw",
     "section": "Wat is OpenClaw?",
-    "text": "Wat is OpenClaw?\nOpenClaw is een gratis, opensource, zelfgehoste autonome AI-agent (voorheen Clawdbot/Moltbot) ontwikkeld door Peter Steinberger, die taken uitvoert via grote taalmodellen (LLM’s). Het fungeert als een persoonlijke assistent die via chat-apps zoals WhatsApp en Telegram e-mails beheert, agenda’s bijhoudt en acties op je computer uitvoert. Het project zag het daglicht in de loop van 2025 onder de naam Clawdbot. Maar omdat Anthropic een product had met een vergelijkbare naam, werd de naam al snel veranderd in eerst Moltbot en daarna in OpenClaw. Begin 2026 ging het project viraal en begonnen mensen massaal hun eigen agent te hosten. Tegelijkertijd kwamen er ook wel de nodige berichten over beveiligingsrisico’s. Ook kwamen er de nodige varianten op het project die vergelijkbare functionaliteiten boden, maar compacter of veiliger waren.\nUitgebreide uitleg over OpenClaw: ▶Klik om video te startenBekijk op YouTube\nen ook Moltbook: ▶Klik om video te startenBekijk op YouTube\nMoraal van dit verhaal (van deze video’s): niet té serieus nemen allemaal. Ik schreef begin 2026 een blog over OpenClaw en Moltbook."
+    "text": "Wat is OpenClaw?\nOpenClaw is een gratis, opensource, zelfgehoste autonome AI-agent (voorheen Clawdbot/Moltbot) ontwikkeld door Peter Steinberger, die taken uitvoert via grote taalmodellen (LLM’s). Het fungeert als een persoonlijke assistent die via chat-apps zoals WhatsApp en Telegram e-mails beheert, agenda’s bijhoudt en acties op je computer uitvoert. Het project zag het daglicht in de loop van 2025 onder de naam Clawdbot. Maar omdat Anthropic een product had met een vergelijkbare naam, werd de naam al snel veranderd in eerst Moltbot en daarna in OpenClaw. Begin 2026 ging het project viraal en begonnen mensen massaal hun eigen agent te hosten. Tegelijkertijd kwamen er ook wel de nodige berichten over beveiligingsrisico’s. Ook kwamen er de nodige varianten op het project die vergelijkbare functionaliteiten boden, maar compacter of veiliger waren.\nUitgebreide uitleg over OpenClaw: ▶Klik om video te startenBekijk op YouTube\nen ook Moltbook: ▶Klik om video te startenBekijk op YouTube\nMoraal van dit verhaal (van deze video’s): niet té serieus nemen allemaal. Ik schreef begin 2026 een blog over OpenClaw en Moltbook.",
+    "crumbs": [
+      "Over deze module",
+      "Technisch",
+      "OpenClaw"
+    ]
   },
   {
-    "objectID": "voorbeelden/openClaw.html#goed-idee",
-    "href": "voorbeelden/openClaw.html#goed-idee",
+    "objectID": "voorbeelden/openclaw.html#goed-idee",
+    "href": "voorbeelden/openclaw.html#goed-idee",
     "title": "OpenClaw",
     "section": "Goed idee?",
-    "text": "Goed idee?\nKorte antwoord: nee.\nLange antwoord: als je toe bent aan het experimenteren met OpenClaw, dan is deze module waarschijnlijk veel te simpel voor je of was je niet echt de doelgroep. Maar, het is wel een voorbeeld van waar het naartoe kan gaan met AI-assistenten. Zie ook de inleiding over AI in het onderwijs. Het is interssant als onderdeel van de discussie over hoeveel controle we uit handen willen geven, hoe autonoom we AI voor ons aan de slag willen, durven, moeten laten gaan. In het onderwijs zou een conclusie voor nu in ieder geval zijn: te wild en te spannend. Tenzij je een echt beschermde omgeving creëert. Maar dus zeker niet op de laptop van de docent, in het schoolnetwerk, met toegang tot data van studenten."
+    "text": "Goed idee?\nKorte antwoord: nee.\nLange antwoord: als je toe bent aan het experimenteren met OpenClaw, dan is deze module waarschijnlijk veel te simpel voor je of was je niet echt de doelgroep. Maar, het is wel een voorbeeld van waar het naartoe kan gaan met AI-assistenten. Zie ook de inleiding over AI in het onderwijs. Het is interssant als onderdeel van de discussie over hoeveel controle we uit handen willen geven, hoe autonoom we AI voor ons aan de slag willen, durven, moeten laten gaan. In het onderwijs zou een conclusie voor nu in ieder geval zijn: te wild en te spannend. Tenzij je een echt beschermde omgeving creëert. Maar dus zeker niet op de laptop van de docent, in het schoolnetwerk, met toegang tot data van studenten.",
+    "crumbs": [
+      "Over deze module",
+      "Technisch",
+      "OpenClaw"
+    ]
   },
   {
     "objectID": "voorbeelden/runway-ml.html",
