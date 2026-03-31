@@ -9,7 +9,7 @@ format:
   html:
     link-external-newwindow: true
     link-external-icon: true  
-    link-external-filter: '^(?:http:|https:)\/\/cdn\.lrn4life\.org\/AI-2025-2026\/'
+    link-external-filter: '^(?:http:|https:)\/\/(cdn\.lrn4life\.org|leren\.han\.nl)\/'
     lightbox: auto
     toc: true
     theme:
