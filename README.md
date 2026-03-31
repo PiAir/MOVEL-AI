@@ -1,6 +1,8 @@
 # MOVEL AI 2025-2026
 
-Welkom bij de bronbestanden van de online module **AI en Onderwijs**. Deze module is onderdeel van de [HAN Master Ontwerpen Van Eigentijds Leren](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/) (MOVEL).
+Deze repository bevat de bronbestanden van de online module **AI en Onderwijs**. Deze module is onderdeel van de [HAN Master Ontwerpen Van Eigentijds Leren](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/) (MOVEL).
+
+De huidige versie van de module is voor het laatst bijgewerkt op **{{< modified "%d-%m-%Y" >}}**
 
 ## Over deze module
 
@@ -10,7 +12,7 @@ Deze module biedt een gestructureerd overzicht van de ontwikkelingen rondom AI i
 - **Inleiding**: Basisconcepten en de impact van AI op de samenleving.
 - **AI-geletterdheid**: Wat moeten docenten, studenten en leidinggevenden weten en kunnen?
 - **Voorbeelden van AI**: Een verzameling actuele tools en hun toepassingen.
-- **AI in het onderwijs**: Specifieke use-cases en ontwikkelingen binnen de sector.
+- **AI in het onderwijs**: Wat betekent AI voor het onderwijs?
 - **Vibecoding**: Essentiële vaardigheden voor de toekomst?
 - **Literatuur**: Waar vind je meer informatie over AI en onderwijs?
 - **De mens en AI**: Ethische vraagstukken, wetgeving (AI Act) en bias.
@@ -19,9 +21,10 @@ Deze module biedt een gestructureerd overzicht van de ontwikkelingen rondom AI i
 ## Techniek: Quarto
 
 Deze module is gebouwd met [Quarto](https://quarto.org/), een open source auteurssysteem gebaseerd op Markdown. Dit maakt het eenvoudig om de bronbestanden te bewerken en de module statisch te renderen als website.
+Een exemplaar van de meest recente versie kun je downloaden via het "releases" tabblad hier op github.
 
 ### Lokaal renderen
-Om de module lokaal te bekijken of te bouwen, heb je Quarto nodig.
+Om de module lokaal te bewerken of te bouwen, heb je Quarto nodig.
 
 1.  Installeer Quarto van [quarto.org](https://quarto.org/docs/get-started/).
 2.  Clone deze repository.
