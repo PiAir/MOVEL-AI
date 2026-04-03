@@ -84,6 +84,14 @@ website:
                 text: "DeepL"
               - href: voorbeelden/grammarly.qmd
                 text: "Grammarly"
+          - section: "Presentaties"
+            contents:
+              - href: voorbeelden/gamma.qmd
+                text: "Gamma.app"
+              - href: voorbeelden/canva-ai.qmd
+                text: "Canva AI"
+              - href: voorbeelden/napkin-ai.qmd
+                text: "Napkin AI"
           - section: "Afbeeldingen"
             contents:
               - href: voorbeelden/nano-banana.qmd
