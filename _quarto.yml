@@ -171,6 +171,8 @@ website:
                 text: "NOLAI"
               - href: ai-in-het-onderwijs/organisaties/kennisnet.qmd
                 text: "Kennisnet"
+              - href: ai-in-het-onderwijs/organisaties/npuls.qmd
+                text: "Npuls"
               - href: ai-in-het-onderwijs/organisaties/ai-teach.qmd
                 text: "AI-Teach"
       - href: literatuur/index.qmd
