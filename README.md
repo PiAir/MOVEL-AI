@@ -6,6 +6,8 @@ Deze repository bevat de bronbestanden van de online module **AI en Onderwijs**.
 
 Deze module biedt een gestructureerd overzicht van de ontwikkelingen rondom AI in een educatieve context. De inhoud is thematisch opgezet en bedoeld voor docenten, studenten van lerarenopleidingen en onderwijsprofessionals.
 
+![screenshot van de module - versie 3-4-2026](media/screenshot-module.png)
+
 ### Inhoud van de module
 - **Inleiding**: Basisconcepten en de impact van AI op de samenleving.
 - **AI-geletterdheid**: Wat moeten docenten, studenten en leidinggevenden weten en kunnen?
