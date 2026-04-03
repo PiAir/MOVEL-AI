@@ -4,9 +4,6 @@ lang: nl
 sidebar: id-inleiding
 ---
 
-
-## Hoedan NPO3: Verlies ik mijn creativiteit door AI? 
-
 Worden we minder creatief nu alles kan met AI? Folkert worstelt met die vraag.
 
 {{< private-video KA_tOaZLHL8 >}}

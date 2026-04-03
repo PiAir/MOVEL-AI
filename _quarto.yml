@@ -34,212 +34,162 @@ website:
       - href: colofon.qmd
         text: Over deze module
   sidebar:
-     - id: id-default
-       logo: "media/MOVEL-icon.png"  
-       style: "docked"
-       search: true
-       side-item-toggle: true
-       contents:        
-         - href: index.qmd
-           text: Home
-         - href: start-hier/index.qmd
-           text: ♥ Start hier           
-         - href: inleiding/index.qmd
-           text: Inleiding
-         - href: ai-geletterdheid/index.qmd
-           text: AI-geletterdheid           
-         - href: voorbeelden/index.qmd
-           text: Voorbeelden van AI
-         - href: ai-in-het-onderwijs/index.qmd
-           text: AI in het onderwijs
-         - href: vibecoding/index.qmd
-           text: Vibecoding
-         - href: literatuur/index.qmd
-           text: Literatuur
-         - href: de-mens-en-ai/index.qmd
-           text: De mens en AI 
-         - href: ai-in-de-film/index.qmd
-           text: AI in de film 
-         - href: toets-jezelf.qmd
-           text: Test Jezelf!
-
-     - id: id-inleiding
-       style: "docked"
-       search: true
-       contents:
-         - href: index.qmd
-           text: Home
-         - href: inleiding/index.qmd
-           text: Inleiding
-         - href: inleiding/wat-is-ai.qmd         
-           text: Wat is AI?
-         - href: inleiding/ai-onderwijs.qmd
-           text: Overzichtsvideo
-         - href: inleiding/ai-overheid.qmd
-           text: AI bij de overheid
-     - id: id-de-mens-en-ai
-       style: "docked"
-       search: true
-       contents:
-         - href: index.qmd
-           text: Home
-         - href: de-mens-en-ai/index.qmd
-           text: De mens en AI
-         - href: de-mens-en-ai/mens-en-technologie.qmd
-           text: De mens centraal? 
-         - href: de-mens-en-ai/betalen-voor-ai.qmd
-           text: Betalen voor AI 
-         - href: de-mens-en-ai/ethiek-en-richtlijnen.qmd
-           text: Ethiek en Richtlijnen
-         - href: de-mens-en-ai/ai-act.qmd
-           text: De AI-Act
-         - href: de-mens-en-ai/coded-bias.qmd
-           text: Coded Bias
-         - href: de-mens-en-ai/bias-praktijkvoorbeelden.qmd
-           text: Bias in de praktijk
-         - href: de-mens-en-ai/responsible-ai.qmd
-           text: Responsible AI
-
-     - id: id-voorbeelden
-       style: "docked"
-       search: true
-       contents:        
-         - href: index.qmd
-           text: Home 
-         - href: voorbeelden/index.qmd
-           text: Voorbeelden van AI                             
-         - section: "Chatten"
-           contents:
-             - href: voorbeelden/chatgpt.qmd
-               text: ChatGPT
-             - href: voorbeelden/claude-ai.qmd
-               text: Claude AI
-             - href: voorbeelden/gemini.qmd
-               text: Gemini
-             - href: voorbeelden/copilot.qmd
-               text: Copilot
-             - href: voorbeelden/gpt-nl.qmd
-               text: GPT-NL
-         - section: "Schrijven"
-           contents:
-             - href: voorbeelden/deepl.qmd
-               text: DeepL
-             - href: voorbeelden/grammarly.qmd
-               text: Grammarly  
-         - section: "Afbeeldingen"
-           contents:
-             - href: voorbeelden/nano-banana.qmd
-               text: Nano Banana 2
-             - href: voorbeelden/midjourney.qmd
-               text: Midjourney
-             - href: voorbeelden/this-does-not-exist.qmd
-               text: This [..] Does Not Exist
-             - href: voorbeelden/magic-eraser.qmd
-               text: Magic Eraser
-         - section: "Audio"
-           contents:
-             - href: voorbeelden/elevenlabs.qmd
-               text: Elevenlabs
-             - href: voorbeelden/whisper.qmd
-               text: Whisper
-             - href: voorbeelden/suno.qmd
-               text: Suno
-         - section: "Video"
-           contents:
-             - href: voorbeelden/veo.qmd
-               text: Gemini Veo 3.1
-             - href: voorbeelden/runway-ml.qmd
-               text: Runway ML
-             - href: voorbeelden/invideo-ai.qmd
-               text: Invideo AI
-             - href: voorbeelden/heygen.qmd
-               text: HeyGen
-             - href: voorbeelden/synthesia.qmd
-               text: Synthesia
-             - href: voorbeelden/wav2lip.qmd
-               text: Wav2Lip
-         - section: "Onderzoek"
-           contents:
-             - href: voorbeelden/notebooklm.qmd
-               text: NotebookLM
-             - href: voorbeelden/perplexity.qmd
-               text: Perplexity AI  
-         - section: "Technisch"
-           contents:
-             - href: voorbeelden/ai-studio.qmd
-               text: AI-Studio
-             - href: voorbeelden/teachable-machine.qmd
-               text: Teachable Machine
-             - href: voorbeelden/claude-code.qmd
-               text: Claude Code
-             - href: voorbeelden/antigravity.qmd
-               text: Antigravity
-             - href: voorbeelden/openclaw.qmd
-               text: OpenClaw
-     - id: id-ai-in-het-onderwijs
-       style: "docked"
-       search: true
-       contents:
-         - href: index.qmd
-           text: Home
-         - href: ai-in-het-onderwijs/index.qmd
-           text: AI in het onderwijs
-         - href: ai-in-het-onderwijs/spinnenweb.qmd
-           text: AI en het curriculum
-         - href: ai-in-het-onderwijs/toetsing.qmd
-           text: AI en toetsing
-         - href: ai-in-het-onderwijs/herontwerp.qmd
-           text: AI en herontwerp
-     - id: id-ai-in-het-onderwijs-tools
-       style: "docked"
-       search: true
-       contents:
-         - href: index.qmd
-           text: Home
-         - href: ai-in-het-onderwijs/index.qmd
-           text: AI in het onderwijs
-         - href: ai-in-het-onderwijs/tools/china-voorbeeld.qmd
-           text: China - een voorbeeld?
-         - href: ai-in-het-onderwijs/tools/feedbackfruits.qmd 
-           text: Feedbackfruits
-         - href: ai-in-het-onderwijs/tools/lessonup.qmd
-           text: LessonUp
-         - href: ai-in-het-onderwijs/tools/gradescope.qmd
-           text: Gradescope 
-         - href: ai-in-het-onderwijs/tools/magicschool-ai.qmd
-           text: MagicSchool AI 
-         - href: ai-in-het-onderwijs/tools/snappet-copilot.qmd
-           text: Snappet Copilot 
-     - id: id-ai-in-het-onderwijs-organisatie
-       style: "docked"
-       search: true
-       contents:
-         - href: index.qmd
-           text: Home
-         - href: ai-in-het-onderwijs/index.qmd
-           text: AI in het onderwijs
-         - href: ai-in-het-onderwijs/organisaties/nolai.qmd
-           text: NOLAI
-         - href: ai-in-het-onderwijs/organisaties/kennisnet.qmd
-           text: Kennisnet
-         - href: ai-in-het-onderwijs/organisaties/ai-teach.qmd
-           text: AI-Teach                      
-     - id: id-ai-geletterdheid
-       style: "docked"
-       search: true
-       contents:
-         - href: index.qmd
-           text: Home
-         - href: ai-geletterdheid/index.qmd
-           text: Wat is AI-geletterdheid?
-         - href: ai-geletterdheid/docentcompetenties.qmd
-           text: Docentcompetenties
-         - href: ai-geletterdheid/studentcompetenties.qmd
-           text: Studentcompetenties
-         - href: ai-geletterdheid/leidinggevendencompetenties.qmd
-           text: Competenties leidinggevenden
-         - href: ai-geletterdheid/experimenteren.qmd
-           text: Experimenteren en professionaliseren
+    style: "docked"
+    search: true
+    logo: "media/MOVEL-icon.png"
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: "🏠 Home"
+      - href: start-hier/index.qmd
+        text: "🎯 Start hier"
+      - section: "📖 Inleiding"
+        href: inleiding/index.qmd
+        contents:
+          - href: inleiding/wat-is-ai.qmd         
+            text: "Wat is AI?"
+          - href: inleiding/ai-onderwijs.qmd
+            text: "Overzichtsvideo"
+          - href: inleiding/ai-overheid.qmd
+            text: "AI bij de overheid"
+      - section: "🧠 AI-geletterdheid"
+        href: ai-geletterdheid/index.qmd
+        contents:
+          - href: ai-geletterdheid/docentcompetenties.qmd
+            text: "Docentcompetenties"
+          - href: ai-geletterdheid/studentcompetenties.qmd
+            text: "Studentcompetenties"
+          - href: ai-geletterdheid/leidinggevendencompetenties.qmd
+            text: "Competenties leidinggevenden"
+          - href: ai-geletterdheid/experimenteren.qmd
+            text: "Experimenteren en professionaliseren"
+      - section: "🛠️ Voorbeelden van AI"
+        href: voorbeelden/index.qmd
+        contents:
+          - section: "Chatten"
+            contents:
+              - href: voorbeelden/chatgpt.qmd
+                text: "ChatGPT"
+              - href: voorbeelden/claude-ai.qmd
+                text: "Claude AI"
+              - href: voorbeelden/gemini.qmd
+                text: "Gemini"
+              - href: voorbeelden/copilot.qmd
+                text: "Copilot"
+              - href: voorbeelden/gpt-nl.qmd
+                text: "GPT-NL"
+          - section: "Schrijven"
+            contents:
+              - href: voorbeelden/deepl.qmd
+                text: "DeepL"
+              - href: voorbeelden/grammarly.qmd
+                text: "Grammarly"
+          - section: "Afbeeldingen"
+            contents:
+              - href: voorbeelden/nano-banana.qmd
+                text: "Nano Banana 2"
+              - href: voorbeelden/midjourney.qmd
+                text: "Midjourney"
+              - href: voorbeelden/this-does-not-exist.qmd
+                text: "This [..] Does Not Exist"
+              - href: voorbeelden/magic-eraser.qmd
+                text: "Magic Eraser"
+          - section: "Audio"
+            contents:
+              - href: voorbeelden/elevenlabs.qmd
+                text: "Elevenlabs"
+              - href: voorbeelden/whisper.qmd
+                text: "Whisper"
+              - href: voorbeelden/suno.qmd
+                text: "Suno"
+          - section: "Video"
+            contents:
+              - href: voorbeelden/veo.qmd
+                text: "Gemini Veo 3.1"
+              - href: voorbeelden/runway-ml.qmd
+                text: "Runway ML"
+              - href: voorbeelden/invideo-ai.qmd
+                text: "Invideo AI"
+              - href: voorbeelden/heygen.qmd
+                text: "HeyGen"
+              - href: voorbeelden/synthesia.qmd
+                text: "Synthesia"
+              - href: voorbeelden/wav2lip.qmd
+                text: "Wav2Lip"
+          - section: "Onderzoek"
+            contents:
+              - href: voorbeelden/notebooklm.qmd
+                text: "NotebookLM"
+              - href: voorbeelden/perplexity.qmd
+                text: "Perplexity AI"
+          - section: "Technisch"
+            contents:
+              - href: voorbeelden/ai-studio.qmd
+                text: "AI-Studio"
+              - href: voorbeelden/teachable-machine.qmd
+                text: "Teachable Machine"
+              - href: voorbeelden/claude-code.qmd
+                text: "Claude Code"
+              - href: voorbeelden/antigravity.qmd
+                text: "Antigravity"
+              - href: voorbeelden/openclaw.qmd
+                text: "OpenClaw"
+      - section: "🏫 AI in het onderwijs"
+        href: ai-in-het-onderwijs/index.qmd
+        contents:
+          - href: ai-in-het-onderwijs/spinnenweb.qmd
+            text: "AI en het curriculum"
+          - href: ai-in-het-onderwijs/toetsing.qmd
+            text: "AI en toetsing"
+          - href: ai-in-het-onderwijs/herontwerp.qmd
+            text: "AI en herontwerp"
+          - section: "Tools & Praktijk"
+            contents:
+              - href: ai-in-het-onderwijs/tools/china-voorbeeld.qmd
+                text: "China - een voorbeeld?"
+              - href: ai-in-het-onderwijs/tools/feedbackfruits.qmd 
+                text: "Feedbackfruits"
+              - href: ai-in-het-onderwijs/tools/lessonup.qmd
+                text: "LessonUp"
+              - href: ai-in-het-onderwijs/tools/gradescope.qmd
+                text: "Gradescope"
+              - href: ai-in-het-onderwijs/tools/magicschool-ai.qmd
+                text: "MagicSchool AI"
+              - href: ai-in-het-onderwijs/tools/snappet-copilot.qmd
+                text: "Snappet Copilot"
+          - section: "Organisaties"
+            contents:
+              - href: ai-in-het-onderwijs/organisaties/nolai.qmd
+                text: "NOLAI"
+              - href: ai-in-het-onderwijs/organisaties/kennisnet.qmd
+                text: "Kennisnet"
+              - href: ai-in-het-onderwijs/organisaties/ai-teach.qmd
+                text: "AI-Teach"
+      - href: literatuur/index.qmd
+        text: "📚 Literatuur"
+      - section: "🤖 De mens en AI"
+        href: de-mens-en-ai/index.qmd
+        contents:
+          - href: de-mens-en-ai/mens-en-technologie.qmd
+            text: "De mens centraal?"
+          - href: de-mens-en-ai/betalen-voor-ai.qmd
+            text: "Betalen voor AI"
+          - href: de-mens-en-ai/ethiek-en-richtlijnen.qmd
+            text: "Ethiek en Richtlijnen"
+          - href: de-mens-en-ai/ai-act.qmd
+            text: "De AI-Act"
+          - href: de-mens-en-ai/coded-bias.qmd
+            text: "Coded Bias"
+          - href: de-mens-en-ai/bias-praktijkvoorbeelden.qmd
+            text: "Bias in de praktijk"
+          - href: de-mens-en-ai/responsible-ai.qmd
+            text: "Responsible AI"
+      - href: ai-in-de-film/index.qmd
+        text: "🍿 AI in de film"
+      - href: vibecoding/index.qmd
+        text: "🚀 Vibecoding"
+      - href: toets-jezelf.qmd
+        text: "🎓 Test Jezelf!"
 
 lang: nl
 

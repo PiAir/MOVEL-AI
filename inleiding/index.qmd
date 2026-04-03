@@ -11,27 +11,25 @@ Is het onderwerp helemaal nieuw voor je, dan is het goed om te beginnen met [Wat
 
 Op de pagina  **[AI bij de Overheid](/inleiding/ai-overheid.qmd)** lees je hoe de publieke sector AI inzet. Hoewel de informatie specifiek voor het onderwijs inmiddels al flink uitgebreid is, is het goed om ook bij andere sectoren te kijken.
 
-## Nog meer inspiratie nodig?
+## Waar wil je hierna naartoe?
 
-Wil je nog meer inspiratie opdoen over AI, kijk dan eens naar de volgende video's:
+Na deze inleiding bevat de module nog een aantal hoofdonderwerpen, die je via het zijmenu structureel kunt doorlopen:
+
+- **[🧠 AI-geletterdheid](/ai-geletterdheid/index.qmd)** - Hoe bereiden we onszelf voor op de toekomst met AI? 
+- **[🤖 De mens en AI](/de-mens-en-ai/index.qmd)** - Hoe zorgen we voor duurzame, betrouwbare AI waarbij de mens centraal blijft staan?
+- **[🏫 AI in het onderwijs](/ai-in-het-onderwijs/index.qmd)** - Verdieping rondom specifiek onderwijskundige toepassingen en theorie.
+- **[📚 Literatuur](/literatuur/index.qmd)** - Waar kan ik wetenschappelijk bewijs vinden over wat er daadwerkelijk werkt?
+- **[🍿 AI in de film](/ai-in-de-film/index.qmd)** - Ter ondersteuning van je bredere beeldvorming: films waar AI een grote rol in speelt.
+
+::: {.callout-note title="🎬 Extra Inspiratie & Verdieping (Bonusmateriaal)"}
+Heb je behoefte aan extra duiding, debat of losse voorbeelden buiten het vaste pad? Deze links zijn optioneel, maar staan vol waardevolle stof:
 
 - **[NOS op 3](/inleiding/nos-op-3.qmd)** — Actuele uitlegvideo's.
-- **[Het Klokhuis](/inleiding/klokhuis.qmd)** — Niet alleen voor kinderen.
+- **[Het Klokhuis](/inleiding/klokhuis.qmd)** — Zeker niet alleen voor kinderen!
 - **[Lubach over AI](/inleiding/lubach.qmd)** — Love him or hate him, hij kan het best goed uitleggen.
-
-Mocht je honger daarna nóg niet gestild zijn, dan is er nog een [overzicht](/ai-geletterdheid/experimenteren.qmd) van (online) cursussen en mogelijkheden tot professionalisering in het AI-geletterdheid onderdeel van deze module. 
-Ter ondersteuning van je bredere beeldvorming over AI kun je ook kijken naar de [films](/ai-in-de-film/index.qmd) waar AI een rol in speelt.
-
-## Verdieping
-
-Daarna zijn er nog meer mogelijkheden om je kennis over AI te verdiepen binnen deze module:
-
-- **[De mens en AI](/de-mens-en-ai/index.qmd)** - Hoe zorgen we voor duurzame, betrouwbare AI waarbij de mens centraal blijft staan?
-- **[Slecht voor je creativiteit?](./creativiteit.qmd)** — Is AI een bedreiging of verrijking?
-- **[Literatuur](/literatuur/index.qmd)** - Waar kan ik bewijs vinden over wat werkt?
-- **[AI-geletterdheid](/ai-geletterdheid/index.qmd)** - Hoe kunnen we docenten, studenten, leidinggevenden voorbereiden op een toekomst met AI?
-- Hoe hangen **AI en learning analytics** samen is een vraag die aan bod komt op de pagina over [data-ondersteund onderwijs](/inleiding/data-ondersteund-onderwijs.qmd). Dit onderwerp is in jaar 1 van MOVEL aan bod gekomen.
-- Kijk bij **[AI in het onderwijs](/ai-in-het-onderwijs/index.qmd)** voor de verdieping op het gebied van AI in het onderwijs.
+- **[Slecht voor je creativiteit?](./creativiteit.qmd)** — Is AI eerder een bedreiging of een verrijking?
+- **[Data-ondersteund onderwijs](/inleiding/data-ondersteund-onderwijs.qmd)** — Hoe hangen AI en learning analytics samen? (In Jaar 1 van MOVEL aan bod gekomen).
+:::
 
 ## Testen
 

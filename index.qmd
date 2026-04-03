@@ -8,4 +8,5 @@ sidebar: id-default
 Deze module is onderdeel van de HAN Master Ontwerpen van Eigentijds Leren ([MOVEL](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/)).
 
 Gebruik het menu aan de linkerkant van je scherm om door de verschillende onderwerpen te navigeren. Of het uitklapmenu als je de inhoud op een telefoon bekijkt.
-De **[♥ Start hier](start-hier/index.qmd)** pagina leidt je door de module.
+De **[🎯Start hier](start-hier/index.qmd)** pagina leidt je door de module.
+Je kunt ook de navigatie onderaan de pagina's gebruiken om door de module te navigeren.
