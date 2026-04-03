@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Dit is het juiste antwoord.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
+* Een adaptief leersysteem past zich juist aan de individuele behoeften van de student aan.
+* Ja, dat klopt. Een adaptief leersysteem past de leerroute aan op basis van de prestaties en het tempo van de student.
+* Een adaptief leersysteem kan juist door docenten worden aangepast, maar het past zich ook automatisch aan de student aan.
+* Een adaptief leersysteem maakt juist gebruik van data-analyse om de leerroute aan te passen.
 
 Meta-information
 ================

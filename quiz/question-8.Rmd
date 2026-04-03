@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Dat is het juiste antwoord.
-* Nee, dat is gelukkig&nbsp;niet juist
-* Geen specifieke feedback beschikbaar.
-* Nee, dat heeft niets met data-analyse te maken
+* Data-analyse stelt AI-systemen in staat om patronen, trends en afwijkingen in leergedrag te identificeren, van belang voor het personaliseren van leerervaringen.
+* Nee, dat is gelukkig niet juist
+* AI-systemen kunnen juist helpen bij het verbeteren van de beoordeling door bijvoorbeeld automatische feedback te geven op opdrachten.
+* Hoewel AI-systemen kunnen helpen bij het automatiseren van de invoer van studentgegevens, is het niet volledig overbodig.
 
 Meta-information
 ================

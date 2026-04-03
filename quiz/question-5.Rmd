@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Nee, dat is niet juist.
+* AI-systemen verzamelen en verwerken vaak grote hoeveelheden gevoelige gegevens van studenten. Het is belangrijk om deze gegevens te beschermen tegen ongeautoriseerde toegang, misbruik en datalekken.
+* AI-algoritmen kunnen onbedoeld vooroordelen en discriminatie reproduceren of versterken als ze getraind worden op bevooroordeelde data of als de algoritmes zelf niet zorgvuldig ontworpen zijn.
+* Gebrek aan transparantie kan leiden tot wantrouwen en maakt het moeilijk om fouten te identificeren of bezwaar te maken tegen beslissingen.
+* Hoewel kostenreductie een potentiële drijfveer kan zijn voor de implementatie van AI in het onderwijs, is het geen ethische overweging op zich.
 
 Meta-information
 ================

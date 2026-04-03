@@ -13,8 +13,8 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
+* De AVG is een privacywet die de bescherming van persoonsgegevens regelt. 
+* Hoewel de AVG belangrijke principes bevat die ook relevant zijn voor AI, zoals transparantie en dataminimalisatie, garandeert het niet dat AI-systemen altijd rechtvaardig zijn.
 
 Meta-information
 ================

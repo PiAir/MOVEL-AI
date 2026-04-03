@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Dat is het juiste antwoord.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Nee, dat is een risico maar geen bijdrage aan inclusiviteit.
+* AI kan helpen door het aanbieden van verschillende niveaus van moeilijkheid of door het aanpassen van de presentatie van de stof.
+* Het doel van AI in het onderwijs is juist om rekening te houden met individuele verschillen en niet te focussen op de gemiddelde student.
+* AI kan helpen bij het rekening houden met individuele verschillen door bijvoorbeeld gepersonaliseerde feedback te geven op opdrachten.
+* AI kan helpen bij het vergroten van de toegang tot onderwijs door bijvoorbeeld het aanbieden van online cursussen en het automatiseren van administratieve taken.
 
 Meta-information
 ================

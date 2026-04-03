@@ -6,8 +6,8 @@ Answerlist
 ----------
 * A. Een denkmodel om te bepalen hoeveel controle je aan technologie over wilt geven.
 * B. Een model waarmee je kunt aangeven hoe geavanceerd AI is.
-* C. Een model waarmee je de&nbsp;ICT volwassenheid van een school kunt bepalen.
-* D. Een model ontwikkeld door Tesla voor hun zelfrijdende auto&#39;s.
+* C. Een model waarmee je de ICT volwassenheid van een school kunt bepalen.
+* D. Een model ontwikkeld door Tesla voor hun zelfrijdende auto's.
 
 Solution
 ========
@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Dat klopt.
+* Dat klopt. Een denkmodel om over te praten.
 * Dat klopt deels, maar is zeker niet waarvoor het model ontwikkeld is.
 * Nee, daar is het niet voor.
-* Nee, het model is wel afgeleid van het model voor zelfrijdende auto&#39;s.
+* Nee, het model is wel afgeleid van het model voor zelfrijdende auto's.
 
 Meta-information
 ================

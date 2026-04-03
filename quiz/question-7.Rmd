@@ -1,6 +1,6 @@
 Question
 ========
-Wat is een potenti&euml;le uitdaging bij de implementatie van AI in het onderwijs?
+Wat is een potentiële uitdaging bij de implementatie van AI in het onderwijs?
 
 Answerlist
 ----------
@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Het doel van AI-systemen is natuurlijk niet dat de werkdruk toeneemt, maar het is niet uitgesloten.
+* AI-systemen vereisen grote hoeveelheden data om effectief te kunnen leren en functioneren. Het verzamelen, opschonen en labelen van deze data kan een uitdaging zijn.
+* Te veel personalisatie kan leiden tot een geïsoleerde leerervaring, waarbij studenten minder interactie hebben met docenten en medestudenten.
+* De ontwikkeling en implementatie van AI-systemen kan kostbaar zijn, wat een drempel kan vormen voor onderwijsinstellingen.
+* Het is inderdaad niet vanzelfsprekend dat AI-systemen de werkdruk voor docenten verlagen, het tegendeel kan waar zijn!
 
 Meta-information
 ================

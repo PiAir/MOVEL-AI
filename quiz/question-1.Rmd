@@ -1,13 +1,13 @@
 Question
 ========
-Wat is kunstmatige intelligentie (AI)?
+Wat is het belangrijkste kenmerk dat Artificial General Intelligence (AGI) onderscheidt van de huidige AI-systemen?
 
 Answerlist
 ----------
-* A. Een technologie die machines in staat stelt menselijke intelligentie na te bootsen.
-* B. Een programmeertaal voor het ontwikkelen van software.
-* C. Een hardwarecomponent die de snelheid van computers verbetert.
-* D. Een methode om gegevens op te slaan in de cloud.
+* A. Het vermogen om sneller tekst te genereren en berekeningen uit te voeren dan een menselijke computer.
+* B. De capaciteit om elke intellectuele taak die een mens kan, te begrijpen, te leren en uit te voeren in verschillende domeinen.
+* C. Het feit dat het systeem verbonden is met het internet en daardoor altijd over actuele nieuwsfeiten beschikt.
+* D. De mogelijkheid om menselijke emoties te simuleren via een realistische stem of gezichtsuitdrukking.
 
 Solution
 ========
@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Dat is het juiste antwoord.
-* Nee, dat is helaas niet juist
-* Nee, het gaat niet alleen om hardware
-* Nee, dat is niet juist.
+* Dit is de kern van AGI. AGI kan autonoom generaliseren en kennis toepassen op totaal nieuwe situaties.
+* Snelheid is een kenmerk van computers in het algemeen, maar dat maakt een systeem nog niet 'intelligent' in de brede zin van het woord.
+* Internettoegang is een functionaliteit van de huidige AI, maar het betekent niet dat het systeem de informatie ook daadwerkelijk begrijpt zoals een mens dat doet.
+* Het nabootsen van emoties wordt vaak verward met echte intelligentie, maar dit is geen bewijs voor algemene intellectuele vermogens.
 
 Meta-information
 ================

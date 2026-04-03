@@ -16,9 +16,9 @@ Feedback op de opties:
 Answerlist
 ----------
 * Dat is het juiste antwoord.
-* Nee, dat is helaas niet juist
-* Nee, dat is niet juist.
-* Nee, dat is niet juist.
+* Nee, aan de hardwarekant gebeurt er wel van alles, maar dat is niet de kern van machine learning.
+* Nee, dat is niet juist. Hoewel AI kan helpen bij het optimaliseren van software, is dat niet de definitie van machine learning.
+* Nee, computers worden er zeker niet zuiniger van. Sterker nog, het trainen van AI-modellen kost enorm veel energie.
 
 Meta-information
 ================

@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
+* ChatGPT is een chatbot, een programma ontworpen voor conversatie.
+* ChatGPT is gebaseerd op de Transformer-architectuur en is 'pre-trained' op een enorme dataset van tekst en code.
+* ChatGPT is een voorbeeld van generatieve AI, omdat het nieuwe content (tekst) kan creëren.
+* ChatGPT is een computerprogramma, maar het heeft geen bewustzijn of gevoelens.
 
 Meta-information
 ================

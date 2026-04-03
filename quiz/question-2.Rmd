@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Handmatige invoer van cijfers door docenten is geen voorbeeld van AI in het onderwijs.
+* Adaptieve leersystemen passen de leerervaring aan op basis van de prestaties en het tempo van de student, vaak met behulp van machine learning algoritmes.
+* AI kan worden ingezet om essays en open vragen automatisch te beoordelen op basis van criteria zoals grammatica, structuur en inhoudelijke relevantie.
+* Virtuele persoonlijke assistenten, zoals chatbots, kunnen studenten ondersteunen met vragen over roosters, studiemateriaal en administratieve zaken.
+* Handmatige invoer van cijfers door docenten is een traditionele administratieve taak en maakt geen gebruik van kunstmatige intelligentie.
 
 Meta-information
 ================

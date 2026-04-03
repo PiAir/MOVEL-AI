@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Dat is het juiste antwoord.
-* Nee, dat is helaas niet juist
-* Nee, het gaat niet alleen om hardware
-* Nee, dat is niet juist.
+* Dat klopt, al is er soms discussie over wat dan precies menselijke intelligentie is.
+* Nee, AI is een breed veld en omvat veel meer dan alleen programmeertalen.
+* Nee, het gaat niet alleen om hardware. AI kan ook op softwarematige wijze worden geïmplementeerd.
+* Nee, hoewel AI wel vaak gebruik maakt van cloud computing, is dat niet de definitie van AI.
 
 Meta-information
 ================

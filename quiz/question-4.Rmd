@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Nee, dat is niet juist.
+* AI kan helpen bij het automatiseren van administratieve taken, zoals het nakijken van toetsen en het bijhouden van aanwezigheid.
+* AI kan helpen bij het genereren van lesmateriaal, zoals het maken van oefeningen en het aanpassen van bestaand materiaal aan de behoeften van studenten.
+* AI kan helpen bij het geven van gepersonaliseerde feedback aan studenten, bijvoorbeeld door het analyseren van hun werk en het geven van gerichte tips.
+* Nee, dat is niet juist. AI is een hulpmiddel dat docenten ondersteunt, niet vervangt.
 
 Meta-information
 ================

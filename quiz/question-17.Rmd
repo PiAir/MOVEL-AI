@@ -15,10 +15,10 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
-* Geen specifieke feedback beschikbaar.
+* AI kan leiden tot een focus op meetbare resultaten, waardoor creativiteit en kritisch denken onder druk komen te staan.
+* Het is belangrijk dat docenten de controle behouden en niet blindelings vertrouwen op AI-systemen waarvan de werking niet transparant is.
+* AI-systemen worden getraind op data, en als die data bevooroordeeld is, zal de AI die vooroordelen overnemen en versterken.
+* De ontwikkeling van AI-systemen is geconcentreerd bij een beperkt aantal grote technologiebedrijven, wat kan leiden tot een machtsverschuiving in het onderwijslandschap.
 
 Meta-information
 ================

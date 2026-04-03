@@ -15,9 +15,9 @@ Feedback op de opties:
 
 Answerlist
 ----------
-* Een random forest is een&nbsp;een verzameling van (random) beslissingsbomen. Er wordt een verzameling van decision trees (beslisboom) gegenereerd met random variaties in de trainingset en input variabelen. Deze decision trees krijgen dan elk een stem. Het begrip heeft zeker met machine learning te maken.
+* Een random forest is een verzameling van (random) beslissingsbomen. Er wordt een verzameling van decision trees (beslisboom) gegenereerd met random variaties in de trainingset en input variabelen.
 * Een beslisboom is een manier waarop machine learning ingericht kan worden.
-* Deep learning&nbsp;is een discipline van&nbsp;machine learning, waarin gelaagde neurale netwerken leren van grote hoeveelheden data.
+* Deep learning is een discipline van machine learning, waarin gelaagde neurale netwerken leren van grote hoeveelheden data.
 * Logische regressie bestaat wel, maar onlogische regressie is onzin.
 
 Meta-information
