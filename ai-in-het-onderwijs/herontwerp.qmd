@@ -19,23 +19,56 @@ We kunnen vier niveaus onderscheiden in de manier waarop een onderwijsinstelling
 
 Als je [het SAMR-model](https://te-learning.nl/tpack-en-samr-helder-uitgelegd/) (Substitution, Augmentation, Modification, Redefinition) kent, dan zul je de "herontwerpen" stap herkennen als gelinkt aan de Redefinition stap uit SAMR.
 
+## De driedeling van Holmes
+![](media/Holmes_en_AI.png)
+
+Wayne Holmes maakt in zijn werk over AI in het onderwijs een belangrijk onderscheid tussen drie manieren waarop de technologie een rol speelt (zie ook [Holmes et al., 2022](https://www.researchgate.net/publication/364994764_State_of_the_art_and_practice_in_AI_in_education)). 
+
+* **Leren met AI** (Learning with AI): Het gebruik van AI-toepassingen om vakinhoudelijke kennis te verwerven (bijv. een adaptieve oefenset voor wiskunde).
+* **Leren over AI** (Learning about AI): Het begrijpen van de techniek, de algoritmes en de data achter AI-systemen (AI-geletterdheid).
+* **AI om te leren over leren** (Using AI to learn about learning): In plaats van simpelweg "voorbereiden op de toekomst", verschuift de focus naar hoe AI-data ons inzicht kan geven in hoe studenten daadwerkelijk leren. Dit helpt bij het verbeteren van de didactiek en het begrijpen van cognitieve processen.
+
+Deze driedeling van AI-gebruik helpt om expliciet te maken welke rol AI speelt in het onderwijsontwerp en welke leermechanismen je verwacht te activeren. Dit sluit direct aan bij het denken in conjecture maps (zie hieronder). Het [curriculaire spinnenweb](spinnenweb.qmd) laat zien welke curriculumcomponenten meebewegen wanneer AI wordt ingezet (van doelen en inhoud tot activiteiten, rolverdeling en toetsing). Zo vormt de driedeling van Holmes een compacte kapstok om AI‑keuzes zowel ontwerpgericht als curriculair samenhangend te onderbouwen. Binnen het [AI-teach](/ai-in-het-onderwijs/organisaties/ai-teach.qmd)-project wordt deze driedeling gebruikt om de professionaliseringsactiviteiten voor docenten vorm te geven en in te delen.
+
 ## De Ontwerpmethode: Conjecture Mapping
 
 Voor het herontwerpen van ict-ondersteund onderwijs of onderwijs met AI kun je gebruik maken van **Conjecture Mapping** ([Sandoval, 2014](https://www.tandfonline.com/doi/abs/10.1080/10508406.2013.778204)). Deze methode dwingt je om je aannames (*conjectures*) over hoe technologie het leren ondersteunt, expliciet te maken.
 
-![](media/Conjecture_mapping_schema.jpg){.lightbox height="200px"}
+![](media/Conjecture_mapping_schema.jpg)
 
 
 ### De vier elementen voor jouw AI-ontwerp:
 
-1.  **High-level conjectures:** Welke visie op leren ligt ten grondslag aan je ontwerp?
-      * *Voorbeeld:* "Als we AI inzetten als 'Socratische tutor', dan ontwikkelen studenten diepere reflectieve vaardigheden."
-2.  **Embodiment (Vormgeving):** Welke concrete keuzes maak je? 
-    * Denk aan de tools (welke LLM?), de taakomschrijving, de participatiestructuur (individueel of in dialoog met AI) en de rol van de docent.
-3.  **Mediating processes:** Welke interacties wil je zien? 
-    * Je ontwerpt niet alleen de output, maar ook het proces. Welke vragen stelt de student aan de AI? Hoe verandert hun redenering door de feedback van de bot?
-4.  **Outcomes:** Wat is het uiteindelijke bewijs van leren? 
-    * Hoe onderscheid je de groei van de student van de geproduceerde AI-output?
+1.  **Ontwerpprincipes (Design Principles)**
+    * De visie achter de interventie: Waarom doen we dit eigenlijk? Welk onderwijskundig probleem lost de AI-interventie op? *Bijvoorbeeld: tijdsgebrek voor feedback, gebrek aan differentiatie*
+    * Verandert je pedagogische visie? Word je meer een coach/facilitator nu de AI de 'inhoud' of de 'instructie' overneemt? 
+    * Welke waarden staan centraal? *Bijvoorbeeld: autonomie van de student, kritisch denken, of juist efficiëntie.* 
+
+2.  **Toepassing (Embodied Design)**
+    * De concrete vorm: Hoe ziet het er in de praktijk uit?
+    * Hoe en wanneer komt de student in aanraking met de AI? Is het een verplicht onderdeel van de les of een ondersteunende tool voor thuis? 
+    * Wat heeft de student naast de AI-interventie nog meer nodig? *Bijvoorbeeld: een instructievideo, een bronnenlijst, of een reflectiekader.* 
+    * Wordt de opdracht zelf fundamenteel anders? *Bijvoorbeeld: van "schrijf een verslag" naar "ontwerp een master-prompt".* 
+
+3.  **Leerproces (Mediating Processes)**
+    * De psychologie: Wat gebeurt er in het hoofd van de student?
+    * Welke acties voert de student uit die hij/zij zonder AI niet zou doen? 
+    * Bijvoorbeeld: dieper doorvragen door de Socratische methode. 
+    * Neemt de AI 'denkwerk' over dat de student eigenlijk zelf zou moeten doen, of maakt het juist ruimte voor hogere denkorden? 
+    * Hoe beïnvloedt de AI de betrokkenheid? Voelt de student zich meer gesteund (AI-tutor) of juist meer uitgedaagd (advocaat van de duivel)? 
+
+4.  **Leeropbrengst (Learning Outcomes)**
+    * Het resultaat: Wat beheerst de student aan het eind?
+    * Kwaliteit: Is het eindproduct van een hoger niveau door de AI-ondersteuning? 
+    * Nieuwe competenties: Leert de student nu ook vaardigheden die eerst niet in het curriculum zaten? *Bijvoorbeeld: AI-geletterdheid, herkennen van bias.* 
+    * Beoordeling: Kunnen we de oude toetsvorm nog wel gebruiken? Als het leerproces verandert, moet de manier waarop we "succes" meten dan ook veranderen? Hoe onderscheid je de groei van de student van de geproduceerde AI-output?
+
+::: {.callout-note collapse="true"}
+## Negatieve effecten van AI
+![](media/Conjecture_mapping_schema_negative_AI.jpg)
+
+Je kunt conjecture mapping ook gebruiken om na te denken over de mogelijke negatieve effecten van AI in het onderwijs. Door te signaleren wat er mis kan gaan, kun je ook nadenken over hoe je dit kunt voorkomen. 
+:::
 
 ::: {.callout-note collapse="false"}
 ## De samenhang met het spinnenweb

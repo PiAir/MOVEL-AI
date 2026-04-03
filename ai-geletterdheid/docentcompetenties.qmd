@@ -34,8 +34,25 @@ Er zijn verschillende raamwerken voor AI-geletterdheid van docenten ontwikkeld. 
 - [AI GO](https://npuls.nl/kennisbank/ai-go-een-raamwerk-voor-ai-geletterdheid-in-het-onderwijs)
 - [AI Literacy Framework](https://ailiteracyframework.org/)
 - [AI Competency Framework for Teachers](https://www.unesco.org/en/articles/ai-competency-framework-teachers)
+- [DigCompEDU](https://joint-research-centre.ec.europa.eu/digcompedu_en)
+- [AI uitbreiding op DigCompEDU](https://aipioneers.org/supplement-to-the-digcompedu-framework/)
 
-Welke het beste is? Dat is deels een keuze op basis van welke uitgangspunten je belangrijk vindt. Voor een Masterdocent is het iets om binnen de eigen onderwijsorganisatie aan te kaarten en samen met de [leidinggevenden](leidinggevendencompetenties.qmd) te bespreken.
+Welke het beste is? Dat is deels een keuze op basis van welke uitgangspunten je belangrijk vindt. Voor een Masterdocent is het iets om binnen de eigen onderwijsorganisatie aan te kaarten en samen met de [leidinggevenden](leidinggevendencompetenties.qmd) te bespreken. Ook voor docenten is de DigComp 3.0 relevant, hoewel die niet specifiek op docenten gericht is. Meer daarover kun je lezen bij het onderdeel over [competenties van studenten](studentcompetenties.qmd)
+
+## Het gesprek aangaan met collega's
+
+Een raamwerk of theorie begrijpen is slechts de eerste stap. Uit de praktijk van MOVEL'ers blijkt dat het meenemen van (soms sceptische of terughoudende) collega's in schoolontwikkeling rondom AI vaak de *échte* uitdaging is. Hoe ga je als docent of pionier effectief het ingewikkelde gesprek over waarden, ethiek en technologie aan zonder in een welles-nietes discussie te belanden?
+
+Daarvoor bestaan speciale "praatstukken" (boundary objects) die helpen om het gesprek constructief te structureren, weg van de pure angst of hype:
+
+- **[The Tarot Cards of Tech](https://tarotcardsoftech.artefactgroup.com/)** — Een sterk visueel hulpmiddel (regelmatig ingezet door o.a. NOLAI). Het dwingt docententeams speels na te denken over de onbedoelde gevolgen (unintended consequences) van nieuwe tech door middel van prikkelende speelkaarten (bijv. *"Wat als onze AI-tool een schandaal veroorzaakt?"*). Dit werkt uitstekend om ethiek tastbaar en open bespreekbaar te maken in een teamvergadering.
+- **[Kennisnet: Het Ethiekkompas](https://www.kennisnet.nl/tools/ethiekkompas/)** — Kennisnet biedt specifieke gespreksleidraden voor een waardendialoog. Dit helpt scholen om de discussie open te breken vanuit de *gezamenlijke, menselijke waarden* (zoals autonomie en rechtvaardigheid) in plaats van vanuit het AI-product zelf.
+- **[Kennisnet Wegwijzer AI](https://www.kennisnet.nl/artificial-intelligence/handreiking-ai-in-het-onderwijs/#gebruik-van-de-wegwijzer)** — Een praktische, visuele wegwijzer uit de 'Handreiking AI in het onderwijs' om als team of directie het beleidsgesprek te voeren over de adoptie (van afwachtend tot vooruitstrevend) binnen de school.
+- **Praatplaten voor beleid** — Visuele overzichten werken erg goed. Gebruik bijvoorbeeld de **[Edu-AI Beleid Praatplaten](https://edu-ai.nl/wp-content/uploads/2024/06/EduAIbeleidpraatplatenlightv2.pdf)** of de ontwikkeldocumenten/praatplaten vanuit het project **[GAIO (Learning Hub Friesland)](https://learninghubfriesland.wixsite.com/gaio)**. Zij hebben bijvoorbeeld [deze gids voor schoolleiders](https://e2f48247-5e6f-4921-abf4-10fc51c2a48f.filesusr.com/ugd/5e0d6a_f9a08c391980446f9b23390abea9667f.pdf) of [docenten](https://e2f48247-5e6f-4921-abf4-10fc51c2a48f.filesusr.com/ugd/f9eed1_6334ed59d750423aa9525c411743174c.pdf). Dit maakt theoretisch beleid direct tastbaar.
+- **[SURF: AI Ethiek Volwassenheidsmodel](https://www.surf.nl/magazine/een-nieuw-volwassenheidsmodel-nadenken-over-verantwoord-ai-gebruik)** — Een model gericht op het MBO en Hoger Onderwijs om binnen je instelling samen verantwoord AI-gebruik bespreekbaar te maken en te positioneren. Zie tevens het bijbehorende [reflectierapport uit hun pilots](https://www.surf.nl/files/2024-11/reflectie-op-de-pilot-ai-ethiek-volwassenheidsmodel-reflectierapport-v1.pdf).
+
+Door in te zetten op dergelijke hulpmiddelen verleg je de discussie van de defensieve vraag *"Moeten we ChatGPT wel of niet blokkeren?"* naar de veel constructievere ontwerpvraag: *"Met welke gedeelde waarden willen wij als docententeam deze nieuwe technologie gaan begeleiden?"*.
+
 
 ## Vibecoding
 
