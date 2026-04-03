@@ -66,5 +66,5 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 - [Teachable Machine](teachable-machine.qmd) — train zelf een eenvoudig ML-model, zonder code
 - [Claude Code](claude-code.qmd) — AI-assistent die zelfstandig code schrijft en bewerkt
 - [Antigravity](antigravity.qmd) — de tool waarmee deze module is gebouwd
-- [OpenClaw](openClaw.qmd) — een open-source AI-assistent
+- [OpenClaw](openclaw.qmd) — een open-source AI-assistent
 
