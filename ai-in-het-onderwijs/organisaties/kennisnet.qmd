@@ -18,5 +18,3 @@ Kennisnet heeft een aantal interessante pagina's over AI en onderwijs. Hieronder
 - [AI-companions](https://www.kennisnet.nl/trends/ai-companions-kunstmatige-intelligentie-als-vriend-en-therapeut/)
 
 
-
-{{< private-video 1086751578 >}}
