@@ -7,8 +7,8 @@
     "text": "Whisper is een open-source spraakherkenningsmodel van OpenAI. Het kan gesproken audio omzetten naar tekst in tientallen talen — inclusief Nederlands — en doet dat verrassend nauwkeurig, ook bij achtergrondgeluid of accenten.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Audio",
+      "▪️ Voorbeelden van AI",
+      "▪️Audio",
       "Whisper"
     ]
   },
@@ -20,8 +20,8 @@
     "text": "Hoe gebruiken?\nWhisper is beschikbaar als open-source model op GitHub. Voor wie niet met Python wil werken zijn er inmiddels uitstekende kant-en-klare toepassingen:\n\nNoScribe — gratis desktop-app voor Windows en macOS. Transcribeert audio/video lokaal op je eigen computer; geen data gaat naar de cloud. Ondersteunt Nederlands.\naTrain — te installeren via de Microsoft Store. Werkt eveneens volledig lokaal.\nWhisper Web — online demo die direct in de browser draait (via WebGPU).\n\nHet grote voordeel van lokaal draaien: je audio verlaat je computer niet, wat privacy-gevoelige transcripties (gesprekken met studenten, patiënten, etc.) een stuk veiliger maakt. Whisper scoort uitstekend op Engelstalige audio en goed op Nederlands. Technisch jargon, namen en dialecten geven soms problemen. Voor de beste resultaten: zorg voor goede audio-kwaliteit en gebruik de large-versie van het model als het je computer aankan.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Audio",
+      "▪️ Voorbeelden van AI",
+      "▪️Audio",
       "Whisper"
     ]
   },
@@ -33,8 +33,8 @@
     "text": "veo screenshot\n\n\nVeo 3.1 is Google’s AI-videogeneratiemodel, beschikbaar via de Gemini-app. Het model genereert korte video’s met geluid op basis van een tekstprompt — inclusief omgevingsgeluiden, muziek en stemmen. De slogan luidt treffend: “Doorbreek de stilte” — een verwijzing naar het feit dat eerdere AI-videogeneratoren geen audio produceerden.\nAlle video’s gemaakt met Veo bevatten een zichtbaar watermerk en een onzichtbaar digitaal watermerk via SynthID — een door Google DeepMind ontwikkelde techniek die aangeeft dat de video AI-gegenereerd is. Veo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement.\n\nHet resultaat van mijn poging: ▶Klik om video te startenBekijk op YouTube Het werkt net zo vaak niet als wel. Met een Pro-account kan ik 3 video’s per dag genereren.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Gemini Veo 3.1"
     ]
   },
@@ -46,8 +46,8 @@
     "text": "teachable-machine screenshot\nTeachable Machine van Google is een laagdrempelige, gratis experimenteeromgeving waarmee je in een paar minuten je eigen machine-learningmodel kunt trainen — geheel in de browser, zonder een regel code te schrijven. En bedenk wel: de eerste versie van Teachable Machine kwam al in 2017 uit!",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Teachable Machine"
     ]
   },
@@ -59,8 +59,8 @@
     "text": "Wat kun je ermee?\nJe kunt drie typen modellen trainen:\n\nAfbeelding: Laat de webcam beelden herkennen en indelen in door jou gekozen categorieën\nAudio: Laat de microfoon geluiden of woorden herkennen\nPose: Herken lichaamshoudingen via de webcam",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Teachable Machine"
     ]
   },
@@ -72,8 +72,8 @@
     "text": "Hoe werkt het? — in 3 stappen\n\nVerzamel voorbeelden: neem via je webcam (of upload afbeeldingen) voorbeelden op voor elke klasse. Bijv. klasse 1 = “duim omhoog”, klasse 2 = “duim omlaag”\nTrain het model: klik op “Train” — Teachable Machine traint het model direct in je browser\nTest en exporteer: test het model live via je webcam of microfoon; exporteer het vervolgens voor gebruik in apps via TensorFlow.js\n\n\n\n\n\n\n\nOpmerkingOok offline\n\n\n\nGemaakte modellen kunnen worden geëxporteerd en ingebed in websites of apps via TensorFlow.js. Er zijn uitstekende tutorials beschikbaar op de Google-website.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Teachable Machine"
     ]
   },
@@ -85,8 +85,8 @@
     "text": "suno screenshot\n\n\nSuno is een AI-muziekgenerator: beschrijf in een paar woorden welk nummer je wilt — genre, sfeer, instrumentatie, thema — en Suno genereert binnen seconden een volledig nummer met zang, instrumentale begeleiding en teksten.\nJe kunt ook zelf de tekst schrijven en Suno vragen die op muziek te zetten, dan heb je meer controle over de inhoud. Met de gratis optie krijg je 50 credits per dag, genoeg voor ongeveer 10 nummers.\n\nEn het resultaat? Je kunt het hieronder beluisteren.\n\nTja…\n\n\n\n\n\n\nWaarschuwingEthische kwesties\n\n\n\nSuno is getraind op grote hoeveelheden muziek van het internet, inclusief nummers van artiesten die hier nooit toestemming voor hebben gegeven. Er lopen rechtszaken van platenlabels. Dit maakt Suno tot een goed gespreksonderwerp over auteursrecht, creativiteit en de rechten van artiesten in het AI-tijdperk. Maar minder geschikt om serieus zelf muziek mee te maken.\nBijkomend probleem is dat diensten als Spotify op dit moment overspoeld worden met AI-muziek, waardoor echte artiesten nóg meer moeite hebben om op te vallen tussen het enorme aanbod (en wat te verdienen met hun muziek). Zie ook dit artikel.\n\n\n\n\nYour browser does not support the audio element. \n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Audio",
+      "▪️ Voorbeelden van AI",
+      "▪️Audio",
       "Suno"
     ]
   },
@@ -98,8 +98,8 @@
     "text": "perplexity screenshot\n\n\nPerplexity AI is een AI-zoekmachine: je stelt een vraag en krijgt een antwoord dat direct bronnen vermeldt. Het combineert de vlotte interface van een chatbot met de bronvermelding van een zoekmachine.\n\nDe gratis versie stelt je in staat om een gevoel te krijgen voor de functionaliteit, voor de meer geavanceerde zaken heb je een betaald abononement nodig. En dat maakt het toch wat ingewikkelder als je toch al ChatGPT, Gemini of NotebookLM gebruikt die ook een deepresearch-functionaliteit hebben.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Onderzoek",
+      "▪️ Voorbeelden van AI",
+      "▪️Onderzoek",
       "Perplexity AI"
     ]
   },
@@ -125,8 +125,8 @@
     "text": "napkin-ai screenshot\nNapkin AI is een tool met één heel specifieke superkracht: het omzet tekst automatisch in visuele schema’s, infographics en diagrammen. Je plakt een tekstpassage, Napkin analyseert de structuur en genereert meerdere visuele weergaven om uit te kiezen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Napkin AI"
     ]
   },
@@ -138,8 +138,8 @@
     "text": "Hoe werkt het?\n\nPlak je tekst (een uitleg, een stappenplan, een vergelijking)\nNapkin genereert automatisch meerdere visuele opties: flowcharts, lijsten met iconen, vergelijkingstabellen, tijdlijnen\nKlik op de variant die het beste past\nPas kleuren, iconen en tekst aan\nExporteer als PNG, SVG of PDF\n\nNapkin heeft een gratis versie waarmee je al de kernfuncties kunt gebruiken. De betaalde versie geeft meer exports, hogere resolutie en merkuitstraling.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Napkin AI"
     ]
   },
@@ -151,8 +151,8 @@
     "text": "midjourney screenshot\nMidjourney kwam in 2022 met haar eerste AI-beeldgenerator. In de tijd dus dat ChatGPT uitkwam en alleen nog maar tekst kon genereren. Het staat bekend om zijn artistieke kwaliteit en fotorealistisch consistent resultaten.\nMidjourney werkte lange tijd uitsluitend via een Discord-server: je trad toe tot de Discord-community, stuurde een prompt naar de Midjourney-bot en ontving vier variaties op basis van je beschrijving. In 2024 is hiernaast een webinterface beschikbaar gekomen op midjourney.com, die steeds verder ontwikkeld wordt. Midjourney heeft geen gratis optie meer (na een korte testfase in 2023).",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Afbeeldingen",
+      "▪️ Voorbeelden van AI",
+      "▪️Afbeeldingen",
       "Midjourney"
     ]
   },
@@ -164,8 +164,8 @@
     "text": "Inspiratie opdoen\nKijk op Midjourney Showcase of communities als r/midjourney voor voorbeelden van wat anderen maken en hoe hun prompts eruitzien.\n\n\n\nMidjourney website",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Afbeeldingen",
+      "▪️ Voorbeelden van AI",
+      "▪️Afbeeldingen",
       "Midjourney"
     ]
   },
@@ -184,7 +184,7 @@
     "text": "De ontwikkelingen op het gebied van AI gaan zo snel dat elk overzicht achterhaald is zodra het online verschijnt. Desondanks geven de onderstaande voorbeelden een goede indruk van wat er mogelijk is — en hoe breed het landschap van AI-toepassingen inmiddels is.\nGebruik dit overzicht als startpunt, niet als eindpunt. Klik in de zijbalk op een tool om er meer over te lezen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -195,7 +195,7 @@
     "text": "Chatten, schrijven en zoeken\n\nChatGPT — de bekendste AI-chatbot, van OpenAI\nClaude.ai — serieuze concurrent van Anthropic\nGoogle Gemini — Google’s AI-assistent\nMicrosoft Copilot — de AI-assistent van Microsoft\nGPT-NL — een Nederlands taalmodel",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -206,7 +206,7 @@
     "text": "Vertalen en schrijven verbeteren\n\nDeepL — Vertalen met AI\nGrammarly — AI-schrijfassistent voor correct Engels",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -217,7 +217,7 @@
     "text": "Presentaties en visuele communicatie\n\nGamma.app — genereer een complete presentatie vanuit een prompt\nCanva AI — AI-functies in de populaire ontwerpapp voor leraren\nNapkin AI — zet tekst automatisch om in schema’s en infographics",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -228,7 +228,7 @@
     "text": "Genereren van afbeeldingen\n\nNano Banana 2 — Google’s beeldgenerator, via Gemini\nMidjourney — artistieke kwaliteit, via Discord en web\nThis […] Does Not Exist — GAN-modellen die niet-bestaande gezichten genereren\nMagic Eraser — objecten verwijderen uit foto’s",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -239,7 +239,7 @@
     "text": "Genereren van audio en spraak\n\nElevenLabs — tekst-naar-spraak en stemkloning\nWhisper — spraak-naar-tekst (transcriptie), open-source van OpenAI\nSuno — genereer volledige muzieknummers met zang vanuit een tekstprompt",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -250,7 +250,7 @@
     "text": "Genereren van video en avatars\n\nGemini Veo 3.1 — Google’s videogenerator met geluid\nRunway ML — creatieve videobewerkingen en transformaties\nKling AI — hoge kwaliteit video’s tot 2 minuten\nInvideo AI — complete video met voice-over uit een prompt\nHeyGen — video vertalen en nasynchroniseren in andere talen\nSynthesia — instructievideo’s met AI-avatars, zonder camera\nWav2Lip — vroeg (2020) lipsync-model dat foto’s laat praten\nWavespeed - geen abonnement maar credits kopen\nImagine.art - uitgebreide opties, geen gratis versie",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -261,7 +261,7 @@
     "text": "Onderzoek en kennisbeheer\n\nGoogle NotebookLM — bronnen uploaden en er een podcast, samenvatting of quiz van laten maken\nPerplexity AI — AI-zoekmachine",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -272,7 +272,7 @@
     "text": "Voor de technisch geïnteresseerde lezer\n\nGoogle AI Studio — ontwikkelplatform van Google\nTeachable Machine — train zelf een eenvoudig ML-model, zonder code\nClaude Code — AI-assistent die zelfstandig code schrijft en bewerkt\nAntigravity — de tool waarmee deze module is gebouwd\nOpenClaw — een open-source AI-assistent",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI"
+      "▪️ Voorbeelden van AI"
     ]
   },
   {
@@ -283,8 +283,8 @@
     "text": "grammarly screenshot\nGrammarly is een AI-schrijfassistent die je tekst in realtime controleert op grammatica, spelling, stijl, toon en duidelijkheid. Het werkt als browserextensie (Chrome, Firefox, Edge, Safari), als desktop-app en als plug-in voor Microsoft Office en Google Docs.\nGrammarly is primair gericht op Engels, maar heeft ook beperkte ondersteuning voor andere talen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Schrijven",
+      "▪️ Voorbeelden van AI",
+      "▪️Schrijven",
       "Grammarly"
     ]
   },
@@ -296,8 +296,8 @@
     "text": "Wat doet Grammarly?\n\nCorrectie van grammatica en spelfouten\nStijlsuggesties: te lange zinnen, passieve constructies, herhalingen\nToon-analyse: klinkt je tekst formeel genoeg? Vriendelijk? Direct?\nPlagiaatcontrole (betaalde versie)\nGrammarly Go: AI-schrijfhulp — genereer, herschrijf of verbeter hele alinea’s\n\nDe gratis versie dekt het grootste deel van de grammatica- en spellingcontrole. Grammarly Premium voegt stijlsuggesties, plagiaatcontrole en geavanceerde toonanalyse toe. Grammarly for Education biedt groepslicenties voor instellingen.\n\n\n\n\n\n\nOpmerkingVoor het gesprek in de klas\n\n\n\nWanneer is Grammarly-gebruik “helpen jezelf verbeteren” en wanneer is het “valsspelen”? Hoe is het verschil met ChatGPT gebruik? Wat vinden je studenten hier zelf van?",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Schrijven",
+      "▪️ Voorbeelden van AI",
+      "▪️Schrijven",
       "Grammarly"
     ]
   },
@@ -309,8 +309,8 @@
     "text": "gemini screenshot\nGoogle Gemini is de AI-assistent van Google, vergelijkbaar met ChatGPT. Gemini is via de browser toegankelijk als losse applicatie, maar ook steeds meer geïntegreerd in het Google-ecosysteem. In Sheets is het ook in de gratis versie beschikbaar, in andere tools alleen in de betaalde versie.\nGemini is zowel de tool als een platform als de naam voor de eigen taalmodellen van Google.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Gemini"
     ]
   },
@@ -322,8 +322,8 @@
     "text": "Wat kan Gemini?\nNet als ChatGPT kan Gemini van alles, denk aan: Chatten over vrijwel elk onderwerp (al dan niet met opzoeken van info op internet), documenten samenvatten die in je Google Drive staan, mails opgstellen in Gmail of analyses uitvoeren op je data in Google Sheets (eigen ervaring is dat het nog niet heel indrukwekkend is). Je kunt via Deep Research uitgebreidere zoekopdrachten laten uitvoeren, nieuw is dat Gemini een NotebookLM notebook als basis neemt bij de zoekopdracht. Je kunt afbeeldingen genereren via Nano Banana, video’s genereren via Veo 3.1, live gesprekken voeren via Gemini Live en AI Studio gebruiken om met de Gemini-modellen te experimenteren.\n\n\n\n\n\n\nBelangrijkAandachtspunt: DPIA Status?\n\n\n\nZoals bij alle AI-tools geldt ook hier dat voor gebruik in een onderwijssetting, het relevant is om bij je instelling te checken wat de DPIA-status is en of er een verwerkersovereenkomst is indien er persoonsgegevens in het systeem opgenomen is. Voor Google Workspace for Education (Plus) is er een DPIA uit 2021. In hoeverre dit ook geldt voor de losse Gemini-toepassingen was niet zo online te achterhalen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Gemini"
     ]
   },
@@ -335,8 +335,8 @@
     "text": "Verwant\n\nGoogle AI Studio — de ontwikkelomgeving, direct toegang tot Gemini-modellen\nGoogle NotebookLM — bronnen uploaden, samenvatten en bevragen\nNano Banana — beeldgeneratie via Gemini\nVeo — videogeneratie via Gemini",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Gemini"
     ]
   },
@@ -348,8 +348,8 @@
     "text": "ElevenLabs is een van de meest geavanceerde platforms voor AI-spraaksynthese. Waar HeyGen primair video vertaalt, richt ElevenLabs zich op de kwalitatief hoogwaardige generatie en kloning van stemmen. Maar zoals je hieronder kunt zien, kan het ook video’s vertalen en nasynchroniseren.\nDe video laat een test zien die ik 2 jaar geleden gemaakt heb met de software. De kwaliteit is sindsdien alleen maar beter geworden. Bij spraakgeneratie is het inmiddels bijna niet meer van echt te onderscheiden. Ook in het Nederlands, terwijl die stemmen bij anderen nog vaak wat mechanisch klinken.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Audio",
+      "▪️ Voorbeelden van AI",
+      "▪️Audio",
       "Elevenlabs"
     ]
   },
@@ -361,8 +361,8 @@
     "text": "Wat kun je doen?\n\nText to Speech: zet tekst om naar gesproken audio in tientallen talen en honderden stemmen\nVoice Cloning: kloon een stem op basis van een korte audio-opname (let op: dit vereist toestemming van de persoon)\nSpeech to Speech: verander de klank van een opgenomen stem naar een andere stem\nDubbing: vertaal en nasynchroniseer volledige video’s (vergelijkbaar met HeyGen)\nAudioboeken en podcasts: genereer lange luisterinhoud vanuit tekst\n\nElevenLabs biedt een gratis optie met maandelijks een beperkt aantal tekens. Dat is genoeg om de mogelijkheden zelf te kunnen testen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Audio",
+      "▪️ Voorbeelden van AI",
+      "▪️Audio",
       "Elevenlabs"
     ]
   },
@@ -374,8 +374,8 @@
     "text": "Educatieve toepassingen\n\nMaak audiofragmenten voor studenten met leesproblemen of visuele beperkingen\nGenereer meertalige versies van uitlegvideo’s\nLaat studenten zelf nadenken over de ethische grenzen van stemkloning\nDemonstreer hoe eenvoudig spraak te manipuleren is — als mediawijsheidsoefening\n\n\n\n\n\n\n\nOpmerkingAandachtspunten\n\n\n\nDe technologie is krachtig genoeg om geloofwaardige nepaudio te genereren van bestaande personen. ElevenLabs heeft maatregelen genomen tegen misbruik, maar de discussie over regulering van stemkloning is actueel — ook in de context van de EU AI Act.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Audio",
+      "▪️ Voorbeelden van AI",
+      "▪️Audio",
       "Elevenlabs"
     ]
   },
@@ -387,8 +387,8 @@
     "text": "copilot screenshot\nMicrosoft Copilot is de AI-assistent van Microsoft, gebaseerd op de modellen van OpenAI waar Microsoft een grote investeerder is. Copilot is gratis beschikbaar via de browser. Wie Microsoft 365 gebruikt (Word, PowerPoint, Outlook, Teams) zal Copilot steeds vaker tegenkomen als een geïntegreerde assistent binnen die toepassingen. Al moet daar nu in ieder geval nog apart voor betaald worden.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Copilot"
     ]
   },
@@ -400,8 +400,8 @@
     "text": "Copilot (gratis of betaald)\nDe gratis versie van Copilot is vergelijkbaar met ChatGPT: chatten, teksten schrijven, afbeeldingen genereren, webzoekopdrachten uitvoeren. Gratis beschikbaar op copilot.microsoft.com. Die gratis versie is ook beschikbaar via de Edge-browser en Windows 11. Een toepassing die daar heel handig is, is dat je een PDF kunt openen in Edge en Copilot kunt vragen om de PDF samen te vatten, te parafraseren, etc.\n\n\n\nstel copilot vragen over een pdf\n\n\nDe betaalde variant is geïntegreerd in Word, Excel, PowerPoint, Outlook en Teams. Hiermee kun je bv in Word een document laten samenvatten, herschrijven of uitbreiden, in PowerPoint een volledige presentatie laten genereren vanuit een tekstprompt of een bestaand Word-document, in Excel data laten analyseren, grafieken genereren, formules uitleggen, in Outlook e-mails samenvatten, reacties opstellen, en in Teams vergaderingen samenvatten, actiepunten extraheren.\n\n\n\n\n\n\nBelangrijkAandachtspunt: privacy\n\n\n\nBij het gebruik van Copilot in Microsoft 365 verwerkt Microsoft je documenten en e-mails. Microsoft biedt voor scholen een Microsoft 365 Education-omgeving met extra privacygaranties. Controleer of je instelling hier gebruik van maakt voordat je leerlingendata via Copilot verwerkt. SURF adviseert onderwijsinstellingen (september 2025) om hier voorlopig voorzichtig mee om te gaan. Zie ook deze pagina.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Copilot"
     ]
   },
@@ -413,8 +413,8 @@
     "text": "claude screenshot\nClaude.ai is de AI-assistent van Anthropic, een bedrijf dat door voormalige OpenAI-medewerkers is opgericht met een expliciete focus op veilige en betrouwbare AI. Claude wordt als serieuze concurrent van ChatGPT beschouwd en staat bekend om zijn genuanceerde schrijfstijl, eerlijkheid over zijn eigen beperkingen en verwerking van lange documenten (groot contextvenster).\nEthisch redeneren: Anthropic publiceert hun Constitutional AI-aanpak open, interessant lesmateriaal over hoe je een AI “waarden” geeft. Het bedrijf heeft onlangs nog een stevige aanvaring gehad met de Amerikaanse overheid over de beperkingen die zij hanteren bij het gebruik van hun modellen door het Ministerie van Oorlog.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Claude AI"
     ]
   },
@@ -426,8 +426,8 @@
     "text": "Gratis vs. betaald\nDe gratis versie geeft toegang tot het Claude Sonnet-model. Claude Pro biedt toegang tot het krachtigere Opus-model en hogere gebruikslimieten.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Claude AI"
     ]
   },
@@ -439,8 +439,8 @@
     "text": "Verwant\n\nClaude Code — de variant van Claude die code schrijft en bewerkt in de terminal\nChatGPT — de AI-assistent van OpenAI\nAntigravity — de programmeeromgeving van Google die o.a. (gratis) toegang biedt tot op Claude gebaseerde modellen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "Claude AI"
     ]
   },
@@ -452,8 +452,8 @@
     "text": "canva-ai screenshot\nCanva is al jaren een van de populairste grafische tools binnen het onderwijs: eenvoudig prachtige posters, flyers, presentaties en social media-posts ontwerpen in de browser, zonder grafische opleiding. Inmiddels zit AI diep verweven in Canva’s functies.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Canva AI"
     ]
   },
@@ -465,8 +465,8 @@
     "text": "Welke AI-functies heeft Canva?\n\nTekst schrijven — tekst genereren of herschrijven binnen je ontwerp (bijschriften, titels, structuur)\nVertaaltool — vertaal je ontwerp naar een andere taal terwijl de opmaak intact blijft\nMagic Animation — animeer een statisch ontwerp automatisch\nMagic Resize — pas de grootte van je ontwerp automatisch aan\nCode Generator — genereer code voor websites en apps\nCanva AI Assistant — AI-assistent die je helpt bij het ontwerpen van afbeeldingen\n\nDe gratis Canva-versie bevat al AI-functies. Canva Pro geeft toegang tot alle AI-tools, meer sjablonen en premium afbeeldingen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Canva AI"
     ]
   },
@@ -478,8 +478,8 @@
     "text": "Ideeën voor educatieve inzet\n\nStudenten laten samenwerken aan een gezamenlijk ontwerp (Canva ondersteunt samenwerking)\nLesmateriaal, infographics of posters ontwerpen\nZoekopdracht als leesopdracht: ontwerp een infographic over… (begrip verwerken door te visualiseren)\nDiscussie: welke rol speelt AI bij het ontwerpen? Wat is nog jouw eigen ontwerp als AI het genereert?",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Canva AI"
     ]
   },
@@ -491,8 +491,8 @@
     "text": "ai-studio screenshot\n\n\nGoogle AI Studio is een ontwikkelplatform van Google. Een tijd lang was het de enige gratis optie als je aan vibecoding wilde doen. Tegenwoordig kan elke chatbot wel via de canvas optie ook websites en compacte apps bouwen. Desondanks blijft het een mooie playground.\nDaarnaast heeft Google AI Studio nog steeds als voordeel ten opzichte van andere omgevingen dat de ‘contextomvang’ (de hoeveel tokens die beschikbaar zijn in een gesprek), zeker voor een gratis omgeving erg groot is (1 miljoen tokens). Ook ben je bij AI-studio in staat om bv een YouTube-video te linken waarbij het taalmodel dan de inhoud van die video in de context opneemt. Dat maakt het bv mogelijk om ook inhoudelijke vragen te stellen over de video. Dat kun je ook in NotebookLM, maar als je bv een webspagina wilt laten genereren met daarin automatisch gegenereerde navigatie binnen de video, dan is dit heel handig.\n\n\n\n\n\n\nBelangrijk\n\n\n\nAls Google dit soort omgevingen in de lucht brengt, dan komt het heel vaak voor dat ze deze ook weer offline halen. Dus ga er geen meerjarige lesprogramma’s op bouwen, of je bedrijf op starten. Maar om mee te experimenteren zolang het beschikbaar is, is het heel mooi.\n\n\nGoogle AI Studio heeft ook een optie waarbij je de AI mee kunt laten kijken naar alles wat je doet op je computer. Dat lijkt eng, maar je kunt het aan of uitzetten. Heel handig als je bijvoorbeeld iets in Excel moet doen en niet precies weet hoe dat moet.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "AI-Studio"
     ]
   },
@@ -501,10 +501,10 @@
     "href": "toets-jezelf.html",
     "title": "Toets Jezelf!",
     "section": "",
-    "text": "Beantwoord de vragen hieronder om je kennis te testen.\n\n\n\nWat is kunstmatige intelligentie (AI)?\n\nA. Een technologie die machines in staat stelt menselijke intelligentie na te bootsen.B. Een programmeertaal voor het ontwikkelen van software.C. Een hardwarecomponent die de snelheid van computers verbetert.D. Een methode om gegevens op te slaan in de cloud.\n\n\n\nFeedback op de opties:\n\nDat klopt, al is er soms discussie over wat dan precies menselijke intelligentie is.\nNee, AI is een breed veld en omvat veel meer dan alleen programmeertalen.\nNee, het gaat niet alleen om hardware. AI kan ook op softwarematige wijze worden geïmplementeerd.\nNee, hoewel AI wel vaak gebruik maakt van cloud computing, is dat niet de definitie van AI.\n\n\n\n\n\nWaar of niet waar? De AVG zorgt voor rechtvaardige AI\n\nA. WaarB. Niet waar\n\n\n\nFeedback op de opties:\n\nDe AVG is een privacywet die de bescherming van persoonsgegevens regelt.\nHoewel de AVG belangrijke principes bevat die ook relevant zijn voor AI, zoals transparantie en dataminimalisatie, garandeert het niet dat AI-systemen altijd rechtvaardig zijn.\n\n\n\n\n\nWat is ChatGPT? Vink alle juiste antwoorden aan.\n\nA. Een chatbotB. Een Generative Pre-trained TransformerC. Een generieke AID. Een computerprogramma met bewustzijn\n\n\n\nFeedback op de opties:\n\nChatGPT is een chatbot, een programma ontworpen voor conversatie.\nChatGPT is gebaseerd op de Transformer-architectuur en is ‘pre-trained’ op een enorme dataset van tekst en code.\nChatGPT is een voorbeeld van generatieve AI, omdat het nieuwe content (tekst) kan creëren.\nChatGPT is een computerprogramma, maar het heeft geen bewustzijn of gevoelens.\n\n\n\n\n\nVink alle risico's van AI aan\n\nA. Sommige onderwijsdoelen kunnen door AI in het geding rakenB. Afhankelijkheid van black-box modellen (unexplainable AI) versus verantwoordelijkheid van de docent.C. Bias in mensen vertaalt door naar data, die vervolgens wordt overgenomen door AI.D. Een machtsverschuiving naar de producenten van lesmateriaal.\n\n\n\nFeedback op de opties:\n\nAI kan leiden tot een focus op meetbare resultaten, waardoor creativiteit en kritisch denken onder druk komen te staan.\nHet is belangrijk dat docenten de controle behouden en niet blindelings vertrouwen op AI-systemen waarvan de werking niet transparant is.\nAI-systemen worden getraind op data, en als die data bevooroordeeld is, zal de AI die vooroordelen overnemen en versterken.\nDe ontwikkeling van AI-systemen is geconcentreerd bij een beperkt aantal grote technologiebedrijven, wat kan leiden tot een machtsverschuiving in het onderwijslandschap.\n\n\n\n\n\nWat is machine learning?\n\nA. Een subset van AI waarbij systemen leren van data zonder expliciet geprogrammeerd te zijn.B. Een hardwarematige verbetering van computers.C. Een methode om software sneller te laten draaien.D. Een manier om computers energiezuiniger te maken.\n\n\n\nFeedback op de opties:\n\nDat is het juiste antwoord.\nNee, aan de hardwarekant gebeurt er wel van alles, maar dat is niet de kern van machine learning.\nNee, dat is niet juist. Hoewel AI kan helpen bij het optimaliseren van software, is dat niet de definitie van machine learning.\nNee, computers worden er zeker niet zuiniger van. Sterker nog, het trainen van AI-modellen kost enorm veel energie.\n\n\n\n\n\nWat is het Automation Model?\n\nA. Een denkmodel om te bepalen hoeveel controle je aan technologie over wilt geven.B. Een model waarmee je kunt aangeven hoe geavanceerd AI is.C. Een model waarmee je de ICT volwassenheid van een school kunt bepalen.D. Een model ontwikkeld door Tesla voor hun zelfrijdende auto’s.\n\n\n\nFeedback op de opties:\n\nDat klopt. Een denkmodel om over te praten.\nDat klopt deels, maar is zeker niet waarvoor het model ontwikkeld is.\nNee, daar is het niet voor.\nNee, het model is wel afgeleid van het model voor zelfrijdende auto’s.\n\n\n\n\n\nHoe kan AI docenten ondersteunen in hun werkzaamheden?\n\nA. Door administratieve taken te automatiseren.B. Door lesmateriaal automatisch te genereren.C. Door gepersonaliseerde feedback aan studenten te geven.D. Door fysieke lessen te vervangen zonder tussenkomst van een docent.\n\n\n\nFeedback op de opties:\n\nAI kan helpen bij het automatiseren van administratieve taken, zoals het nakijken van toetsen en het bijhouden van aanwezigheid.\nAI kan helpen bij het genereren van lesmateriaal, zoals het maken van oefeningen en het aanpassen van bestaand materiaal aan de behoeften van studenten.\nAI kan helpen bij het geven van gepersonaliseerde feedback aan studenten, bijvoorbeeld door het analyseren van hun werk en het geven van gerichte tips.\nNee, dat is niet juist. AI is een hulpmiddel dat docenten ondersteunt, niet vervangt.\n\n\n\n\n\nWat is een voorbeeld van een adaptief leersysteem?\n\nA. Een systeem dat dezelfde inhoud op dezelfde manier aan alle studenten presenteert.B. Een systeem dat de leerroute aanpast op basis van de prestaties van de student.C. Een systeem dat alleen door docenten kan worden aangepast.D. Een systeem dat geen gebruik maakt van data-analyse.\n\n\n\nFeedback op de opties:\n\nEen adaptief leersysteem past zich juist aan de individuele behoeften van de student aan.\nJa, dat klopt. Een adaptief leersysteem past de leerroute aan op basis van de prestaties en het tempo van de student.\nEen adaptief leersysteem kan juist door docenten worden aangepast, maar het past zich ook automatisch aan de student aan.\nEen adaptief leersysteem maakt juist gebruik van data-analyse om de leerroute aan te passen.\n\n\n\n\n\nWat is het belangrijkste kenmerk dat Artificial General Intelligence (AGI) onderscheidt van de huidige AI-systemen?\n\nA. Het vermogen om sneller tekst te genereren en berekeningen uit te voeren dan een menselijke computer.B. De capaciteit om elke intellectuele taak die een mens kan, te begrijpen, te leren en uit te voeren in verschillende domeinen.C. Het feit dat het systeem verbonden is met het internet en daardoor altijd over actuele nieuwsfeiten beschikt.D. De mogelijkheid om menselijke emoties te simuleren via een realistische stem of gezichtsuitdrukking.\n\n\n\nFeedback op de opties:\n\nDit is de kern van AGI. AGI kan autonoom generaliseren en kennis toepassen op totaal nieuwe situaties.\nSnelheid is een kenmerk van computers in het algemeen, maar dat maakt een systeem nog niet ‘intelligent’ in de brede zin van het woord.\nInternettoegang is een functionaliteit van de huidige AI, maar het betekent niet dat het systeem de informatie ook daadwerkelijk begrijpt zoals een mens dat doet.\nHet nabootsen van emoties wordt vaak verward met echte intelligentie, maar dit is geen bewijs voor algemene intellectuele vermogens.\n\n\n\n\n\nWelk van de onderstaande uitspraken over Machine Learning is juist?\n\nA. Meer data = betere resultatenB. Bij Machine Learning hoeft de mens niets te doen.C. Machine Learning is nog niet toepasbaar in het onderwijs\n\n\n\nFeedback op de opties:\n\nDat is inderdaad waar. Voorwaarde is dan wel dat het correcte data is. Garbage in = garbage out!\nDe mens moet het model ontwikkelen, het trainen begeleiden, het model daarna testen. Dus helemaal niets is niet juist. \nJawel hoor, het kan wel al, je zult waarschijnlijk alleen niet snel zelf een model trainen als individuele docent.\n\n\n\n\n\n\n\n Terug naar boven",
+    "text": "Beantwoord de vragen hieronder om je kennis te testen.\n\n\n\nWat is een potentiële uitdaging bij de implementatie van AI in het onderwijs?\n\nA. Gebrek aan voldoende data om AI-systemen te trainen.B. Overmatige personalisatie die leidt tot isolatie van studenten.C. Hoge kosten voor de ontwikkeling en implementatie van AI-systemen.D. Verhoogde werkdruk voor docenten door AI-systemen.\n\n\n\nFeedback op de opties:\n\nAI-systemen vereisen grote hoeveelheden data om effectief te kunnen leren en functioneren. Het verzamelen, opschonen en labelen van deze data kan een uitdaging zijn.\nTe veel personalisatie kan leiden tot een geïsoleerde leerervaring, waarbij studenten minder interactie hebben met docenten en medestudenten.\nDe ontwikkeling en implementatie van AI-systemen kan kostbaar zijn, wat een drempel kan vormen voor onderwijsinstellingen.\nHet is inderdaad niet vanzelfsprekend dat AI-systemen de werkdruk voor docenten verlagen, het tegendeel kan waar zijn!\n\n\n\n\n\nHoe kan AI bijdragen aan inclusiviteit in het onderwijs?\n\nA. Door leermaterialen aan te passen voor studenten met verschillende leerbehoeften.B. Door alleen te focussen op de gemiddelde student.C. Door geen rekening te houden met individuele verschillenD. Door toegang te beperken tot technologie voor bepaalde groepen.\n\n\n\nFeedback op de opties:\n\nAI kan helpen door het aanbieden van verschillende niveaus van moeilijkheid of door het aanpassen van de presentatie van de stof.\nHet doel van AI in het onderwijs is juist om rekening te houden met individuele verschillen en niet te focussen op de gemiddelde student.\nAI kan helpen bij het rekening houden met individuele verschillen door bijvoorbeeld gepersonaliseerde feedback te geven op opdrachten.\nAI kan helpen bij het vergroten van de toegang tot onderwijs door bijvoorbeeld het aanbieden van online cursussen en het automatiseren van administratieve taken.\n\n\n\n\n\nWaar of niet waar? De AVG zorgt voor rechtvaardige AI\n\nA. WaarB. Niet waar\n\n\n\nFeedback op de opties:\n\nDe AVG is een privacywet die de bescherming van persoonsgegevens regelt.\nHoewel de AVG belangrijke principes bevat die ook relevant zijn voor AI, zoals transparantie en dataminimalisatie, garandeert het niet dat AI-systemen altijd rechtvaardig zijn.\n\n\n\n\n\nWelke van de onderstaande begrippen heeft niets met AI te maken?\n\nA. Random ForestB. BeslisboomC. Deep LearningD. Onlogische regressie\n\n\n\nFeedback op de opties:\n\nEen random forest is een verzameling van (random) beslissingsbomen. Er wordt een verzameling van decision trees (beslisboom) gegenereerd met random variaties in de trainingset en input variabelen.\nEen beslisboom is een manier waarop machine learning ingericht kan worden.\nDeep learning is een discipline van machine learning, waarin gelaagde neurale netwerken leren van grote hoeveelheden data.\nLogische regressie bestaat wel, maar onlogische regressie is onzin.\n\n\n\n\n\nWat is een voorbeeld van een adaptief leersysteem?\n\nA. Een systeem dat dezelfde inhoud op dezelfde manier aan alle studenten presenteert.B. Een systeem dat de leerroute aanpast op basis van de prestaties van de student.C. Een systeem dat alleen door docenten kan worden aangepast.D. Een systeem dat geen gebruik maakt van data-analyse.\n\n\n\nFeedback op de opties:\n\nEen adaptief leersysteem past zich juist aan de individuele behoeften van de student aan.\nJa, dat klopt. Een adaptief leersysteem past de leerroute aan op basis van de prestaties en het tempo van de student.\nEen adaptief leersysteem kan juist door docenten worden aangepast, maar het past zich ook automatisch aan de student aan.\nEen adaptief leersysteem maakt juist gebruik van data-analyse om de leerroute aan te passen.\n\n\n\n\n\nWelke rol speelt data-analyse in AI-gedreven onderwijssystemen?\n\nA. Het helpt bij het identificeren van leerpatronen en -behoeften van studenten.B. Het vervangt de noodzaak voor menselijke docenten volledig.C. Het vermindert de noodzaak voor enige vorm van beoordeling.D. Het maakt handmatige invoer van studentgegevens overbodig.\n\n\n\nFeedback op de opties:\n\nData-analyse stelt AI-systemen in staat om patronen, trends en afwijkingen in leergedrag te identificeren, van belang voor het personaliseren van leerervaringen.\nNee, dat is gelukkig niet juist\nAI-systemen kunnen juist helpen bij het verbeteren van de beoordeling door bijvoorbeeld automatische feedback te geven op opdrachten.\nHoewel AI-systemen kunnen helpen bij het automatiseren van de invoer van studentgegevens, is het niet volledig overbodig.\n\n\n\n\n\nWaar is AI niet goed in?\n\nA. Herkennen van spraakB. Herkennen van afbeeldingenC. Herkennen van emoties\n\n\n\nFeedback op de opties:\n\nDat kan AI steeds beter en lukt al heel goed\nDat kan AI soms beter dan mensen\nDat klopt, het blijft best moeilijk om die goed te herkennen. Ook voor mensen overigens.\n\n\n\n\n\nVink alle risico's van AI aan\n\nA. Sommige onderwijsdoelen kunnen door AI in het geding rakenB. Afhankelijkheid van black-box modellen (unexplainable AI) versus verantwoordelijkheid van de docent.C. Bias in mensen vertaalt door naar data, die vervolgens wordt overgenomen door AI.D. Een machtsverschuiving naar de producenten van lesmateriaal.\n\n\n\nFeedback op de opties:\n\nAI kan leiden tot een focus op meetbare resultaten, waardoor creativiteit en kritisch denken onder druk komen te staan.\nHet is belangrijk dat docenten de controle behouden en niet blindelings vertrouwen op AI-systemen waarvan de werking niet transparant is.\nAI-systemen worden getraind op data, en als die data bevooroordeeld is, zal de AI die vooroordelen overnemen en versterken.\nDe ontwikkeling van AI-systemen is geconcentreerd bij een beperkt aantal grote technologiebedrijven, wat kan leiden tot een machtsverschuiving in het onderwijslandschap.\n\n\n\n\n\nWelk van de onderstaande uitspraken over Machine Learning is juist?\n\nA. Meer data = betere resultatenB. Bij Machine Learning hoeft de mens niets te doen.C. Machine Learning is nog niet toepasbaar in het onderwijs\n\n\n\nFeedback op de opties:\n\nDat is inderdaad waar. Voorwaarde is dan wel dat het correcte data is. Garbage in = garbage out!\nDe mens moet het model ontwikkelen, het trainen begeleiden, het model daarna testen. Dus helemaal niets is niet juist. \nJawel hoor, het kan wel al, je zult waarschijnlijk alleen niet snel zelf een model trainen als individuele docent.\n\n\n\n\n\nWat is het Automation Model?\n\nA. Een denkmodel om te bepalen hoeveel controle je aan technologie over wilt geven.B. Een model waarmee je kunt aangeven hoe geavanceerd AI is.C. Een model waarmee je de ICT volwassenheid van een school kunt bepalen.D. Een model ontwikkeld door Tesla voor hun zelfrijdende auto’s.\n\n\n\nFeedback op de opties:\n\nDat klopt. Een denkmodel om over te praten.\nDat klopt deels, maar is zeker niet waarvoor het model ontwikkeld is.\nNee, daar is het niet voor.\nNee, het model is wel afgeleid van het model voor zelfrijdende auto’s.\n\n\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🎓 Test Jezelf!"
+      "▪️ Test Jezelf!"
     ]
   },
   {
@@ -522,7 +522,7 @@
     "text": "Het is een logische vraag: wat is Kunstmatige Intelligentie? Of Artificiële Intelligentie? En is het dan AI of KI? De omschrijving is vaak afhankelijk van de context of het domein. Een specialist in machine learning zal een veel technischere definitie gebruiken dan relevant is voor een docent.\n\n\n\n\n\n\nTipDefinitie\n\n\n\nDe Rijksinspectie Digitale Infrastructuur gebruikt onderstaande definitie:\nKort gezegd is AI een verzamelnaam voor algoritmes en methoden die taken uitvoeren waarvan werd gedacht dat daar menselijke intelligentie voor nodig is. Artificiële intelligentie verwijst naar systemen die intelligent gedrag vertonen door hun omgeving te analyseren en - met een zekere mate van zelfstandigheid - actie ondernemen om specifieke doelen te bereiken. Het gaat niet alleen om rekenkracht, maar om de mogelijkheid om (zelfstandig) te leren en beslissingen te nemen. Het lerend vermogen is dus typerend voor kunstmatige intelligentie. Daarbij gebruikt AI regels die door mensen zijn geformuleerd of die door het algoritme zijn samengesteld op basis van de data en traint het zichzelf met data.\n\n\nRelevant voor deze module is om je te realiseren is dat AI dus niet hetzelfde is als ChatGPT of aan Generatieve AI. Dat zijn toevallig wel twee voorbeelden van AI waar je veel over hoort in de media.\n\n\n\n\n\n\nTipAI of KI?\n\n\n\nIn het Engels hebben we het over Artificial Intelligence (AI). In het Nederlands wordt dat zowel vertaald als Kunstmatige Intelligentie of als Artificiële Intelligentie. Beide termen verwijzen naar hetzelfde concept. Als afkorting kun je in het Nederlands het beste alleen AI gebruiken. KI wordt namelijk ook gebruikt als afkorting voor Kunstmatige Inseminatie. En dat is echt iets anders.\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding",
+      "▪️ Inleiding",
       "Wat is AI?"
     ]
   },
@@ -562,7 +562,7 @@
     "text": "Waar beginnen?\nIs het onderwerp helemaal nieuw voor je, dan is het goed om te beginnen met Wat is AI?. Heb je al enige kennis van AI, dan kun je ook direct doorgaan naar een van de andere onderwerpen. De overzichtvideo (editie 2025) geeft een goede samenvatting van het onderwerp als je liever kijkt en luistert dan leest.\nOp de pagina AI bij de Overheid lees je hoe de publieke sector AI inzet. Hoewel de informatie specifiek voor het onderwijs inmiddels al flink uitgebreid is, is het goed om ook bij andere sectoren te kijken.",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding"
+      "▪️ Inleiding"
     ]
   },
   {
@@ -573,7 +573,7 @@
     "text": "Waar wil je hierna naartoe?\nNa deze inleiding bevat de module nog een aantal hoofdonderwerpen, die je via het zijmenu structureel kunt doorlopen:\n\n🧠 AI-geletterdheid - Hoe bereiden we onszelf voor op de toekomst met AI?\n🤖 De mens en AI - Hoe zorgen we voor duurzame, betrouwbare AI waarbij de mens centraal blijft staan?\n🏫 AI in het onderwijs - Verdieping rondom specifiek onderwijskundige toepassingen en theorie.\n📚 Literatuur - Waar kan ik wetenschappelijk bewijs vinden over wat er daadwerkelijk werkt?\n🍿 AI in de film - Ter ondersteuning van je bredere beeldvorming: films waar AI een grote rol in speelt.\n\n\n\n\n\n\n\nOpmerking🎬 Extra Inspiratie & Verdieping (Bonusmateriaal)\n\n\n\nHeb je behoefte aan extra duiding, debat of losse voorbeelden buiten het vaste pad? Deze links zijn optioneel, maar staan vol waardevolle stof:\n\nNOS op 3 — Actuele uitlegvideo’s.\nHet Klokhuis — Zeker niet alleen voor kinderen!\nLubach over AI — Love him or hate him, hij kan het best goed uitleggen.\nSlecht voor je creativiteit? — Is AI eerder een bedreiging of een verrijking?\nData-ondersteund onderwijs — Hoe hangen AI en learning analytics samen? (In Jaar 1 van MOVEL aan bod gekomen).",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding"
+      "▪️ Inleiding"
     ]
   },
   {
@@ -584,7 +584,7 @@
     "text": "Testen\nEn weet je dan toch echt alles over AI? Dan is het tijd om te testen of je het ook echt kunt: Test jezelf!",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding"
+      "▪️ Inleiding"
     ]
   },
   {
@@ -609,7 +609,7 @@
     "text": "De ontwikkelingen afgelopen jaren laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding",
+      "▪️ Inleiding",
       "Overzichtsvideo"
     ]
   },
@@ -621,7 +621,7 @@
     "text": "Samenvatting van de video\nIn deze video worden de snelle ontwikkelingen van AI in het onderwijs besproken. De kernpunten zijn:\n\nDefinitie & Soorten AI: AI wordt gedefinieerd als de mogelijkheid van machines om mensachtige vaardigheden te vertonen. Er wordt onderscheid gemaakt tussen Algemene AI (zoals beeldherkenning en generatieve AI) en Onderwijs AI (specifiek ontwikkeld voor de context van leren).\nGeneratieve AI-evolutie: Van de simpele tekst-naar-tekst modellen eind 2022 naar de multimodale systemen van 2025 (tekst, beeld, audio, video).\nTechnologische Doorbraken:\n\nBredere modellen: Grotere rekenkracht voor betere antwoorden.\nRedeneermodellen: Modellen die uitleggen hoe ze tot een oplossing komen.\nRAG (Retrieval Augmented Generation): Het koppelen van AI aan eigen bronnen om hallucinaties te voorkomen.\nAgentic AI: Autonome AI-agenten die samenwerken aan complexe opdrachten (het ‘buzzword’ voor 2025).\n\nOnderwijs en Toetsing: Het ‘stoplichtmodel’ voor toetsing (rood: makkelijk fraudegevoelig, groen: AI-bestendig). De nadruk ligt op het niet criminaliseren van studenten, maar het aanleren van een kritische houding.\nProfessionalisering en Ontwikkeling: Via initiatieven zoals NOLAI wordt er gewerkt aan co-creatie tussen wetenschap, onderwijs en bedrijfsleven. Pierre benadrukt dat 40% van de docenten zich nog niet geprofessionaliseerd heeft, wat problematisch is gezien de EU-wetgeving (AI Act).",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding",
+      "▪️ Inleiding",
       "Overzichtsvideo"
     ]
   },
@@ -633,7 +633,7 @@
     "text": "Lessen voor de Master Ontwerpen van Eigentijds Leren (MOVEL)\nVoor een student aan de Master MOVEL zijn de volgende inzichten uit de video relevant bij het ontwerpen van leeromgevingen:\n\nPedagogisch-Didactisch Handelen als Kern: AI is een hulpmiddel bij het informeren en handelen, maar het pedagogisch-didactisch ontwerp blijft de verantwoordelijkheid van de ontwerper/docent.\nToetsing herontwerpen: Een eigentijds ontwerp vereist dat je rekening houdt met de “buurmeisjestest”. Als een slimme buurjongen een opdracht met AI kan maken, is de opdracht niet langer valide voor het aantonen van competenties.\nInclusiviteit en Kansengelijkheid: Omdat voor veel premium AI-diensten betaald moet worden, moet een onderwijsontwerper nadenken over hoe hij voorkomt dat AI de kloof tussen studenten vergroot.\nGeïnformeerd Experimenteren: Ontwerpen is een cyclisch proces. Gebruik AI om kleine experimenten te doen, ontdek wat werkt, en schaal dan pas op.\nEthiek als Ontwerpprincipe: Ethiek is geen ‘moetje’ achteraf, maar een sturend principe aan de voorkant van je ontwerp (welzijn, diversiteit, duurzaamheid).",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding",
+      "▪️ Inleiding",
       "Overzichtsvideo"
     ]
   },
@@ -642,10 +642,10 @@
     "href": "inleiding/ai-onderwijs.html#quizvragen",
     "title": "Overzichtsvideo (2025)",
     "section": "Quizvragen",
-    "text": "Quizvragen\nTest jezelf na het kijken van de video met de volgende quizvragen:\n\n\n\nPierre Gorissen noemt een stoplichtmodel voor toetsing. Welke kleur staat voor ‘toetsvormen waarbij de student zelf zijn competenties laat zien, zoals een mondelinge toets’?\n\nA. RoodB. OranjeC. GroenD. Blauw\n\n\n\nFeedback op de opties:\n\nNee, rood is voor fraudegevoelige toetsen.\nNee, oranje wordt niet specifiek in deze context genoemd voor deze toetsvorm.\nJa, dit klopt inderdaad. Groen staat voor AI-bestendige toetsing.\nNee, blauw is geen onderdeel van het genoemde stoplichtmodel.\n\n\n\n\n\nWat wordt in de video bedoeld met de ‘buurmeisjestest’?\n\nA. Een test om te kijken of een kind van basisschoolleeftijd de AI kan bedienen.B. Als een opdracht eenvoudig door een slimme buitenstaander met AI gemaakt kan worden, heb je als docent een probleem.C. Een onderzoek naar de mate waarin meisjes meer of minder gebruikmaken van AI dan jongens.D. Een methode om te controleren of de data van de buren veilig is volgens de AVG.\n\n\n\nFeedback op de opties:\n\nNee, gelukkig niet.\nJa, dat klopt inderdaad\nNee, Dat zou een heel ander soort onderzoek zijn.\nNee, Dat heeft niets met de AVG te maken.\n\n\n\n\n\nWat is volgens de monitor van 2024 een groot knelpunt bij docenten in het MBO?\n\nA. Studenten weigeren AI te gebruiken.B. 40% van de docenten heeft zich niet geprofessionaliseerd en wil dat ook niet.C. Er is geen internetverbinding in de klaslokalen.D. De AI-tools zijn te moeilijk om te begrijpen voor docenten.\n\n\n\nFeedback op de opties:\n\nNee, studenten gebruiken het juist veel.\nJa, dit klopt inderdaad. De monitor laat zien dat een groot deel van de docenten achterblijft.\nNee, dat is tegenwoordig meestal geen probleem meer.\nNee, dat is niet het genoemde knelpunt in de monitor.\n\n\n\n\n\nWelk voordeel biedt RAG (Retrieval Augmented Generation) voor het onderwijs?\n\nA. Het zorgt ervoor dat AI-modellen sneller kunnen praten.B. Het maakt AI-gebruik gratis voor alle studenten.C. Het voorkomt hallucinaties door de AI alleen gebruik te laten maken van specifieke, betrouwbare bronnen.D. Het vervangt de docent volledig bij het nakijken van toetsen.\n\n\n\nFeedback op de opties:\n\nNee, dat is niet wat RAG doet.\nNee, RAG heeft niets met de prijs te maken.\nJa, dit klopt inderdaad. RAG koppelt de AI aan specifieke bronnen.\nNee, dat is zeker niet het geval.\n\n\n\n\n\nWat is volgens de video de kern van ‘Agentic AI’?\n\nA. Het gebruik van AI om sneller teksten te schrijven.B. AI-modellen die alleen antwoord geven op basis van één specifieke bron.C. Meerdere AI-agenten die autonoom samenwerken aan complexe opdrachten.D. Een techniek om hallucinaties in taalmodellen te voorkomen.\n\n\n\nFeedback op de opties:\n\nNee, dat is helaas niet juist. Hoewel het sneller kan, is dat niet de kern van agentic AI\nNee, agentic systemen werken vaak juist samen op basis van meerdere bronnen\nJa, dt klopt inderdaad\nNee, hallucineren, of ‘los’ gaan is juist bij agentic AI een extra risico",
+    "text": "Quizvragen\nTest jezelf na het kijken van de video met de volgende quizvragen:\n\n\n\nPierre Gorissen noemt een stoplichtmodel voor toetsing. Welke kleur staat voor ‘toetsvormen waarbij de student zelf zijn competenties laat zien, zoals een mondelinge toets’?\n\nA. RoodB. OranjeC. GroenD. Blauw\n\n\n\nFeedback op de opties:\n\nNee, rood is voor fraudegevoelige toetsen.\nNee, oranje wordt niet specifiek in deze context genoemd voor deze toetsvorm.\nJa, dit klopt inderdaad. Groen staat voor AI-bestendige toetsing.\nNee, blauw is geen onderdeel van het genoemde stoplichtmodel.\n\n\n\n\n\nWat is volgens de video de kern van ‘Agentic AI’?\n\nA. Het gebruik van AI om sneller teksten te schrijven.B. AI-modellen die alleen antwoord geven op basis van één specifieke bron.C. Meerdere AI-agenten die autonoom samenwerken aan complexe opdrachten.D. Een techniek om hallucinaties in taalmodellen te voorkomen.\n\n\n\nFeedback op de opties:\n\nNee, dat is helaas niet juist. Hoewel het sneller kan, is dat niet de kern van agentic AI\nNee, agentic systemen werken vaak juist samen op basis van meerdere bronnen\nJa, dt klopt inderdaad\nNee, hallucineren, of ‘los’ gaan is juist bij agentic AI een extra risico\n\n\n\n\n\nWat wordt in de video bedoeld met de ‘buurmeisjestest’?\n\nA. Een test om te kijken of een kind van basisschoolleeftijd de AI kan bedienen.B. Als een opdracht eenvoudig door een slimme buitenstaander met AI gemaakt kan worden, heb je als docent een probleem.C. Een onderzoek naar de mate waarin meisjes meer of minder gebruikmaken van AI dan jongens.D. Een methode om te controleren of de data van de buren veilig is volgens de AVG.\n\n\n\nFeedback op de opties:\n\nNee, gelukkig niet.\nJa, dat klopt inderdaad\nNee, Dat zou een heel ander soort onderzoek zijn.\nNee, Dat heeft niets met de AVG te maken.\n\n\n\n\n\nWat is volgens de monitor van 2024 een groot knelpunt bij docenten in het MBO?\n\nA. Studenten weigeren AI te gebruiken.B. 40% van de docenten heeft zich niet geprofessionaliseerd en wil dat ook niet.C. Er is geen internetverbinding in de klaslokalen.D. De AI-tools zijn te moeilijk om te begrijpen voor docenten.\n\n\n\nFeedback op de opties:\n\nNee, studenten gebruiken het juist veel.\nJa, dit klopt inderdaad. De monitor laat zien dat een groot deel van de docenten achterblijft.\nNee, dat is tegenwoordig meestal geen probleem meer.\nNee, dat is niet het genoemde knelpunt in de monitor.\n\n\n\n\n\nWelk voordeel biedt RAG (Retrieval Augmented Generation) voor het onderwijs?\n\nA. Het zorgt ervoor dat AI-modellen sneller kunnen praten.B. Het maakt AI-gebruik gratis voor alle studenten.C. Het voorkomt hallucinaties door de AI alleen gebruik te laten maken van specifieke, betrouwbare bronnen.D. Het vervangt de docent volledig bij het nakijken van toetsen.\n\n\n\nFeedback op de opties:\n\nNee, dat is niet wat RAG doet.\nNee, RAG heeft niets met de prijs te maken.\nJa, dit klopt inderdaad. RAG koppelt de AI aan specifieke bronnen.\nNee, dat is zeker niet het geval.",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding",
+      "▪️ Inleiding",
       "Overzichtsvideo"
     ]
   },
@@ -657,7 +657,7 @@
     "text": "De Machine Learning University heeft een videoserie over Responsible AI. Deze playlist gaat dieper in op de technische en ethische aspecten.\n▶Klik om video te startenBekijk op YouTube\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Responsible AI"
     ]
   },
@@ -669,7 +669,7 @@
     "text": "In dit onderdeel van de module onderzoeken we de relatie tussen de mens en Kunstmatige Intelligentie. We kijken naar de filosofische kant van technologie, de kosten van ‘gratis’ diensten, ethiek, wetgeving en de risico’s van bias in algoritmen.\nKlik in de zijbalk op een van de onderwerpen om meer te lezen:\n\nDe mens centraal? — Over de relatie tussen mens en technologie door Peter Paul Verbeek.\nBetalen voor AI — Waarom AI nooit echt gratis is (data, premium, hardware, duurzaamheid).\nEthiek en Richtlijnen — De ethische richtsnoeren van de EU voor het onderwijs.\nDe AI-Act — Wat is de nieuwe Europese wetgeving en wat betekent het voor ons?\nCoded Bias — Over de documentaire en de verborgen vooroordelen in AI.\nBias in de praktijk — Voorbeelden van waar het fout ging, zoals bij antispieksoftware.\nResponsible AI — Een diepgaande videoserie over verantwoorde AI.\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI"
+      "▪️ De mens en AI"
     ]
   },
   {
@@ -680,7 +680,7 @@
     "text": "Coded Bias is een documentaire uit 2020 van Shalini Kantayya waarin MIT-onderzoeker Joy Buolamwini centraal staat. De film toont aan hoe bias (vooroordelen) in algoritmen en AI-modellen ingebakken kan zitten, vaak omdat de trainingsdata niet representatief is.",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Coded Bias"
     ]
   },
@@ -692,7 +692,7 @@
     "text": "Trailer\n▶Klik om video te startenBekijk op YouTube\n\nAlgorithmic Justice League\nJoy richtte de Algorithmic Justice League op. Bekijk hier haar TEDTalk over “The Coded Gaze”:\n▶Klik om video te startenBekijk op YouTube\n\n\nCathy O’Neil: Weapons of Math Destruction\nCathy O’Neil schreef de bestseller Weapons of Math Destruction.\n\n\n\nBoekomslag\n\n\nJe kunt het audioboek hier beluisteren: \nEn haar TEDTalk over het gevaar van blinde algoritmen:\n▶Klik om video te startenBekijk op YouTube\n\n\n\n\n\n\nOpmerkingBig Brother Watch\n\n\n\n\n\nEen van de organisaties uit de film is Big Brother Watch, die strijdt tegen het ongecontroleerd gebruik van gezichtsherkenning.",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Coded Bias"
     ]
   },
@@ -704,7 +704,7 @@
     "text": "Er zijn weinig dingen in het leven die echt gratis zijn. “If you are not paying for it, you’re not the customer; you’re the product being sold” is een redelijk deprimerende uitspraak.\nHet doet niet helemaal recht aan bijvoorbeeld open source software, open leermaterialen of open science, maar ook in die gevallen is er altijd iemand die betaald heeft voor de ontwikkeling. Het gebruik van AI is eigenlijk nooit gratis.",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Betalen voor AI"
     ]
   },
@@ -716,7 +716,7 @@
     "text": "En als het geen geld oplevert?\n\nEn als het geld geen oplevert, dan kan het zijn dat een app of een toepassing heel snel ook weer verdwijnt. Zoals bijvoorbeeld met de Sora app van OpenAI voor het maken van filmpjes met AI. Daar had het bedrijf in 2025 nog grote plannen mee, er werd o.a. een samenwerking met Disney aangekondigd. Maar in maart 2026 was het alweer voorbij. De technologie was nog niet zo ver dat het de kosten waard was. En OpenAI maakt weliswaar hoe dan ook nog geen winst, geld verdienen is ook voor hen belangrijk.",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Betalen voor AI"
     ]
   },
@@ -725,7 +725,7 @@
     "href": "colofon.html",
     "title": "Over deze module",
     "section": "",
-    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\nDeze versie is voor het laatst bijgewerkt op 03-04-2026\n\n\nDeze module verzamelt anonieme gebruiksinformatie ten behoeve van gebruiksanalyse via xAPI. Er worden geen naar personen herleidbare gegevens verzameld. De broncode die je download bevat géén trackingcodes, geen “call home” functionaliteit of iets dergelijks. De xapi-functionaliteit wordt alleen geactiveerd als de module met het _quarto-production.yml profiel wordt gerenderd. In de map xapi staat ook een voorbeeld van een PHP-proxy die door het .js-bestand gebruikt kan worden. Nogmaals, de functionaliteit is optioneel en wordt alleen geactiveerd als je er zelf voor kiest.\nEr wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacybeleid deze pagina. De video’s worden pas geladen als jij er op klikt. Dus als je niet op de video klikt, wordt er geen informatie gedeeld met YouTube.\n\n\n\nJe kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen.\n\n\n\nEr is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van Google Antigravity. Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud zijn afkomstig van een mens.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
+    "text": "Deze module is initieel in 2023 ontwikkeld door Pierre Gorissen en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content. De eerste versie van de module zijn gemaakt in de open source leeromgeving Xerte. De inhoud van de module is in 2026 geconverteerd naar Quarto, een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.\nDeze versie is voor het laatst bijgewerkt op 09-04-2026\n\n\nDeze module verzamelt anonieme gebruiksinformatie ten behoeve van gebruiksanalyse via xAPI. Er worden geen naar personen herleidbare gegevens verzameld. De broncode die je download bevat géén trackingcodes, geen “call home” functionaliteit of iets dergelijks. De xapi-functionaliteit wordt alleen geactiveerd als de module met het _quarto-production.yml profiel wordt gerenderd. In de map xapi staat ook een voorbeeld van een PHP-proxy die door het .js-bestand gebruikt kan worden. Nogmaals, de functionaliteit is optioneel en wordt alleen geactiveerd als je er zelf voor kiest.\nEr wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacybeleid deze pagina. De video’s worden pas geladen als jij er op klikt. Dus als je niet op de video klikt, wordt er geen informatie gedeeld met YouTube.\n\n\n\nJe kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je hier op github downloaden. Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even mailen.\n\n\n\nEr is gebruik gemaakt van AI bij het doorontwikkelen van de module. Zo zijn er afbeeldingen gegenereerd met behulp ChatGPT en Gemini, een aantal van de teksten is mede bewerkt door generatieve AI, bijvoorbeeld voor het samenvatten van onderdelen, een deel van de screenshots is automatisch gemaakt met behulp van Google Antigravity. Uitgangspunt blijft echter dat een mens eindverantwoordelijk blijft voor de inhoud van deze module. De structuur en de keuzes voor de inhoud zijn afkomstig van een mens.\n\n\n\nDe inhoud van deze module wordt beschikbaar gesteld onder een Creative Commons licentie:\n\n\n\n\n\nIn het primair onderwijs spreken we van leraren en leerlingen, terwijl in andere sectoren docenten en studenten gebruikelijker zijn. In deze module gebruiken we waar relevant ‘docenten en studenten’, maar dit kan ook leraren en leerlingen betekenen. Belangrijke verschillen tussen onderwijssectoren worden benoemd, maar we focussen op de vele overeenkomsten als startpunt.\nIn de teksten wordt voor zover mogelijk rekening gehouden met onder andere diversiteit en gender en wordt stereotiepe beeldvorming zo veel mogelijk voorkomen. Het is niet altijd 100% om dat ook voor ingesloten video’s te garanderen. Mocht er inhoud in de module voorkomen die hier onvoldoende rekening mee houdt, laat het ons dan weten."
   },
   {
     "objectID": "colofon.html#privacy",
@@ -770,8 +770,8 @@
     "text": "MagicSchool AI is een platform dat speciaal is ontwikkeld door en voor leraren. In tegenstelling tot generieke AI-tools als ChatGPT of Claude, is MagicSchool gebouwd rondom concrete lerarentaken: de interface bestaat uit een bibliotheek van meer dan 60 vooraf gedefinieerde tools, elk gericht op een specifieke taak die leraren dagelijks uitvoeren.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "MagicSchool AI"
     ]
   },
@@ -783,8 +783,8 @@
     "text": "Welke tools biedt MagicSchool?\n\nLesvoorbereiding\n\nLesplannen genereren op basis van leerjaar, vak, doelen en beschikbare tijd\nToetsvragen opstellen: meerkeuzevragen, open vragen, situatietests\nRubrics ontwerpen: beoordelingscriteria uitschrijven met descriptoren per niveau\nDifferentiatiesuggesties: hoe dezelfde les aan te passen voor verschillende niveaus of leerbehoeften\n\n\n\nCommunicatie\n\nOuderbrieven schrijven: zet raapachtige aantekeningen om in professionele brieven\nIEP-doelen formuleren: ondersteuning bij het opstellen van handelingsplannen\nE-mails opstellen voor ouders, leerlingen of collega’s\n\n\n\nLesmateriaal\n\nTeksten aanpassen aan leesniveau: maak een artikel toegankelijk voor jouw specifieke klas\nLeessuggesties genereren op basis van thema en niveau\nDiscussievragen en socratische vragen formuleren\n\nMagicSchool bevat ook Raina, een AI-assistent voor leerlingen die vragen stelt in plaats van antwoorden te geven — vergelijkbaar met de Socratische methode.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "MagicSchool AI"
     ]
   },
@@ -796,8 +796,8 @@
     "text": "Disclaimer\nIk heb MagicSchool zelf nog niet echt gebruikt, wat ik snel kan zien na inloggen is niet persé indrukwekkend en daar zijn vast ook Nederlandse (betaalde) alternatieven voor. De tekst hierboven is dus een algemene, door AI gegenereerde beschrijving. Tips over dit soort platforms in het Nederlands én gebruikservaringen zijn welkom!",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "MagicSchool AI"
     ]
   },
@@ -809,8 +809,8 @@
     "text": "Gradescope is een systeem dat de docent helpt bij het beoordelen van werkstukken en proefwerken van leerlingen. Duidelijk is dat de docent hier steeds “in control” blijft; de AI groepeert antwoorden, maar de mens bepaalt de punten.\n▶Klik om video te startenBekijk op YouTube\nGradescope is voor zover bekend niet voor de Nederlandse markt beschikbaar, maar het blijft een mooi voorbeeld van ondersteuning door AI zonder risico van “the computer says no” of het uit handen nemen van de controle van de docent.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "Gradescope"
     ]
   },
@@ -822,8 +822,8 @@
     "text": "Het experiment is inmiddels al lang en breed beëindigd, maar de video dient nog steeds als goed voorbeeld als je gaat nadenken over de vraag “wat willen we eigenlijk wel of niet?”.\n▶Klik om video te startenBekijk op YouTube\nRecentelijk (2026) is een logischere link bij “AI voorbeeld uit China” een verwijzing naar DeepSeek. Die concurrent van ChatGPT deed heel wat stof opwaaien omdat mensen tot dat moment er vanuit gingen dat de echt goede taalmodellen allemaal in de VS ontwikkeld werden. Waar China al lang te maken heeft met importrestricties van chips uit de VS, lijkt het erop dat ook hier de ontwikkelingen niet stil staan. Deepseek spreekt inmiddels ook Nederlands.\n\n\n\nDeepseek over de oorlog in Iran\n\n\nBelangrijk kritiekpunt bij Deepseek is dat het systeem soms keihard censureert. Dat is in het bovenstaande voorbeeld niet zo, en toen ik vroeg “Wat waren de belangrijkste besluiten tijdens het volkscongres in China onlangs?” kreeg ik een net antwoord. En ook op mijn vervolgvraag “Er zijn mensen die zeggen dat de wetgeving rond het bevorderen van harmonie tussen bevolkingsgroepen zal leiden tot onderdrukking van minderheden in China. Is dat een risico fo zelfs doel van de wetgeving?” kreeg ik in eerste instantie wél een antwoord. En een heel goed antwoord in zoverre dat daarbij zowel het officiële standpunt van de Chinese overheid aan bod kwam als de kritiek daarop. Maar nog voordat ik een screenshot kon nemen van dat antwoord, greep het systeem in en kwam met de volgende melding:\n\n\n\nDeepseek censuur\n\n\nIk realiseerde me dat ik met mijn gewone gmail-account ingelogd was, dus het was ook wat ingewikkelder om te gaan proberen het te reproduceren voor een schermfilmpje. Maar het illustreert wel een verschil in aanpak. Vraag je dit aan ChatGPT, dan krijg je overigens ook gewoon beide kanten van het verhaal te horen.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "China - een voorbeeld?"
     ]
   },
@@ -835,7 +835,7 @@
     "text": "Als student van MOVEL heb je ongetwijfeld gehoord van het curriculaire sppinnenweb van Van den Akker (2003).\n\n\n\nHet curriculaire spinnenweb\n\n\nHet curriculaire spinnenweb is een heel bruikbaar model om te begrijpen hoe de integratie van AI veel verder gaat dan alleen het aanschaffen van een nieuwe tool. Het model stelt dat een curriculum bestaat uit een centrale visie en negen samenhangende aspecten. Wanneer AI wordt geïntroduceerd, heeft dit invloed op elk van deze onderdelen. Bij de komst van AI moet een school of een docent zich afvragen: Waarom gebruiken we AI? Is het om de efficiëntie te verhogen, om studenten voor te bereiden op de toekomstige arbeidsmarkt, of om gepersonaliseerd leren mogelijk te maken? Zonder een heldere visie zwiepen de andere draden ongecontroleerd heen en weer.\n\nDe metafoor van het spinnenweb\nHet spinnenweb illustreert dat een leerplan flexibel maar kwetsbaar is. In relatie tot AI betekent dit:\n\nSamenhang: Als je AI alleen inzet bij de ‘Inhoud’ (bijv. leren over prompts), maar de ‘Toetsing’ (bijv. papieren examens) niet aanpast, raakt het web uit balans.\nSpanning: Als er te hard aan één draad wordt getrokken (bijvoorbeeld een eenzijdige focus op AI-tools zonder naar de ‘Rol van de docent’ te kijken), dreigt het curriculum te “scheuren”. Vernieuwing slaagt alleen als alle draden evenredig meebewegen.\n\nIn de onderstaande tabel zie je hoe de kernvragen van het spinnenweb verschuiven door de invloed van AI:\n\n\n\n\n\n\n\nLeerplanaspect\nKernvraag met AI-focus\n\n\n\n\nVisie\nWaarom willen we AI integreren in ons onderwijs? Waartoe leren leerlingen nog als AI veel kennistaken overneemt? Wat is het doel van onderwijs in een AI-tijdperk?\n\n\nDoelen\nWelke nieuwe AI-geletterdheid moeten leerlingen beheersen? Welke doelen verliezen aan belang, welke worden urgenter (kritisch denken, prompten, bronbeoordeling)?\n\n\nInhoud\nWat moeten leerlingen nog weten als AI alle feiten paraat heeft?\n\n\nLeeractiviteiten\nHoe gebruiken leerlingen AI-tools om te creëren of te analyseren? Hoe veranderen werkvormen als AI meewerkt aan producten?\n\n\nDocentrol\nVerandert de docent van kennisoverdrager naar AI-coach? AI als co-docent?\n\n\nBronnen & Materialen\nWelke AI-software en licenties zijn er nodig (en veilig)? AI als bron; betrouwbaarheid, hallucinaties, auteursrecht.\n\n\nGroeperingsvormen\nMaakt AI individuele leerpaden in een volle klas makkelijker? Samenwerking met én naast AI; individueel werk opnieuw gedefinieerd.\n\n\nTijd\nHoeveel tijd kost het aanleren van AI-vaardigheden versus vakinhoud? AI versnelt bepaalde taken; wat doe je met de vrijgekomen tijd?\n\n\nLocatie\nKan het leren nu overal plaatsvinden met een AI-tutor? Fysiek vs. digitaal; wanneer bewust AI-vrij?\n\n\nToetsing\nHoe toetsen we nog op een eerlijke manier (proces vs. product)?\n\n\n\nAI in het onderwijs is geen losstaande tool, maar een operatie aan het gehele curriculaire systeem. Succesvolle integratie vereist dat elke “draad” van het spinnenweb wordt meegenomen om de balans te bewaren. Zie ook de bijdrage AI als spin in het web: Implicaties van ChatGPT voor het curriculum van Kim Schildkamp over de rol van generatieve AI voor het curriculum.\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en het curriculum"
     ]
   },
@@ -847,8 +847,8 @@
     "text": "NOLAI is het nationale onderwijslab voor AI in het basis-, voortgezet en speciaal onderwijs, gefinancierd door het Nationaal Groeifonds. Op scholen leven veel vragen over AI. NOLAI brengt onderwijs, wetenschap en bedrijfsleven samen in kortlopende projecten om AI-toepassingen te ontwikkelen en te onderzoeken. Het doel is een bewuste en verantwoorde inzet van AI in de klas.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "NOLAI"
     ]
   },
@@ -860,8 +860,8 @@
     "text": "NOLAI magazine\n\nIn een jaarlijks magazine deelt NOLAI haar wetenschappelijk verantwoorde meetlat waarlangs we nieuwe en bestaande educatieve AI leggen, en haar laatste inzichten en ontwikkelingen. De versies van 2024 en 2025 zijn nu online verkrijgbaar als pdf.\nHet leren van de leerling en het lesgeven van de leraar vormen de uitgangspunten voor NOLAI en haar partners. Samen beantwoorden we de volgende vragen:\n\nWat weten we? Welke wetenschappelijke kennis is beschikbaar?\nWat kunnen we? Welke educatieve AI is beschikbaar?\nWat willen we? Welke vragen stelt het onderwijs ons nu?\n\nMet educatieve AI wordt AI bedoeld die specifiek voor onderwijs is ontwikkeld, bijvoorbeeld door educatieve uitgeverijen of Nederlandse EdTech-bedrijven.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "NOLAI"
     ]
   },
@@ -873,8 +873,8 @@
     "text": "Samen ontwikkelen\nHet samen, in een multidisciplinair team, ontwikkelen of herontwerpen van onderwijs is een bewezen effectieve werkwijze. Binnen iXperium vindt dit plaats binnen iXperiumdesignteams. Binnen NOLAI wordt ingezet op co-creatieprojecten waarbij wetenschap, onderwijs en bedrijfsleven samen werken aan oplossingen voor problemen en uitdagingen in het onderwijs.\n\nEen overzicht van de projecten van NOLAI is hier te vinden.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "NOLAI"
     ]
   },
@@ -886,8 +886,8 @@
     "text": "AI-teach is een Erasmus+ Teacher Academy-project dat docenten ondersteunt bij het gebruik van kunstmatige intelligentie in het onderwijs. Het biedt een internationaal programma voor capaciteitsopbouw om de AI-geletterdheid te vergroten onder zowel aankomende als reeds werkende docenten in het voortgezet onderwijs.\nDoor middel van training, onderzoek en internationale samenwerking helpt AI-teach docenten om AI op een ethische, kritische en creatieve manier in te zetten in hun lespraktijk. De HAN lerarenopleiding is een van de partners in dit project.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "AI-Teach"
     ]
   },
@@ -899,8 +899,8 @@
     "text": "Professionalisering\nHet project is op dit moment (maart 2026) nog volop bezig met het ontwikkelen van de professionaliseringsactiviteiten. Je kunt wel al de rapportage van de mappingstudie downloaden en lezen.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "AI-Teach"
     ]
   },
@@ -912,8 +912,8 @@
     "text": "Pioneering videos\nOok zijn er een aantal ‘pioneering videos’ gemaakt waarin docenten uit verschillende landen vertellen over hun ervaringen met AI in het onderwijs. Je kunt ze hier bekijken.\n▶Klik om video te startenBekijk op YouTube In deze video hoor je Jochem Hiddink van de HAN over zijn ervaringen met AI in het onderwijs. Hieronder een voorbeeld uit België:\n▶Klik om video te startenBekijk op YouTube (n.b. YouTube leek deze video als gesproken in het Turks te herkennen en liet de Engelstalige audiotrack horen, dit is toch echt gewoon Vlaams…)\nRechtstreeks toegang tot alle video’s vind je hier.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "AI-Teach"
     ]
   },
@@ -925,7 +925,7 @@
     "text": "De komst van (generatieve) AI is geen tijdelijke storm die overwaait. Het is een fundamentele verschuiving in hoe we kennis creëren, bewerken en toetsen. Voor het onderwijs, voor studenten aan de MOVEL, betekent dit dat “losse reparaties” aan een curriculum niet langer volstaan. Dat is symptoombestrijding, tijd voor structureel herontwerp.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en herontwerp"
     ]
   },
@@ -937,7 +937,7 @@
     "text": "Vier Niveaus van Respons\n\nWe kunnen vier niveaus onderscheiden in de manier waarop een onderwijsinstelling op AI reageert:\n\nNegeren: Doen alsof er niets veranderd is. Het risico is dat er een groeiende kloof ontstaat tussen wat de student leert en de realiteit van de buitenwereld, plus een onhoudbare toetsdruk door onzichtbaar AI-gebruik.\nVerbieden: AI wordt geweerd uit de klas en van opdrachten. Dit kan zinvol zijn bij specifieke basisvaardigheden (bijv. leren rekenen of spellen), maar als algemeen beleid is het vaak een illusie en remt het de broodnodige AI-geletterdheid.\nAanpassen: Bestaande opdrachten worden “ge-tweakt”. Bijvoorbeeld: “Je mag ChatGPT gebruiken, maar je moet de prompts bijvoegen.” Dit is een begrijpelijke tussenstap, maar verandert de kern van het leren nog niet.\nHerontwerpen: De fundamentele vragen worden gesteld. Als AI dit kan, wat moeten onze studenten dan nog zélf kunnen? Hoe verandert de relatie tussen mens en machine in dit vakgebied? Dit is het domein van de MOVEL-ontwerper.\n\nAls je het SAMR-model (Substitution, Augmentation, Modification, Redefinition) kent, dan zul je de “herontwerpen” stap herkennen als gelinkt aan de Redefinition stap uit SAMR.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en herontwerp"
     ]
   },
@@ -949,7 +949,7 @@
     "text": "De driedeling van Holmes\n\nWayne Holmes maakt in zijn werk over AI in het onderwijs een belangrijk onderscheid tussen drie manieren waarop de technologie een rol speelt (zie ook Holmes et al., 2022).\n\nLeren met AI (Learning with AI): Het gebruik van AI-toepassingen om vakinhoudelijke kennis te verwerven (bijv. een adaptieve oefenset voor wiskunde).\nLeren over AI (Learning about AI): Het begrijpen van de techniek, de algoritmes en de data achter AI-systemen (AI-geletterdheid).\nAI om te leren over leren (Using AI to learn about learning): In plaats van simpelweg “voorbereiden op de toekomst”, verschuift de focus naar hoe AI-data ons inzicht kan geven in hoe studenten daadwerkelijk leren. Dit helpt bij het verbeteren van de didactiek en het begrijpen van cognitieve processen.\n\nDeze driedeling van AI-gebruik helpt om expliciet te maken welke rol AI speelt in het onderwijsontwerp en welke leermechanismen je verwacht te activeren. Dit sluit direct aan bij het denken in conjecture maps (zie hieronder). Het curriculaire spinnenweb laat zien welke curriculumcomponenten meebewegen wanneer AI wordt ingezet (van doelen en inhoud tot activiteiten, rolverdeling en toetsing). Zo vormt de driedeling van Holmes een compacte kapstok om AI‑keuzes zowel ontwerpgericht als curriculair samenhangend te onderbouwen. Binnen het AI-teach-project wordt deze driedeling gebruikt om de professionaliseringsactiviteiten voor docenten vorm te geven en in te delen.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en herontwerp"
     ]
   },
@@ -961,7 +961,7 @@
     "text": "De Ontwerpmethode: Conjecture Mapping\nVoor het herontwerpen van ict-ondersteund onderwijs of onderwijs met AI kun je gebruik maken van Conjecture Mapping (Sandoval, 2014). Deze methode dwingt je om je aannames (conjectures) over hoe technologie het leren ondersteunt, expliciet te maken.\n\n\nDe vier elementen voor jouw AI-ontwerp:\n\nOntwerpprincipes (Design Principles)\n\nDe visie achter de interventie: Waarom doen we dit eigenlijk? Welk onderwijskundig probleem lost de AI-interventie op? Bijvoorbeeld: tijdsgebrek voor feedback, gebrek aan differentiatie\nVerandert je pedagogische visie? Word je meer een coach/facilitator nu de AI de ‘inhoud’ of de ‘instructie’ overneemt?\nWelke waarden staan centraal? Bijvoorbeeld: autonomie van de student, kritisch denken, of juist efficiëntie.\n\nToepassing (Embodied Design)\n\nDe concrete vorm: Hoe ziet het er in de praktijk uit?\nHoe en wanneer komt de student in aanraking met de AI? Is het een verplicht onderdeel van de les of een ondersteunende tool voor thuis?\nWat heeft de student naast de AI-interventie nog meer nodig? Bijvoorbeeld: een instructievideo, een bronnenlijst, of een reflectiekader.\nWordt de opdracht zelf fundamenteel anders? Bijvoorbeeld: van “schrijf een verslag” naar “ontwerp een master-prompt”.\n\nLeerproces (Mediating Processes)\n\nDe psychologie: Wat gebeurt er in het hoofd van de student?\nWelke acties voert de student uit die hij/zij zonder AI niet zou doen?\nBijvoorbeeld: dieper doorvragen door de Socratische methode.\nNeemt de AI ‘denkwerk’ over dat de student eigenlijk zelf zou moeten doen, of maakt het juist ruimte voor hogere denkorden?\nHoe beïnvloedt de AI de betrokkenheid? Voelt de student zich meer gesteund (AI-tutor) of juist meer uitgedaagd (advocaat van de duivel)?\n\nLeeropbrengst (Learning Outcomes)\n\nHet resultaat: Wat beheerst de student aan het eind?\nKwaliteit: Is het eindproduct van een hoger niveau door de AI-ondersteuning?\nNieuwe competenties: Leert de student nu ook vaardigheden die eerst niet in het curriculum zaten? Bijvoorbeeld: AI-geletterdheid, herkennen van bias.\nBeoordeling: Kunnen we de oude toetsvorm nog wel gebruiken? Als het leerproces verandert, moet de manier waarop we “succes” meten dan ook veranderen? Hoe onderscheid je de groei van de student van de geproduceerde AI-output?\n\n\n\n\n\n\n\n\nOpmerkingNegatieve effecten van AI\n\n\n\n\n\n\nJe kunt conjecture mapping ook gebruiken om na te denken over de mogelijke negatieve effecten van AI in het onderwijs. Door te signaleren wat er mis kan gaan, kun je ook nadenken over hoe je dit kunt voorkomen.\n\n\n\n\n\n\n\n\n\nOpmerkingDe samenhang met het spinnenweb\n\n\n\n\n\nWaar het Curriculair Spinnenweb laat zien wat er in samenhang moet veranderen, legt de Conjecture Map uit waarom je verwacht dat die verandering tot leren leidt.\n\n\n\nHerontwerpen vraagt om een hoge mate van AI-geletterdheid. Je kunt pas ontwerpen met een tool als je de grenzen, de ethiek en de mechanica ervan begrijpt.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en herontwerp"
     ]
   },
@@ -973,7 +973,7 @@
     "text": "Dialoog\nBelangrijk bij het herontwerpen is de dialoog met collega’s en studenten. Antwoorden op keuzes liggen niet vast, maar zijn afhankelijk van de context en de visie op leren. Hieronder staan een aantal voorbeelden van dilemma’s die je kunt gebruiken om de dialoog te starten.\n\nHet Verbod: Een school verbiedt AI voor alle schrijfopdrachten.\n\nVraag: Wat betekent dit voor de authenticiteit van de taak? Bereiden we leerlingen nog wel voor op een wereld waarin professioneel schrijven bijna altijd hybride is?\n\nDe Volledige Integratie: Een docent integreert AI volledig in een project dat studenten uitvoeren.\n\nVraag: Welke draden van het spinnenweb moeten meebewegen? (Denk aan: Toetsing, Tijd, en vooral de Rol van de leraar).\n\nAI-Proof Toetsen: Een opleiding wil fraude voorkomen door alles on-site op papier te laten doen.\n\nVraag: Is dit een duurzame oplossing, of verkleinen we hiermee de leeromgeving tot een kunstmatige bubbel?",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en herontwerp"
     ]
   },
@@ -985,7 +985,7 @@
     "text": "De kracht van films\nJe vindt hieronder een overzicht van films waar AI een belangrijke rol in speelt. Klik op een titel om er iets meer over te lezen. Een (veel) langere lijst staat hier.\nFilms hebben het vermogen om ons te laten denken over AI, ze kunnen mogelijke toekomsten schetsen. Ze kunnen daarbij ook ons beeld van AI misvormen. Er wordt ook wel eens gesproken over het Jaws effect voor AI. Waarbij de beeldvorming van AI door films sterk negatief is gekleurd. De films hieronder zijn dan ook zeker niet allemaal geschikt om in de klas met leerlingen te bekijken. Het zijn eerder mogelijkheden voor jezelf om je eigen beeld van AI te vormen en te reflecteren op de rol van AI in de samenleving zoals die in films wordt voorgesteld.",
     "crumbs": [
       "Over deze module",
-      "🍿 AI in de film"
+      "▪️ AI in de film"
     ]
   },
   {
@@ -996,7 +996,7 @@
     "text": "Films\n\n\n\n\n\n\n\n\n\n\nM3GAN\n\n\n\n\n\n\n\n“M3GAN is designed to be your child’s greatest companion and your greatest ally as a parent.”\n\n\n\n\n\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAfter Yang\n\n\n\n\n\n\n\n“Maybe there’s a version of us where Yang never broke.”\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinch\n\n\n\n\n\n\n\n“The only way to survive is to take care of each other.”\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIch bin dein Mensch\n\n\n\n\n\n\n\nMOVEL-filmtip.\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlade Runner 2049\n\n\n\n\n\n\n\n“Dying for the right cause. It’s the most human thing we can do.”\n\n\n\n\n\n\n\n2017\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEx Machina\n\n\n\n\n\n\n\n“One day the AIs are going to look back on us the same way we look at fossil skeletons on the plains of Africa.”\n\n\n\n\n\n\n\n2015\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHer\n\n\n\n\n\n\n\n“The past is just a story we tell ourselves.”\n\n\n\n\n\n\n\n2013\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWall-E\n\n\n\n\n\n\n\n“I don’t want to survive. I want to live!”\n\n\n\n\n\n\n\n2008\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI, Robot\n\n\n\n\n\n\n\n“You know somehow, ‘I told you so’, just doesn’t quite say it.”\n\n\n\n\n\n\n\n2004\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.I. Artificial Intelligence\n\n\n\n\n\n\n\n“I am. I was.”\n\n\n\n\n\n\n\n2001\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBicentennial Man\n\n\n\n\n\n\n\n“I try to make sense of things. Which is why, I guess, I believe in destiny.”\n\n\n\n\n\n\n\n1999\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Matrix\n\n\n\n\n\n\n\n“Unfortunately, no one can be told what the Matrix is. You have to see it for yourself.”\n\n\n\n\n\n\n\n1999\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGhost in the Shell\n\n\n\n\n\n\n\n“What if a cyber brain could possibly generate its own ghost, and create a soul all by itself?”\n\n\n\n\n\n\n\n1995\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Terminator\n\n\n\n\n\n\n\nHét angstbeeld van veel mensen als het gaat over AI. I’ll be back\n\n\n\n\n\n\n\n1984\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlade Runner\n\n\n\n\n\n\n\n“More human than human is our motto.”\n\n\n\n\n\n\n\n1982\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWestworld\n\n\n\n\n\n\n\n“Nothing can go wrong… go wrong… go wrong.”\n\n\n\n\n\n\n\n1973\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2001: A Space Odyssey\n\n\n\n\n\n\n\n“Open the Pod bay doors, please, HAL.”\n\n\n\n\n\n\n\n1968\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetropolis\n\n\n\n\n\n\n\nHet origineel. De eerste film met AI.\n\n\n\n\n\n\n\n1927\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGugusse et l’Automate\n\n\n\n\n\n\n\nRobot avant la lettre.\n\n\n\n\n\n\n\n1897\n\n\n\n\n\n\n\n\nGeen overeenkomsten",
     "crumbs": [
       "Over deze module",
-      "🍿 AI in de film"
+      "▪️ AI in de film"
     ]
   },
   {
@@ -1133,7 +1133,7 @@
     "text": "Kerndoelen digitale geletterdheid\nDe nieuwe kerndoelen digitale geletterdheid voor het primair onderwijs en (de onderbouw van) het voortgezet onderwijs zijn vastgesteld en worden vanaf 2027 verplicht.\n\nIn deze kerndoelen komt kunstmatige intelligentie nu expliciet voor. Dat is een belangrijke ontwikkeling, want het betekent dat aandacht voor de AI-geletterdheid van leerlingen op termijn, via de kerndoelen, een plek in het primair- en voortgezet onderwijs krijgt.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Studentcompetenties"
     ]
   },
@@ -1145,7 +1145,7 @@
     "text": "DigComp 3.0\nVoor het mbo en het hoger onderwijs is er geen sprake van een verplicht competentieprofiel met eindtermen. Een bruikbaar raamwerk is het Digital Competence for European Citizens 3.0 (DigComp). Hierin is veel aandacht voor de rol van kunstmatige intelligentie binnen de verschillende competenties.\nHet iXperium heeft een Nederlandse vertaling gemaakt van versie 2.2. De vertaling van versie 3.0 volgt in 2026. Je kunt het raamwerk in het Engels nu al downloaden en de voortgang van de vertaling van 3.0 online volgen.\n\n\n\nDigComp 2.2 — Nederlandse vertaling door iXperium\n\n\nIn dit raamwerk komt in beide versies geen apart competentiegebied AI voor, maar zit de AI-geletterdheid in de vorm van gedragsindicatoren in bijna alle competenties geïntegreerd. Dat is bewust: AI is geen losstaand thema, maar verweven met informatievaardigheden, communicatie, veiligheid en probleemoplossing. Versie 3.0 heeft hier nog meer aandacht voor dan versie 2.2.\n\n\n\n\n\n\nOpmerkingVijf competentiegebieden in DigComp 2.2 en 3.0\n\n\n\n\nInformatievaardigheden — vinden, evalueren en beheren van digitale informatie, inclusief AI-gegenereerde content\nCommuniceren en samenwerken — via digitale kanalen met aandacht voor digitale identiteit en netiquette\nDigitale content creëren — produceren en bewerken van content, auteursrecht, en coderen\nVeiligheid — apparaten, privacy, gezondheid, milieu en AI-risico’s\nProblemen oplossen — technische problemen, creatief gebruik en bijblijven in een veranderende digitale wereld\n\n\n\nDigComp is een raamwerk, het is geen leerplan, geen kookboek maar een startpunt voor het vormgeven van je eigen curriculum. Welke onderdelen waar, voor welke studenten, als verplicht onderdeel of optioneel opgenomen worden, dat bepalen opleidingen zelf. Wat moet is dan niet afhankelijk van wat de wetgever voorschrijft, maar van wat de opleiding nodig vindt om studenten voldoende AI-geletterd te maken voor leven, leren en werken!",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Studentcompetenties"
     ]
   },
@@ -1157,7 +1157,7 @@
     "text": "Metacognitieve luiheid en Cognitief offloaden\nRelevant bij digitale geletterdheid / AI-geletterdheid van studenten is, dat het niet alleen gaat om het leren van “technische” of procedurele vaardigheden. AI kent namelijk ook risico’s, bijvoorbeeld van cognitief offloaden of cognitieve luiheid (“ik hoef niet meer zelf na te denken, dat doe AI voor me”). Voor studenten is het noodzakelijk om over voldoende metacognitieve vaardigheden te beschikken. Dat betekent dat ze moeten leren hoe het plannen, monitoren, bijsturen en evalueren van cognitieve taken (zoals bij het leren) werkt. Ze moeten namelijk leren inschatten wanneer/waarvoor het wel of juist niet verstandig is om AI in te zetten. Als dat alleen is “als de docent niet zegt dat het niet mag, dan mag het”, dan loopt zo’n student vroeg of laat tegen problemen aan. En omdat we weten dat die metacognitieve vaardigheden zich niet vanzelf ontwikkelen, is het belangrijk dat docenten hier alert op zijn en studenten hierbij helpen.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Studentcompetenties"
     ]
   },
@@ -1169,7 +1169,7 @@
     "text": "Sinds de AI Act in werking begint te treden, kom je het begrip AI-geletterdheid een stuk vaker in het nieuws en online tegen. Maar de vraag “Wat moeten docenten en studenten weten over AI?” is ook zonder wetgeving relevant.\nWe maken binnen deze module onderscheid tussen de docentcompetenties, de studentcompetenties en de competenties van leidinggevenden.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid"
+      "▪️ AI-geletterdheid"
     ]
   },
   {
@@ -1180,7 +1180,7 @@
     "text": "Wat is AI-geletterdheid?\nWat AI-geletterdheid precies is wordt beschreven in verschillende raamwerken. De exacte invulling kan verschillen van wie het raamwerk heeft opgesteld en de doelgroep (docenten, studente, leidinggevenden, ondersteuners, etc.). AI-geletterdheid is de competentie om AI te begrijpen, kritisch te evalueren en effectief in te zetten in verschillende contexten. Binnen iXperium zien we AI-geletterdheid als een onderdeel van digitale geletterdheid, specifiek gericht op kunstmatige intelligentie. En net als bij digitale geletterdheid gaat het bij AI-geletterdheid niet alleen om het kunnen bedienen of gebruiken van AI. Daarom hebben we het over competenties: de combinatie van kennis, vaardigheden en houding. En het gaat om AI-geletterdheid voor leven, leren en werken, dus in de schoolse context, maar ook daarbuiten.\nOp de pagina over experimenteren en professionaliseren in deze module wordt ingegaan op het belang van ervaring met AI. Het helpt als je een bepaalde hoeveelheid ervaring hebt met wat AI kan en niet kan. Anders wordt het heel moeilijk om in te schatten wat realistisch is en wat mooie verhalen van leveranciers of juist horrorverhalen uit fictionele films en toekomstbeelden zijn. Het helpt je ook om te bepalen of je AI in wilt zetten in je lessen (of bij het leren) en hoe je dat dan zou willen doen.\nMaar nadenken over ethische aspecten van AI, de vraag waar je wel of geen AI in wilt zetten, hoe we willen dat onze toekomst er uit gaat zien als de ontwikkelingen rond AI zo door blijven gaan, en daar dan een mening over hebben en formuleren, valt ook onder AI-geletterdheid. Neem daarvoor zeker ook een kijkje bij de sectie AI in de film. Films zijn weliswaar fictie, ze kunnen ons helpen bij het dromen over mogelijke toekomsten en ons woorden geven om te beschrijven wat we belangrijk vinden om te behouden.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid"
+      "▪️ AI-geletterdheid"
     ]
   },
   {
@@ -1191,7 +1191,7 @@
     "text": "Grenzen aan de definitie\nHet is ook relevant om te bedenken wat de grenzen van de definitie van AI-geletterdheid zijn. Als we het hebben over voor leven, leren en werken dan betekent dat we de competentie niet alleen zien in de context van het leren, maar ook in de context van het leven (‘in het wild’, voor privézaken) en het werken (ter voorbereiding op dat werk na een studie of opleiding). Voor docenten maken we daarbij dan een extra onderscheid als het gaat om het inzet van ict of AI bij het ontwerpen, uitvoeren en evalueren van onderwijs. Je zou kunnen zeggen dat dat het “werk” van een docent is. Maar omdat dat een dusdanig omvangrijk en op zichzelfstaand deel is, benoemen we dat apart.\nZie ook de pagina over docentcompetenties hiervoor.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid"
+      "▪️ AI-geletterdheid"
     ]
   },
   {
@@ -1202,7 +1202,7 @@
     "text": "Achtergrondmateriaal\nDeze module bevat veel achtergrondmateriaal. Soms laagdrempelig, zoals de Crash Course AI of het weblog van Wilfred Rubens, soms heel technisch. Dat geldt ook voor de toepassingen die bij voorbeelden genoemd worden. Natuurlijk is het niet zo dat iedereen die deze module leest, alles wat hier genoemd wordt, zou moeten kennen. Net als andere domeinen is de vraag wat kennis hebben van betekent minder eenduidig te beantwoorden dan je denkt. Het hangt er namelijk sterk vanaf wat je met die kennis wilt doen. En zoals in het colofon al aangegeven, tips, input en suggesties op dat vlak om er voor te zorgen dat je niet in paniek raakt van de omvang van dit alles, zijn van harte welkom.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid"
+      "▪️ AI-geletterdheid"
     ]
   },
   {
@@ -1213,7 +1213,7 @@
     "text": "Verder lezen over AI-geletterdheid\n\nDocentcompetenties — wat vraagt AI van docenten en leraren?\nStudentcompetenties — studenten en leerlingen zijn geen digital natives!\nCompetenties leidinggevenden — de rol van de leidinggevende\nExperimenteren en professionaliseren — aan de slag!",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid"
+      "▪️ AI-geletterdheid"
     ]
   },
   {
@@ -1224,7 +1224,7 @@
     "text": "Raamwerk docentcompetenties\n\n\n\nRaamwerk docentcompetenties onderwijs met ict\n\n\nHet Raamwerk docentcompetenties onderwijs met ict voor het hoger onderwijs van iXperium beschrijft de relevante docentcompetenties bij het vormgeven van onderwijs dat maatwerk en flexibilisering mogelijk maakt met behulp van ict en dat aansluit bij de steeds veranderende samenleving. Dit raamwerk is verder uitgewerkt in gedragsindicatoren voor docenten. Dit is ook het competentieraamwerk waarvan de competenties op masterniveau gebruikt worden binnen de HAN Master Ontwerpen Van Eigentijds Leren .",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Docentcompetenties"
     ]
   },
@@ -1236,7 +1236,7 @@
     "text": "Competenties specifiek voor AI\nDeze competenties en gedragsindicatoren die voor ict of digitale hulpmiddelen zijn geformuleerd, zijn ook toepasbaar voor AI in het onderwijs. Een docent die AI-geletterd is:\n\nbegrijpt wat AI is en hoe het werkt op een niveau dat past bij het vak en de context,\nkan kritisch beoordelen welke AI-tools bruikbaar zijn voor onderwijs en welke niet,\ndenkt na over ethische en maatschappelijke implicaties van AI in de lespraktijk,\nkan studenten begeleiden bij het verantwoord en effectief inzetten van AI\nblijft zich professioneel ontwikkelen naarmate de technologie evolueert.\n\n\n\n\n\n\n\nTipWeet je nog niet waar te beginnen?\n\n\n\nOp de pagina experimenteren en professionaliseren vind je bronnen om je als docent verder te ontwikkelen op het gebied van AI.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Docentcompetenties"
     ]
   },
@@ -1248,7 +1248,7 @@
     "text": "Andere AI-geletterdheid raamwerken\nEr zijn verschillende raamwerken voor AI-geletterdheid van docenten ontwikkeld. Hieronder een aantal andere voorbeelden:\n\nAI GO\nAI Literacy Framework\nAI Competency Framework for Teachers\nDigCompEDU\nAI uitbreiding op DigCompEDU\n\nWelke het beste is? Dat is deels een keuze op basis van welke uitgangspunten je belangrijk vindt. Voor een Masterdocent is het iets om binnen de eigen onderwijsorganisatie aan te kaarten en samen met de leidinggevenden te bespreken. Ook voor docenten is de DigComp 3.0 relevant, hoewel die niet specifiek op docenten gericht is. Meer daarover kun je lezen bij het onderdeel over competenties van studenten",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Docentcompetenties"
     ]
   },
@@ -1260,7 +1260,7 @@
     "text": "Het gesprek aangaan met collega’s\nEen raamwerk of theorie begrijpen is slechts de eerste stap. Uit de praktijk van MOVEL’ers blijkt dat het meenemen van (soms sceptische of terughoudende) collega’s in schoolontwikkeling rondom AI vaak de échte uitdaging is. Hoe ga je als docent of pionier effectief het ingewikkelde gesprek over waarden, ethiek en technologie aan zonder in een welles-nietes discussie te belanden?\nDaarvoor bestaan speciale “praatstukken” (boundary objects) die helpen om het gesprek constructief te structureren, weg van de pure angst of hype:\n\nThe Tarot Cards of Tech — Een sterk visueel hulpmiddel (regelmatig ingezet door o.a. NOLAI). Het dwingt docententeams speels na te denken over de onbedoelde gevolgen (unintended consequences) van nieuwe tech door middel van prikkelende speelkaarten (bijv. “Wat als onze AI-tool een schandaal veroorzaakt?”). Dit werkt uitstekend om ethiek tastbaar en open bespreekbaar te maken in een teamvergadering.\nKennisnet: Het Ethiekkompas — Kennisnet biedt specifieke gespreksleidraden voor een waardendialoog. Dit helpt scholen om de discussie open te breken vanuit de gezamenlijke, menselijke waarden (zoals autonomie en rechtvaardigheid) in plaats van vanuit het AI-product zelf. Zie ook de andere voorbeelden op de Kennisnet-pagina binnen deze module.\nKennisnet Wegwijzer AI — Een praktische, visuele wegwijzer uit de ‘Handreiking AI in het onderwijs’ om als team of directie het beleidsgesprek te voeren over de adoptie (van afwachtend tot vooruitstrevend) binnen de school.\nPraatplaten voor beleid — Visuele overzichten werken erg goed. Gebruik bijvoorbeeld de Edu-AI Beleid Praatplaten of de ontwikkeldocumenten/praatplaten vanuit het project GAIO (Learning Hub Friesland). Zij hebben bijvoorbeeld deze gids voor schoolleiders of docenten. Dit maakt theoretisch beleid direct tastbaar.\nSURF: AI Ethiek Volwassenheidsmodel — Een model gericht op het MBO en Hoger Onderwijs om binnen je instelling samen verantwoord AI-gebruik bespreekbaar te maken en te positioneren. Zie tevens het bijbehorende reflectierapport uit hun pilots.\n\nDoor in te zetten op dergelijke hulpmiddelen verleg je de discussie van de defensieve vraag “Moeten we ChatGPT wel of niet blokkeren?” naar de veel constructievere ontwerpvraag: “Met welke gedeelde waarden willen wij als docententeam deze nieuwe technologie gaan begeleiden?”.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Docentcompetenties"
     ]
   },
@@ -1272,7 +1272,7 @@
     "text": "Vibecoding\nVibecoding heeft een eigen pagina binnen deze module. Je kunt daar lezen dat het gezien wordt als iets wat onderderdeel is van de AI-geletterdheid van docenten (kwadrant linksonder) maar dan vooral in relatie tot het kwadrant linksboven als het gaat om het ontwerpen, uitvoeren en evalueren van onderwijs met AI.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Docentcompetenties"
     ]
   },
@@ -1284,7 +1284,7 @@
     "text": "Het is één ding om in deze module te lezen over AI. Uiteindelijk zul je er toch echt mee aan de slag moeten om te ontdekken wat in jouw context en situatie het beste werkt. Natuurlijk, niet alle experimenten zijn verstandig. Maak gebruik van wat we weten, lees literatuur, praat met anderen. Begin klein — niet meteen je hele curriculum of werkwijze omgooien.\nEn je hoeft het niet alleen te doen. Er is best al veel professionalisering beschikbaar, en die slimme collega (docent of student) kan natuurlijk ook meekijken. Wees niet onder de indruk van wat er allemaal kan of van wat anderen al kunnen.\nHieronder vind je een aantal verwijzingen naar online cursussen en materialen — van introductieniveau tot heel erg technisch. Het is niet zo dat je van al die dingen kennis moet hebben of met al die zaken aan de slag moet. Als docent hoef je niet zelf chatbots of adaptieve leersystemen te kunnen bouwen. Als student ook niet. De links zijn er om je een idee te geven van de omvang van het domein. Welk stukje daarvan jij het eerst gaat ontdekken is aan jou.\nOp de pagina met voorbeelden vind je nog een aantal voorbeelden van applicaties en omgevingen waar je mee kunt experimenteren.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1296,7 +1296,7 @@
     "text": "AI-cursus voor het onderwijs\nDe gratis online AI voor onderwijs cursus richt zich op leraren en docenten uit het funderend onderwijs, maar bevat ook onderwerpen die als inleiding voor anderen relevant zijn.\n\n\n\n\n\n\nOpmerking\n\n\n\nDe cursus is ontwikkeld voordat ChatGPT beschikbaar kwam, dus je zult er geen onderwerpen in tegenkomen als “wat betekent AI voor toetsing?”.\n\n\n\n\n\nAI voor onderwijs cursus",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1308,7 +1308,7 @@
     "text": "AI-certified leerprogramma\n\nHet gratis online leerprogramma “AI-Certified” is een initiatief dat erop gericht is om werkend Nederland AI-geletterd te maken, zodat werknemers kunstmatige intelligentie slim, veilig en ethisch kunnen inzetten in hun dagelijkse praktijk. De leerlijn is modulair opgebouwd, sluit aan bij de Europese AI Act en behandelt essentiële onderwerpen zoals de werking van algoritmes, machine learning, effectief ‘prompten’ en de samenwerking tussen mens en machine.\n\nAI-certified leerprogramma\nUitleg over het programma door Wilfred Rubens",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1320,7 +1320,7 @@
     "text": "MIT Responsible AI for Social Empowerment and Education (RAISE)\nEen enorme hoeveelheid lesmaterialen rond AI als je het niet erg vindt om in het Engels te lezen.\n\n\n\nEveryday AI\n\n\nMIT RAISE Resources",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1332,7 +1332,7 @@
     "text": "Crash Course AI\nAfspeellijst met 21 video’s over Kunstmatige Intelligentie en Machine Learning. In het Engels, soms een beetje flauw, maar meestal heel leuk, interessant en laagdrempelig.\n▶Klik om video te startenBekijk op YouTube",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1344,7 +1344,7 @@
     "text": "Wat is een Neuraal Netwerk?\nDe video is al ruim 8 (!) jaar oud, maar nog steeds een mooie video die uitlegt hoe een computer met behulp van een neuraal netwerk een handgeschreven cijfer kan herkennen:\n▶Klik om video te startenBekijk op YouTube\nWil je liever lezen? Dat kan ook op de website van 3Blue1Brown. De vervolgvideo’s worden snel veel technischer dan dat je waarschijnlijk wilt weten.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1356,7 +1356,7 @@
     "text": "Wilfred Rubens over AI\n\nDé bron van informatie over wat er sinds november 2022 over ChatGPT en aanverwante technologieën gepubliceerd is, is ongetwijfeld het blog van Wilfred Rubens. De info is laagdrempelig en overzichtelijk en alleen al vanwege de hoeveelheid tijd die hij er dagelijks insteekt verdiend hij hier een shoutout voor.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1368,7 +1368,7 @@
     "text": "Deep Dive: YouTube-kanalen\nSinds de explosie van mogelijkheden op het gebied van generatieve AI is het aantal YouTube-kanalen waar je dagelijks nieuwe informatie kunt vinden over de (technische) mogelijkheden niet meer bij te houden. Hieronder staan een paar voorbeelden van kanalen met echte mensen voor de camera — geen tekst-naar-spraak voice-overs. Klik op de naam of afbeelding om naar het kanaal te gaan.\n\n\n\n\n\n\n\n\n\n\nThe Neuron\n\n\nSoms wat raar, maar vaak super interessant als je nieuwsgierig bent naar de verhalen van mensen die nog een paar stapjes verder aan het denken zijn op dit vlak. Ook als audiopodcast beschikbaar\n\n\n\n\n\n\n\n\n\n\n\n\nTwo Minute Papers\n\n\nKorte video’s over recent gepubliceerd AI-onderzoek. Toegankelijk uitgelegd, soms vrij technisch.\n\n\n\n\n\n\n\n\n\n\n\n\nSam Witteveen\n\n\nPraktische tutorials over AI-toepassingen, LLM’s en tools als LangChain.\n\n\n\n\n\n\n\n\n\n\n\n\nOlivio Sarikas\n\n\nAI voor creatieven: beeldgeneratie, Stable Diffusion, Midjourney en vergelijkbare tools.\n\n\n\n\n\n\n\n\n\n\n\n\nBob Doyle Media\n\n\nAI voor video en media: generatieve video, AI-editing en workflow-automatisering.\n\n\n\n\n\n\n\n\n\n\n\n\nCode4AI\n\n\nProgrammeren met en voor AI: Python, AI-APIs en bouwen van AI-applicaties.\n\n\n\n\n\n\n\n\n\n\n\n\nLangChain\n\n\nOfficieel kanaal van LangChain: bouwen met grote taalmodellen (LLM’s), agents en RAG.\n\n\n\n\n\n\n\n\n\n\n\n\nLeon van Zyl\n\n\nPraktische AI-toepassingen en tutorials over nieuwe AI-tools en workflows.\n\n\n\n\n\nGeen overeenkomsten",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Experimenteren en professionaliseren"
     ]
   },
@@ -1380,7 +1380,7 @@
     "text": "De leidinggevende als sleutel tot digitale transformatie\nSchoolleiders en leidinggevenden in het onderwijs spelen een belangrijke rol bij de integratie van AI en digitale technologie in de onderwijsinstelling. Zonder een leidinggevende die een visie heeft, ruimte schept en zelf het goede voorbeeld geeft, blijven innovaties steken bij een kleine groep enthousiaste voorlopers.\niXperium heeft specifieke competentiekaders ontwikkeld voor leidinggevenden. De meest actuele versie is het Raamwerk leidinggeven aan digitale onderwijstransformatie (2025), een uitbouw van de eerdere publicatie Leidinggeven aan onderwijs en ict (2019).\n\n\n\n\n\n\nOpmerkingWaarom moet een leidinggevende AI-geletterd zijn?\n\n\n\nAlleen als je zelf begrijpt wat technologie kan betekenen voor het leren en lesgeven, kun je een visie ontwikkelen en leidinggeven aan het proces van ict en AI-integratie. Je creëert als leidinggevende de context waarin docenten de ruimte en middelen hebben om daadwerkelijk op een veilige manier met nieuwe technologie te experimenteren.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Competenties leidinggevenden"
     ]
   },
@@ -1392,7 +1392,7 @@
     "text": "Vier redenen voor AI-geletterdheid van leidinggevenden\nEr zijn een aantal redenen te noemen waarom een AI-geletterde leidinggevende onmisbaar is:\n\nRichting geven aan innovatie Alleen als de leidinggevende zelf begrijpt wat technologie kan betekenen, kan hij of zij een visie ontwikkelen en het proces van AI-integratie aansturen. Zonder die visie blijven innovaties ad hoc.\nDe juiste context creëren De leidinggevende schept een onderwijscontext (tijd, ruimte, middelen) waarbinnen docenten daadwerkelijk kunnen experimenteren met AI en digitale tools.\nVoorbeeldfunctie en professionalisering onderbouwen Door zelf digitaal en AI-vaardig te zijn, kan de leidinggevende het belang van geletterdheid uitdragen en gerichte interventies voor professionalisering van het team onderbouwen en organiseren.\nStrategische besluitvorming De eigen AI-geletterdheid stelt leidinggevenden in staat om weloverwogen strategische keuzes te maken: welke technologie zetten we in, waarom, en met welk doel? Dat kan gaan over werkdrukverlichting, motivatie van leerlingen, of kwaliteitsverbetering van het onderwijs.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Competenties leidinggevenden"
     ]
   },
@@ -1404,7 +1404,7 @@
     "text": "Competentieprofielen en raamwerken\nOok voor leidinggevenden heeft iXperium verschillende raamwerken en publicaties beschikbaar. Het Raamwerk digitale onderwijstransformatie beschrijft hoe leidinggevenden de digitale transformatie in hun onderwijsinstelling kunnen aansturen. Het Competentieprofiel voor het ondersteunen van onderwijsinnovatie met ict beschrijft de competenties die leidinggevenden nodig hebben om de onderwijsinnnovatie met ict in hun onderwijsinstelling te kunnen aansturen.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Competenties leidinggevenden"
     ]
   },
@@ -1416,7 +1416,7 @@
     "text": "AI visie en beleid\nElke onderwijsinstelling in Nederland (en daarbuiten) schreeuwt op dit moment om AI visie en beleid. Maar hoe kom je tot een visie en beleid dat past bij jouw onderwijsinstelling? En hoe zorg je ervoor dat het ook daadwerkelijk geïmplementeerd wordt? Dat is waar de leidinggevende bij moet helpen, meedenken, sturen en faciliteren. Dit kun je niet uitbesteden aan de ict-beheerders of de onderwijskundigen binnen je instelling. Het is ook geen reglement met verkeersregels die beschrijven wat niet mag, wel mag en wat de straffen zijn als je je niet aan de regels houdt. Het is een levend document, dat past bij de onderwijsvisie van de onderwijsinstelling en dat op verschillende niveaus beschrijft hoe AI daar impact op heeft.`\n\n\n\n\n\n\nTipGebruik een jaartal!\n\n\n\n\n\nZet een jaartal in de titel van je visie of beleid. Bijvoorbeeld: AI visie en beleid 2025-2026. Dan is het meteen duidelijk dat het een levend document is dat regelmatig herzien wordt.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Competenties leidinggevenden"
     ]
   },
@@ -1428,7 +1428,7 @@
     "text": "Waar starten?\nLees als leidinggevende zelf ook de pagina experimenteren en professionaliseren door. Door zelf te ervaren wat AI en digitale tools kunnen en niet kunnen, kun je docenten gerichter ondersteunen en aanspreken.\n\n\n\n\n\n\nTipProfessionalisering voor leidinggevenden\n\n\n\niXperium biedt professionaliseringstrajecten aan voor leidinggevenden op het gebied van leren met ict en AI. Deze trajecten zijn gebaseerd op onderzoek en afgestemd op de specifieke context en ambities van de instelling. En uiteraard is maatwerk mogelijk. Meer informatie.",
     "crumbs": [
       "Over deze module",
-      "🧠 AI-geletterdheid",
+      "▪️ AI-geletterdheid",
       "Competenties leidinggevenden"
     ]
   },
@@ -1594,7 +1594,7 @@
     "text": "Inleiding\nMocht je de inleiding van de module over AI in het onderwijs nog niet bekeken hebben, dan is het goed om dat nu alsnog te doen. De video die daarin centraal staat, geeft een goed beeld van de stand van zaken rondom AI in het onderwijs. De video is van januari 2025, maar geeft nog steeds een goed beeld van de stand van zaken rondom AI in het onderwijs.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs"
+      "▪️ AI in het onderwijs"
     ]
   },
   {
@@ -1605,7 +1605,7 @@
     "text": "AI in het onderwijs voor de MOVEL-student\nVoor jou als student bij de MOVEL zijn voorbeelden van AI en de specifieke onderwijstoepassingen hieronder op deze pagina interessant. Maar het is niet waar je de MOVEL voor gekozen hebt. Daarom vind je hier ook informatie over de gevolgen van AI op het curriculum, wat AI betekent voor toetsing en hoe je het onderwijs binnen jouw organisatie kunt herontwerpen.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs"
+      "▪️ AI in het onderwijs"
     ]
   },
   {
@@ -1616,7 +1616,7 @@
     "text": "De lijst wordt langer…\nVoor de eerste versie van deze online module voor lesjaar 2022-2023, ontwikkeld net nadat ChatGPT op de markt kwam, was het heel moeilijk om voorbeelden te vinden van toepassingen van AI die speciaal voor het onderwijs ontwikkeld waren. De lijst met voorbeelden is nog steeds korter dan de lijst voorbeelden van algemene AI die je in deze module kunt vinden.\nEn natuurlijk: AI toepassingen die niet specifiek voor het onderwijs ontwikkeld zijn, zijn vaak ook heel goed ten behoeve van het onderwijs in te zetten. Bij het Nationaal Onderwijslab AI lopen inmiddels vele co-creatieprojecten waarbij scholen, wetenschappers en bedrijven samen onderwijs-AI ontwikkelen.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs"
+      "▪️ AI in het onderwijs"
     ]
   },
   {
@@ -1627,7 +1627,7 @@
     "text": "AI materialen bij Edusources\n\n\n\nEdusources\n\n\nOp Edusources.nl delen docenten en vakcommunity’s onderwijsmaterialen in het hoger onderwijs. Daar is inmiddels ook het nodige materiaal over kunstmatige intelligentie te vinden, zoals de cursusmaterialen van de Rijksuniversiteit Groningen of deze materialen van de HAN University of Applied Sciences.\nSamen ontwikkelen is heel belangrijk om te voorkomen dat wij in Nederland systemen ontwikkelen zoals het inmiddels heel bekende voorbeeld uit China.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs"
+      "▪️ AI in het onderwijs"
     ]
   },
   {
@@ -1638,7 +1638,7 @@
     "text": "AI in het onderwijs producten\nHieronder vind je een aantal voorbeelden van producten op het gebied van AI in het onderwijs.\n\n\n\n\n\n\n\n\n\n\nChina voorbeeld\n\n\nGezichtsherkenning en aandachtscores in de klas\n\n\n\n\n\n\n\n\n\n\n\n\nFeedbackFruits\n\n\nAutomatische feedback op schrijfvaardigheid\n\n\n\n\n\n\n\n\n\n\n\n\nGradescope\n\n\nEfficiënt nakijken met AI-ondersteuning\n\n\n\n\n\n\n\n\n\n\n\n\nLessonUp\n\n\nInteractieve lessen en quizzen genereren met AI\n\n\n\n\n\n\n\n\n\n\n\n\nMagicSchool AI\n\n\nDe alles-in-één AI-assistent voor docenten\n\n\n\n\n\n\n\n\n\n\n\n\nSnappet Copilot\n\n\nNieuwe AI-mogelijkheden in het basisonderwijs\n\n\n\n\n\nGeen overeenkomsten",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs"
+      "▪️ AI in het onderwijs"
     ]
   },
   {
@@ -1649,7 +1649,7 @@
     "text": "AI in het onderwijs organisaties\n\n\n\n\n\n\n\n\n\n\nAI Teach\n\n\nErasmus+ project voor leraren (in opleiding).\n\n\n\n\n\n\n\n\n\n\n\n\nKennisnet\n\n\nDe organisatie voor het funderend onderwijs.\n\n\n\n\n\n\n\n\n\n\n\n\nNOLAI\n\n\nHet Nationaal Onderwijslab AI\n\n\n\n\n\n\n\n\n\n\n\n\nNPULS\n\n\nCommunity AI en Data van Npuls\n\n\n\n\n\nGeen overeenkomsten",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs"
+      "▪️ AI in het onderwijs"
     ]
   },
   {
@@ -1660,8 +1660,8 @@
     "text": "Kennisnet richt zich specifiek op het funderend onderwijs. Maar zoals Npuls niet alleen interessant is als je in het mbo of hoger onderwijs werkt, is ook Kennisnet een bezoek voor docenten uit andere onderwijssectoren de moeite waard.\nKennisnet heeft een aantal interessante pagina’s over AI en onderwijs. Hieronder een selectie:\n\nAI in het onderwijs\nAandachtspunten bij de ontwikkeling van je curriculum en de invloed van AI\nWerken aan AI-geletterdheid op school\nAI Impact Game\nEthiekkompas - niet specifiek over AI, maar net zo relevant voor AI-toepassingen\nAI-companions\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "Kennisnet"
     ]
   },
@@ -1673,8 +1673,8 @@
     "text": "Npuls wordt net als NOLAI mogelijk gemaakt vanuit het Nationaal Groeifonds dat er naar streeft om het onderwijs in Nederland te versterken door innovatie, samenwerking en digitale vaardigheden te bevorderen.\n\nAI en Data\nEen van de programmaonderdelen is AI en Data met daarbinnen weer een aantal programmalijnen en ook een Community Data en AI gericht op alle publieke mbo-instellingen, hogescholen en universiteiten in Nederland.\nDaar vind je onder andere:\n\nEen vraagbaak AI voor al je brandende vragen.\nEen agenda met relevante events.\nBlogposts over de nieuwste ontwikkelingen in het Nederlands onderwijs.\nInformatie over de verschillende deelprojecten.\n\n\n\nEduGenAI pilot\nEduGenAI is een Nederlands platform met als doel om een eigen veilige en verantwoorde toepassing voor generatieve AI in het vervolgonderwijs te ontwikkelen. Met dit platform kunnen onderwijsinstellingen gebruik maken van commerciële en open source taalmodellen.\n▶Klik om video te startenBekijk op YouTube\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Organisaties",
+      "▪️ AI in het onderwijs",
+      "▪️Organisaties",
       "Npuls"
     ]
   },
@@ -1686,7 +1686,7 @@
     "text": "In het AI-tijdperk moet de focus van toetsing verschuiven van de controle op het eindproduct naar de validatie van het leerproces. De shift dus van fraudedetectie naar leerbevestiging.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en toetsing"
     ]
   },
@@ -1698,7 +1698,7 @@
     "text": "Detectietools zijn onbetrouwbaar\n\nLubach wist het: detectietools voor het gebruik van AI door studenten zijn onbetrouwbaar. En je komt als docent in een wapenrace terecht die je toch niet kunt winnen. Sarah Elaine Eaton (Universiteit van Calgary) noemt het het “post-plagiarism era”. Een tijdperk waarin de grens tussen menselijke en AI-tekst onherstelbaar is vervaagd. De verschuiving: We vragen niet langer “Heeft een mens dit geschreven?”, maar “Is dit werk een legitieme weergave van de groei van deze student?”.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en toetsing"
     ]
   },
@@ -1710,7 +1710,7 @@
     "text": "Toetsingsstrategieën\nDe Beslisboom Toetsing en AI van Kennisnet helpt bij het maken van bewuste keuzes per toetsmoment. Er wordt soms van 2-sporenbeleid gesproken, je zou ook kunnen zeggen dat er 3 sporen zijn doordat je AI ook kunt inzetten als instrument ter ondersteuning van het leerproces.\nSpoor 1: AI Uitsluiten (Gecontroleerd) Wanneer: Bij het toetsen van fundamentele basiskennis of vaardigheden die de student ‘kaal’ moet beheersen (bijv. medische basiskennis of rekenvaardigheid). Hoe: On-site toetsing, mondelingen, of pen-en-papier in een surveillance-omgeving.\nSpoor 2: AI Integreren (Transparant) Wanneer: Bij complexe taken waarbij AI als ‘co-piloot’ fungeert. Focus: De beoordeling verschuift naar de prompt-historie, de kritische reflectie op de AI-output en de verantwoording van gemaakte keuzes.\nSpoor 3: AI als Instrument (Ondersteunend) Toepassing: De docent gebruikt AI voor formatieve feedback of om gepersonaliseerde oefenvragen te genereren. AI helpt de docent om patronen in studentwerk sneller te herkennen.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en toetsing"
     ]
   },
@@ -1722,7 +1722,7 @@
     "text": "Authentiek en programmatisch toetsen\nDit sluit direct aan bij de MOVEL-filosofie: toetsing is geen incident, maar een continu proces.\nAuthentieke producten: Hier ligt de focus op contextuele opdrachten die AI niet ‘weet’ (bijv. een analyse van een specifieke casus op de eigen werkplek). Belangrijk is aangetoond kan worden dat de uitwerking geen resultaat is van een prompt, maar van de student zelf.\nProgrammatisch Toetsen: In plaats van één grote eindtoets (die kwetsbaar is voor AI-fraude), verzamelt de student talloze datapunten (reflecties, feedback van collega’s, korte demo’s). AI kan hierbij helpen door de voortgang over al die punten inzichtelijk te maken. Ook hier geldt dat de student moet kunnen aantonen dat de uitwerking geen resultaat is van een prompt, maar van de student zelf.\nZie ook Programmatisch toetsen en Portretten van 4 HAN-opleidingen.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en toetsing"
     ]
   },
@@ -1734,7 +1734,7 @@
     "text": "De Toets-check\nAan de hand van het curriculaire spinnenweb kun je een toets-check doen. Introduceer een (mogelijke) AI-interventie en bespreek de implicaties voor de verschillende aspecten van het curriculum:\n\nWat wil ik dat de student écht leert? De essentie: is het de tekst of het denkproces?\nWat bewijst dat de student dit geleerd heeft? Is een essay nog het beste bewijs, of is een ‘hardop-denk-sessie’ sterker?\nWat verandert er als de student AI gebruikt? Wordt de taak triviaal? Dan moet de taak verzwaard worden richting evaluatie en synthese in plaats van alleen reproductie.\n\n\nIn de handleiding AI-bestendig toetsen van de HAN vindt je een overzicht van toetsvormen die AI-bestendig zijn. Je kunt er ook lezen welke dat niet zijn.\n\nDe Universiteit van Utrecht heeft een stappenplan ontwikkeld om te helpen bij het maken van een robuust les- en toetsprogramma.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
+      "▪️ AI in het onderwijs",
       "AI en toetsing"
     ]
   },
@@ -1746,8 +1746,8 @@
     "text": "FeedbackFruits levert een tool voor studenten waarbij ze automatische feedback krijgen op werkstukken, rapporten en andere schrijfproducten. De AI analyseert de tekst op basis van vooraf ingestelde criteria.\n▶Klik om video te startenBekijk op YouTube\nFeedbackfruits komt al jaren voor in mijn overzicht van mooie tools, ze richten zich inmiddels in Nederland ook op het mbo, maar ik heb nog steeds geen demo’s gezien waarbij de tool en taalondersteuning ook voor het Nederlands beschikbaar waren.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "Feedbackfruits"
     ]
   },
@@ -1759,8 +1759,8 @@
     "text": "LessonUp is een populair platform voor interactieve lessen in Nederland. Ze hebben onlangs AI-functies toegevoegd die docenten enorm veel tijd kunnen besparen.\nMet LessonUp AI kun je:",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "LessonUp"
     ]
   },
@@ -1772,8 +1772,8 @@
     "text": "Disclaimer\nVoor LessonUp geldt dat deze tekst geschreven is op basis van heel beperkte handson ervaring.",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "LessonUp"
     ]
   },
@@ -1785,8 +1785,8 @@
     "text": "Snappet is een bekende speler in het basisonderwijs. In samenwerking met NOLAI wordt Snappet Copilot in de praktijk getest.\nDe focus van Snappet Copilot ligt op:\n\nInzicht: De leraar krijgt suggesties over welke leerling extra hulp nodig heeft.\nDifferentiatie: Automatische aanpassingen in het niveau van de opdrachten.\nTijdswinst: Automatisering van administratieve taken zodat er meer tijd is voor pedagogisch contact.\n\nLees hier meer over de pilot en de implementatie.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏫 AI in het onderwijs",
-      "Tools & Praktijk",
+      "▪️ AI in het onderwijs",
+      "▪️Tools & Praktijk",
       "Snappet Copilot"
     ]
   },
@@ -1798,7 +1798,7 @@
     "text": "Per 2 februari 2025 is de eerste set regels vanuit de Europese AI-verordening (de “AI-Act”) van kracht geworden. De volledige verordening is pas vanaf 2 augustus 2027 volledig van kracht.\nSinds februari 2025 is een aantal AI-systemen verboden. Ook moeten organisaties die AI gebruiken zorgen dat hun werknemers AI-geletterd zijn.",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "De AI-Act"
     ]
   },
@@ -1810,7 +1810,7 @@
     "text": "Aan de slag met de AI-act\nNpuls heeft een publicatie getiteld De AI-act en het onderwijs opgesteld waarin ze in het kort beschrijven wat de AI Act voor het onderwijs betekent, welke AI‑tools je wel of niet mag gebruiken in de klas, welke risico’s je moet kennen, en welke stappen je als school moet zetten om verantwoord met AI om te gaan.",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "De AI-Act"
     ]
   },
@@ -1822,7 +1822,7 @@
     "text": "Bias in AI is niet alleen een theoretisch probleem, het heeft directe gevolgen voor mensen.",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Bias in de praktijk"
     ]
   },
@@ -1834,7 +1834,7 @@
     "text": "Problemen bij antispieksoftware\nEen student van de VU diende een klacht in omdat antispieksoftware haar niet herkende als persoon, mogelijk door haar donkere huidskleur.\nHet College voor de Rechten van de Mens constateerde in een tussenoordeel (2022) dat er voldoende feiten waren voor een vermoeden van discriminatie. Uiteindelijk oordeelde het College dat de klacht niet gegrond was, omdat de VU kon aantonen dat de problemen niet vaker voorkwamen dan bij andere studenten. Lees het artikel in de Volkskrant",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Bias in de praktijk"
     ]
   },
@@ -1846,7 +1846,7 @@
     "text": "Bias drama’s in Machine Learning\nIn deze blogpost uit 2021 vind je een overzicht van verschillende voorbeelden waar AI de fout in ging door bias:\nOnderstaande afbeelding toont de verschillende types bias die een rol kunnen spelen:\n\n\n\nBias types",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Bias in de praktijk"
     ]
   },
@@ -1858,7 +1858,7 @@
     "text": "De Europese Commissie heeft de Ethische richtsnoeren voor het gebruik van Artificiële Intelligentie bij onderwijzen en leren voor onderwijsactoren opgesteld.\nDit document beschrijft voorbeelden, misvattingen en ethische overwegingen voor AI in het onderwijs. De zeven kernvereisten zijn:\n\nMenselijke agency en menselijk toezicht\nTransparantie\nDiversiteit, non-discriminatie en rechtvaardigheid\nMaatschappelijk en ecologisch welzijn\nPrivacy en datagovernance\nTechnische robuustheid en veiligheid\nVerantwoording\n\n\nDownload hier het volledige document.\nDe richtlijnen zijn recent (2026) bijgewerkt en de nieuwe versie is nog niet in het Nederland beschikbaar.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "Ethiek en Richtlijnen"
     ]
   },
@@ -1870,7 +1870,7 @@
     "text": "De invloed van technologie op de mens en de relatie tussen mens en technologie is niet nieuw en niet beperkt tot alleen AI.\nEen onderzoeker die daar veel over gezegd en geschreven heeft is Peter Paul Verbeek, hoogleraar Filosofie en Ethiek van Wetenschap en Technologie in een Veranderende Wereld aan de UvA.\nWaar soms technologie vooral als een bedreiging voor de autonomie van de mens gepositioneerd wordt, stelt hij dat beeld ter discussie.\n▶Klik om video te startenBekijk op YouTube\nDat betekent niet dat we niet kritisch moeten zijn over het gebruik van technologie of AI. Technologie is niet neutraal. De relatie is niet alleen van ethiek naar technologie, waarbij ethiek bepaalt wat we technisch zouden moeten willen. Technologie bepaalt ook onze ethiek.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🤖 De mens en AI",
+      "▪️ De mens en AI",
       "De mens centraal?"
     ]
   },
@@ -1882,7 +1882,7 @@
     "text": "Deze module is onderdeel van de HAN Master Ontwerpen van Eigentijds Leren (MOVEL).\nGebruik het menu aan de linkerkant van je scherm om door de verschillende onderwerpen te navigeren. Of het uitklapmenu als je de inhoud op een telefoon bekijkt. De 🎯Start hier pagina leidt je door de module. Je kunt ook de navigatie onderaan de pagina’s gebruiken om door de module te navigeren.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🏠 Home"
+      "▪️ Home"
     ]
   },
   {
@@ -1893,7 +1893,7 @@
     "text": "Niet alleen het onderwijs maakt gebruik van AI. Ook de overheid experimenteert met de mogelijkheden van AI. TNO publiceert regelmatig over het gebruik van kunstmatige intelligentie binnen de publieke dienstverlening.\n\nQuickscan 2024\nTNO publiceerde in 2024 de derde editie van een Quickscan over het gebruik van kunstmatige intelligentie binnen de publieke dienstverlening. In die editie vind je voorbeelden zoals:\n\nAI als anonimiseringstool voor documenten die bij de overheid worden opgevraagd;\nVoor het detecteren van illegale fuiken bij visserij inspectie;\nHet beantwoorden van kamervragen\n\n\n\n\nQuickscan 2025 - generatieve AI\nVanaf de editie van 2025 richt het TNO-rapport zich specifiek op het gebruik van generatieve AI bij de overheid. Daarbij wordt een stevige toename van toepassingen gesignaleerd, van 8 genAI toepassingen in 2024 naar 81 in 2025. En de toepassingen zijn al vaak onderdeel van de dagelijkse praktijk. Lees hier het quickscanrapport.\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "📖 Inleiding",
+      "▪️ Inleiding",
       "AI bij de overheid"
     ]
   },
@@ -1968,7 +1968,7 @@
     "text": "Bij het aanmaken van de lege pagina voor dit onderdeel, schoot Antigravity meteen in de meedenkstand.\nMaar, hoewel deze pagina inderdaad een aantal suggesties bevat, krijg je hier geen “complete” literatuurlijst aanbieden. Niet alleen is dat onmogelijk, het is ook juist de bedoeling dat je als MOVEL-student zelf op onderzoek uitgaat. Je moet als MOVEL-student laten zien dat je als docent niet alleen op gevoel en je onderbuikgevoel je keuzes maakt, maar dat je ook op basis van onderzoek en bewijs je keuzes maakt.\nWel krijg je hier een aantal handvatten en suggesties om je op weg te helpen.",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -1979,7 +1979,7 @@
     "text": "Boeken\nBoeken (fysiek, op papier) zijn een prima bron van informatie. Zeker voor onderwerpen die langere tijd onveranderd blijven. De ontwikkelingen rond AI zijn dat niet. Dat maakt dat boeken over AI snel verouderd zijn. Boeken over specifieke toepassingen al helemaal. Daar komt bij dat het gebruik van bijvoorbeeld generatieve AI in het onderwijs nog relatief nieuw is, dus boeken daarover zullen altijd geschreven zijn op basis van het perspectief van dat moment. Als je op zoek bent naar een lijstje boeken over AI en onderwijs, dan kun je o.a. hier kijken",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -1990,7 +1990,7 @@
     "text": "Rapporten en magazines\nEr zijn de nodige rapporten en andere (digitale) publicaties over AI (in het onderwijs). Voor dit soort publicaties geldt dat je ze eigenlijk net zo moet behandelen als alle andere informatie op internet. Je moet je afvragen: wie heeft dit gemaakt? Wat is het doel van deze publicatie? Is het betrouwbaar? Enzovoort. Dat een publicatie mooi opgemaakt is, betekent niet dat de inhoud klopt.\nIn deze module kom je op een aantal plekken verwijzingen tegen naar zulke rapporten, zoals bij de informatie over NOLAI, Kennisnet en AI-Teach.",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -2001,7 +2001,7 @@
     "text": "Wetenschappelijke publicaties\nVoor veel MOVEL-studenten is de stap naar het gebruik van wetenschappelijke publicaties een lastige. Dat zijn teksten die geschreven zijn door onderzoekers voor onderzoeker. Meestal in het Engels, vaak met een heel eigen vocabulaire en een heel eigen manier van argumenteren.\nDaar komt voor AI in het onderwijs bij dat het aantal publicaties dat beschikbaar is, enorm is. Zelfs als je niet in Google Scholar zoekt, maar bijvoorbeeld in Web of Science zoals in de screenshot hieronder, dan kom je al gauw duizenden publicaties tegen, waarvan een groot deel (dik 10.000) alleen al uit 2025.\n\nOok bij wetenschappelijk publicaties geldt: je moet je afvragen: wie heeft dit gemaakt? Wat is het doel van deze publicatie? Op welke context (onderwijssector) of groep studenten heeft het onderzoek betrekking? Het is niet zo dat elke publicatie zomaar “bewijs” levert voor jouw specifieke situatie. Een speciaal soort publicatie is de review of systematic review. Hierbij worden meerdere publicaties over een bepaald onderwerp verzameld en geanalyseerd.\nBijvoorbeeld:\nPierrès, O., Christen, M., Schmitt‑Koopmann, F., & Darvishy, A. (2024). Could the use of AI in higher education hinder students with disabilities? A scoping review. IEEE Access. https://doi.org/10.1109/ACCESS.2024.3365368\nIn deze review wordt gekeken naar de mogelijke nadelen van AI voor studenten met een beperking. Niet op basis van één experiment, maar op basis van een analyse van meerdere experimenten en publicaties.\nOf:\nGao, H., & Tan, Y. (2025). AI Differences in Vocational and Undergraduate Differential Applications of Artificial Intelligence in Undergraduate and Vocational Higher Education: A Systematic Review. Higher Education Studies, 15(4), 398–408. https://doi.org/10.5539/hes.v15n4p398\nIn deze review wordt gekeken naar de verschillen in het gebruik van AI door studenten in het hoger onderwijs en het beroepsonderwijs.\nDit kunnen dus startpunten zijn om je te verdiepen in een onderwerp. Maar ook daarvan heb je er inmiddels voor AI al heel veel.\n\nZotero\nZotero is een gratis tool voor het beheren van je literatuur. Je kunt er je eigen literatuur in opslaan, organiseren en delen. Ook kun je er je eigen literatuur in opslaan, organiseren en delen. En je kunt er je eigen literatuur in opslaan, organiseren en delen. Heel erg handig om literatuur in te organiseren omdat je vanuit Zotero ook gemakkelijk correcte literatuurverwijzingen kunt opnemen in Word, dus als je je reflectieverslag schrijft voor de CGI van MOVEL, dan scheelt het gebruik van Zotero je een hoop werk.\n\n\nResearch Rabbit\nResearch Rabbit is een gratis tool voor het vinden van andere wetenschappelijke publicaties.\n\nJe kunt beginnen met een paar publicaties die je al kent en Research Rabbit zoekt dan naar publicaties die daar naar verwijzen, van waaruit verwezen word of die thematisch lijken op het artikel dat je toevoegt. Hierboven in de afbeelding zie je het resultaat voor de review van Pierrès et al. (2024). Research Rabbit heeft het moeilijk met de enorme stroom artikelen die er over AI verschijnen. De review over Gao & Tan (2025) levert bijvoorbeeld niets op. Die kent de database nog niet.\nMocht je je afvragen waarom de tool deze naam heeft: het is een verwijzing naar het idee dat je met een paar publicaties een heel netwerk van publicaties kunt ontdekken, in het Engels wordt dat “going down the rabbit hole” genoemd.",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -2012,7 +2012,7 @@
     "text": "YouTube\nAan de volledig andere kant van het spectrum vind je YouTube. Hier vind je heel veel video’s over AI en toepassingen ervan. Over AI in het onderwijs is het aanbod wat magerder. Je vindt een aantal suggesties van kanalen die zich richten op AI en onderwijs op de pagina over AI in het onderwijs.",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -2023,7 +2023,7 @@
     "text": "Films en documentaires\nFilms zijn een prima middel om je te verdiepen in een onderwerp. Daarom is daar een hele pagina over opgenomen in deze module. Maar dan vooral voor meningsvorming en discussie. Een documentaire moet je weer net zo behandelen als alle andere informatie: wie heeft dit gemaakt? Wat is het doel van deze publicatie? Is het betrouwbaar? Enzovoort. Ook bij een documentaire als bv Coded Bias gelden die vragen. En ja, ook bij de clips van [/inleiding/nos-op-3.qmd] zijn die vragen relevant. Nee, niet omdat de mainstream media per definitie onbetrouwbaar zijn, of ons willen misleiden. Maar wel omdat ook zij een bepaalde invalshoek hebben, een bepaalde doelgroep en een bepaalde context.",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -2034,7 +2034,7 @@
     "text": "Podcasts\nAudiopodcasts waren populair begin deze eeuw. Nu zijn ze weer helemaal terug. En ook over AI en onderwijs zijn er inmiddels diverse podcasts te vinden. Had ik al gezegd dat voor dit soort bronnen geldt dat je je af moet vragen: wie heeft dit gemaakt? Wat is het doel van deze publicatie? Is het betrouwbaar? Enzovoort. Ja, dat had ik. Maar het kan niet vaak genoeg herhaald worden.",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -2045,7 +2045,7 @@
     "text": "Wetenschappelijke discussies\nOnenigheid is prima. Discussie kan een heel constructieve werkvorm zijn. Als alle onderzoekers het met elkaar eens zouden zijn en alle vragen beantwoord zouden zijn, dan zouden we klaar zijn. Van jou als MOVEL-student wordt verwacht dat je je in dat gesprek (klinkt vriendelijker) kunt mengen. Met een onderbouwde mening en inzichten. De bronnen die hierboven genoemd zijn, helpen je daarbij.\n\n\n\n\n\n\nOpmerkingIs de aarde plat?\n\n\n\nOnderzoekers houden ervan om met elkaar in discussie te gaan. Elk onderzoek levert vaak meer nieuwe vragen dan antwoorden op. Dat is prima, want dat is hoe wetenschap vooruitgaat. Het betekent niet dat je onderzoek kunt afdoen als een mening. En discussie moet natuurlijk ook wel een doel hebben. Een discussie over de vraag of de aarde plat is, is bijvoorbeeld niet zo zinvol. Over de vraag of AI in het onderwijs goed is of niet, kan discussie heel zinvol zijn. Als het tenminste gaat over de vraag onder welke voorwaarden, in welke context en voor welke doelgroep (in een bepaalde context).",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
@@ -2056,13 +2056,13 @@
     "text": "Evidence based of informed of geïnformeerd handelen?\nDe Onderwijsraad heeft recent een advies uitgebracht aan de overheid over het al dan niet sturen op evidence-informed werken in de onderwijspraktijk. Daarbij omschrijven ze de evidence-based practice als gericht op effectonderzoek als belangrijkste bron van kennis, met een sterke nadruk op bewezen effectieve methodes (Randomized Controlled Trials, RCT’s, causale effecten), ontstaan vanuit de medische wereld. De Onderwijsraad pleit voor een meer genuanceerde benadering, die van het evidence-informed werken. Daarbij wordt niet alleen gekeken naar effectonderzoek, maar ook naar andere vormen van kennis, zoals praktijkkennis, ervaringskennis en contextkennis. Zij stellen dat, hoewel in beleid en kamerstukken vaak het begrip evidence-informed wordt gebruikt, het in de praktijk vaak neerkomt op evidence-based werken. En dat is volgens de Onderwijsraad niet wenselijk. Niet alleen waarschuwen ze voor deze ontwikkeling, ze stellen ook voor om in plaats daarvan de term geïnformeerd handelen te gebruiken: Handelen op basis van een scala aan bronnen, geïnformeerd over verschillende handelingsopties en op basis van afwegingen over de eigen praktijk.\nBinnen iXperium wordt gesproken over evidence-informed werken. Omdat binnen AI in het onderwijs of technologiegebruik in het onderwijs, het zelden voor zal komen dat er een RCT is gedaan naar de effectiviteit van een bepaalde toepassing in een specifieke context.",
     "crumbs": [
       "Over deze module",
-      "📚 Literatuur"
+      "▪️ Literatuur"
     ]
   },
   {
     "objectID": "start-hier/index.html#doelgroep",
     "href": "start-hier/index.html#doelgroep",
-    "title": "♥ Start hier!",
+    "title": "🎯 Start hier!",
     "section": "Doelgroep",
     "text": "Doelgroep\nDoelgroep voor dit materiaal zijn docenten (leraren), studenten van de lerarenopleidingen en lerarenopleiders. Het materiaal wordt ingezet bij een masteropleiding, maar is zeker niet zo complex dat je die masteropleiding nodig hebt om het te kunnen begrijpen. De opzet is thematisch waarbij je redelijk vrij door de menu-onderdelen kunt springen.",
     "crumbs": [
@@ -2073,7 +2073,7 @@
   {
     "objectID": "start-hier/index.html#inhoud",
     "href": "start-hier/index.html#inhoud",
-    "title": "♥ Start hier!",
+    "title": "🎯 Start hier!",
     "section": "Inhoud",
     "text": "Inhoud\n\nEen logisch startpunt is de Inleiding, met een samenvattende video van 20 minuten over het onderwerp en verwijzingen naar andere plekken waar je nog meer over AI op een inleidend niveau kunt leren.\nVia de optie AI Geletterdheid kun je meer te weten komen over wat AI van docenten, studenten en leidinggevenden vraagt én verwijzingen vinden naar plekken waar je je eigen AI-geletterdheid kunt verhogen.\nHet onderdeel Voorbeelden bevat door de jaren heen groeiende verzameling van voorbeelden van AI die je nu al kunt gebruiken. Een lijst die per definitie niet compleet is, omdat de ontwikkelingen op dit moment zo snel gaan dat elk lijstje alweer achterhaald is zodra deze online verschijnt. Ook de beschrijvingen van de tools die hier nu genoemd worden, zijn sinds het verschijnen op deze lijst alweer een paar keer aangepast. Zie het als een startpunt om zelf op onderzoek uit te gaan en te experimenteren.\nHet onderwerp AI in het onderwijs was bij de eerste iteratie van deze module nog een moeizame om te vullen. Er werd nog weinig met AI in het onderwijs gedaan en er waren weinig voorbeelden van specifiek voor het onderwijs ontwikkelde systemen. Inmiddels is de nadruk in dat onderdeel aan het verschuiven naar het inzetten van AI bij het herontwerp van je onderwijs. Aangevuld met voorbeelden van specifiek voor het onderwijs ontwikkelde systemen.\nIs vibecoding een essentiële competentie voor docenten of alleen iets voor techneuten? Dat is een vraag die je jezelf kunt stellen bij het lezen van dit onderdeel. Nu als apart onderdeel in het zijmenu, volgend jaar mogelijk zo vanzelfsprekend dat het onderdeel wordt van AI-geletterdheid.\nHet onderdeel Literatuur is toegevoegd omdat het belangrijk is om je eigen keuzes te kunnen onderbouwen. Verwacht hier geen lange lijsten bronnen.\nHet onderwerp Ethiek en AI, Responsible AI of zoals het nu in het menu heet De mens en AI is op zichzelf al voldoende om een hele module voor te ontwikkelen. Je vindt hier een aanzet tot nadenken over.\nHet onderwerp AI in de film is opgenomen omdat films een goede manier kunnen zijn om een woordenschat op te bouwen die helpt bij het beschrijven van wat we wél of juist niet willen dat AI is, doet of kan.\nDe Test Jezelf sectie is een vriendelijke zelftest. Zeker geen complete “als je hier een 10 voor haalt dan ben je klaar” test.\nDe Colofonpagina legt uit dat je de materialen mag hergebruiken, je kunt er zelfs deze hele module downloaden om zelf te gebruiken.",
     "crumbs": [
@@ -2084,7 +2084,7 @@
   {
     "objectID": "start-hier/index.html#han-master-ontwerpen-van-eigentijds-leren",
     "href": "start-hier/index.html#han-master-ontwerpen-van-eigentijds-leren",
-    "title": "♥ Start hier!",
+    "title": "🎯 Start hier!",
     "section": "HAN Master Ontwerpen Van Eigentijds Leren",
     "text": "HAN Master Ontwerpen Van Eigentijds Leren\n Dit materiaal is onderdeel van het lesmateriaal ontwikkeld voor de HAN Master Ontwerpen Van Eigentijds Leren (MOVEL).\nKunstmatige intelligentie (AI) was al vanaf de start van de masteropleiding een onderwerp dat aan de orde kwam. Maar het was lange tijd een abstract begrip voor leraren. Met de komst van ChatGPT eind 2022 kwam daar verandering in, en twee jaar later is het AI-aanbod overweldigend. Ook binnen MOVEL gaan we hiermee aan de slag. Niet om deelnemers tot ChatGPT-experts te maken, maar om hen te helpen AI in het onderwijs te duiden, collega’s te ondersteunen en deze technologie doordacht te integreren. Deze online module verzamelt relevante achtergrondmaterialen op één plek. Maar het is zeker ook niet de enige activiteit en bron voor studenten binnen MOVEL op dit vlak. De andere zijn deels ook open online beschikbaar buiten de HAN of MOVEL. De Padlet van de Leerlijn onderwijs met ict bijvoorbeeld is hier online beschikbaar.\n\nVoor MOVEL-studenten\nNiets van de inhoud van deze module komt terug in de voortgangstoets. Het is facultatief materiaal. Doe er je voordeel mee. Bijvoorbeeld ter voorbereiding van je CGI voor Leren en lesgeven met ict!\n\n\nVoor anderen\nZoals je op de Colofonpagina kunt lezen, wordt deze module gedeeld onder een Creative Commons licentie. Op de colofonpagina kun je een compleet exemplaar van de module downloaden en dan zelf bijvoorbeeld in een eigen leeromgeving uploaden. Dat kan dus betekenen dat je deze module ziet in een heel andere context dan MOVEL of de HAN. Leuk! Laat het ons vooral weten en vertel ons in welke context je de materialen gebruikt en of ze je helpen.",
     "crumbs": [
@@ -2100,7 +2100,7 @@
     "text": "Deze pagina leest een beetje als een blogpost, minder dan een formele onderwijskundige tekst. Het is een gevolg van het onderwerp\nEr was heel wat voor te zeggen geweest om deze pagina niet als een aparte optie in de navigatie te zetten. En in plaats daarvan onder te brengen bij ai-geletterdheid, of bij voorbeelden van AI, of AI in het onderwijs. Ik denk dat als ik het aan Gemini 3 Flash hier in Antigravity had gevraagd, doe zou hebben voorgesteld om het zeker niet apart op te nemen. Omdat het veel te technisch is. Maar dat is uiteindelijk de vraag.",
     "crumbs": [
       "Over deze module",
-      "🚀 Vibecoding"
+      "▪️ Vibecoding"
     ]
   },
   {
@@ -2111,7 +2111,7 @@
     "text": "Een antwoord\n\nIn de presentatie die ik daarover bij NOLAI verzorgde in november 2025, leg ik uit dat ik eerst zelf ook dacht dat het niks voor een leraar was. In de screenshot hierboven zie je dat ik verwijs naar een Tweet (=bericht op X) van februari 2025 waarin Andrej Karpathy, een van de opdrichters van OpenAI, enthousiast vertelt over ‘vibecode’ en ‘disposable applications’.\nVrij vertaald (door Gemini) zegt Andrej: “Er is een nieuwe manier van programmeren die ik ‘vibecoding’ noem: je geeft je volledig over aan de ‘vibes’, omarmt de exponentiële groei en vergeet simpelweg dat de code überhaupt bestaat. Het is mogelijk omdat LLM’s (zoals Cursor Composer met Sonnet) bizar goed worden. Bovendien praat ik gewoon tegen Composer via SuperWhisper, waardoor ik mijn toetsenbord nauwelijks nog aanraak. Ik vraag om de meest onbenullige dingen, zoals ‘halveer de padding van de zijbalk’, simpelweg omdat ik te lui ben om het zelf op te zoeken. Ik klik altijd op ‘Accept All’; ik lees de ‘diffs’ (wijzigingen) niet eens meer. Als ik foutmeldingen krijg, kopieer en plak ik ze gewoon zonder commentaar terug, en meestal lost dat het wel op. De code groeit mijn gebruikelijke bevattingsvermogen te boven; ik zou het echt een tijd lang grondig moeten bestuderen om het nog te begrijpen. Soms kan de LLM een bug niet oplossen, dus dan bouw ik er gewoon omheen of vraag ik om willekeurige aanpassingen totdat de fout verdwijnt. Voor wegwerpprojecten in het weekend is het prima te doen, en eigenlijk best vermakelijk. Ik bouw wel een project of web-app, maar het is niet echt meer programmeren — ik zie dingen, roep dingen, draai dingen en kopieer-plak wat, en meestal werkt het gewoon.”",
     "crumbs": [
       "Over deze module",
-      "🚀 Vibecoding"
+      "▪️ Vibecoding"
     ]
   },
   {
@@ -2122,7 +2122,7 @@
     "text": "Eerste ervaringen\nMijn eigen eerste ervaringen met vibecoding ontstonden uit een behoefte. Ik was in Praag geweest bij een school die een YouTube-video online hadden staan die ik wilde begrijpen. maar hij was in het Tsjechisch, en ze hadden de vertaalopties van YouTube uit staan. Het uitgebreide verhaal kun je hier lezen en het resultaat was een eerste webpagina, gemaakt door AI-studio, die een probleem oplostte dat ik anders niet opgelost had gekregen.\nEr volgende meer experimenten in 2025, die ik ook deelde via een overzichtspagina die uiteraard ook met vibecoding tot stand kwam. In juli schreef ik er nog eens over en tegen de tijd dat het september was vergeleek ik het met een Pritt Stift voor de leraar.",
     "crumbs": [
       "Over deze module",
-      "🚀 Vibecoding"
+      "▪️ Vibecoding"
     ]
   },
   {
@@ -2133,7 +2133,7 @@
     "text": "Alle docenten programmeurs?\nNee, nee, zeker niet. Tenminste, dat hangt een beetje af van hoe je ‘programmeren’ definieert. Het maken van deze online module noem ik ook geen programmeren. Ja, ik heb Antigravity gebruikt, en Quarto, het geheel wordt beheerd via Github. Dus er komt wel wat technische kennis bij kijken.\nEn bij vibcodende docenten heb ik het niet over docenten die op die manier een hele leeromgeving voor de school aan het realiseren zijn. Dat is ook niet waar Andrej het over had. Dit zijn de lesvoorbereidingen die een docent op zaterdagochtend in elkaar zet. Voorheen met schaar en Pritt Stift, toen met Word en PowerPoint, en nu met AI.\n\nVoor de sessie bij NOLAI in november heb ik een pagina met 23 single prompt voorbeelden gemaakt. In het Nederlands en het Engels, met een beschrijving, een screenshot, een live (werkende) demo en de prompt die ik gebruikte. Met selectiemogelijkheid om te kiezen tussen Engels en Nederlands. En filters voor onderwijsniveau (NOLAI richt zich op funderend onderwijs, dus geen mbo/hbo voorbeelden op die pagina). Dat had ik nooit voor elkaar gekregen zónder dat ik ook vibecoding gebruikt had bij het samenstellen van die pagina en die voorbeelden. En dat is nu precies het punt dat ik wil maken.\n\n\n\n\n\n\nTipVibecoding en ontwikkelen van onderwijsmateriaal\n\n\n\nHet voorbeeld laat zien dat vibecoding een uitstekende manier kan zijn om onderwijsmateriaal te ontwikkelen. Het is een snelle en efficiënte manier om materiaal dat je nu bijvoorbeeld alleen als statische PDF of PowerPoint ter becshikking hebt, om te zetten naar digitaal lesmateriaal dat je aan studenten aan kuntn bieden.",
     "crumbs": [
       "Over deze module",
-      "🚀 Vibecoding"
+      "▪️ Vibecoding"
     ]
   },
   {
@@ -2144,7 +2144,7 @@
     "text": "Allemaal betalen voor Claude Code?\nAls je op YouTube zoekt naar vibecoding dan zie je dat het vooral gaat over het gebruik van AI-tools om code te genereren. En dan kom je al snel uit bij betaalde tools zoals Claude Code.\nOok dat is dus niet de bedoeling. Met de gratis opties van AI-studio kun je prima vibecoden. En met Antigravity ook. Maar, zo hoor ik je nu denken: dat zijn toch tools van Google en die gebruiken mijn data om hun modellen te traine? En ja, dat klopt. Daarom is het goed om een paar spelregels te hanteren.\n\n\n\n\n\n\nTipVibecoding spelregels van Pierre\n\n\n\n\nAlle “normale” regels ronde generatieve AI gelden ook tijdens het vibecoden: geen persoonlijke data, persoonsgegevens of bedrijfsdata in de tools stoppen.\nHet resultaat bestaat uit 1 HTML pagina (met CSS, JavaScript en evt. JSON voor opslag)\nGeen AI-functionaliteit in de pagina zelf (dus geen API calls naar OpenAI etc.)\nGeen permanente dataopslag op de server of in de cloud.\n\n\n\nAls je je aan deze regels houdt én er voor zorgt dat je geen apps aan het ontwikkelen bent waar je over 2-3 maanden nog steeds onderhoud op zou moeten plegen, dan is het gebruik van dit soort tools prima te verantwoorden. Alles wat complexer is dan wat je hier meer kunt realiseren, of wat toegang tot data nodig heeft die je niet zomaar met Google zou mogen delen, moet je ook simpelweg niet willen gaan vibecoden. Dan moet je echt gaan programmeren. En dat is een heel ander verhaal.",
     "crumbs": [
       "Over deze module",
-      "🚀 Vibecoding"
+      "▪️ Vibecoding"
     ]
   },
   {
@@ -2155,7 +2155,7 @@
     "text": "Voorbeeld van vibecoding\nIn de video hieronder zie je hoe een docent in gesprek met een (volwassen) student al vibecodend tot een werkende web-app komt in Gemini. Daarbij gebruiken ze Gemini 2.5 Pro (preview), inmiddels zijn er alweer nieuwere versies van die modellen waar het ook mee werkt.\n▶Klik om video te startenBekijk op YouTube\n\n\n\n\n\n\nTipVibecoding en computational thinking\n\n\n\nVibecoden vraagt de nodige computational thinking vaardigheden. Je moet immers wel weten wat je wilt bouwen (dat zie je ook hierboven in de video) en hoe je het wilt bouwen. Het is daarmee zowel voor docenten als studenten een uitstekende manier om computational thinking te oefenen.",
     "crumbs": [
       "Over deze module",
-      "🚀 Vibecoding"
+      "▪️ Vibecoding"
     ]
   },
   {
@@ -2166,7 +2166,7 @@
     "text": "Wegwerpapplicaties zijn niet duurzaam\n Het is een mooi bezwaar tegen wegwerpapplicaties. Maar het is niet het hele verhaal. Een wegwerpapplicatie wordt zo genoemd omdat je er geen onderhoud aan pleegt. Traditioneel zijn applicaties zaken die veel ontwikkeltijd gekost hebben en waar dus ook veel monetaire waarden aan hangen. Dat is niet het geval voor een wegwerpapplicatie. Dat betekent dus dat die in de productie wint van de traditionele applicatie. Natuurlijk, als je géén applicatie nodig hebt en niet bouwt, dan is dat het meest duurzaam. Maar een app bouwen, hosten en dan jarenlang onderhouden, kost uiteindelijk veel meer energie en grondstoffen dan een wegwerpapplicatie. En dat is de vergelijking die je moet maken. Dus als je dan toch een jaarlijkse digitale schoonmaak organiseert binnen je school, kun je ook meteen de wegwerpapplicaties die je het laatste halfjaar niet meer gebruikt hebt, opruimen.",
     "crumbs": [
       "Over deze module",
-      "🚀 Vibecoding"
+      "▪️ Vibecoding"
     ]
   },
   {
@@ -2177,8 +2177,8 @@
     "text": "Antigravity is de AI-assistent van het Google DeepMind-team, geoptimaliseerd voor geavanceerde coderingstaken. Het is de assistent waarmee ook delen van deze module zijn gemaakt, inclusief het schrijven van deze pagina.\nNou klinkt dat wellicht spannender dan dat het is. Het komt voor een groot deel omdat Quarto ook vanuit Anitgravity te gebruiken is en Antigravity zelf een ‘fork’ (kopie) is van VS Code. Dat maakt het een practische omgeving om met de bestanden van de module te werken in combinatie met een AI-assistent. Die ook weet wat hij moet doen als je gewoon zegt “verzamel alle nieuwe en gewijzigde bestanden en update de git-repository” of als je vraagt om een screenshot te maken van de huidige pagina, die op te slaan in de mediamap en in de pagina in te voegen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Antigravity"
     ]
   },
@@ -2190,8 +2190,8 @@
     "text": "Zelf proberen?\nHet concept van een zo’n agentische AI-codeerassistent is beschikbaar in meerdere vormen, zo is er Claude Code, GitHub Copilot, Gemini CLI (sorry, niet van alle tools is een subpagina beschikbaar in de module). Wil je zelf experimenteren met vibecoden maar het technisch eenvoudiger houden? Probeer dan Google AI Studio voor een eerste kennismaking met vibecoding (een website bouwen met instructies in gewone taal, zonder een regel code te schrijven).",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Antigravity"
     ]
   },
@@ -2203,8 +2203,8 @@
     "text": "chatgpt screenshot\nChatGPT van OpenAI is de tool die het grote publiek kennis liet maken met generatieve AI. Eind 2022 verscheen het als gratis dienst en binnen twee maanden had het 100 miljoen gebruikers — sneller dan welke andere consumentendienst in de geschiedenis.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "ChatGPT"
     ]
   },
@@ -2216,8 +2216,8 @@
     "text": "Van tekst naar alles\nChatGPT begon als een tekstchatbot, maar is inmiddels een compleet platform geworden waarmee je teksten kunt schrijven, samenvatten, editten, vertalen, code kunt schrijven en debuggen in vrijwel elke programmeertaal, beelden kunt (laten) analyseren, beelden kunt (laten) genereren, spraak kunt genereren en beluisteren. Je kunt projecten aanmaken, zelf geconfigureerde versies van ChatGPT met specifieke instructies maken, externe tools en kennis koppelen. Uiteraard is er een API om met programma’s tegenaan te praten. En je kunt een versie gebruiken via de commandline.\nOpenAI brengt regelmatig nieuwe modellen uit, elk model is uiteraard nóg beter dan het vorige. Raadpleeg de OpenAI-modellenpagina voor de actuele stand van zaken.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "ChatGPT"
     ]
   },
@@ -2229,8 +2229,8 @@
     "text": "Gratis versus betaald\nDe gratis versie levert je een deel van de mogelijkheden. De betaalde ChatGPT Plus geeft toegang tot alle modellen en heeft hogere limieten.\nEen volledige lijst maken van toepassingen basis van ChatGPT is ondoenlijk — de wereld van ChatGPT-toepassingen verandert wekelijks. Een goede startplek: zoek op Google naar top ChatGPT examples.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "ChatGPT"
     ]
   },
@@ -2242,8 +2242,8 @@
     "text": "Grenzen aan ChatGPT\n▶Klik om video te startenBekijk op YouTube\nFatherPhi is een YouTube-kanaal dat ChatGPT en andere chatbots “test” aan de hand van vaak grappige voorbeelden en scenario’s.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "ChatGPT"
     ]
   },
@@ -2255,8 +2255,8 @@
     "text": "claude-code screenshot\nClaude Code is de AI-assistent van Anthropic die je kunt aanspreken vanuit de terminal (de opdrachtregel van je computer). In tegenstelling tot Claude.ai, waar je een gesprek voert in een webbrowser, werkt Claude Code direct met de bestanden op je computer. Dit maakt het tot een krachtig hulpmiddel voor iedereen die websites, scripts of programma’s willen bouwen zonder uitgebreide programmeerkennis, maar ook voor mensen die AI willen gebruiken om handelingen uit te voeren zoals het maken van video’s (en dan echte bestanden, niet in de browser), het beantwoorden van e-mails, het maken van documenten, etc.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Claude Code"
     ]
   },
@@ -2265,11 +2265,11 @@
     "href": "voorbeelden/claude-code.html#voor-wie",
     "title": "Claude Code",
     "section": "Voor wie?",
-    "text": "Voor wie?\nClaude Code is primair bedoeld voor ontwikkelaars en meer technisch onderlegde gebruikers. Op Youtube kun je een constante stroom aan video’s vinden van mensen die uitleggen waar zij Claude Code voor inzetten. De leercurve is wat steiler dan andere toepassingen, maar het is op dit moment dé applicatie voor wie hip wil zijn. Voor een iets laagdrempeligere variant van vibecoding, zie ook Google AI Studio of Antigravity.\nEn anders, hier is een 10 uur durende tutorial die je op weg helpt om expert te worden:\n▶Klik om video te startenBekijk op YouTube\n\n\n\n\n\n\nOpmerkingMoeten docenten dit leren?\n\n\n\nDat is een interessante vraag. Enerzijds is het goed om te weten wat er mogelijk is, anderzijds is het niet direct relevant voor iedereen. Het hangt sowieso af van je rol en interesses. Er zijn voorbeelden van bedrijven waar tools als Claude Code officieel beschikbaar zijn gesteld voor medewerkers. Die medewerkers zullen in staat zijn om veel van de taken die zij anders handmatig uitvoeren te automatiseren. In een onderwijsomgeving zou je kunnen denken aan het automatiseren van het maken van toetsen, het nakijken van werk, het genereren van lesmateriaal, etc. Maar dat kan alleen als de onderwijsorganisatie ook de benodigde gebruiksafspraken maakt met Anthropic.",
+    "text": "Voor wie?\nClaude Code is primair bedoeld voor ontwikkelaars en meer technisch onderlegde gebruikers. Op Youtube kun je een constante stroom aan video’s vinden van mensen die uitleggen waar zij Claude Code voor inzetten. De leercurve is wat steiler dan andere toepassingen, maar het is op dit moment dé applicatie voor wie hip wil zijn. Voor een iets laagdrempeligere variant van vibecoding, zie ook Google AI Studio of Antigravity.\nEn anders, hier is een 10 uur durende tutorial die je op weg helpt om expert te worden:\n▶Klik om video te startenBekijk op YouTube\nDeze is wat korter en ook heel leerzaam:\n▶Klik om video te startenBekijk op YouTube\n\n\n\n\n\n\nOpmerkingMoeten docenten dit leren?\n\n\n\nDat is een interessante vraag. Enerzijds is het goed om te weten wat er mogelijk is, anderzijds is het niet direct relevant voor iedereen. Het hangt sowieso af van je rol en interesses. Er zijn voorbeelden van bedrijven waar tools als Claude Code officieel beschikbaar zijn gesteld voor medewerkers. Die medewerkers zullen in staat zijn om veel van de taken die zij anders handmatig uitvoeren te automatiseren. In een onderwijsomgeving zou je kunnen denken aan het automatiseren van het maken van toetsen, het nakijken van werk, het genereren van lesmateriaal, etc. Maar dat kan alleen als de onderwijsorganisatie ook de benodigde gebruiksafspraken maakt met Anthropic.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Claude Code"
     ]
   },
@@ -2278,11 +2278,11 @@
     "href": "voorbeelden/claude-code.html#prijs",
     "title": "Claude Code",
     "section": "Prijs",
-    "text": "Prijs\nClaude Code werkt via de Anthropic API en is op verbruik geprijsd (per token) of via een abonnement. Er is geen gratis versie beschikbaar.",
+    "text": "Prijs\nClaude Code werkt via de Anthropic API en is op verbruik geprijsd (per token) of via een abonnement. Voor ‘gewone’ gebruikers is de versie via abonnement aan te raden omdat je dat weliswaar mogelijk tegen gebruiksgrensen aanloopt, maar je in ieder geval zeker weet hoeveel je per maand betaald.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "Claude Code"
     ]
   },
@@ -2294,8 +2294,8 @@
     "text": "deepl screenshot\nDeepL is een AI-vertaaldienst die door taalwetenschappers en vertalers hoog gewaardeerd wordt. Een betere variant op Google Translate. DeepL is ontwikkeld in Keulen en gebruikt een neuraal netwerk dat is getraind op professionele vertalingen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Schrijven",
+      "▪️ Voorbeelden van AI",
+      "▪️Schrijven",
       "DeepL"
     ]
   },
@@ -2307,8 +2307,8 @@
     "text": "Wat kun je ermee?\nJe kunt er teksten mee vertalen in de browser, documenten (Word, PDF, PowerPoint) mee vertalen (met behoud van de opmaak) en je kunt er teksten mee laten herschrijven waarbij de AI suggesties doet voor stijl, woordkeuze en grmmatica in het Engels of het Duits.\nDe gratis versie is voor incidenteel gebruik vaak ruim voldoende.\n\n\n\n\n\n\nOpmerkingKanttekening\n\n\n\nDeepL is betrouwbaar voor standaard Europese talen, maar minder sterk in minder courante talen. Voor Arabisch, Chinees of Swahili zijn andere tools beter. Controleer altijd vertalingen van gevoelige of formele documenten.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Schrijven",
+      "▪️ Voorbeelden van AI",
+      "▪️Schrijven",
       "DeepL"
     ]
   },
@@ -2320,8 +2320,8 @@
     "text": "gamma screenshot\nGamma is een webgebaseerde presentatietool waarbij je vanuit een tekstprompt of bestaande tekst in enkele minuten een volledige, visueel aantrekkelijke presentatie, document of webpagina genereert. Het resultaat is direct bewerkenbaar en deelbaar via een link. Eigenlijk dus wat je met NotebookLM ook kunt, maar dan met een wat ander startpunt.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Gamma.app"
     ]
   },
@@ -2333,8 +2333,8 @@
     "text": "Hoe werkt het?\n\nBeschrijf je onderwerp (of plak een tekst)\nKies een stijl en kleurenpalet\nGamma genereert een volledige presentatie met titels, bullet points, afbeeldingen en opmaak\nPas individuele slides aan via een eenvoudige editor\n\nGamma maakt gebruik van AI voor zowel de tekst als de beeldkeuze. Je kunt ook afbeeldingen laten genereren met Nano Banana via Gamma’s ingebouwde beeldgenerator. Belangrijk verschil met NotebookLM is dat je bij Gamma eerst een tekstueel overzicht krijgt en dan pas de presentatie. Bij NotebookLM krijg je direct een presentatie met de mogelijkheid om daarna dia’s aan te passen.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Gamma.app"
     ]
   },
@@ -2346,8 +2346,8 @@
     "text": "Gratis of betaald\nDe gratis versie volstaat voor af en toe een presentatie genereren. Je presentaties krijgen dan wel een “Made with Gamma” badge (die eenvoudig te verwijderen is bij export naar PowerPoint). Een belangrijk ander verschil met NotebookLM is dat de dia’s die je dan krijgt in PowerPoint écht tekst en objecten bevatten die je kunt bewerken. Bij NotebookLM is de export naar PowerPoint nog heel nieuw en beperkter omdat elke dia uit één complete afbeelding bestaat.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Presentaties",
+      "▪️ Voorbeelden van AI",
+      "▪️Presentaties",
       "Gamma.app"
     ]
   },
@@ -2359,8 +2359,8 @@
     "text": "gpt-nl website\nGPT-NL is een publiek gefinancierd initiatief (13,5 miljoen euro via RVO/EZK) om een eigen, transparant ecosysteem voor Nederland te creëren.\nGPT-NL onderscheidt zich van commerciële modellen door een focus op de Nederlandse taal en cultuur:",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "GPT-NL"
     ]
   },
@@ -2372,8 +2372,8 @@
     "text": "Verschil met andere tools\nIn tegenstelling tot veel ‘black box’ modellen, maakt GPT-NL de onderliggende techniek inzichtelijk (dat is het doel tenminste). Het is eenvoudig om te denken “waarom doen we zo veel moeite als ik toch ook gewoon de bestaande commerciële modellen kan gebruiken?”. Recente ontwikkelingen hebben duidelijk gemaakt dat het voor Europa en Nederland belangrijk is om een eigen AI-ecosysteem te hebben. Anders zijn we afhankelijk van buitenlandse partijen die op hun beurt weer onderdeel zijn van het politieke systeem van hun land. AI valt dan in dezelfde categorie als bijvoorbeeld energie en defensie. Daarnaast zit er een meer ideologische kant achter: wat vind je een eerlijk systeem als het gaat om het gebruik van data van anderen voor het trainen van AI-modellen?\nUitdaging hierbij is dat Nederland eigenlijk al heel erg laat is begonnen met het ontwikkelen van eigen AI-modellen. De VS en China zijn al veel verder, steken er veel meer geld in en hebben modellen die nu vandaag al meteen commercieel bruikbaar zijn. Het is dus de vraag of dit model kan concurreren met die andere modellen.\nOp dit moment (voorjaar 2026) kun je GPT-NL nog niet zelf testen. Meer informatie vind je op de website van GPT-NL.\n\n\n\n\n\n\nOpmerkingHoe open wil je het hebben?\n\n\n\nGPT-NL heeft zich heel expliciet als doel getsteld om transparant te zijn over de keuzes die gemaakt worden in het trainen van de modellen. Naast modellen zoals ChatGPT en Claude waarvan je niet weet hoe ze getraind zijn en op welke data, zijn er ook (commerciële) modellen die je zelf, lokaal kunt draaien. Dat vergt dan wel stevige hardware en op dit moment zijn de resultaten niet altijd zo goed als de antwoorden die je van de online commerciële modellen krijgt. Een voorbeeld van zo’n model dat je lokaal kunt draaien is Whisper van OpenAI waarmee je spraak kunt omzetten in tekst. Dit model is heel specifiek getraind voor die ene taak en doet dat heel goed. En omdat het niet zo’n heel groot model is, kun je het ook op een laptop draaien. Het voordeel van lokaal draaien van zo’n model is dat het audiobestand (spraak is een persoonsgegeven!) niet naar een externe server hoeft.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Chatten",
+      "▪️ Voorbeelden van AI",
+      "▪️Chatten",
       "GPT-NL"
     ]
   },
@@ -2385,8 +2385,8 @@
     "text": "heygen screenshot\nHeyGen is een betaalde dienst waarmee je video’s kunt laten vertalen en nasynchroniseren met behulp van AI. In de onderstaande demo spreekt de Engelse presentator Jon Finger vanaf 11:54 minuten opeens vloeiend Nederlands:\nDe video hierboven (uit 2024) demonstreert de automatische vertaling naar 14 talen (vergelijkbaar met mijnvoorbeeld bij ElevenLabs ):\nDe video hierboven werd (maart 2026) gegenereerd op basis van de volgende prompt:\nDaarna vroeg ik of het ook in het Nederlands kon:\nDe site besloot toen zelf om de foto’s op de website in de video te verwerken. De stem is overigens wel weer dat wat metalig klinkend Nederlands dat je ook bij veel andere AI-stemmen hoort.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "HeyGen"
     ]
   },
@@ -2398,8 +2398,8 @@
     "text": "Mogelijkheden\nOok Heygen heeft niet maar één functie. Je kunt foto’s en scripts gebruiken om video’s te maken, je kunt lange video’s samen laten vatten. Je kunt “product placement” video’s maken door een foto van een product te uploaden en in een video te laten plaatsen. Je kunt een videopodcast laten maken op basis van een pdf of een website, je afbeeldingen genereren of gezichten van mensen vervangen (face swap). Met de gratis versie kun je 3 video’s van maximaal 3 minuten per maand maken. Dat is genoeg om een idee te krijgen van de mogelijkheden.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "HeyGen"
     ]
   },
@@ -2411,8 +2411,8 @@
     "text": "De podcast optie\nNóg eentje dan, bepaal zelf maar hoe vreselijk of je het resultaat vindt:\n▶Klik om video te startenBekijk op YouTube\nDe enige input die Heygen hier gekregen heeft was de URL van de MOVEL pagina bij de HAN. Geen prompt, geen instructies. Wel heb ik 2 van de standaard avatars gekozen, maar dat was het dan ook. De rest is volledig automatisch gegaan.\n\n\n\n\n\n\nOpmerkingStartpunt voor ethische discussie?\n\n\n\nFuncitonaliteiten als face swap, product placement en stemkloning roepen direct ethische vragen op. Dat gesprek zou je ook in de klas kunnen voeren.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "HeyGen"
     ]
   },
@@ -2424,8 +2424,8 @@
     "text": "invideo-ai screenshot\n\n\nInvideo AI is een online dienst waarmee je met een tekstprompt een complete video met voice-over kunt genereren. Je geeft aan wat het onderwerp is, voor welk publiek de video bedoeld is en hoe lang hij moet zijn, de rest doet de AI. Je bent nie tbeperkt tot één of een paar modellen, je hebt een groot aantal verschillende modellen voor video, afbeeldingen, audio en muziek ter beschikking, onder andere Veo 3.1, Kling, Nano Banana 2 en stemmodellen van ElevenLabs. Je kunt ook gebruik maken van stockbeelden die niet door AI zijn gegenereerd of je eigen media uploaden.\n\nDe video hieronder laat zien wat de mogelijkheden waren begin 2026.\n▶Klik om video te startenBekijk op YouTube\nEr is een gratis optie beschikbaar met beperkt aantal exports per maand. Voor hogere kwaliteit en meer functionaliteit zijn betaalde abonnementen beschikbaar.\n\nMet de stockafbeeldingen optie krijg je weliswaar een resultaat, maar niet echt een video die ik in een les zou willen gebruiken.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Invideo AI"
     ]
   },
@@ -2437,8 +2437,8 @@
     "text": "magic-eraser screenshot\n\n\nMagic Eraser is een gratis website waarmee je eenvoudig objecten uit een foto kunt verwijderen met behulp van AI. Je streept globaal het te verwijderen object aan, de AI herkent het object en verwijdert het — de lege plek wordt automatisch ingevuld met een passende achtergrond.\n\n\n\nMagic Eraser demo\n\n\n\n\n\n\n\n\nOpmerkingStartpunt voor ethische discussie?\n\n\n\nMagic Eraser illustreert perfect hoe eenvoudig het is om foto’s te manipuleren — zonder enige technische kennis. Dit is een uitstekend startpunt voor discussies over de betrouwbaarheid van beeldmateriaal in het nieuws, op sociale media en in de rechtszaal.\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Afbeeldingen",
+      "▪️ Voorbeelden van AI",
+      "▪️Afbeeldingen",
       "Magic Eraser"
     ]
   },
@@ -2450,8 +2450,8 @@
     "text": "nano-banana screenshot\n\n\nNano Banana is Google’s AI-beeldgenerator, beschikbaar als onderdeel van Gemini en ook in gebruik binnen NotebookLM. De naam klinkt misschien speels, maar de mogelijkheden zijn serieus. Bij OpenAI schrokken ze er in ieder geval van toen het voor het eerst beschikbaar kwam. Nano Banana was in staat om goed tekst in afbeeldingen te genereren, heel belangrijk voor het kunnen maken van infographics binnen NotebookLM. En het was ook goed in het op basis van een prompt aanpassen van bestaande afbeeldingen zonder de rest van de afbeelding aan te passen. Nano Banana 2 is beschikbaar in de gratis versie van Gemini, maar met beperkte aantallen generaties per dag. Google AI Pro geeft toegang tot meer en hogere kwaliteit gegenereerde afbeeldingen. Alle door Nano Banana 2 gegenereerde afbeeldingen bevatten een onzichtbaar digitaal watermerk (SynthID van Google DeepMind), zodat de AI-oorsprong later te traceren is.\n\n\n\n\n\n\nOpmerkingBescherming voor bekende mensen?\n\n\n\nNano Banana in Gemini is soms heel streng. Foto’s bewerken van bekende personen wordt niet toegestaan. Een eigen foto aanpassen wordt meestal wel toegestaan.\n\n\n\n\n\n\n\n\nPierre als astronaut\n\n\n\n\n\n\n\nGeen Scarlet als astronaut\n\n\n\n\n\n\n\n\n\n\n\nWaarschuwingLet op!\n\n\n\nVoor de duidelijkheid: dat ik een afbeelding van mezelf gebruik als voorbeeld betekent niet dat het okay is om zomaar foto’s van mij of andere mensen te bewerken. De AVG vindt iets van deepfakes. Afhankelijk van de soort deepfake kan het strafbaar zijn omdat het smaad of laster kan zijn. Het is een issue dat binnen scholen zeker besproken moet worden.\n\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Afbeeldingen",
+      "▪️ Voorbeelden van AI",
+      "▪️Afbeeldingen",
       "Nano Banana 2"
     ]
   },
@@ -2463,8 +2463,8 @@
     "text": "notebooklm screenshot\n\n\nGoogle NotebookLM is zo’n pareltje van Google dat ze zelf waarschijnlijk ook niet voorzien hadden. Het concept is simpel: je upload een aantal bronnen (pdf’s bijvoorbeeld) vult dat aan met online bronnen (video’s, websites etc) die het taalmodel voor je kan zoeken op basis van een prompt. Dat geheel van bronnen vormt dan de kennisbasis waar je vragen over kunt stellen, een podcast kunt laten genereren, een video-overzicht, infographics, mindemap, flashcards, rapporten, quizzes, gegevenstabellen, diapresentaties. De lijst is bijna te lang om op te noemen en wekelijks lijken er per onderdeel wel functionaliteiten bij te komen.\n\nHet mooie is dat je een hele verzameling bronnen bij elkaar kunt bewaren en daar dan vragen over kunt stellen. Je kunt het notebook tegenwoordig ook als bron gebruiken in Gemini.\n\nIn dit specifieke geval ben ik het overigens niet helemaal met de analyse eens, maar dat is een ander verhaal. Het gaat om het idee.\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Onderzoek",
+      "▪️ Voorbeelden van AI",
+      "▪️Onderzoek",
       "NotebookLM"
     ]
   },
@@ -2476,8 +2476,8 @@
     "text": "Wat is OpenClaw?\nOpenClaw is een gratis, opensource, zelfgehoste autonome AI-agent (voorheen Clawdbot/Moltbot) ontwikkeld door Peter Steinberger, die taken uitvoert via grote taalmodellen (LLM’s). Het fungeert als een persoonlijke assistent die via chat-apps zoals WhatsApp en Telegram e-mails beheert, agenda’s bijhoudt en acties op je computer uitvoert. Het project zag het daglicht in de loop van 2025 onder de naam Clawdbot. Maar omdat Anthropic een product had met een vergelijkbare naam, werd de naam al snel veranderd in eerst Moltbot en daarna in OpenClaw. Begin 2026 ging het project viraal en begonnen mensen massaal hun eigen agent te hosten. Tegelijkertijd kwamen er ook wel de nodige berichten over beveiligingsrisico’s. Ook kwamen er de nodige varianten op het project die vergelijkbare functionaliteiten boden, maar compacter of veiliger waren.\nUitgebreide uitleg over OpenClaw:\n▶Klik om video te startenBekijk op YouTube en ook Moltbook: ▶Klik om video te startenBekijk op YouTube\nMoraal van dit verhaal (van deze video’s): niet té serieus nemen allemaal. Zie ook deze blogpost over OpenClaw en Moltbook van begin 2026.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "OpenClaw"
     ]
   },
@@ -2489,8 +2489,8 @@
     "text": "Goed idee?\nKorte antwoord: nee.\nLange antwoord: als je toe bent aan het experimenteren met OpenClaw, dan is deze module waarschijnlijk veel te simpel voor je of was je niet echt de doelgroep. Maar, het is wel een voorbeeld van waar het naartoe kan gaan met AI-assistenten. Zie ook de inleiding over AI in het onderwijs. Het is interssant als onderdeel van de discussie over hoeveel controle we uit handen willen geven, hoe autonoom we AI voor ons aan de slag willen, durven, moeten laten gaan. In het onderwijs zou een conclusie voor nu in ieder geval zijn: te wild en te spannend. Tenzij je een echt beschermde omgeving creëert. Maar dus zeker niet op de laptop van de docent, in het schoolnetwerk, met toegang tot data van studenten.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Technisch",
+      "▪️ Voorbeelden van AI",
+      "▪️Technisch",
       "OpenClaw"
     ]
   },
@@ -2502,8 +2502,8 @@
     "text": "runway-ml screenshot\n\n\nRunway is een AI-platform voor creatieve videoproductie. Ook hier weer het setje functionaliteiten die je ook bij andere tools tegenkomt, maar dan net weer anders: tekst naar video, foto naar video, video naar video, verwijderen van objecten uit video, achtergronden verwijderen, lip sync, etc.\nEr is een betaalde versie, maar je kunt de tool ook gratis uitproberen. Alternatieven die hier in de cursus ook voorbij komen zijn Veo 3.1, Kling AI en HeyGen.\n\n\n\n\n Terug naar boven",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Runway ML"
     ]
   },
@@ -2515,8 +2515,8 @@
     "text": "synthesia screenshot\nSynthesia is een platform voor het maken van professionele video’s met AI-avatars, zonder camera, microfoon of videoprogramma. Je typt een script, kiest een avatar, en Synthesia genereert een video van een realistisch uitziende presentator die jouw tekst voordraagt.\nSynthesia richt zich primair op bedrijfs- en onderwijsvideo’s: trainingsvideo’s, instructiemateriaal, onboarding, communicatie-updates. Dat komt ook terug in de prijsstelling. Synthesia biedt een gratis plan met 3 minuten video per maand, beperkte avatarselectie, watermerk op de video. Zowel Synthesia als HeyGen genereren avatar-video’.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Synthesia"
     ]
   },
@@ -2528,8 +2528,8 @@
     "text": "Pionieren\nDe twee onderstaande video’s zijn van december 2022. In de tijd dus dat ChatGPT net beschikbaar was en niet meer kon dan alleen tekst. Toen kon je dit dus al met Synthesia (en een beetje creativiteit) voor elkaar krijgen. ▶Klik om video te startenBekijk op YouTube\nDeze video is overigens niet met Synthesia gemaakt, maar met Adobe Character Animator. ▶Klik om video te startenBekijk op YouTube",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Synthesia"
     ]
   },
@@ -2541,8 +2541,8 @@
     "text": "Een verzameling websites met elk één doel: het genereren van een niet-bestaande afbeelding van een persoon, kunstwerk, kat, paard of chemische verbinding. Ze illustreren op een toegankelijke manier hoe GAN-modellen (Generative Adversarial Networks) werken.\nHierboven zie je een gezicht gegenereerd door thispersondoesnotexist.com. De persoon op deze foto bestaat niet. Elke keer dat je de pagina herlaadt (niet de pagina die je nu aan het lezen bent, maar de website waar de foto vandaan komt), zie je een nieuw, volledig gefabriceerd portret.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Afbeeldingen",
+      "▪️ Voorbeelden van AI",
+      "▪️Afbeeldingen",
       "This [..] Does Not Exist"
     ]
   },
@@ -2554,8 +2554,8 @@
     "text": "Hoe werkt het? — GAN uitgelegd\nDeze sites maken gebruik van een GAN (Generative Adversarial Network, in het Nederlands: generatief antagonistennetwerk). Een GAN bestaat uit twee neurale netwerken die elkaar beconcurreren:\n\nDe generator maakt nep-afbeeldingen\nDe discriminator probeert echte van neppe afbeeldingen te onderscheiden\n\nDoor dit spel van bedriegen en ontmaskeren worden beide netwerken steeds beter — tot de generator afbeeldingen maakt die niet meer van echt te onderscheiden zijn.\nUitleg over hoe het werkt: ▶Klik om video te startenBekijk op YouTube ▶Klik om video te startenBekijk op YouTube ▶Klik om video te startenBekijk op YouTube",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Afbeeldingen",
+      "▪️ Voorbeelden van AI",
+      "▪️Afbeeldingen",
       "This [..] Does Not Exist"
     ]
   },
@@ -2567,8 +2567,8 @@
     "text": "wav2lip screenshot\nWav2Lip is een vroeg (2020) maar invloedrijk onderzoeksproject van het IIIT Hyderabad dat aantoonde dat je een foto of video van een persoon kunt laten “spreken” op basis van een audio-opname. De lipsynchronisatie is niet perfect, maar was voor zijn tijd ronduit indrukwekkend.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Wav2Lip"
     ]
   },
@@ -2580,8 +2580,8 @@
     "text": "Hoe werkt het?\nWav2Lip combineert drie zaken: 1. Een afbeelding of video van een gezicht 2. Een audio-opname van de gewenste spraak 3. Een neuraal netwerk dat de lippen in de video aanpast aan het audiobestand\nHet resultaat is een deepfake-video waarbij het lijkt alsof de persoon op de foto spreekt.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Wav2Lip"
     ]
   },
@@ -2593,8 +2593,8 @@
     "text": "Demonstratie\nHieronder een demonstratie van het principe:\n▶Klik om video te startenBekijk op YouTube\nEen voorbeeld van het resultaat: een Hamlet-monoloog gezongen door een historische afbeelding, gemaakt via Google Colab:\n▶Klik om video te startenBekijk op YouTube\nDe volledige video:\n▶Klik om video te startenBekijk op YouTube",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Wav2Lip"
     ]
   },
@@ -2606,8 +2606,8 @@
     "text": "Context\nWav2Lip was toonaangevend in 2020, maar de technologie is sindsdien dramatisch verbeterd. Diensten zoals HeyGen en ElevenLabs bieden tegenwoordig vergelijkbare (en veel betere) resultaten met een gebruiksvriendelijke interface.\nWav2Lip is echter historisch interessant als vroeg voorbeeld van hoe open onderzoek deepfaketechnologie democratiseerde. De code staat nog steeds op GitHub.",
     "crumbs": [
       "Over deze module",
-      "🛠️ Voorbeelden van AI",
-      "Video",
+      "▪️ Voorbeelden van AI",
+      "▪️Video",
       "Wav2Lip"
     ]
   }
