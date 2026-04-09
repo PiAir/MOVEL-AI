@@ -40,10 +40,10 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: "🏠 Home"
+        text: "▪️ Home"
       - href: start-hier/index.qmd
         text: "🎯 Start hier"
-      - section: "📖 Inleiding"
+      - section: "▪️ Inleiding"
         href: inleiding/index.qmd
         contents:
           - href: inleiding/wat-is-ai.qmd         
@@ -52,7 +52,7 @@ website:
             text: "Overzichtsvideo"
           - href: inleiding/ai-overheid.qmd
             text: "AI bij de overheid"
-      - section: "🧠 AI-geletterdheid"
+      - section: "▪️ AI-geletterdheid"
         href: ai-geletterdheid/index.qmd
         contents:
           - href: ai-geletterdheid/docentcompetenties.qmd
@@ -63,10 +63,10 @@ website:
             text: "Competenties leidinggevenden"
           - href: ai-geletterdheid/experimenteren.qmd
             text: "Experimenteren en professionaliseren"
-      - section: "🛠️ Voorbeelden van AI"
+      - section: "▪️ Voorbeelden van AI"
         href: voorbeelden/index.qmd
         contents:
-          - section: "Chatten"
+          - section: "▪️Chatten"
             contents:
               - href: voorbeelden/chatgpt.qmd
                 text: "ChatGPT"
@@ -78,13 +78,13 @@ website:
                 text: "Copilot"
               - href: voorbeelden/gpt-nl.qmd
                 text: "GPT-NL"
-          - section: "Schrijven"
+          - section: "▪️Schrijven"
             contents:
               - href: voorbeelden/deepl.qmd
                 text: "DeepL"
               - href: voorbeelden/grammarly.qmd
                 text: "Grammarly"
-          - section: "Presentaties"
+          - section: "▪️Presentaties"
             contents:
               - href: voorbeelden/gamma.qmd
                 text: "Gamma.app"
@@ -92,7 +92,7 @@ website:
                 text: "Canva AI"
               - href: voorbeelden/napkin-ai.qmd
                 text: "Napkin AI"
-          - section: "Afbeeldingen"
+          - section: "▪️Afbeeldingen"
             contents:
               - href: voorbeelden/nano-banana.qmd
                 text: "Nano Banana 2"
@@ -102,7 +102,7 @@ website:
                 text: "This [..] Does Not Exist"
               - href: voorbeelden/magic-eraser.qmd
                 text: "Magic Eraser"
-          - section: "Audio"
+          - section: "▪️Audio"
             contents:
               - href: voorbeelden/elevenlabs.qmd
                 text: "Elevenlabs"
@@ -110,7 +110,7 @@ website:
                 text: "Whisper"
               - href: voorbeelden/suno.qmd
                 text: "Suno"
-          - section: "Video"
+          - section: "▪️Video"
             contents:
               - href: voorbeelden/veo.qmd
                 text: "Gemini Veo 3.1"
@@ -124,13 +124,13 @@ website:
                 text: "Synthesia"
               - href: voorbeelden/wav2lip.qmd
                 text: "Wav2Lip"
-          - section: "Onderzoek"
+          - section: "▪️Onderzoek"
             contents:
               - href: voorbeelden/notebooklm.qmd
                 text: "NotebookLM"
               - href: voorbeelden/perplexity.qmd
                 text: "Perplexity AI"
-          - section: "Technisch"
+          - section: "▪️Technisch"
             contents:
               - href: voorbeelden/ai-studio.qmd
                 text: "AI-Studio"
@@ -142,7 +142,7 @@ website:
                 text: "Antigravity"
               - href: voorbeelden/openclaw.qmd
                 text: "OpenClaw"
-      - section: "🏫 AI in het onderwijs"
+      - section: "▪️ AI in het onderwijs"
         href: ai-in-het-onderwijs/index.qmd
         contents:
           - href: ai-in-het-onderwijs/spinnenweb.qmd
@@ -151,7 +151,7 @@ website:
             text: "AI en toetsing"
           - href: ai-in-het-onderwijs/herontwerp.qmd
             text: "AI en herontwerp"
-          - section: "Tools & Praktijk"
+          - section: "▪️Tools & Praktijk"
             contents:
               - href: ai-in-het-onderwijs/tools/china-voorbeeld.qmd
                 text: "China - een voorbeeld?"
@@ -165,7 +165,7 @@ website:
                 text: "MagicSchool AI"
               - href: ai-in-het-onderwijs/tools/snappet-copilot.qmd
                 text: "Snappet Copilot"
-          - section: "Organisaties"
+          - section: "▪️Organisaties"
             contents:
               - href: ai-in-het-onderwijs/organisaties/nolai.qmd
                 text: "NOLAI"
@@ -176,8 +176,8 @@ website:
               - href: ai-in-het-onderwijs/organisaties/ai-teach.qmd
                 text: "AI-Teach"
       - href: literatuur/index.qmd
-        text: "📚 Literatuur"
-      - section: "🤖 De mens en AI"
+        text: "▪️ Literatuur"
+      - section: "▪️ De mens en AI"
         href: de-mens-en-ai/index.qmd
         contents:
           - href: de-mens-en-ai/mens-en-technologie.qmd
@@ -195,11 +195,11 @@ website:
           - href: de-mens-en-ai/responsible-ai.qmd
             text: "Responsible AI"
       - href: ai-in-de-film/index.qmd
-        text: "🍿 AI in de film"
+        text: "▪️ AI in de film"
       - href: vibecoding/index.qmd
-        text: "🚀 Vibecoding"
+        text: "▪️ Vibecoding"
       - href: toets-jezelf.qmd
-        text: "🎓 Test Jezelf!"
+        text: "▪️ Test Jezelf!"
 
 lang: nl
 

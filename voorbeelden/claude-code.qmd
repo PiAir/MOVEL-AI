@@ -17,6 +17,10 @@ En anders, hier is een 10 uur durende tutorial die je op weg helpt om expert te 
 
 {{< private-video mpALXah_PBg >}}
 
+Deze is wat korter en ook heel leerzaam:
+
+{{< private-video Q0bsphUTLtw >}}
+
 ::: {.callout-note}
 ## Moeten docenten dit leren?
 
@@ -27,4 +31,4 @@ Maar dat kan alleen als de onderwijsorganisatie ook de benodigde gebruiksafsprak
 
 ## Prijs
 
-Claude Code werkt via de Anthropic API en is op verbruik geprijsd (per token) of via een abonnement. Er is geen gratis versie beschikbaar.
+Claude Code werkt via de Anthropic API en is op verbruik geprijsd (per token) of via een abonnement. Voor 'gewone' gebruikers is de versie via abonnement aan te raden omdat je dat weliswaar mogelijk tegen gebruiksgrensen aanloopt, maar je in ieder geval zeker weet hoeveel je per maand betaald. 
