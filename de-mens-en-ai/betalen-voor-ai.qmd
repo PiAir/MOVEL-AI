@@ -29,6 +29,12 @@ De hardware om al die miljoenen vragen van gebruikers snel af te handelen, dat i
 
 :::
 
+### Open source AI-modellen
+
+Een alternatief voor betalen (met geld of met je data) zijn open source modellen die je zelf kunt draaien. Wat zijn het, waarom is het handig, en vanaf wanneer werkt het goed genoeg?
+
+{{< private-video ctRtaVq7iB4 >}}
+
 ### Duurzaam gebruik van AI
 Het trainen en gebruiken van AI heeft ook een effect op onze omgeving (energieverbruik, waterkoeling van datacenters). Hoewel partijen zoals OpenAI en ABN AMRO spreken over "Groene AI voor duurzaamheid", is AI geen eenvoudige oplossing voor klimaatuitdagingen zonder zelf impact te hebben.
 

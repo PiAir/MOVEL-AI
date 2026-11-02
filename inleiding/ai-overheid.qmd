@@ -7,7 +7,7 @@ sidebar: id-inleiding
 Niet alleen het onderwijs maakt gebruik van AI. Ook de overheid experimenteert met de mogelijkheden van AI. TNO publiceert regelmatig over het gebruik van kunstmatige intelligentie binnen de publieke dienstverlening. 
 
 ### Quickscan 2024
-TNO publiceerde in 2024 [de derde editie van een Quickscan](https://www.tno.nl/nl/nieuws/2024/06/quickscan-kunstmatige-intelligentie-publieke-dienstverlening-2024/) over het gebruik van kunstmatige intelligentie binnen de publieke dienstverlening. In die editie vind je voorbeelden zoals:
+TNO publiceerde in 2024 [de derde editie van een Quickscan](https://publications.tno.nl/publication/34642601/SASNc3ZW/TNO-2024-R11005.pdf) over het gebruik van kunstmatige intelligentie binnen de publieke dienstverlening. In die editie vind je voorbeelden zoals:
 
 - AI als anonimiseringstool voor documenten die bij de overheid worden opgevraagd;
 - Voor het detecteren van illegale fuiken bij visserij inspectie;

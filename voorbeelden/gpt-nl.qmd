@@ -21,7 +21,7 @@ In tegenstelling tot veel 'black box' modellen, maakt GPT-NL de onderliggende te
 
 Uitdaging hierbij is dat Nederland eigenlijk al heel erg laat is begonnen met het ontwikkelen van eigen AI-modellen. De VS en China zijn al veel verder, steken er veel meer geld in en hebben modellen die nu vandaag al meteen commercieel bruikbaar zijn. Het is dus de vraag of dit model kan concurreren met die andere modellen. 
 
-Op dit moment (voorjaar 2026) kun je GPT-NL nog niet zelf testen. [Meer informatie vind je op de website van GPT-NL](https://gpt-nl.nl/).
+In de zomer van 2026 is GPT-NL beschikbaar gekomen voor een kleine groep zogenaamde *launching customers* (o.a. ministeries en grote organisaties), die het model op hun eigen infrastructuur draaien. Versie 1 staat gepland voor het najaar van 2026. Als docent of particulier kun je GPT-NL in november 2026 nog niet zelf testen ([bron](https://www.hetlaatsteainieuws.nl/nieuws/gpt-nl-nederlands-taalmodel-uitrol)). [Meer informatie vind je op de website van GPT-NL](https://gpt-nl.nl/).
 
 ::: {.callout-note}
 ## Hoe open wil je het hebben?

@@ -1,4 +1,4 @@
-# MOVEL AI 2025-2026
+# MOVEL AI 2026-2027
 
 Deze repository bevat de bronbestanden van de online module **AI en Onderwijs**. Deze module is onderdeel van de HAN Master Ontwerpen Van Eigentijds Leren ([MOVEL](https://www.han.nl/opleidingen/master/ontwerpen-van-eigentijds-leren/deeltijd/)).
 

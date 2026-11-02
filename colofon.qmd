@@ -6,7 +6,7 @@ sidebar: id-default
 
 # Realisatie en licentie
 
-Deze module is initieel in 2023 ontwikkeld door [Pierre Gorissen](https://www.ixperium.nl/over-ons/medewerkers/pierre-gorissen/) en in 2024, 2025 en 2026 licht bijgewerkt en voorzien van aanvullende content.
+Deze module is initieel in 2023 ontwikkeld door [Pierre Gorissen](https://www.ixperium.nl/over-ons/medewerkers/pierre-gorissen/) en in 2024, 2025 en 2026 bijgewerkt en voorzien van aanvullende content.
 De eerste versie van de module zijn gemaakt in de open source leeromgeving [Xerte](https://xerte.org.uk/index.php/en/). De inhoud van de module is in 2026 geconverteerd naar [Quarto](https://quarto.org/), een open source auteurssysteem met het voordeel dat de bronbestanden ook individueel te delen en te bewerken zijn via github.
 
 Deze versie is voor het laatst bijgewerkt op **{{< modified "%d-%m-%Y" >}}**
@@ -19,7 +19,7 @@ Er wordt gebruik gemaakt van YouTube filmpjes. Zie voor het bijbehorende privacy
 
 ## Zelf hosten in je leeromgeving
 
-Je kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je [hier op github downloaden](https://github.com/PiAir/MOVEL-AI/releases). Op dit moment (maart 2026) is de inhoud als betaversie beschikbaar. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even [mailen](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20Onderwijs).
+Je kunt een kopie van deze module downloaden en opnemen in je eigen leeromgeving. De bronbestanden en de meest recente release ervan kun je [hier op github downloaden](https://github.com/PiAir/MOVEL-AI/releases). De versie voor studiejaar 2026-2027 is in november 2026 bijgewerkt: actuele video's, een overzicht van meta-analyses bij [Literatuur](literatuur/index.qmd), de nieuwe tijdlijn van de [AI-Act](de-mens-en-ai/ai-act.qmd) en gecontroleerde links. Kom je fouten tegen? Je kunt de repostiory forken, de fouten fixen en als push-request terugsturen. Als dat klinkt als abracadabra kun je ook gewoon even [mailen](mailto:info@ixperium.nl?subject=Over%20de%20module%20AI%20en%20Onderwijs).
 
 ## Gebruik van AI 
 

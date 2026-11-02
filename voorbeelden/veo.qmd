@@ -11,7 +11,7 @@ sidebar: id-voorbeelden
 De slogan luidt treffend: *"Doorbreek de stilte"* — een verwijzing naar het feit dat eerdere AI-videogeneratoren geen audio produceerden.
 
 Alle video's gemaakt met Veo bevatten een zichtbaar watermerk en een onzichtbaar digitaal watermerk via [SynthID](https://deepmind.google/technologies/synthid/) — een door Google DeepMind ontwikkelde techniek die aangeeft dat de video AI-gegenereerd is.
-Veo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement.
+Veo 3.1 is beschikbaar via een Google AI Pro- of Ultra-abonnement. In november 2026 is Veo 3.1 nog steeds de meest recente Veo-versie. Wel kondigde Google in mei 2026 [Gemini Omni](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/) aan: een model dat video kan maken op basis van tekst, beeld, video en stem, en dat je in gesprek verder kunt laten aanpassen. Omni staat naast Veo en vervangt het (nog) niet.
 
 ![](media/screenshot-veo_2_MOVEL-opdracht.png)
 

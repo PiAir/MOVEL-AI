@@ -19,6 +19,6 @@ De betaalde variant is geïntegreerd in Word, Excel, PowerPoint, Outlook en Team
 ::: {.callout-important}
 ## Aandachtspunt: privacy
 
-Bij het gebruik van Copilot in Microsoft 365 verwerkt Microsoft je documenten en e-mails. Microsoft biedt voor scholen een Microsoft 365 Education-omgeving met extra privacygaranties. Controleer of je instelling hier gebruik van maakt voordat je leerlingendata via Copilot verwerkt. SURF adviseert onderwijsinstellingen (september 2025) om hier voorlopig voorzichtig mee om te gaan. Zie ook [deze pagina](https://www.surf.nl/themas/privacy-en-security/privacy-en-ai-in-het-onderwijs). 
+Bij het gebruik van Copilot in Microsoft 365 verwerkt Microsoft je documenten en e-mails. Microsoft biedt voor scholen een Microsoft 365 Education-omgeving met extra privacygaranties. Controleer of je instelling hier gebruik van maakt voordat je leerlingendata via Copilot verwerkt. SURF adviseert onderwijsinstellingen om hier voorzichtig mee om te gaan. Na een tweede DPIA staan in juni 2026 nog twee risico's op oranje (gemiddeld); instellingen die die risico's accepteren, wordt aangeraden beleid voor verantwoord AI-gebruik vast te stellen. Zie [dit bericht van KIEN](https://www.kienict.nl/privacyrisicos-microsoft-365-copilot-blijven-gemiddeld/) en [het eerdere bericht van Kennisnet](https://www.kennisnet.nl/nieuws/surf-adviseert-microsoft-365-copilot-terughoudend-in-te-zetten-vanwege-privacyrisicos/). 
 
 :::

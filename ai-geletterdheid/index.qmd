@@ -20,6 +20,12 @@ Op de pagina over [experimenteren en professionaliseren](experimenteren.qmd) in 
 Maar nadenken over ethische aspecten van AI, de vraag waar je wel of geen AI in wilt zetten, hoe we willen dat onze toekomst er uit gaat zien als de ontwikkelingen rond AI zo door blijven gaan, en daar dan een mening over hebben en formuleren, valt ook onder AI-geletterdheid.
 Neem daarvoor zeker ook een kijkje bij de sectie [AI in de film](../ai-in-de-film/index.qmd). Films zijn weliswaar fictie, ze kunnen ons helpen bij het dromen over mogelijke toekomsten en ons woorden geven om te beschrijven wat we belangrijk vinden om te behouden.
 
+## Een landkaart van raamwerken
+
+Er zijn inmiddels veel raamwerken voor AI-geletterdheid, voor verschillende doelgroepen. In de video hieronder (oktober 2026, ca. 7 minuten) krijg je een overzicht: wat bedoelen we met AI-geletterd zijn, en welk raamwerk past bij welke vraag?
+
+{{< private-video qiYMY7fd2RA >}}
+
 ## Grenzen aan de definitie
 
 Het is ook relevant om te bedenken wat de grenzen van de definitie van AI-geletterdheid zijn. Als we het hebben over *voor leven, leren en werken* dan betekent dat we de competentie niet alleen zien in de context van het leren, maar ook in de context van het leven ('in het wild', voor privézaken) en het werken (ter voorbereiding op dat werk na een studie of opleiding). Voor docenten maken we daarbij dan een extra onderscheid als het gaat om het inzet van ict of AI bij het ontwerpen, uitvoeren en evalueren van onderwijs. Je zou kunnen zeggen dat dat het "werk" van een docent is. Maar omdat dat een dusdanig omvangrijk en op zichzelfstaand deel is, benoemen we dat apart. 

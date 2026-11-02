@@ -21,7 +21,7 @@ format:
     include-after-body: webex.js     
 
 website:
-  title: "MOVEL AI 2025-2026"
+  title: "MOVEL AI 2026-2027"
   site-url: ""
   favicon: "media/MOVEL-icon.png"
   bread-crumbs: true
@@ -49,7 +49,7 @@ website:
           - href: inleiding/wat-is-ai.qmd         
             text: "Wat is AI?"
           - href: inleiding/ai-onderwijs.qmd
-            text: "Overzichtsvideo"
+            text: "Overzicht 2026"
           - href: inleiding/ai-overheid.qmd
             text: "AI bij de overheid"
       - section: "▪️ AI-geletterdheid"
@@ -95,7 +95,7 @@ website:
           - section: "▪️Afbeeldingen"
             contents:
               - href: voorbeelden/nano-banana.qmd
-                text: "Nano Banana 2"
+                text: "Nano Banana"
               - href: voorbeelden/midjourney.qmd
                 text: "Midjourney"
               - href: voorbeelden/this-does-not-exist.qmd

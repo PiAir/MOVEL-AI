@@ -7,7 +7,7 @@ sidebar: id-inleiding
 
 ## Waar beginnen?
 
-Is het onderwerp helemaal nieuw voor je, dan is het goed om te beginnen met [Wat is AI?](wat-is-ai.qmd). Heb je al enige kennis van AI, dan kun je ook direct doorgaan naar een van de andere onderwerpen. De **[overzichtvideo](/inleiding/ai-onderwijs.qmd)** (editie 2025) geeft een goede samenvatting van het onderwerp als je liever kijkt en luistert dan leest. 
+Is het onderwerp helemaal nieuw voor je, dan is het goed om te beginnen met [Wat is AI?](wat-is-ai.qmd). Heb je al enige kennis van AI, dan kun je ook direct doorgaan naar een van de andere onderwerpen. Het **[overzicht](/inleiding/ai-onderwijs.qmd)** geeft met een korte video en een samenvatting van recente ontwikkelingen een snelle start als je liever kijkt en luistert dan leest. 
 
 Op de pagina  **[AI bij de Overheid](/inleiding/ai-overheid.qmd)** lees je hoe de publieke sector AI inzet. Hoewel de informatie specifiek voor het onderwijs inmiddels al flink uitgebreid is, is het goed om ook bij andere sectoren te kijken.
 

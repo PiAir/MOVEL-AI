@@ -1,5 +1,5 @@
 ---
-title: "MOVEL AI 2025-2026"
+title: "MOVEL AI 2026-2027"
 lang: nl
 sidebar: id-default
 ---

@@ -20,4 +20,10 @@ Relevant voor deze module is om je te realiseren is dat AI dus niet hetzelfde is
 ::: {.callout-tip}
 ## AI of KI?
 In het Engels hebben we het over Artificial Intelligence (AI). In het Nederlands wordt dat zowel vertaald als Kunstmatige Intelligentie of als Artificiële Intelligentie. Beide termen verwijzen naar hetzelfde concept. Als afkorting kun je in het Nederlands het beste alleen AI gebruiken. KI wordt namelijk ook gebruikt als afkorting voor Kunstmatige Inseminatie. En dat is echt iets anders. 
-::: 
+:::
+
+## Onder de motorkap
+
+Hoe werkt generatieve AI eigenlijk, en welke vragen moeten we ons als onderwijs daarbij stellen? In de video hieronder (oktober 2026, ca. 7 minuten) kijken we onder de motorkap.
+
+{{< private-video 11t0fNhkQjw >}}

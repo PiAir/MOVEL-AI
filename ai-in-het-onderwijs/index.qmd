@@ -26,7 +26,7 @@ listing:
 
 ## Inleiding
 
-Mocht je de inleiding van de module over [AI in het onderwijs](/inleiding/ai-onderwijs.qmd) nog niet bekeken hebben, dan is het goed om dat nu alsnog te doen. De video die daarin centraal staat, geeft een goed beeld van de stand van zaken rondom AI in het onderwijs. De video is van januari 2025, maar geeft nog steeds een goed beeld van de stand van zaken rondom AI in het onderwijs.
+Mocht je het [overzicht van AI in het onderwijs](/inleiding/ai-onderwijs.qmd) in de inleiding nog niet bekeken hebben, dan is het goed om dat nu alsnog te doen. Het geeft een beeld van de stand van zaken en van wat er de afgelopen tijd veranderd is.
 
 ## AI in het onderwijs voor de MOVEL-student
 

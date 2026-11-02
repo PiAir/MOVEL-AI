@@ -23,6 +23,16 @@ Er zijn de nodige rapporten en andere (digitale) publicaties over AI (in het ond
 
 In deze module kom je op een aantal plekken verwijzingen tegen naar zulke rapporten, zoals bij de informatie over [NOLAI](/ai-in-het-onderwijs/organisaties/nolai.qmd), [Kennisnet](/ai-in-het-onderwijs/organisaties/kennisnet.qmd) en [AI-Teach](/ai-in-het-onderwijs/organisaties/ai-teach.qmd).
 
+### Recente rapporten (2026)
+
+- **OECD (januari 2026). [Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education](https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html).** Internationaal overzicht van wat werkt bij generatieve AI in het onderwijs. Kernboodschap: betere prestaties met AI zijn niet hetzelfde als beter leren. Hoofdstuk 8 is geschreven door [NOLAI](/ai-in-het-onderwijs/organisaties/nolai.qmd) ([toelichting Radboud Universiteit](https://www.ru.nl/over-ons/nieuws/nieuw-rapport-over-het-gebruik-van-genai-in-het-onderwijs)).
+- **Inspectie van het Onderwijs (april 2026). [De Staat van het Onderwijs 2026](https://www.onderwijsinspectie.nl/site/binaries/site-content/collections/documents/2026/04/15/rapport-de-staat-van-het-onderwijs-2026/84125-ivho-de-staat-van-het-onderwijs-2026-tg.pdf).** Leerlingen en studenten gebruiken generatieve AI massaal, maar de meeste leraren vinden dat zij nog niet de kennis en vaardigheden hebben om AI goed in te zetten. De inspectie roept scholen op snel werk te maken van professionalisering.
+- **SIVON en Kennisnet (april 2026). [Toetsingskader AI funderend onderwijs, versie 1.0](https://sivon.nl/wp-content/uploads/2026/03/Toetsingskader-AI-funderend-onderwijs-v1.0-1-april-2026.pdf).** Vertaalt de AI-verordening naar het po en vo: valt een systeem onder de verordening, is het verboden of hoog risico, en welke verplichtingen horen daarbij? Vooral bedoeld voor leveranciers en schoolbesturen.
+- **Npuls (mei 2026). [AI-waaier voor toetsen](https://www.npuls.nl/kennisbank/ai-waaier).** Vijf niveaus van AI-gebruik bij toetsen, gebaseerd op de *AI Assessment Scale* van Leon Furze. Gericht op het mbo, ook bruikbaar in hbo en wo.
+- **Npuls (juni 2026). [AI, curriculum & arbeidsmarkt](https://www.npuls.nl/kennisbank/ai-curriculum-and-arbeidsmarkt).** Verkenning van hoe AI taken binnen beroepen verandert en wat dat betekent voor curriculumontwikkeling in mbo, hbo en wo.
+- **Npuls (september 2026). [RAISE: raamwerk voor risicobeoordeling van AI](https://npuls.nl/kennisbank/raise-raamwerk-voor-risicobeoordeling-van-ai).** Stappenplan om AI-systemen in mbo, hbo en wo te beoordelen, op basis van de AI-verordening. Eerste versie, wordt dit najaar getest.
+- **iXperium (2026). [DigComp 3.0, Nederlandse vertaling](https://www.ixperium.nl/publicaties/digcomp-3-0-nederlandse-vertaling/).** Zie ook [studentcompetenties](/ai-geletterdheid/studentcompetenties.qmd).
+
 ## Wetenschappelijke publicaties
 Voor veel MOVEL-studenten is de stap naar het gebruik van wetenschappelijke publicaties een lastige. Dat zijn teksten die geschreven zijn door onderzoekers voor onderzoeker. Meestal in het Engels, vaak met een heel eigen vocabulaire en een heel eigen manier van argumenteren.
 
@@ -61,8 +71,30 @@ Je kunt beginnen met een paar publicaties die je al kent en Research Rabbit zoek
 
 Mocht je je afvragen waarom de tool deze naam heeft: het is een verwijzing naar het idee dat je met een paar publicaties een heel netwerk van publicaties kunt ontdekken, in het Engels wordt dat "going down the rabbit hole" genoemd.
 
+## Wat zeggen meta-analyses en reviews? {#meta-analyses}
+
+Er zijn inmiddels tientallen meta-analyses en (scoping) reviews over AI in het onderwijs verschenen. Hieronder een selectie van de meest geciteerde (peildatum mei 2026, citaties via OpenAlex).
+
+| Studie | Type | Kernbevinding |
+|---|---|---|
+| [Wu & Yu (2023)](https://doi.org/10.1111/bjet.13334) | Meta-analyse | AI-chatbots hebben een groot positief effect op leeruitkomsten (g = 0,83), sterker in het hoger onderwijs en bij chatbots die als *tutor* zijn ontworpen. |
+| [Deng e.a. (2024)](https://doi.org/10.1016/j.compedu.2024.105224) | Meta-analyse | Positief effect van generatieve chatbots op prestaties (g = 0,62), maar groter bij korte interventies (< 4 weken): mogelijk een nieuwigheidseffect. |
+| [García-Martínez e.a. (2023)](https://doi.org/10.7821/naer.2023.1.1240) | Meta-analyse | Positief effect (d = 0,75); simulaties en educatieve apps doen het beter dan generieke AI-assistenten. Didactische inbedding bepaalt het effect. |
+| [Xia e.a. (2024)](https://doi.org/10.1186/s41239-024-00468-z) | Scoping review | Generatieve AI zet vooral summatieve toetsing onder druk; nodig zijn herontwerp van opdrachten, professionalisering en helder beleid. |
+| [Yim & Su (2024)](https://doi.org/10.1007/s40692-023-00304-9) | Scoping review | AI-leertools in po/vo verbeteren ook motivatie en betrokkenheid, vooral ingebed in projectmatige of spelgebaseerde didactiek. De rol van de leraar blijft essentieel. |
+| [Ansari e.a. (2023)](https://doi.org/10.1007/s10639-023-12223-4) | Scoping review | In het hoger onderwijs vooral gebruikt als tijdbesparend hulpmiddel. Driekwart van de studies is niet-empirisch. |
+| [Fan e.a. (2024)](https://doi.org/10.1111/bjet.13544) | Experiment | Waarschuwt voor *metacognitieve luiheid*: zonder metacognitieve ondersteuning leren studenten oppervlakkiger. |
+| [Bozkurt e.a. (2024)](https://doi.org/10.55982/openpraxis.16.4.777) | Manifest | Kritisch tegengeluid: pleit voor kritische AI-geletterdheid boven pragmatische inzet. |
+
+::: {.callout-warning}
+## Lees verder dan de effectgrootte
+De effectgroottes zijn hoog, maar komen vooral uit korte, gecontroleerde experimenten met kleine groepen. Er is weinig langetermijnonderzoek, en het mbo is nauwelijks onderzocht. Let bij het lezen dus op de context: welk onderwijsniveau, welk vak, hoe lang, en welke rol had de docent? Let ook op ingetrokken artikelen: zo is Wang & Fan (2025) over het effect van ChatGPT op hogere-orde denken veel geciteerd, maar inmiddels ingetrokken.
+:::
+
 ## YouTube
-Aan de volledig andere kant van het spectrum vind je YouTube. Hier vind je heel veel video's over AI en toepassingen ervan. Over AI in het onderwijs is het aanbod wat magerder. Je vindt een aantal suggesties van kanalen die zich richten op AI en onderwijs op de pagina over [AI in het onderwijs](/ai-in-het-onderwijs/index.qmd).
+Aan de volledig andere kant van het spectrum vind je YouTube. Hier vind je heel veel video's over AI en toepassingen ervan. Over AI in het onderwijs is het aanbod wat magerder. Je vindt een aantal suggesties van kanalen die zich richten op AI en onderwijs op de pagina over [experimenteren en professionaliseren](/ai-geletterdheid/experimenteren.qmd#deep-dive-youtube-kanalen).
+
+De video's die voor deze module zijn gemaakt, staan ook bij elkaar in de playlist [AI video's](https://www.youtube.com/playlist?list=PLdYxIi1IWdqc).
 
 ## Films en documentaires
 Films zijn een prima middel om je te verdiepen in een onderwerp. Daarom is daar [een hele pagina over opgenomen](/ai-in-de-film/) in deze module. Maar dan vooral voor meningsvorming en discussie. Een documentaire moet je weer net zo behandelen als alle andere informatie: wie heeft dit gemaakt? Wat is het doel van deze publicatie? Is het betrouwbaar? Enzovoort.

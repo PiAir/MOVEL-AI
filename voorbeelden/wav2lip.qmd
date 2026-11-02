@@ -7,7 +7,7 @@ sidebar: id-voorbeelden
 
 ![wav2lip screenshot](media/screenshot-wav2lip.png){.img-fluid .rounded}
 
-[Wav2Lip](http://bhaasha.iiit.ac.in/lipsync/) is een vroeg (2020) maar invloedrijk onderzoeksproject van het IIIT Hyderabad dat aantoonde dat je een foto of video van een persoon kunt laten "spreken" op basis van een audio-opname. De lipsynchronisatie is niet perfect, maar was voor zijn tijd ronduit indrukwekkend.
+[Wav2Lip](https://github.com/Rudrabha/Wav2Lip) is een vroeg (2020) maar invloedrijk onderzoeksproject van het IIIT Hyderabad dat aantoonde dat je een foto of video van een persoon kunt laten "spreken" op basis van een audio-opname. De lipsynchronisatie is niet perfect, maar was voor zijn tijd ronduit indrukwekkend.
 
 ## Hoe werkt het?
 

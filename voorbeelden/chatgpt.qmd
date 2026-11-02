@@ -13,7 +13,7 @@ sidebar: id-voorbeelden
 
 ChatGPT begon als een tekstchatbot, maar is inmiddels een compleet platform geworden waarmee je teksten kunt schrijven, samenvatten, editten, vertalen, code kunt schrijven en debuggen in vrijwel elke programmeertaal, beelden kunt (laten) analyseren, beelden kunt (laten) genereren, spraak kunt genereren en beluisteren. Je kunt projecten aanmaken, zelf geconfigureerde versies van ChatGPT met specifieke instructies maken, externe tools en kennis koppelen. Uiteraard is er een API om met programma's tegenaan te praten. En je kunt een versie gebruiken via de commandline. 
 
-OpenAI brengt regelmatig nieuwe modellen uit, elk model is uiteraard nóg beter dan het vorige. Raadpleeg [de OpenAI-modellenpagina](https://platform.openai.com/docs/models) voor de actuele stand van zaken.
+OpenAI brengt regelmatig nieuwe modellen uit, elk model is uiteraard nóg beter dan het vorige. Raadpleeg [de OpenAI-modellenpagina](https://developers.openai.com/api/docs/models) voor de actuele stand van zaken.
 
 ## Gratis versus betaald
 

@@ -8,8 +8,14 @@ sidebar: id-voorbeelden
 ![nano-banana screenshot](media/screenshot-nano-banana.png){.img-fluid .rounded}
 
 [Nano Banana](https://gemini.google/overview/image-generation/) is Google's AI-beeldgenerator, beschikbaar als onderdeel van [Gemini](gemini.qmd) en ook in gebruik binnen [NotebookLM](notebooklm.qmd). De naam klinkt misschien speels, maar de mogelijkheden zijn serieus. Bij OpenAI schrokken ze er in ieder geval van toen het voor het eerst beschikbaar kwam. Nano Banana was in staat om goed tekst in afbeeldingen te genereren, heel belangrijk voor het kunnen maken van infographics binnen NotebookLM. En het was ook goed in het op basis van een prompt aanpassen van bestaande afbeeldingen zonder de rest van de afbeelding aan te passen.
+
+::: {.callout-note}
+## Versies (november 2026)
+Na de eerste Nano Banana (augustus 2025) volgden Nano Banana Pro (november 2025), Nano Banana 2 (februari 2026) en Nano Banana 2.1 (oktober 2026, eerst via de Gemini API en Google Cloud). Welke versie je in de Gemini-app krijgt, hangt af van je abonnement.
+:::
+
 Nano Banana 2 is beschikbaar in de gratis versie van Gemini, maar met beperkte aantallen generaties per dag. Google AI Pro geeft toegang tot meer en hogere kwaliteit gegenereerde afbeeldingen.
-Alle door Nano Banana 2 gegenereerde afbeeldingen bevatten een onzichtbaar digitaal watermerk (SynthID van Google DeepMind), zodat de AI-oorsprong later te traceren is.
+Alle door Nano Banana gegenereerde afbeeldingen bevatten een onzichtbaar digitaal watermerk (SynthID van Google DeepMind), zodat de AI-oorsprong later te traceren is.
 
 
 ::: {.callout-note}
@@ -27,7 +33,7 @@ Nano Banana in Gemini is soms heel streng. Foto's bewerken van bekende personen 
 ::: {.callout-warning}
 ## Let op!
 **Voor de duidelijkheid:** dat ik een afbeelding van mezelf gebruik als voorbeeld betekent niet dat het okay is om zomaar foto's van mij of andere mensen te bewerken.
-De [AVG vindt iets van deepfakes](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/privacy-en-de-avg/deepfakes).
+De [AVG vindt iets van deepfakes](https://www.privacycompany.eu/blog/deepfakes-and-the-gdpr): een deepfake van een herkenbaar persoon is een verwerking van persoonsgegevens.
 Afhankelijk van de soort deepfake [kan het strafbaar zijn](https://www.slachtofferhulp.nl/gebeurtenissen/deepfake/) omdat het smaad of laster kan zijn.
 Het is een issue dat [binnen scholen zeker besproken moet worden](https://www.l1nieuws.nl/nieuws/3124413/nepfilmpjes-van-docenten-circuleren-op-sociale-media-school-neemt-maatregelen).
 :::

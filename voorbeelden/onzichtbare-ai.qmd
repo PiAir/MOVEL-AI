@@ -13,7 +13,7 @@ Soms zie je de AI niet eens, maar ook in Microsoft 365 (Office 365) zit heel wat
 De hoeveelheid AI in Microsoft 365 nam nog veel verder toe met de introductie van Copilot. Dit is een krachtige assistent die direct in Word, Excel en Outlook werkt. Veel van de functionaliteit zit achter een betaald account. En binnen schoolomgevingen zal de systeembeheerder bepalen of en hoe je hiermee aan de slag kunt.
 
 ## DPIA
-Dat zal afhankelijk zijn van de kosten, maar ook van bijvoorbeeld [de analyses van SURF](https://www.surf.nl/en/news/privacy-risks-microsoft-365-copilot-to-orange) als het gaat over hoe Microsoft omgaat met de data die je invoert. Door middel van een zogeheten DPIA (Data Protection Impact Assessment) wordt gekeken naar de risico's van het gebruik van Copilot in het onderwijs. De situatie in september 2025 was dat de kleur van rood naar oranje was verandert, maar nog niet op groen stond. Niet alle risico's waren naar tevredenheid van SURF aangepakt.
+Dat zal afhankelijk zijn van de kosten, maar ook van bijvoorbeeld [de analyses van SURF](https://www.surf.nl/en/news/privacy-risks-microsoft-365-copilot-to-orange) als het gaat over hoe Microsoft omgaat met de data die je invoert. Door middel van een zogeheten DPIA (Data Protection Impact Assessment) wordt gekeken naar de risico's van het gebruik van Copilot in het onderwijs. In september 2025 ging de kleur van rood naar oranje, maar nog niet naar groen. Ook na een tweede DPIA (juni 2026) [blijven twee risico's op oranje staan](https://www.kienict.nl/privacyrisicos-microsoft-365-copilot-blijven-gemiddeld/): het niet-transparante "Workplace Harms"-filter en de bewaartermijn van diagnostische gegevens.
 
 ![](./media/copilot-edge.png)
 

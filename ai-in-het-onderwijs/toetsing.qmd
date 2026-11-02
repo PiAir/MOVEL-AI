@@ -24,6 +24,8 @@ De [Beslisboom Toetsing en AI](https://www.kennisnet.nl/app/uploads/Beslisboom-t
 
 ![](media/kennisnet-beslisboom.png){.lightbox height="200px"}
 
+Voor het mbo (en ook bruikbaar in hbo en wo) heeft Npuls in mei 2026 de [AI-waaier voor toetsen](https://www.npuls.nl/kennisbank/ai-waaier) gepubliceerd. Daarin worden vijf niveaus van AI-gebruik bij toetsen onderscheiden, gebaseerd op de *AI Assessment Scale* van Leon Furze.
+
 ## Authentiek en programmatisch toetsen
 
 Dit sluit direct aan bij de MOVEL-filosofie: toetsing is geen incident, maar een continu proces.

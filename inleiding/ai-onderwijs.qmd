@@ -1,65 +1,30 @@
 ---
-title: "Overzichtsvideo (2025)"
+title: "Overzicht: AI in het onderwijs (2026)"
 lang: nl
 sidebar: id-inleiding
 ---
 
-De ontwikkelingen afgelopen jaren laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Hieronder vind je een opname van een presentatie over AI in het onderwijs uit januari 2025.
+De ontwikkelingen van de afgelopen jaren laten zien dat AI steeds dieper in de onderwijspraktijk doordringt. Een korte inleiding vind je in de video hieronder (oktober 2026, ca. 3,5 minuten). Deze is gemaakt voor schoolleiders, maar geeft ook voor docenten een goed beeld van waar we nu staan.
 
-{{< private-video OV7_hDo3yWY >}}
+{{< private-video pZg82siJxsU >}}
 
+::: {.callout-note}
+## Wat is er de afgelopen tijd veranderd?
+Een aantal ontwikkelingen is sinds 2025 in een stroomversnelling geraakt:
 
-
-## Samenvatting van de video
-
-In deze video worden de snelle ontwikkelingen van AI in het onderwijs besproken. De kernpunten zijn:
-
-1.  **Definitie & Soorten AI**: AI wordt gedefinieerd als de mogelijkheid van machines om mensachtige vaardigheden te vertonen. Er wordt onderscheid gemaakt tussen *Algemene AI* (zoals beeldherkenning en generatieve AI) en *Onderwijs AI* (specifiek ontwikkeld voor de context van leren).
-2.  **Generatieve AI-evolutie**: Van de simpele tekst-naar-tekst modellen eind 2022 naar de multimodale systemen van 2025 (tekst, beeld, audio, video). 
-3.  **Technologische Doorbraken**:
-    *   **Bredere modellen**: Grotere rekenkracht voor betere antwoorden.
-    *   **Redeneermodellen**: Modellen die uitleggen *hoe* ze tot een oplossing komen.
-    *   **RAG (Retrieval Augmented Generation)**: Het koppelen van AI aan eigen bronnen om hallucinaties te voorkomen.
-    *   **Agentic AI**: Autonome AI-agenten die samenwerken aan complexe opdrachten (het 'buzzword' voor 2025).
-4.  **Onderwijs en Toetsing**: Het 'stoplichtmodel' voor toetsing (rood: makkelijk fraudegevoelig, groen: AI-bestendig). De nadruk ligt op het niet criminaliseren van studenten, maar het aanleren van een kritische houding.
-5.  **Professionalisering en Ontwikkeling**: Via initiatieven zoals **NOLAI** wordt er gewerkt aan co-creatie tussen wetenschap, onderwijs en bedrijfsleven. Pierre benadrukt dat 40% van de docenten zich nog niet geprofessionaliseerd heeft, wat problematisch is gezien de EU-wetgeving (AI Act).
+- **Van chatbot naar agent.** AI-agents voeren zelfstandig taken in meerdere stappen uit: zoeken, bestanden maken, code schrijven en uitvoeren. Zie ook [Wat doet een AI-agent als niemand meekijkt?](/de-mens-en-ai/index.qmd#agents).
+- **Vibecoding.** Docenten en studenten bouwen zonder programmeerkennis kleine applicaties en lesmaterialen. Zie [Vibecoding](/vibecoding/index.qmd).
+- **Open modellen.** Steeds betere modellen kun je zelf draaien, wat nieuwe mogelijkheden geeft voor privacy en digitale soevereiniteit. Zie [Betalen voor AI](/de-mens-en-ai/betalen-voor-ai.qmd).
+- **Wetgeving.** De AI-Act is gedeeltelijk van kracht en de tijdlijn is in 2026 aangepast. Zie [De AI-Act](/de-mens-en-ai/ai-act.qmd).
+- **Onderzoek.** Er zijn inmiddels meerdere meta-analyses naar het effect van (generatieve) AI op leren. Zie [Literatuur](/literatuur/index.qmd#meta-analyses).
+:::
 
 ## Lessen voor de Master Ontwerpen van Eigentijds Leren (MOVEL)
 
-Voor een student aan de Master MOVEL zijn de volgende inzichten uit de video relevant bij het ontwerpen van leeromgevingen:
+Voor een student aan de Master MOVEL zijn de volgende inzichten relevant bij het ontwerpen van leeromgevingen:
 
 *   **Pedagogisch-Didactisch Handelen als Kern**: AI is een hulpmiddel bij het informeren en handelen, maar het pedagogisch-didactisch ontwerp blijft de verantwoordelijkheid van de ontwerper/docent.
 *   **Toetsing herontwerpen**: Een eigentijds ontwerp vereist dat je rekening houdt met de "buurmeisjestest". Als een slimme buurjongen een opdracht met AI kan maken, is de opdracht niet langer valide voor het aantonen van competenties.
 *   **Inclusiviteit en Kansengelijkheid**: Omdat voor veel premium AI-diensten betaald moet worden, moet een onderwijsontwerper nadenken over hoe hij voorkomt dat AI de kloof tussen studenten vergroot.
 *   **Geïnformeerd Experimenteren**: Ontwerpen is een cyclisch proces. Gebruik AI om kleine experimenten te doen, ontdek wat werkt, en schaal dan pas op.
 *   **Ethiek als Ontwerpprincipe**: Ethiek is geen 'moetje' achteraf, maar een sturend principe aan de voorkant van je ontwerp (welzijn, diversiteit, duurzaamheid).
-
-## Quizvragen
-
-Test jezelf na het kijken van de video met de volgende quizvragen:
-
-::: webex-group
-```{r}
-#| echo: false
-#| results: "asis"
-#| message: false
-#| warning: false
-
-library("exams2forms")
-# List all question files starting with 'question-' in the 'quiz' folder
-question_pool <- list.files(path = "quiz", pattern = "^question-.*\\.Rmd$", full.names = TRUE)
-
-if (length(question_pool) > 0) {
-  # Randomly select up to 10 questions
-  n_select <- min(length(question_pool), 10)
-  set.seed(Sys.Date()) # Optional: same questions for everyone on the same day
-  selected_questions <- sample(question_pool, n_select)
-
-  # Render the selected questions
-  # exams2forms will produce multiple .webex-question divs
-  exams2forms::exams2forms(file = selected_questions, title = 'Randomized Quiz', browse = FALSE)
-} else {
-  cat("No questions found in the quiz/ directory.")
-}
-```
-:::

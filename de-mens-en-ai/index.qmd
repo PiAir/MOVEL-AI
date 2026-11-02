@@ -16,3 +16,9 @@ Klik in de zijbalk op een van de onderwerpen om meer te lezen:
 - **[Coded Bias](./coded-bias.qmd)** — Over de documentaire en de verborgen vooroordelen in AI.
 - **[Bias in de praktijk](./bias-praktijkvoorbeelden.qmd)** — Voorbeelden van waar het fout ging, zoals bij antispieksoftware.
 - **[Responsible AI](./responsible-ai.qmd)** — Een diepgaande videoserie over verantwoorde AI.
+
+## Wat doet een AI-agent als niemand meekijkt? {#agents}
+
+AI-agents voeren zelfstandig taken uit: ze zoeken informatie, maken bestanden en voeren code uit. Dat roept nieuwe vragen op over controle en verantwoordelijkheid. Hoeveel laat je over aan een agent, en wie kijkt er mee?
+
+{{< private-video RelgKdwXpRI >}}

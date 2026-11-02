@@ -9,6 +9,10 @@ sidebar: id-default
 
 Er was heel wat voor te zeggen geweest om deze pagina niet als een aparte optie in de navigatie te zetten. En in plaats daarvan onder te brengen bij [ai-geletterdheid](/ai-geletterdheid/), of bij [voorbeelden](/voorbeelden/) van AI, of [AI in het onderwijs](/ai-in-het-onderwijs/). Ik denk dat als ik het aan Gemini 3 Flash hier in [Antigravity](/voorbeelden/antigravity.qmd) had gevraagd, doe zou hebben voorgesteld om het zeker niet apart op te nemen. Omdat het veel te technisch is. Maar dat is uiteindelijk de vraag.
 
+## Wat is vibecoding?
+
+{{< private-video TnFY8LRlIII >}}
+
 ## Een antwoord
 
 ![](media/vibecoding-presentatie-2025.png)
@@ -79,4 +83,19 @@ Vibecoden vraagt de nodige computational thinking vaardigheden. Je moet immers w
 Het is een mooi bezwaar tegen wegwerpapplicaties. Maar het is niet het hele verhaal. Een wegwerpapplicatie wordt zo genoemd omdat je er geen onderhoud aan pleegt. Traditioneel zijn applicaties zaken die veel ontwikkeltijd gekost hebben en waar dus ook veel monetaire waarden aan hangen. Dat is niet het geval voor een wegwerpapplicatie. Dat betekent dus dat die in de productie wint van de traditionele applicatie. Natuurlijk, als je géén applicatie nodig hebt en niet bouwt, dan is dat het meest duurzaam. Maar een app bouwen, hosten en dan jarenlang onderhouden, kost uiteindelijk veel meer energie en grondstoffen dan een wegwerpapplicatie. En dat is de vergelijking die je moet maken. 
 Dus als je dan toch een jaarlijkse digitale schoonmaak organiseert binnen je school, kun je ook meteen de wegwerpapplicaties die je het laatste halfjaar niet meer gebruikt hebt, opruimen.
 
+## Meer dan apps
 
+Vibecoding levert niet alleen applicaties op. Met dezelfde aanpak kun je ook video's, 3D-modellen of routes maken. Een paar voorbeelden uit 2026:
+
+::: {layout-ncol=2}
+{{< private-video 1D1c7c_1QYY >}}
+
+{{< private-video qpwtMnvkVdc >}}
+:::
+
+- **Hoe maak je een video met Claude?** De volledige startprompt en de bestanden staan in de beschrijving van de video op YouTube.
+- **Claude en FreeCAD: van foto tot 3D-print.** Zie ook [de blogpost](https://ictoblog.nl/2026/10/10/claude-gebruiken-om-onderzoek-toegankelijker-te-maken).
+
+{{< private-video CMxKvFmeg3w >}}
+
+Natuurlijk hoeft het niet altijd met AI, maar soms is het wél heel handig: met de wind mee fietsen in Zeeland.

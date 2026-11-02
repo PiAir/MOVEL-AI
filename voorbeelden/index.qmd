@@ -31,7 +31,7 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 
 ## Genereren van afbeeldingen
 
-- [Nano Banana 2](nano-banana.qmd) — Google's beeldgenerator, via Gemini
+- [Nano Banana](nano-banana.qmd) — Google's beeldgenerator, via Gemini
 - [Midjourney](midjourney.qmd) — artistieke kwaliteit, via Discord en web
 - [This [...] Does Not Exist](this-does-not-exist.qmd) — GAN-modellen die niet-bestaande gezichten genereren
 - [Magic Eraser](magic-eraser.qmd) — objecten verwijderen uit foto's
@@ -44,7 +44,7 @@ Gebruik dit overzicht als **startpunt**, niet als eindpunt. Klik in de zijbalk o
 
 ## Genereren van video en avatars
 
-- [Gemini Veo 3.1](veo.qmd) — Google's videogenerator met geluid
+- [Gemini Veo](veo.qmd) — Google's videogenerator met geluid
 - [Runway ML](runway-ml.qmd) — creatieve videobewerkingen en transformaties
 - [Kling AI](kling-ai.qmd) — hoge kwaliteit video's tot 2 minuten
 - [Invideo AI](invideo-ai.qmd) — complete video met voice-over uit een prompt
